@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+/*
+ * ESA Scout uses a fixed dark theme: the dashboard is a monitoring surface,
+ * read at a glance, and a single deliberate palette keeps the status and match
+ * colours meaningful rather than theme-dependent.
+ */
+@theme {
+  --color-void: #05070d;
+  --color-panel: #0b1020;
+  --color-panel-raised: #111834;
+  --color-edge: #1e2a4a;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background:
+    radial-gradient(
+      ellipse 80% 50% at 50% -10%,
+      rgba(56, 89, 189, 0.18),
+      transparent 60%
+    ),
+    var(--color-void);
+  color: #e2e8f0;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Keyboard focus must stay clearly visible against the dark surfaces. */
+:focus-visible {
+  outline: 2px solid #60a5fa;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Scrollbars tuned to the dark palette (WebKit only; harmless elsewhere). */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-void);
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
