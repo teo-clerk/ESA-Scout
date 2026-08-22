@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_analyzed": "2026-08-22T12:20:33Z",
+  "last_analyzed": "2026-08-22T21:37:47Z",
   "countries": [
     "Spain",
     "Italy"
@@ -8366,6 +8366,7 @@
     }
   ],
   "errors": [
-    "SME evaluation budget reached: 210 company(ies) left unscored"
+    "github: GITHUB_USERNAME not configured",
+    "LLM_API_KEY not set — SME matches returned without AI ranking"
   ]
 }
