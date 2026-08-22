@@ -1,0 +1,142 @@
+name: ESA Scout — SME Matcher
+
+on:
+  schedule:
+    # Weekly. The supplier directory changes far more slowly than the
+    # opportunity calendar, and every scan costs ~600 requests to a public ESA
+    # service plus LLM calls, so daily would be wasteful on both counts.
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+    inputs:
+      evaluate:
+        description: "Rank matched companies with the LLM"
+        type: boolean
+        default: true
+  push:
+    paths:
+      - "agent/sources/sme_matcher.py"
+      - "agent/sme_evaluator.py"
+      - "agent/sme_models.py"
+      - ".github/workflows/sme.yml"
+
+# Never let two runs write data/sme_matches.json at the same time.
+concurrency:
+  group: esa-scout-sme
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sme:
+    name: Scan ESA-star SMEs and rank them
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Run test suite
+        # An ESA-star markup change breaks the parser; catching it here means
+        # the run fails loudly instead of committing an empty target list.
+        run: python -m pytest tests/ -q
+
+      - name: Scan and rank SMEs
+        id: sme
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          GITHUB_USERNAME: ${{ vars.GH_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SME_COUNTRIES: ${{ vars.SME_COUNTRIES }}
+          SME_KEYWORDS: ${{ vars.SME_KEYWORDS }}
+          SME_TARGET_TERM: ${{ vars.SME_TARGET_TERM }}
+          SME_MAX_EVALUATIONS: ${{ vars.SME_MAX_EVALUATIONS }}
+          SME_STRONG_FIT_THRESHOLD: ${{ vars.SME_STRONG_FIT_THRESHOLD }}
+        run: |
+          set +e
+          if [ "${{ inputs.evaluate }}" = "false" ]; then
+            python -m agent.main sme
+          else
+            python -m agent.main sme --evaluate
+          fi
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          # 0 = clean, 2 = completed with warnings (e.g. some details failed).
+          # Both are successful runs; only 1 is a genuine failure.
+          if [ "$code" -eq 1 ]; then exit 1; fi
+          exit 0
+
+      - name: Commit updated SME data
+        id: commit
+        run: |
+          git config user.name  "esa-scout[bot]"
+          git config user.email "esa-scout[bot]@users.noreply.github.com"
+          git add data/sme_matches.json web/public/data/sme_matches.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          matched=$(python -c "import json;print(json.load(open('data/sme_matches.json'))['stats']['matched'])")
+          strong=$(python -c "import json;print(json.load(open('data/sme_matches.json'))['stats']['strong_fit'])")
+          git commit -m "chore: update SME targets ($matched matched, $strong strong fit)"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Push (rebasing onto any concurrent commits)
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push rejected, rebasing (attempt $attempt)…"
+            git pull --rebase --autostash
+          done
+          echo "Could not push after 3 attempts." >&2
+          exit 1
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "### SME Internship Targets"
+            echo ""
+            if [ -f data/sme_matches.json ]; then
+              python - <<'PY'
+          import json
+          data = json.load(open("data/sme_matches.json"))
+          stats = data["stats"]
+          print(f"- Analysed: `{data['last_analyzed']}` for **{data['target_term']}**")
+          print(f"- Matched: **{stats['matched']}** of {stats['scanned']} scanned "
+                f"({stats['spain']} ES · {stats['italy']} IT)")
+          print(f"- AI-ranked: **{stats['evaluated']}** · "
+                f"Strong fit: **{stats['strong_fit']}**")
+          top = [c for c in data["companies"] if c["fit_score"]][:10]
+          if top:
+              print("")
+              print("| Fit | Country | Company | City |")
+              print("|----:|:-------:|---------|------|")
+              for c in top:
+                  print(f"| {c['fit_score']}% | {c['country_code']} | "
+                        f"{c['name']} | {c['city']} |")
+          for error in data.get("errors", []):
+              print(f"- :warning: {error}")
+          PY
+            else
+              echo "- No SME data produced."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

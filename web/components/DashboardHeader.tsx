@@ -7,6 +7,7 @@
 
 import { useEffect, useState } from "react";
 
+import ViewTabs from "@/components/ViewTabs";
 import { isStale, relativeTime } from "@/lib/format";
 import type { Stats } from "@/lib/types";
 
@@ -72,7 +73,9 @@ export default function DashboardHeader({
   return (
     <header className="border-b border-[--color-edge] bg-[--color-panel]/60 backdrop-blur">
       <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap items-start justify-between gap-4">
+        <ViewTabs />
+
+        <div className="mt-5 flex flex-wrap items-start justify-between gap-4">
           <div className="min-w-0">
             <div className="flex items-center gap-3">
               <span

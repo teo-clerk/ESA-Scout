@@ -1,0 +1,43 @@
+# ─── Secrets ────────────────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# ─── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# ─── Node / Next.js ─────────────────────────────────────────────────────────
+node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+web/*.tsbuildinfo
+.vercel
+
+# ─── Editors & OS ───────────────────────────────────────────────────────────
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# ─── Notes ──────────────────────────────────────────────────────────────────
+# data/opportunities.json IS committed on purpose: it is the dashboard's data
+# source and the memory used to detect changes between runs. The same goes for
+# data/sme_matches.json, which additionally carries the LLM evaluation cache —
+# dropping it would make the next run pay for every company again.
+# The web/public/data/ copies are the deployed mirrors, also committed.
+# CV.pdf is committed only if you want the agent to run in CI — remove it here
+# if you would rather keep it private and run the agent locally.
+web/AGENTS.md
+web/CLAUDE.md

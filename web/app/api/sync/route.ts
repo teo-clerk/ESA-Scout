@@ -19,6 +19,8 @@
 
 import { NextResponse } from "next/server";
 
+import { redactSecrets } from "@/lib/redact";
+
 export const dynamic = "force-dynamic";
 
 const GITHUB_API = "https://api.github.com";
@@ -73,7 +75,9 @@ export async function POST(request: Request) {
       });
     }
 
-    const detail = await response.text();
+    // Forward enough detail to debug a bad repo or workflow name, but never
+    // the credentials themselves — this endpoint is publicly reachable.
+    const detail = redactSecrets(await response.text(), [token, secret]);
     return NextResponse.json(
       {
         error: `GitHub returned ${response.status}`,

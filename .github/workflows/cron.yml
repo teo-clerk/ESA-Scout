@@ -1,0 +1,151 @@
+name: ESA Scout
+
+on:
+  schedule:
+    # Every 12 hours. GitHub queues scheduled runs, so the exact minute drifts.
+    - cron: "0 6,18 * * *"
+  workflow_dispatch:
+    inputs:
+      notify:
+        description: "Send notifications for detected changes"
+        type: boolean
+        default: true
+  push:
+    # Re-run when the agent itself changes, so selector fixes take effect at once.
+    paths:
+      - "agent/**"
+      - "requirements.txt"
+      - ".github/workflows/cron.yml"
+
+# Never let two runs write data/opportunities.json at the same time.
+concurrency:
+  group: esa-scout-run
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    name: Scrape, evaluate and notify
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Run test suite
+        # A markup change at ESA breaks the parsers; catching it here means the
+        # run fails loudly instead of silently committing an empty dashboard.
+        run: python -m pytest tests/ -q
+
+      - name: Run scouting agent
+        id: scout
+        env:
+          # --- AI evaluation (OpenAI-compatible endpoint) ---
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+
+          # --- Profile context ---
+          GITHUB_USERNAME: ${{ vars.GH_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # --- Notifications ---
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ vars.EMAIL_FROM }}
+          EMAIL_TO: ${{ vars.EMAIL_TO }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ vars.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+          # --- Behaviour ---
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+          NOTIFY_MATCH_THRESHOLD: ${{ vars.NOTIFY_MATCH_THRESHOLD }}
+          HIGH_FIT_THRESHOLD: ${{ vars.HIGH_FIT_THRESHOLD }}
+        run: |
+          set +e
+          if [ "${{ inputs.notify }}" = "false" ]; then
+            python -m agent.main run --no-notify
+          else
+            python -m agent.main run
+          fi
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          # 0 = clean, 2 = completed with warnings (e.g. one source degraded).
+          # Both are successful runs; only 1 is a genuine failure.
+          if [ "$code" -eq 1 ]; then exit 1; fi
+          exit 0
+
+      - name: Commit updated data
+        id: commit
+        run: |
+          git config user.name  "esa-scout[bot]"
+          git config user.email "esa-scout[bot]@users.noreply.github.com"
+          git add data/opportunities.json web/public/data/opportunities.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          open_count=$(python -c "import json;d=json.load(open('data/opportunities.json'));print(d['stats']['open'])")
+          total=$(python -c "import json;d=json.load(open('data/opportunities.json'));print(d['stats']['total'])")
+          git commit -m "chore: update opportunities ($open_count open of $total)"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Push (rebasing onto any concurrent commits)
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push rejected, rebasing (attempt $attempt)…"
+            git pull --rebase --autostash
+          done
+          echo "Could not push after 3 attempts." >&2
+          exit 1
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "### ESA Scout run"
+            echo ""
+            if [ -f data/opportunities.json ]; then
+              python - <<'PY'
+          import json
+          data = json.load(open("data/opportunities.json"))
+          stats = data["stats"]
+          print(f"- Generated: `{data['generated_at']}`")
+          print(f"- Open: **{stats['open']}** · High fit: **{stats['high_fit']}** "
+                f"· Pending: {stats['pending']} · Total: {stats['total']}")
+          events = data.get("events", [])
+          notifiable = [e for e in events
+                        if e["kind"] in ("status_change", "new_high_match")]
+          print(f"- Change events: {len(events)} ({len(notifiable)} notifiable)")
+          for event in notifiable[:10]:
+              print(f"  - **{event['kind']}** — {event['title']}")
+          for error in data.get("errors", []):
+              print(f"- :warning: {error}")
+          PY
+            else
+              echo "- No data file produced."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

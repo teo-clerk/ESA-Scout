@@ -13,11 +13,13 @@ const nextConfig = {
     root: projectRoot,
   },
 
-  // The dashboard reads public/data/opportunities.json from disk at request
-  // time, so it must be traced into the serverless bundle.
+  // Both dashboards read their JSON from public/data at request time, so those
+  // files must be traced into each serverless bundle that touches them.
   outputFileTracingIncludes: {
     "/": ["./public/data/**"],
+    "/sme": ["./public/data/**"],
     "/api/opportunities": ["./public/data/**"],
+    "/api/sme": ["./public/data/**"],
   },
 };
 
