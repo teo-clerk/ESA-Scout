@@ -1,0 +1,26 @@
+[project]
+name = "esa-scout"
+version = "1.0.0"
+description = "Scouts ESA Academy, TLP and careers opportunities and scores them against your profile."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q --strict-markers"
+filterwarnings = [
+    # lxml emits this via Scrapling's parser; it is not actionable here.
+    "ignore:The 'strip_cdata' option:DeprecationWarning",
+]
+
+[tool.coverage.run]
+source = ["agent"]
+branch = true
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "if TYPE_CHECKING:",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]
