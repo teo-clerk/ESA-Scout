@@ -39,6 +39,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          # Name the dependency files explicitly. The default glob
+          # (**/requirements.txt or **/pyproject.toml) fails the whole step if
+          # it matches nothing, which is what broke this workflow when the
+          # dependency files were not yet committed.
+          cache-dependency-path: |
+            requirements.txt
+            requirements-dev.txt
 
       - name: Install dependencies
         run: |
