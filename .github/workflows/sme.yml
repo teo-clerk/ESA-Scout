@@ -19,10 +19,13 @@ on:
       - "agent/sme_models.py"
       - ".github/workflows/sme.yml"
 
-# Never let two runs write data/sme_matches.json at the same time.
+# One run at a time per workflow and branch. `cancel-in-progress: true` means a
+# newly triggered run supersedes an in-flight one rather than queueing behind
+# it — note that this discards the cancelled run's work, including any LLM
+# spend it had already incurred. Set it to `false` to queue instead.
 concurrency:
-  group: esa-scout-sme
-  cancel-in-progress: false
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -107,14 +110,14 @@ jobs:
 
       - name: Push (rebasing onto any concurrent commits)
         if: steps.commit.outputs.changed == 'true'
+        # A plain `git pull --rebase` leaves conflict markers in the JSON on
+        # failure, which then breaks the `if: always()` summary step with a
+        # JSONDecodeError. The script resolves conflicts in the regenerated
+        # files by keeping this run's output, and guarantees a clean tree
+        # whether it succeeds or fails.
         run: |
-          for attempt in 1 2 3; do
-            if git push; then exit 0; fi
-            echo "Push rejected, rebasing (attempt $attempt)…"
-            git pull --rebase --autostash
-          done
-          echo "Could not push after 3 attempts." >&2
-          exit 1
+          .github/scripts/push-generated-data.sh \
+            data/sme_matches.json web/public/data/sme_matches.json
 
       - name: Summary
         if: always()
