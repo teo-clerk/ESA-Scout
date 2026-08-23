@@ -23,7 +23,7 @@ on:
 # spend it had already incurred. Set it to `false` to queue instead.
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 permissions:
   contents: write
