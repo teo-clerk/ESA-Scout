@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_analyzed": "2026-08-22T21:37:47Z",
+  "last_analyzed": "2026-08-23T11:37:21Z",
   "countries": [
     "Spain",
     "Italy"
@@ -23,7 +23,7 @@
     "scanned": 618,
     "matched": 293,
     "evaluated": 83,
-    "strong_fit": 53,
+    "strong_fit": 57,
     "spain": 86,
     "italy": 207
   },
@@ -115,56 +115,6 @@
       }
     },
     {
-      "id": "geoai-analytics-s-l-136972",
-      "entity_id": "136972",
-      "name": "GEOAI ANALYTICS, S.L.",
-      "country": "Spain",
-      "country_code": "ES",
-      "city": "Madrid",
-      "website": "https://www.geoaitech.com/en-gb",
-      "description": "GEOAI ANALYTICS, S.L., is a geospatial technology company with more than 15 years of experience in geospatial data analysis and referencing company applying geospatial technology, Artificial Intelligence, computer vision, predictive analysis and cutting-edge algorithms, in a Software as a Service (SaaS) business model. Artificial Intelligence as a Service (IaaS) We integrate data and computational learning models with industrial processes. We are catalysts of transformation through the development of intelligent data. We support decision making with visualization models of complex data networks generated in short time periods.We are catalysts of transformation through the development of intelligent data. We work in the generation of Digital terrain models and 3D cartography, Digital Twins, remote sensing and automatic classification, change monitoring, system automation, Cadastre and territory management, Agriculture-Risk Management, Sustainability, Powerlines, Pipelines, Solar, Mobility, advanced analysis, intelligence.",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/136972",
-      "domains": [
-        "Remote Sensing",
-        "Artificial Intelligence",
-        "Data Processing",
-        "Software",
-        "Computer Vision",
-        "GIS"
-      ],
-      "matched_keywords": [
-        "remote sensing",
-        "artificial intelligence",
-        "data processing",
-        "software",
-        "computer vision",
-        "gis"
-      ],
-      "content_hash": "eba3f458f4e2b07d",
-      "fit_score": 85,
-      "evaluation": {
-        "fit_score": 85,
-        "rationale": "GEOAI ANALYTICS provides an excellent fit because their focus on computer vision, machine learning, and automatic classification for remote sensing and digital twins aligns closely with your OpenCV, Python AI pipelines, and data analysis experience. As an SME delivering SaaS geospatial solutions, they are small enough to consider a summer student who can contribute to their existing workflows in change monitoring or 3D cartography.",
-        "suggested_role": "Remote sensing ML intern",
-        "focus_areas": [
-          "Computer vision for geospatial data",
-          "Machine learning pipelines",
-          "Change detection and classification"
-        ],
-        "outreach_tips": [
-          "Reference your Synapse multi-modal pipeline as directly relevant to their intelligent data processing for remote sensing",
-          "Propose a project applying your OpenCV skills to their automatic classification or digital terrain model work",
-          "Note their 15+ years in geospatial AI and suggest contributing to SaaS features for agriculture-risk or powerline monitoring"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:05:18Z",
-        "fingerprint": "39991fb02e3d6222",
-        "error": ""
-      }
-    },
-    {
       "id": "geospatialx-141567",
       "entity_id": "141567",
       "name": "GeospatialX",
@@ -209,6 +159,50 @@
       }
     },
     {
+      "id": "grid-139591",
+      "entity_id": "139591",
+      "name": "GRID+",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Roma",
+      "website": "https://www.gridplus.it/",
+      "description": "GRID+ S.r.l. is an innovative startup founded within Sapienza University of Rome, combining scientific expertise and engineering capabilities to deliver advanced Artificial Intelligence solutions for enterprises and public administrations. The company operates across four main areas that reflect its integrated model. Its consulting activities are based on a highly scientific and structured methodology that moves from preliminary analysis to prototyping and finally to the full integration of AI solutions within client systems. This approach ensures continuous support and covers a wide range of domains such as computer vision, time series forecasting, explainability of complex models, anomaly detection and large language models. The company also develops proprietary products, with the AIaaS cloud platform at the core. This platform enables immediate access to services such as forecasting, anomaly detection, sentiment analysis and real-time recommendations, eliminating the need for hardware or dedicated staff. Alongside the platform, GRID+ has created advanced software for business process automation, multichannel communication management, content generation, decision support and customer interaction, with applications in sectors such as tourism, healthcare, marketing and entertainment. Training represents another key asset, with programs designed for both managers and technical staff. Courses range from AI fundamentals to advanced topics such as Generative AI and the use of tools like Microsoft Copilot, and are always tailored to the vertical market of each client. Thanks to its strong link with academia, GRID+ ensures that its training activities are aligned with the latest scientific developments while remaining accessible to non-specialists. Finally, research is central to GRID+’s identity. The company participates in Horizon Europe, ESA programmes and national R&D initiatives, while also collaborating with public and private organizations. A strategic scientific…",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/139591",
+      "domains": [
+        "Artificial Intelligence",
+        "Software",
+        "Computer Vision"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "software",
+        "computer vision"
+      ],
+      "content_hash": "90aee1147fdaa6af",
+      "fit_score": 85,
+      "evaluation": {
+        "fit_score": 85,
+        "rationale": "GRID+ matches your profile closely through its computer vision, anomaly detection and LLM work that directly overlaps with your OpenCV, Python ML projects and Synapse pipeline, while its ESA programme participation creates a natural hook for your ESA-Scout repository. As a Sapienza spin-off still building proprietary AIaaS products, the small team is likely open to a speculative summer student who can contribute to prototyping.",
+        "suggested_role": "AI prototyping intern",
+        "focus_areas": [
+          "computer vision",
+          "anomaly detection",
+          "AIaaS platform development"
+        ],
+        "outreach_tips": [
+          "Reference your ESA-Scout repository when noting their ESA programme involvement",
+          "Link your Synapse multi-modal pipeline to their AIaaS forecasting and recommendation services",
+          "Mention your H-FARM/Microsoft curriculum as relevant to their Microsoft Copilot training offerings"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:37:05Z",
+        "fingerprint": "e468c4070651694e",
+        "error": ""
+      }
+    },
+    {
       "id": "latitudo40-s-r-l-71932",
       "entity_id": "71932",
       "name": "Latitudo40 S.r.l.",
@@ -236,21 +230,21 @@
       "fit_score": 85,
       "evaluation": {
         "fit_score": 85,
-        "rationale": "Your AI/ML pipeline experience and Python skills map directly onto Latitudo40's EarthAlytics platform that fuses satellite imagery with machine-learning models, and the company's ESA BIC incubation plus Italian location make a cold approach realistic for a small team. The only modest limitation is that the published description gives no explicit indication of prior student placements.",
-        "suggested_role": "EO data pipeline intern",
+        "rationale": "Latitudo40's core work on AI/ML pipelines for multi-sensor Earth Observation data aligns closely with your Python-based Synapse project and ESA-Scout repository, plus your ML and data-analysis coursework. As an ESA-incubated Naples start-up with a lean team, they are a realistic target for a speculative summer placement where a motivated student could contribute to their EarthAlytics platform.",
+        "suggested_role": "EO data pipeline and AI intern",
         "focus_areas": [
-          "Machine Learning for satellite imagery analysis",
-          "Multi-sensor data fusion",
-          "Cloud geo-information processing"
+          "Machine Learning for satellite imagery",
+          "Python data pipelines",
+          "Multi-sensor data fusion"
         ],
         "outreach_tips": [
-          "Mention your ESA-Scout GitHub repository and how it connects to their ESA BIC Lazio incubation",
-          "Propose concrete contributions to the EarthAlytics multi-sensor AI pipeline using your Synapse project as example",
-          "Reference the Naples headquarters and your Venice base to suggest hybrid summer work"
+          "Reference the EarthAlytics platform and how your Synapse multi-modal pipeline could extend its OCR/transcription capabilities to satellite metadata",
+          "Mention your ESA-Scout GitHub repo and the company's own ESA BIC Lazio incubation to establish immediate relevance",
+          "Propose a concrete mini-project such as integrating OpenCV or Whisper-style models with their existing Sentinel or IoT data streams"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:42Z",
-        "fingerprint": "ee120142d53a50cb",
+        "evaluated_at": "2026-08-23T11:36:43Z",
+        "fingerprint": "3dde3edb1e91a46c",
         "error": ""
       }
     },
@@ -383,6 +377,50 @@
       }
     },
     {
+      "id": "railway-measurement-technology-srl-139348",
+      "entity_id": "139348",
+      "name": "RAILWAY MEASUREMENT TECHNOLOGY SRL",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Santa Giustina In Colle",
+      "website": "http://www.ramete.com",
+      "description": "RMT is an Italian engineering and software development company specializing in advanced machine vision systems and artificial intelligence (AI) for industrial automation, railways application, quality control, and process optimization. Leveraging years of experience in applied research and development, RMT designs and implements custom-made solutions that integrate cutting-edge 2D and 3D vision sensors, intelligent illumination, robotics, and proprietary AI algorithms. RMT's core expertise lies in developing highly precise and reliable systems for: Automated defect detection and classification: Identifying even subtle imperfections on complex surfaces and materials (e.g., metals, wood panels, composite materials, tunnel walls, crack detection, water leakege, missing part...). Dimensional control and precise measurement: Utilizing 3D scanning technologies for accurate thickness, shape, and profile verification. Process optimization: Enabling efficient material utilization and decision-making through intelligent data analysis (e.g., automatic defect mapping for optimized material cutting). RMT's methodology involves a structured approach, often starting with paid feasibility studies and proof-of-concept (PoC) phases to validate the technical solution and define project requirements, ensuring a low-risk investment for clients before proceeding to full implementation. With a strong focus on delivering tangible value and return on investment (ROI) for its clients, RMT is committed to pushing the boundaries of industrial automation through innovative vision and AI solutions. Their proven ability to adapt advanced sensing and AI to diverse and challenging industrial environments positions them as a valuable partner for complex projects requiring high precision and intelligence.",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/139348",
+      "domains": [
+        "Artificial Intelligence",
+        "Data Processing",
+        "Software"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "data processing",
+        "software"
+      ],
+      "content_hash": "dfc63395f0751f79",
+      "fit_score": 85,
+      "evaluation": {
+        "fit_score": 85,
+        "rationale": "Your Python, OpenCV and ML pipeline experience maps directly onto RMT's core work in 2D/3D vision-based defect detection and process optimisation for railways and industrial surfaces. As a small Italian engineering SME the company is likely to value a motivated local student who can contribute to PoC or data-processing tasks during a summer placement.",
+        "suggested_role": "machine-vision AI intern",
+        "focus_areas": [
+          "Computer Vision with OpenCV",
+          "Defect-detection ML pipelines",
+          "Python data processing for 3D sensors"
+        ],
+        "outreach_tips": [
+          "Reference their published work on tunnel-wall crack detection and railway applications in the first paragraph",
+          "Mention your Synapse multi-modal pipeline and ESA-Scout GitHub repo as examples of local AI processing you could adapt to their sensor data",
+          "Propose contributing to a feasibility-study or PoC phase, citing their own methodology page"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:37:11Z",
+        "fingerprint": "0acc48cd1673bf33",
+        "error": ""
+      }
+    },
+    {
       "id": "real-again-srl-141764",
       "entity_id": "141764",
       "name": "Real Again Srl",
@@ -408,71 +446,21 @@
       "fit_score": 85,
       "evaluation": {
         "fit_score": 85,
-        "rationale": "Real Again's semantic graph engine and EO data-fusion work align closely with your Python-based multi-modal pipelines and ML experience, and a 2024-founded Italian startup is small enough to consider a speculative summer student. The thin public information on team size and exact project pipelines is the only factor preventing a higher score.",
-        "suggested_role": "Semantic AI / EO data-fusion intern",
+        "rationale": "Real Again's semantic AI engine for EO data fusion and digital-twin simulation aligns closely with your Python-based ML pipelines, Synapse project, and ESA-Scout repository, while the 2024 Turin startup's small size makes a speculative summer placement realistic. Your Italian location, drone and astrophography experience, and interest in space-enabled services further strengthen the match.",
+        "suggested_role": "EO semantic data-fusion intern",
         "focus_areas": [
-          "Semantic graph inference for EO",
-          "Multi-source data fusion pipelines",
-          "Digital Twin simulation"
+          "Semantic graph inference for multi-source EO",
+          "Digital Twin simulation of environmental dynamics",
+          "Python ML pipelines for satellite data"
         ],
         "outreach_tips": [
-          "Reference their proprietary semantic graph engine and how your Synapse pipeline could extend it to new satellite or sensor streams",
-          "Mention your ESA-Scout GitHub repository and interest in applying it to their fire-spread or environmental-risk propagation algorithms",
-          "Note your location in Venice and willingness to work from Torino for the summer"
+          "Reference their proprietary semantic graph engine and how your Synapse pipeline could extend it to new satellite streams",
+          "Mention your ESA-Scout GitHub repo and interest in their fire-spread or urban-intelligence applications",
+          "Note their São Paulo operations and propose contributing to a bilingual (Italian/English) data-processing module"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:01Z",
-        "fingerprint": "e7ebae0bf83f09ed",
-        "error": ""
-      }
-    },
-    {
-      "id": "sevalta-societa-a-responsabilita-limitata-141517",
-      "entity_id": "141517",
-      "name": "SEVALTA SOCIETA' A RESPONSABILITA' LIMITATA",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Bari",
-      "website": "https://sevalta.it",
-      "description": "SEVALTA S.r.l. is an Italian innovative start-up based in Bari, focused on the development, production and commercialisation of high-technology products and services in the fields of Earth Observation, geospatial intelligence, satellite data processing, GIS platforms, digital twins and decision support systems. The company develops solutions for the acquisition, processing, validation, fusion and analysis of multi-source geospatial data, including satellite imagery, in-situ data and sensor data. Its activities include software platforms, data services, artificial intelligence models, digital twin solutions, monitoring systems, predictive analytics and technical reporting for public and private decision-makers. SEVALTA operates with particular focus on environmental monitoring, climate adaptation, natural risk management, infrastructure resilience, smart cities, precision agriculture, blue economy and advanced geospatial analytics. The company also performs research and development, prototyping, pilot projects and operational testing, with the objective of transforming space-enabled data into actionable information for safer, more resilient and more sustainable territories and infrastructures.",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/141517",
-      "domains": [
-        "Earth Observation",
-        "Artificial Intelligence",
-        "Data Processing",
-        "Software",
-        "GIS",
-        "Satellite Data"
-      ],
-      "matched_keywords": [
-        "earth observation",
-        "artificial intelligence",
-        "data processing",
-        "software",
-        "gis",
-        "satellite data"
-      ],
-      "content_hash": "927ef3269d592629",
-      "fit_score": 85,
-      "evaluation": {
-        "fit_score": 85,
-        "rationale": "Your AI/ML pipeline experience (Synapse, Whisper/OCR) and Python skills map directly onto SEVALTA’s satellite-data processing, AI models and digital-twin work; as a small Bari start-up they are likely open to a motivated local student who can contribute immediately. The Italian location and your Venice base further improve the odds of a positive reply.",
-        "suggested_role": "AI & geospatial data intern",
-        "focus_areas": [
-          "Machine Learning on satellite imagery",
-          "Digital twin development",
-          "Multi-source data fusion"
-        ],
-        "outreach_tips": [
-          "Reference their current focus on climate-adaptation digital twins in the first paragraph",
-          "Mention your ESA-Scout GitHub repo and how it aligns with their ESA-registered supplier status",
-          "Propose a concrete mini-project: building a lightweight Python pipeline to ingest and label Sentinel-2 tiles for one of their monitoring use-cases"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:05:15Z",
-        "fingerprint": "4821b66af986028e",
+        "evaluated_at": "2026-08-23T11:37:01Z",
+        "fingerprint": "9bcc1e9b32db2b98",
         "error": ""
       }
     },
@@ -519,6 +507,52 @@
       }
     },
     {
+      "id": "titan4-srl-69627",
+      "entity_id": "69627",
+      "name": "TITAN4 srl",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Roma",
+      "website": "http://www.titan4.it",
+      "description": "Titan4 is committed to leveraging innovative earth observation downstream solutions to advance environmental stewardship and safety on a global scale. Building on our successful incubation period in the European Space Agency BIC program, Titan4 harnesses innovative technologies to process and analyze optical and radar satellite images with unparalleled speed, cost-effectiveness, and accuracy. Our mission is to empower stakeholders to monitor and safeguard the health of our planet's ecosystems and infrastructure, providing actionable insights and timely information to inform strategic planning, risk management, and policy development. With the Titan4 platform, users can assess and monitor public and private infrastructures, land stability, structural deformations, seismic areas, and more. Our automatic InSAR data processing tool delivers near real-time results at a millimeter scale, complemented by data fusion features, visual and historical reports, trend analysis, and critical deformation alerts. Key features of Titan4 platform include: - Rapid and highly accurate results - Flexible pay-per-use pricing model - Scalable high-performance computing for large geographical areas - Streamlined automation of all processing phases - Intuitive interface and API connections for data integration - Comprehensive training and dedicated assistance at every stage At Titan4, we pride ourselves on our interdisciplinary team of telecom engineers, data scientists, and software architects. This collaborative approach ensures the robustness, reliability and innovation of our solutions, making Titan4 the preferred choice for both public and private sector clients seeking to leverage satellite technology for environmental monitoring and sustainability initiatives. Join us in our vision to preserve our planet for future generations. Let's work together to unlock the full potential of satellite data integration and drive positive environmental impact.",
+      "entity_type": "Company",
+      "entity_size": "Micro",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/69627",
+      "domains": [
+        "Earth Observation",
+        "Data Processing",
+        "Software",
+        "Satellite Data"
+      ],
+      "matched_keywords": [
+        "earth observation",
+        "data processing",
+        "software",
+        "satellite data"
+      ],
+      "content_hash": "b775bda83c7d21f9",
+      "fit_score": 85,
+      "evaluation": {
+        "fit_score": 85,
+        "rationale": "Titan4's InSAR and optical/radar satellite processing pipeline aligns closely with your Python, ML, and ESA-Scout experience, and their micro-team of data scientists offers a realistic opening for a summer student. The Italian location and ESA BIC background further increase the chance a targeted cold email will be read.",
+        "suggested_role": "EO data pipeline intern",
+        "focus_areas": [
+          "InSAR deformation monitoring",
+          "Python satellite data pipelines",
+          "data fusion and automation"
+        ],
+        "outreach_tips": [
+          "Reference their automatic InSAR tool and near-real-time mm-scale results in the first paragraph",
+          "Mention your ESA-Scout repository and how it could extend their pay-per-use platform",
+          "Note their Rome base and your Venice studies to propose an in-person or hybrid summer placement"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:37Z",
+        "fingerprint": "e586d6da29457b7a",
+        "error": ""
+      }
+    },
+    {
       "id": "assist-technology-research-srl-132715",
       "entity_id": "132715",
       "name": "Assist Technology & Research srl",
@@ -557,6 +591,52 @@
         "model": "grok-4",
         "evaluated_at": "2026-08-22T12:20:08Z",
         "fingerprint": "d1ae3008ed62e181",
+        "error": ""
+      }
+    },
+    {
+      "id": "centro-de-observacion-y-teledeteccion-espacial-s-a-u-71968",
+      "entity_id": "71968",
+      "name": "CENTRO DE OBSERVACIÓN Y TELEDETECCIÓN ESPACIAL S A. U",
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "BOECILLO, VALLADOLID",
+      "website": "https://www.grupotecopy.es/en/areas/technologies/",
+      "description": "COTESA (CENTRO DE OBSERVACIÓN Y TELEDETECCIÓN ESPACIAL, S.A.) of Grupo TECOPY, is a leading company in the design and development of services and applications based on Information and Communications Technologies (ICT) to multiple disciplines, especially those related to Earth Observation, Land and Territorial Management. We are present in Europe, but do also have projets in markets such as Colombia, Costa Rica... Grupo TECOPY does also operate in Morocco, Ecuador, Nicaragua, Benin, and Cameroun. More specifically, COTESA has two different business lines: At AGEO (Analysis Geospatial & Earth Observation ) our solutions and services range from the generation of cartography base on the most demanding standards such as those required in defense mapping, with the knowledge of cutting-edge technics and disciplines to optimize the conversion of data into insight. The multidisciplinary team of AGEO is formed by 45 professionals with an education and expertise in multiple fields (Geomatics and Forest engineers; Graduates in Geography; Agronomists; Bachelor’s in Mathematics, Environmental Sciences, Biology and Physics). This allows us to propose solutions applying the appropriate technique ((Remote Sensing, Lidar, Photogrammetry, Artificial Intelligent, Big Data) and data source according to the needs of each of our clients depending on the project requirements. · Optical and radar imagery from public and private providers such as Maxar and Copernicus (Sentinel satellites) · Aerial Photogrammetry and UAVs · Terrestrial Lidar (Mobile Mapping Systems, 3D scanners) In parallel, the Advanced Technological Solutions (in spanish, STA) specialized in: - design and development of information systems - development and implementation of GIS solutions. - development and exploitation of algorithms for detecting changes in the territory with digital tools and techniques. Specifically, in the field of conflation or fusion of geospatial data from disparate sources, formats and dates of…",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/71968",
+      "domains": [
+        "Earth Observation",
+        "Remote Sensing",
+        "Data Processing",
+        "GIS"
+      ],
+      "matched_keywords": [
+        "earth observation",
+        "remote sensing",
+        "data processing",
+        "gis"
+      ],
+      "content_hash": "c1c326cfb7b9bb39",
+      "fit_score": 82,
+      "evaluation": {
+        "fit_score": 82,
+        "rationale": "Your Python ML projects, ESA-Scout repository, and OpenCV experience map directly onto COTESA’s AGEO line that applies AI and Big Data to Sentinel and Maxar imagery for cartography and change detection. The 45-person multidisciplinary team is large enough to absorb a motivated summer student yet small enough that a targeted cold email can reach the right technical lead.",
+        "suggested_role": "AI for Earth Observation data intern",
+        "focus_areas": [
+          "Machine Learning on Sentinel/Maxar imagery",
+          "Python geospatial pipelines",
+          "Change-detection algorithms"
+        ],
+        "outreach_tips": [
+          "Cite your ESA-Scout repo and note its relevance to their Copernicus work",
+          "Reference the AGEO team’s use of AI for defense-grade cartography",
+          "Propose a short project fusing optical/radar data with your Synapse-style multimodal pipeline"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:38Z",
+        "fingerprint": "f26f83458d27b1c9",
         "error": ""
       }
     },
@@ -632,21 +712,21 @@
       "fit_score": 82,
       "evaluation": {
         "fit_score": 82,
-        "rationale": "Your Python-based ML projects, OpenCV experience, and data-pipeline work map directly onto Deix's core activities in machine learning, computer vision and optimisation for industrial clients. A micro-team in Milan that already runs agile, research-to-production projects is realistically open to a targeted cold approach from a local Italian student for summer 2027.",
-        "suggested_role": "ML & computer-vision optimisation intern",
+        "rationale": "Your Python ML pipelines, OpenCV experience, and projects like Synapse map directly onto Deix's core work in machine learning, computer vision, and optimization for industrial decision-support software. As a micro-company with an academic scientific committee, they are small enough to accommodate a summer student yet technically aligned enough for meaningful contributions.",
+        "suggested_role": "ML and optimization algorithms intern",
         "focus_areas": [
           "Machine Learning",
           "Computer Vision",
-          "Optimisation algorithms"
+          "Optimization algorithms"
         ],
         "outreach_tips": [
-          "Reference their four-researcher scientific committee and ask about contributing to an ongoing data-fusion or decision-support prototype",
-          "Mention your Synapse multi-modal pipeline and how it could extend their computer-vision offerings for a specific industrial sector they serve",
-          "Propose a short agile sprint delivering a production-ready Python module that integrates with their existing client software stack"
+          "Reference their work on data fusion and production-ready software in the email subject line",
+          "Propose extending your Synapse pipeline ideas to their industrial client use-cases",
+          "Note your Venice base and willingness to collaborate hybrid with the Milano team"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:52Z",
-        "fingerprint": "839115ab4c8b16c0",
+        "evaluated_at": "2026-08-23T11:36:53Z",
+        "fingerprint": "50e60d0d6db6d729",
         "error": ""
       }
     },
@@ -678,21 +758,21 @@
       "fit_score": 82,
       "evaluation": {
         "fit_score": 82,
-        "rationale": "Your AI & Data Science studies, Python/ML projects such as Synapse, and interest in ESA topics map directly onto Digital Profiles' core work in AI-driven Earth Observation analytics and geospatial data integration. As a micro-company in Barcelona, they are small enough that a targeted speculative approach for summer 2027 could realistically lead to a hands-on data-pipeline role.",
+        "rationale": "Digital Profiles' core work on AI-driven Earth Observation analytics and geospatial data pipelines aligns closely with your Python/ML projects and ESA-Scout repository, making a cold approach worthwhile despite the micro-company size. Their Barcelona location and full-lifecycle product focus suggest they could accommodate a motivated student for targeted summer work in satellite-data processing.",
         "suggested_role": "EO data analytics intern",
         "focus_areas": [
           "AI-driven Earth Observation analytics",
-          "Geospatial data integration",
-          "Python ML pipelines"
+          "Python geospatial pipelines",
+          "Cloud-native data processing"
         ],
         "outreach_tips": [
-          "Cite their published expertise in predictive modeling and anomaly detection on satellite data",
-          "Reference your Synapse multi-modal pipeline as directly relevant to their full-lifecycle digital product work",
-          "Note your Barcelona background and native Spanish/Catalan to underscore local availability"
+          "Reference their ESA-related AI analytics expertise and your ESA-Scout repository in the first paragraph",
+          "Propose building a small anomaly-detection prototype on open Sentinel data using your Synapse pipeline experience",
+          "Mention your Barcelona proximity via the Spanish-speaking background and willingness to work on-site for the summer"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:43Z",
-        "fingerprint": "ee14dd6e3b10b775",
+        "evaluated_at": "2026-08-23T11:36:43Z",
+        "fingerprint": "9d2f01aecb24f101",
         "error": ""
       }
     },
@@ -724,21 +804,21 @@
       "fit_score": 82,
       "evaluation": {
         "fit_score": 82,
-        "rationale": "Your Python-based AI pipelines, ML experience, and OpenCV work map directly onto eXplorAI's development of perception and data-processing software for satellite payloads and autonomous platforms in GNSS-denied environments. As a small Sapienza spin-off still building its team, they are a realistic target for a motivated student who can contribute to digital-twin or sensor-fusion tasks during summer 2027.",
-        "suggested_role": "AI data-processing intern for autonomous space systems",
+        "rationale": "Your AI pipeline work with Python, OpenCV and Whisper plus drone piloting experience map directly onto eXplorAI’s sensor-data processing and autonomy software for space and GNSS-denied platforms. As a small Sapienza spin-off the company is likely to consider a motivated student who can contribute to COTS hardware-in-the-loop testing or digital-twin development over summer 2027.",
+        "suggested_role": "AI & sensor-data processing intern",
         "focus_areas": [
-          "Machine Learning for GNC and perception",
-          "Satellite payload data analysis",
-          "Digital-twin development"
+          "Machine Learning for GNC",
+          "Payload data analysis",
+          "Autonomous robotics software"
         ],
         "outreach_tips": [
-          "Reference their specific use of LiDAR and optical imaging in the email subject line",
-          "Point to your Synapse multi-modal pipeline as directly transferable to their heterogeneous sensor work",
-          "Note the ESA-Scout GitHub repo to signal prior interest in ESA-related autonomy projects"
+          "Reference the ESA-Scout repository and note how its Python structure could extend to their LiDAR/optical processing chain",
+          "Mention your drone piloting and 3D-printing background as relevant to testing wheeled or aerial platforms in representative environments",
+          "Highlight that you are based in Venice and available for hybrid or Rome-based work between June and September 2027"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:34Z",
-        "fingerprint": "cbd8be4d13f0f957",
+        "evaluated_at": "2026-08-23T11:36:38Z",
+        "fingerprint": "449a4ece033a00f3",
         "error": ""
       }
     },
@@ -770,21 +850,71 @@
       "fit_score": 82,
       "evaluation": {
         "fit_score": 82,
-        "rationale": "Your ML, Python pipelines, and remote-sensing-adjacent projects map directly onto föra’s LiDAR/satellite processing, Random Forest work, and drone automation; the ten-person team with six PhDs is small enough that an unsolicited summer student could be useful. The Spanish location and your native Spanish also reduce friction for a cold approach.",
-        "suggested_role": "Remote sensing ML data intern",
+        "rationale": "Your Python, ML and remote-sensing-adjacent projects (ESA-Scout, Synapse pipeline) map directly onto föra’s LiDAR processing, Random Forest modelling and drone data work, and their 10-person specialist team with university links is small enough that a motivated student could be useful. The Spanish location and ESA supplier status further improve the odds that a well-targeted cold email could be read.",
+        "suggested_role": "remote-sensing ML data-pipeline intern",
         "focus_areas": [
           "Machine Learning for LiDAR and satellite data",
-          "Python data pipelines and automation",
-          "Drone multispectral processing"
+          "Python-based ecological modelling pipelines",
+          "Drone multispectral data processing"
         ],
         "outreach_tips": [
-          "Reference their 30-million-hectare track record and current EU projects in the first paragraph",
-          "Mention your Synapse multi-modal pipeline and ESA-Scout repo as examples of local AI processing you could adapt to their forestry datasets",
-          "Note the Universidad de Valladolid shareholder link and your interest in their statistical calibration techniques"
+          "Reference their 30-million-hectare LiDAR expertise and Random Forest methods in the first paragraph",
+          "Mention your ESA-Scout repository and interest in their EU-funded projects",
+          "Note the Universidad de Valladolid shareholder connection and your availability for summer 2027"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:50Z",
-        "fingerprint": "1cb441c8f8bfae31",
+        "evaluated_at": "2026-08-23T11:36:50Z",
+        "fingerprint": "2c76eed9f9d152bf",
+        "error": ""
+      }
+    },
+    {
+      "id": "geoai-analytics-s-l-136972",
+      "entity_id": "136972",
+      "name": "GEOAI ANALYTICS, S.L.",
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Madrid",
+      "website": "https://www.geoaitech.com/en-gb",
+      "description": "GEOAI ANALYTICS, S.L., is a geospatial technology company with more than 15 years of experience in geospatial data analysis and referencing company applying geospatial technology, Artificial Intelligence, computer vision, predictive analysis and cutting-edge algorithms, in a Software as a Service (SaaS) business model. Artificial Intelligence as a Service (IaaS) We integrate data and computational learning models with industrial processes. We are catalysts of transformation through the development of intelligent data. We support decision making with visualization models of complex data networks generated in short time periods.We are catalysts of transformation through the development of intelligent data. We work in the generation of Digital terrain models and 3D cartography, Digital Twins, remote sensing and automatic classification, change monitoring, system automation, Cadastre and territory management, Agriculture-Risk Management, Sustainability, Powerlines, Pipelines, Solar, Mobility, advanced analysis, intelligence.",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/136972",
+      "domains": [
+        "Remote Sensing",
+        "Artificial Intelligence",
+        "Data Processing",
+        "Software",
+        "Computer Vision",
+        "GIS"
+      ],
+      "matched_keywords": [
+        "remote sensing",
+        "artificial intelligence",
+        "data processing",
+        "software",
+        "computer vision",
+        "gis"
+      ],
+      "content_hash": "eba3f458f4e2b07d",
+      "fit_score": 82,
+      "evaluation": {
+        "fit_score": 82,
+        "rationale": "Your Python-based ML, OpenCV and pipeline experience maps directly onto GEOAI's core work in computer vision, automatic classification and remote-sensing SaaS products. As an ESA-registered Spanish SME their team size and project variety make a speculative summer placement realistic.",
+        "suggested_role": "Remote-sensing AI pipeline intern",
+        "focus_areas": [
+          "Computer Vision for EO",
+          "ML classification pipelines",
+          "GIS data processing"
+        ],
+        "outreach_tips": [
+          "Reference your ESA-Scout repository when discussing their remote-sensing products",
+          "Link the Synapse multi-modal pipeline to their automatic classification and change-monitoring services",
+          "Mention interest in contributing to Digital Twin or cadastre automation projects listed on their site"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:34Z",
+        "fingerprint": "002c669fe9ae6e57",
         "error": ""
       }
     },
@@ -814,65 +944,21 @@
       "fit_score": 82,
       "evaluation": {
         "fit_score": 82,
-        "rationale": "Graniot's satellite-imagery SaaS for agriculture monitoring and EUDR compliance maps directly onto your Python/ML pipeline experience and ESA-Scout repository, and a 2022-founded Spanish SME is small enough to consider an unsolicited summer student. The fit is slightly reduced only because their published stack emphasises cloud analytics rather than the low-level computer-vision or hardware work that dominates several of your other projects.",
-        "suggested_role": "EO data analytics intern",
+        "rationale": "Your Python/ML background and ESA-Scout repository map directly onto Graniot’s satellite-imagery SaaS for vegetation indices and EUDR compliance, while the 2022-founded SME in Granada is small enough that a motivated student could be accommodated. The Spanish location and your native Spanish also reduce practical barriers for a summer placement.",
+        "suggested_role": "EO data pipeline intern",
         "focus_areas": [
-          "Machine Learning for satellite imagery",
-          "Vegetation indices and deforestation detection",
-          "Python cloud pipelines"
+          "Satellite imagery processing",
+          "Vegetation index ML models",
+          "REST API geospatial services"
         ],
         "outreach_tips": [
-          "Mention their REST API and SaaS platform for parcel-level vegetation analytics",
-          "Reference the EUDR compliance vertical and how your Synapse pipeline could automate similar multi-modal ingestion",
-          "Note that you are based in Spain and available summer 2027"
+          "Reference their EUDR deforestation-detection product and how your Synapse pipeline could extend it",
+          "Mention the ESA-Scout repo and your interest in applying similar tooling to their agriculture vertical",
+          "Note your availability for on-site work in Granada during summer 2027 given proximity from Italy"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:29Z",
-        "fingerprint": "a75ceb6d9813a7ff",
-        "error": ""
-      }
-    },
-    {
-      "id": "grid-139591",
-      "entity_id": "139591",
-      "name": "GRID+",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Roma",
-      "website": "https://www.gridplus.it/",
-      "description": "GRID+ S.r.l. is an innovative startup founded within Sapienza University of Rome, combining scientific expertise and engineering capabilities to deliver advanced Artificial Intelligence solutions for enterprises and public administrations. The company operates across four main areas that reflect its integrated model. Its consulting activities are based on a highly scientific and structured methodology that moves from preliminary analysis to prototyping and finally to the full integration of AI solutions within client systems. This approach ensures continuous support and covers a wide range of domains such as computer vision, time series forecasting, explainability of complex models, anomaly detection and large language models. The company also develops proprietary products, with the AIaaS cloud platform at the core. This platform enables immediate access to services such as forecasting, anomaly detection, sentiment analysis and real-time recommendations, eliminating the need for hardware or dedicated staff. Alongside the platform, GRID+ has created advanced software for business process automation, multichannel communication management, content generation, decision support and customer interaction, with applications in sectors such as tourism, healthcare, marketing and entertainment. Training represents another key asset, with programs designed for both managers and technical staff. Courses range from AI fundamentals to advanced topics such as Generative AI and the use of tools like Microsoft Copilot, and are always tailored to the vertical market of each client. Thanks to its strong link with academia, GRID+ ensures that its training activities are aligned with the latest scientific developments while remaining accessible to non-specialists. Finally, research is central to GRID+’s identity. The company participates in Horizon Europe, ESA programmes and national R&D initiatives, while also collaborating with public and private organizations. A strategic scientific…",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/139591",
-      "domains": [
-        "Artificial Intelligence",
-        "Software",
-        "Computer Vision"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "software",
-        "computer vision"
-      ],
-      "content_hash": "90aee1147fdaa6af",
-      "fit_score": 82,
-      "evaluation": {
-        "fit_score": 82,
-        "rationale": "GRID+’s core work in computer vision, anomaly detection and AI pipelines aligns closely with your Synapse project, OpenCV experience and Python ML stack, while their documented ESA programme participation makes a cold approach credible for a space-sector internship. As a Sapienza spin-off still describing itself as an innovative startup, the team is small enough that a motivated second-year student could plausibly be taken on for a summer project.",
-        "suggested_role": "AI data-pipeline intern",
-        "focus_areas": [
-          "Computer Vision",
-          "Anomaly Detection",
-          "Multimodal AI pipelines"
-        ],
-        "outreach_tips": [
-          "Reference their ESA Horizon participation and propose extending your Synapse pipeline to one of their listed domains such as real-time anomaly detection",
-          "Mention the ESA-Scout repository on your GitHub and ask whether it could support any current ESA-funded internal project",
-          "Note their AIaaS platform and suggest a short prototype that ingests client time-series data using your existing Whisper/OCR components"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:07Z",
-        "fingerprint": "a88e02b23fb1b62f",
+        "evaluated_at": "2026-08-23T11:37:20Z",
+        "fingerprint": "d4d9d36e4df23edd",
         "error": ""
       }
     },
@@ -921,6 +1007,142 @@
       }
     },
     {
+      "id": "involve-space-s-r-l-133584",
+      "entity_id": "133584",
+      "name": "Involve Space S.r.l.",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Canzo",
+      "website": "https://www.involvespace.eu",
+      "description": "Involve Space – Insight from above, Impact on the ground Involve Space is an Italian aerospace company that designs, develops, and launches intelligent pseudo-satellite platforms based on space balloons for Earth observation, defense, flight validation, and scientific research. With over 30 successfully launched missions, it is the leading Italian provider and one of the European leaders in the stratospheric mission sector. The proprietary technology, capable of reaching altitudes of 30 km in suborbit, allows for close-up observation of the Earth with resolutions of up to 0.3 meters/pixel, eliminating the typical revisiting time of satellites, enabling constant and real-time monitoring. The asset can maintain its position and optimize routes based on atmospheric conditions. Involve Space integrates aerospace hardware, artificial intelligence, and a sustainable approach: its balloons are reusable, zero-emission, and produced in-house. The next frontier is LoonHive®: constellations of decentralized stratospheric balloons for targeted large-scale monitoring, distributed through the tools of the intelligent geospatial platform CLEAR, positioning Involve Space as an end-to-end provider. Based in Como and with an expanding presence in Europe and the United States, Involve Space aims to be a global reference point in the High Altitude Platforms (HAPS) market, with a clear vision: to bring strategic data from near-Earth space to generate concrete and sustainable impacts.",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/133584",
+      "domains": [
+        "Earth Observation",
+        "Artificial Intelligence",
+        "GIS"
+      ],
+      "matched_keywords": [
+        "earth observation",
+        "artificial intelligence",
+        "gis"
+      ],
+      "content_hash": "ac22450146197c24",
+      "fit_score": 82,
+      "evaluation": {
+        "fit_score": 82,
+        "rationale": "Your AI/ML pipeline experience and ESA-Scout repository map directly onto Involve Space's use of artificial intelligence for real-time Earth observation from stratospheric balloons and their CLEAR geospatial platform. As a focused Italian SME with proven hardware missions, they are small enough to consider a summer student who can contribute to data processing or AI tasks without needing formal internship postings.",
+        "suggested_role": "EO data AI pipeline intern",
+        "focus_areas": [
+          "Machine Learning for Earth Observation",
+          "Geospatial data processing",
+          "Python-based data analysis"
+        ],
+        "outreach_tips": [
+          "Reference their LoonHive constellation and CLEAR platform explicitly",
+          "Mention your ESA-Scout GitHub repository as relevant prior work",
+          "Highlight drone piloting and astrophotography experience in relation to high-altitude platforms"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:37:16Z",
+        "fingerprint": "3a29e81937609953",
+        "error": ""
+      }
+    },
+    {
+      "id": "iws-consulting-s-r-l-137690",
+      "entity_id": "137690",
+      "name": "IWS Consulting S.r.l.",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Roma",
+      "website": "https://iwsconsulting.it/",
+      "description": "SME based in Rome (Italy) with expertise in business software development with corporate and government clients. Area of expertise: Machine Learning, Computer Vision, IoT and Satellite Downstream Data Analysis",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/137690",
+      "domains": [
+        "Machine Learning",
+        "Data Processing",
+        "Software",
+        "Computer Vision"
+      ],
+      "matched_keywords": [
+        "machine learning",
+        "data processing",
+        "software",
+        "computer vision"
+      ],
+      "content_hash": "c55e5fb855e61828",
+      "fit_score": 82,
+      "evaluation": {
+        "fit_score": 82,
+        "rationale": "Your ML, computer vision, and Python pipeline experience overlaps strongly with IWS Consulting’s stated domains of machine learning, computer vision, and satellite downstream data analysis, and an SME in Rome is small enough that a motivated student with an ESA-Scout repo could be accommodated for a summer project. The Italian location and your Venice base also reduce logistical friction for a speculative placement.",
+        "suggested_role": "Satellite downstream data analysis intern",
+        "focus_areas": [
+          "Machine Learning",
+          "Computer Vision",
+          "Satellite Data Processing"
+        ],
+        "outreach_tips": [
+          "Explicitly link your Synapse multi-modal pipeline and ESA-Scout repository to their satellite downstream work",
+          "Note that you are based in Venice and open to hybrid or Rome-based work for summer 2027",
+          "Reference their government and corporate clients to show you understand the business-software context"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:58Z",
+        "fingerprint": "a96c7c5f38b08cba",
+        "error": ""
+      }
+    },
+    {
+      "id": "mars-planet-technologies-srl-82876",
+      "entity_id": "82876",
+      "name": "Mars Planet Technologies Srl",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Curno",
+      "website": "http://www.mars-city.org",
+      "description": "THE COMPANY PURPOSES DEVELOPMENT, PRODUCTION AND MARKETING OF HIGH-TECHNOLOGICAL INNOVATIVE PRODUCTS OR SERVICES, AND MORE SPECIFICALLY: THE DESIGN, DEVELOPMENT AND REALIZATION OF SPATIAL SYSTEMS OF ANY TYPE, e.g., AND NOT EXCLUSIVELY: THE DESIGN AND REALIZATION OF ROBOTIC SYSTEMS, EVEN HUMANOID, LIFE SUPPORT SYSTEMS, SPATIAL PROPULSION SYSTEMS, SYSTEMS AVIONICS FOR THE SPACE, HOWEVER COMPLEX, LOCAL EXPLOITATION SYSTEMS OF SPATIAL RESOURCES (ISRU: IN SITU RESOURCE UTILIZATION) LOCATED BOTH ON PLANETS AND SATELLITES THAT ON ASTERODES, OF PLACED MODULES AND SPACE STATIONS BOTH IN ORBIT AND ON PLANETS AND SATELLITES, OF SPATIAL AGRICULTURE SYSTEMS, OF SYSTEMS AND APPARATUS DEDICATED TO SPACE MEDICINE, OF SYSTEMS ED SPACE TELECOMMUNICATIONS EQUIPMENT, SOFTWARE NECESSARY FOR THE CONTROL OF MISSION AND OF SPACE EQUIPMENT WHEREVER LOCATED, OF DEDICATED SOFTWARE THE PROCESSING OF SPATIAL DATA ALSO THROUGH INTELLIGENCE TECHNIQUES ARTIFICIAL, MACHINE LEARNING, BIG DATA, OF ELECTRICAL AND ELECTRONIC EQUIPMENT FOR THE SPACE, OF SPACE SIMULATION SYSTEMS LOCATED ON EARTH, AS VIRTUAL AND INCREASED SIMULATION SYSTEMS, AND THEIR RELATED COMMUNICATION EQUIPMENT AND SENSORS, OF NEW MATERIALS REQUIRED FOR THE HUMAN EXPLORATION OF SPACE, OF REMOTE SENSING SYSTEMS, REMOTE SENSING, DEDICATED TO BOTH LAND AND HAVING APPLICATIONS AS AIM THE EXPLORATION OF HEAVENLY BODIES. THE RESEARCH ACTIVITY IN THE CONTEXT OF ALL AREAS THAT CONCERN HUMAN EXPLORATION OF SPACE, WITH PARTICULAR REFERENCE TO EXPLORATION OF MARS. COMMERCIAL ACTIVITY OF SALE OF SYSTEMS, APPARATUS, dEVICES, MACHINES, PLANTS IN ALL THE ABOVE MENTIONED AND INDUSTRIAL SECTORS OF ANY KIND OF YOUR OWN INTEREST.",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/82876",
+      "domains": [
+        "Remote Sensing",
+        "Machine Learning",
+        "Data Processing",
+        "Software"
+      ],
+      "matched_keywords": [
+        "remote sensing",
+        "machine learning",
+        "data processing",
+        "software"
+      ],
+      "content_hash": "cb04e2c0f767b4e2",
+      "fit_score": 82,
+      "evaluation": {
+        "fit_score": 82,
+        "rationale": "Mars Planet Technologies' explicit focus on AI/ML-driven processing of spatial data and remote sensing aligns closely with your Python, machine learning, and data pipeline experience, including the Synapse project and ESA-Scout repository. As a small Italian SME without listed openings, a targeted cold approach could succeed if you highlight concrete contributions to their Mars exploration software or ISRU data systems.",
+        "suggested_role": "AI/ML intern for spatial data processing",
+        "focus_areas": [
+          "Machine Learning",
+          "Remote Sensing",
+          "Space Data Processing"
+        ],
+        "outreach_tips": [
+          "Reference their published work on AI techniques for spatial data and propose extending your Synapse pipeline to their remote sensing or ISRU datasets",
+          "Mention your ESA-Scout GitHub repository as direct evidence of interest in ESA-registered space software",
+          "Tie your astrophography and drone piloting experience to their remote sensing and planetary exploration activities"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:43Z",
+        "fingerprint": "087f46975aa8776c",
+        "error": ""
+      }
+    },
+    {
       "id": "moai-tech-sl-139705",
       "entity_id": "139705",
       "name": "MOAI TECH SL",
@@ -965,48 +1187,50 @@
       }
     },
     {
-      "id": "s-t-italy-s-r-l-131067",
-      "entity_id": "131067",
-      "name": "S&T ITALY S.R.L.",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Rome",
-      "website": "https://www.stcorp.nl/",
-      "description": "SME specialised in Earth Observation, with focus on satellite ground segment data processing and monitoring. Our expertise also covers satellite hyperspectral retrieval algorithms, cal/val and air quality monitoring services based on satellite data.",
+      "id": "ostirion-s-l-u-132664",
+      "entity_id": "132664",
+      "name": "OSTIRION, S.L.U.",
+      "country": "Spain",
+      "country_code": "ES",
+      "city": "Madrid",
+      "website": "http://www.ostirion.net",
+      "description": "OSTIRION SL is a Small Enterprise that offers boutique consulting, advisory, and operation support in complex technological research topics. OSTIRION conducts artificial intelligence, machine learning, and computer vision research, prototyping, systems engineering, and development in the following areas: - Transportation and infrastructure. - Imagery intelligence acquisition from satellite imagery, cameras onboard vehicles, and fixed point surveillance systems. - Robotics Systems and Artificial Intelligence Robotics Control.",
       "entity_type": "Company",
       "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/131067",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/132664",
       "domains": [
         "Earth Observation",
-        "Remote Sensing",
-        "Data Processing",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
         "Satellite Data"
       ],
       "matched_keywords": [
         "earth observation",
-        "remote sensing",
-        "data processing",
+        "artificial intelligence",
+        "machine learning",
+        "computer vision",
         "satellite data"
       ],
-      "content_hash": "3fe5a803d594e8d9",
+      "content_hash": "aa307205b98fd9b5",
       "fit_score": 82,
       "evaluation": {
         "fit_score": 82,
-        "rationale": "Your Python/ML pipeline experience and ESA-Scout GitHub activity map directly onto their satellite ground-segment processing and hyperspectral retrieval work, and a small Italian EO SME is likely to have capacity for a motivated local student. The air-quality and cal/val services add a concrete domain where your data-analysis skills could contribute without needing prior satellite expertise.",
-        "suggested_role": "EO data pipeline intern",
+        "rationale": "Your Python, OpenCV, and multi-modal AI pipeline experience maps directly onto OSTIRION’s satellite-imagery intelligence and computer-vision prototyping work, and their small-enterprise scale makes a speculative summer placement plausible. The Madrid location and Spanish-speaking environment further reduce barriers for a student already based in Spain and Italy.",
+        "suggested_role": "Computer vision intern for satellite imagery analysis",
         "focus_areas": [
-          "Python ML pipelines for satellite data",
-          "Hyperspectral retrieval algorithms",
-          "Air-quality monitoring applications"
+          "Computer Vision",
+          "Satellite Data",
+          "Machine Learning Prototyping"
         ],
         "outreach_tips": [
-          "Reference their hyperspectral and cal/val activities on the stcorp.nl site and note how your Synapse pipeline could adapt to Level-1/Level-2 processing chains",
-          "Mention your current location in Venice and willingness to work from their Rome office for summer 2027",
-          "Highlight the ESA-Scout repository as evidence of prior interest in ESA-related data tasks"
+          "Mention the ESA-Scout repository and how it could extend their imagery-intelligence work",
+          "Reference their transportation and robotics application areas when proposing a concrete OpenCV pipeline task",
+          "Note your Barcelona roots and willingness to work from Madrid for the summer"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:55Z",
-        "fingerprint": "9a3c1a39fff65a41",
+        "evaluated_at": "2026-08-23T11:36:33Z",
+        "fingerprint": "338822713aa4c5c2",
         "error": ""
       }
     },
@@ -1077,21 +1301,21 @@
       "fit_score": 82,
       "evaluation": {
         "fit_score": 82,
-        "rationale": "Your AI/ML projects (Synapse pipeline, ESA-Scout repo) and skills map directly onto WAY4WARD's core offerings in machine-learning algorithms and Earth-observation data processing for the New Space sector. As a small 2020-founded start-up the company is realistically open to a speculative summer placement that could support their user-algorithm and big-data work.",
-        "suggested_role": "ML algorithms intern for Earth-observation applications",
+        "rationale": "WAY4WARD's core work in AI/ML algorithms and big-data processing for New Space, Earth Observation and related domains aligns closely with your Python-based ML projects and ESA-Scout repository, while the small start-up structure makes a speculative summer placement realistic. Your Italian location and demonstrated ability to deliver end-to-end AI pipelines further strengthen the case for a cold approach.",
+        "suggested_role": "AI/ML pipeline intern for space-data applications",
         "focus_areas": [
-          "Machine Learning algorithms",
-          "Earth Observations",
-          "AI Systems design"
+          "Machine Learning for Earth Observation",
+          "Big-data processing pipelines",
+          "System-of-Systems architecture"
         ],
         "outreach_tips": [
-          "Reference the founder’s 25+ years in space technologies when describing your interest",
-          "Cite your ESA-Scout repository as evidence of prior engagement with ESA-related tooling",
-          "Propose contributing to their big-data analysis activities in Disasters Prevention or Timing & Synchronisation"
+          "Reference their 25+ years of founder experience in space technologies and how your Synapse pipeline could extend their user-algorithm work",
+          "Mention the ESA-Scout repository and your interest in applying it to their Road Transport or Disaster Management domains",
+          "Propose a concrete 10-week project that combines your Whisper/OCR experience with their existing ML algorithms for satellite or ground-segment data"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:28Z",
-        "fingerprint": "eb0be8d1d66c6a3c",
+        "evaluated_at": "2026-08-23T11:37:20Z",
+        "fingerprint": "e14c1117d06769bd",
         "error": ""
       }
     },
@@ -1121,67 +1345,21 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "Agrobit's core work on AI-driven computer vision and 3D modeling for the iAgro app aligns closely with your Python, OpenCV, and multi-modal pipeline experience, while their planned Sentinel-2 integration offers a natural entry point for your EO interests. As a small Italian agtech startup without posted internships, a targeted cold email proposing concrete contributions to their DSS or EO spatialization efforts has a realistic chance of being read.",
-        "suggested_role": "AI & Computer Vision intern for iAgro DSS development",
+        "rationale": "Agrobit's core work on smartphone-based 3D crop scanning with computer vision, AI, and AR directly matches your Python, OpenCV, and ML experience, while their ongoing Sentinel-2 integration adds an EO angle that aligns with your ESA-Scout repository. As a small Italian agtech startup without advertised internships, a cold approach is realistic if you propose concrete help on their quantitative DSS or multi-scale mapping features.",
+        "suggested_role": "AI & computer vision intern for iAgro DSS development",
         "focus_areas": [
           "Computer Vision",
           "Machine Learning",
           "Earth Observation data integration"
         ],
         "outreach_tips": [
-          "Reference the specific Sentinel-2 integration mentioned on their site and propose how your Synapse pipeline experience could support it",
-          "Mention your drone piloting skill in the context of their tractor-mounted and drone image workflows",
-          "Highlight your Italian location and availability for summer 2027 in Firenze"
+          "Reference the iAgro app's current use of AR and 3D modeling and propose extending it with your Synapse pipeline experience",
+          "Mention your interest in combining smartphone scans with Sentinel-2 data for field-scale vigor maps",
+          "Highlight your drone piloting skill as relevant to their tractor-mounted and drone image collection workflow"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:08Z",
-        "fingerprint": "267629927d3f7651",
-        "error": ""
-      }
-    },
-    {
-      "id": "centro-de-observacion-y-teledeteccion-espacial-s-a-u-71968",
-      "entity_id": "71968",
-      "name": "CENTRO DE OBSERVACIÓN Y TELEDETECCIÓN ESPACIAL S A. U",
-      "country": "Spain",
-      "country_code": "ES",
-      "city": "BOECILLO, VALLADOLID",
-      "website": "https://www.grupotecopy.es/en/areas/technologies/",
-      "description": "COTESA (CENTRO DE OBSERVACIÓN Y TELEDETECCIÓN ESPACIAL, S.A.) of Grupo TECOPY, is a leading company in the design and development of services and applications based on Information and Communications Technologies (ICT) to multiple disciplines, especially those related to Earth Observation, Land and Territorial Management. We are present in Europe, but do also have projets in markets such as Colombia, Costa Rica... Grupo TECOPY does also operate in Morocco, Ecuador, Nicaragua, Benin, and Cameroun. More specifically, COTESA has two different business lines: At AGEO (Analysis Geospatial & Earth Observation ) our solutions and services range from the generation of cartography base on the most demanding standards such as those required in defense mapping, with the knowledge of cutting-edge technics and disciplines to optimize the conversion of data into insight. The multidisciplinary team of AGEO is formed by 45 professionals with an education and expertise in multiple fields (Geomatics and Forest engineers; Graduates in Geography; Agronomists; Bachelor’s in Mathematics, Environmental Sciences, Biology and Physics). This allows us to propose solutions applying the appropriate technique ((Remote Sensing, Lidar, Photogrammetry, Artificial Intelligent, Big Data) and data source according to the needs of each of our clients depending on the project requirements. · Optical and radar imagery from public and private providers such as Maxar and Copernicus (Sentinel satellites) · Aerial Photogrammetry and UAVs · Terrestrial Lidar (Mobile Mapping Systems, 3D scanners) In parallel, the Advanced Technological Solutions (in spanish, STA) specialized in: - design and development of information systems - development and implementation of GIS solutions. - development and exploitation of algorithms for detecting changes in the territory with digital tools and techniques. Specifically, in the field of conflation or fusion of geospatial data from disparate sources, formats and dates of…",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/71968",
-      "domains": [
-        "Earth Observation",
-        "Remote Sensing",
-        "Data Processing",
-        "GIS"
-      ],
-      "matched_keywords": [
-        "earth observation",
-        "remote sensing",
-        "data processing",
-        "gis"
-      ],
-      "content_hash": "c1c326cfb7b9bb39",
-      "fit_score": 78,
-      "evaluation": {
-        "fit_score": 78,
-        "rationale": "COTESA's AGEO line applies AI, remote sensing, and geospatial data fusion to Sentinel and other EO imagery, aligning directly with your Python ML pipelines, Synapse project, and ESA-Scout repository. Their 45-person multidisciplinary team in Boecillo makes a speculative summer placement plausible even without advertised openings.",
-        "suggested_role": "EO data pipeline and AI intern",
-        "focus_areas": [
-          "Machine Learning for remote sensing",
-          "Geospatial data fusion",
-          "Python-based Sentinel processing"
-        ],
-        "outreach_tips": [
-          "Reference their work fusing Sentinel optical/radar imagery with AI for change detection in the AGEO line",
-          "Link your Synapse multi-modal pipeline to their conflation algorithms for territorial monitoring",
-          "Note your native Spanish and Barcelona base as practical for hybrid work at their Valladolid site"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:35Z",
-        "fingerprint": "02047efa9ffa3047",
+        "evaluated_at": "2026-08-23T11:37:06Z",
+        "fingerprint": "7d9d47eb391be17f",
         "error": ""
       }
     },
@@ -1213,21 +1391,21 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "Critiware's work on satellite-data platforms for maritime traffic and geospatial visualization aligns directly with your Python, ML, and data-pipeline experience (Synapse, OpenCV, ESA-Scout repo), and a 15-engineer team makes a speculative summer placement realistic. Their additional focus on software QA for rail/energy is a weaker match, lowering the score from the high 80s.",
-        "suggested_role": "satellite data analysis & visualization intern",
+        "rationale": "Critiware's satellite data analysis and geospatial visualization work aligns well with your Python, ML, and data pipeline experience, especially given your ESA-Scout repository and Synapse project; as a 15-person team already handling heterogeneous satellite feeds for maritime traffic, they could realistically accommodate a motivated summer student. Their additional focus on software QA for rail/energy sectors dilutes the fit slightly but does not eliminate the core overlap.",
+        "suggested_role": "Satellite data analysis and visualization intern",
         "focus_areas": [
           "Satellite data processing",
           "Geospatial visualization",
           "Maritime traffic analytics"
         ],
         "outreach_tips": [
-          "Reference their current maritime-traffic satellite platforms and propose extending them with an ML pipeline similar to your Synapse project",
-          "Mention the PhD founders' EU research coordination experience and ask about contributing to an ongoing geospatial-analysis work package",
-          "Note that you are based in Venice and available for hybrid or Napoli-based work in summer 2027"
+          "Reference their platforms for heterogeneous satellite data collection and maritime traffic visualization in the first paragraph",
+          "Propose extending one of their GIS tools with Python-based ML pipelines drawing on your Synapse and ESA-Scout work",
+          "Mention your availability for Summer 2027 and willingness to work on-site in Napoli"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:49Z",
-        "fingerprint": "4e6cbf6fc9ab1d94",
+        "evaluated_at": "2026-08-23T11:36:52Z",
+        "fingerprint": "12c741eba82ea8fe",
         "error": ""
       }
     },
@@ -1257,21 +1435,21 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "DAPCOM's focus on scientific data pipelines, FAPEC compression for space applications, and hyperspectral imagery aligns well with your Python-based AI projects and ESA-Scout repository, making a cold approach worthwhile for a small ESA-incubated SME. The partial mismatch is your lack of explicit HPC or compression experience, though your data analysis and mentoring background could still add value in a student role.",
+        "rationale": "Your Python-based AI pipelines, data-processing projects and ESA-Scout repository align directly with DAPCOM’s FAPEC compression work and scientific-data pipelines; the company’s small size and ESA-BIC roots make a speculative summer placement realistic. The maritime and hyperspectral extensions add breadth but remain within your demonstrated skill set.",
         "suggested_role": "scientific data pipeline intern",
         "focus_areas": [
           "data compression algorithms",
-          "hyperspectral image processing",
-          "space-derived data applications"
+          "scientific data pipelines",
+          "hyperspectral image processing"
         ],
         "outreach_tips": [
-          "Reference your ESA-Scout GitHub repository when proposing work on FAPEC extensions",
-          "Mention interest in applying your Synapse pipeline experience to FARSHY hyperspectral viewers",
-          "Tie your Audi We Generation sustainability focus to their maritime-sector FAPEC deployments since 2023"
+          "Reference your ESA-Scout repository and how it could extend FAPEC testing",
+          "Mention interest in adapting their open-source tools for the Synapse multi-modal pipeline",
+          "Note their University of Barcelona / UPC participation and your H-FARM Microsoft-linked curriculum"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:24Z",
-        "fingerprint": "fe7535393a1753e7",
+        "evaluated_at": "2026-08-23T11:37:15Z",
+        "fingerprint": "ab39f04669abca22",
         "error": ""
       }
     },
@@ -1345,21 +1523,21 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "FlySight's core work on AI-driven optical image analytics and deep learning for remote sensing aligns closely with your Python, OpenCV, and multi-modal pipeline experience, and the Italian location plus ESA-supplier status make a cold approach realistic for a small spin-off team. The defence and infrastructure focus is specialised but still offers plausible room for a student contributor in data-processing tasks.",
-        "suggested_role": "Remote sensing AI pipeline intern",
+        "rationale": "Your Python, OpenCV and machine-learning experience maps directly onto FlySight's deep-learning pipelines for satellite imagery and AR-enhanced ISTAR systems, and the Italian location plus your ESA-Scout repository give the approach a realistic chance. The company is a small specialist spin-off, so a targeted speculative email stands a good chance of being read rather than ignored.",
+        "suggested_role": "AI remote-sensing analytics intern",
         "focus_areas": [
-          "Deep learning for optical imagery",
-          "GIS and STANAG/OGC data interoperability",
-          "Real-time PED software development"
+          "Deep learning for optical image analysis",
+          "GIS and OGC-standard data pipelines",
+          "Python-based real-time PED tools"
         ],
         "outreach_tips": [
-          "Reference their spin-off heritage from Flyby and specific work on cognitive signal processing algorithms",
-          "Propose extending your Synapse multi-modal pipeline to their satellite image workflows",
-          "Mention interest in applying your ESA-Scout repository experience to their C4ISR or infrastructure monitoring projects"
+          "Reference their cognitive signal-processing work for C4ISR in the subject line",
+          "Mention your Synapse multi-modal pipeline as an example of handling unstructured video into structured geospatial data",
+          "Note interest in extending their STANAG/OGC interoperability layer with new fusion algorithms"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:44Z",
-        "fingerprint": "c6e25c28e57153ac",
+        "evaluated_at": "2026-08-23T11:36:48Z",
+        "fingerprint": "645c1663cecf9464",
         "error": ""
       }
     },
@@ -1435,21 +1613,67 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "Hightek's focus on real-time image processing, AI diagnostic imaging, and remote-sensing payloads aligns closely with your OpenCV, ML, and Synapse pipeline experience, while your drone piloting and 3D-printing skills could support their avionics and IoT hardware work. As a small Italian startup the team may have capacity for a motivated student who can contribute immediately to Python-based data pipelines or computer-vision prototypes.",
-        "suggested_role": "AI & computer-vision intern for remote-sensing data processing",
+        "rationale": "Your Python ML pipelines, OpenCV experience and ESA-Scout repository map directly onto Hightek’s real-time image processing, AI diagnostic imaging and remote-sensing payloads. Being a small Italian aerospace startup they are plausible targets for a speculative summer placement even without advertised openings.",
+        "suggested_role": "remote sensing AI intern",
         "focus_areas": [
-          "Computer Vision",
-          "Machine Learning",
-          "Remote Sensing Data Analysis"
+          "computer vision for EO/IR sensors",
+          "real-time geospatial data processing",
+          "aerospace software"
         ],
         "outreach_tips": [
-          "Reference their EO/IR multispectral sensor development and propose extending your Synapse pipeline to process their aerial imagery",
-          "Mention your drone piloting experience when discussing their aerial inspection systems",
-          "Highlight your Italian location and availability for on-site work at Castel San Giorgio during summer 2027"
+          "Reference their multispectral sensor and avionics work when describing your Synapse pipeline",
+          "Highlight the ESA-Scout GitHub repo to show existing space-sector interest",
+          "Propose a concrete summer project on drone or satellite image analytics for environmental monitoring"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:05:13Z",
-        "fingerprint": "918982b07ab35bb7",
+        "evaluated_at": "2026-08-23T11:36:34Z",
+        "fingerprint": "07a16e852b18c507",
+        "error": ""
+      }
+    },
+    {
+      "id": "ianus-srl-141990",
+      "entity_id": "141990",
+      "name": "Ianus Srl",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Milano",
+      "website": "http://www.doorsar.it",
+      "description": "IANUS S.r.l. (Milan, Italy) is an Italian innovative SME (\"PMI Innovativa\"), registered with the Milan Chamber of Commerce (REA MI-2659097, Tax Code/VAT No. 12388630969), specialising in the design and development of Augmented Reality (AR) solutions, Artificial Intelligence solutions, and advanced digital applications. Core technology and platform. The company has developed its own proprietary AR platform, integrating computer vision technologies for image targeting and recognition based on machine learning algorithms. These capabilities have been developed in collaboration with the Institute of Information Science and Technologies (ISTI) of the Italian National Research Council (CNR), Pisa. More broadly, IANUS's core activity centres on cloud-based software delivering immersive, responsive, 360-degree, three-dimensional AR/VR experiences for domestic, public, cultural, commercial, and industrial use (including Industry 4.0 applications), together with a cloud platform for the distribution and consumption of XR content. AI and decision intelligence focus. In parallel, IANUS is actively engaged in the development of Agentic Artificial Intelligence architectures, multi-agent orchestration frameworks, and human-centred decision intelligence systems. With multidisciplinary expertise, the company combines competencies in software engineering, artificial intelligence, business process innovation, and digital solution design. Adjacent activities. Within its broader scope of innovative technologies, the company may also engage in: design and production of video game software; production of audiovisual content and management and intermediation of digital content as well as related consulting, editorial management, and advertising services.",
+      "entity_type": "Company",
+      "entity_size": "Micro",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/141990",
+      "domains": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software",
+        "Computer Vision"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "software",
+        "computer vision"
+      ],
+      "content_hash": "8dd5aa2c720627bf",
+      "fit_score": 78,
+      "evaluation": {
+        "fit_score": 78,
+        "rationale": "Ianus's core work on ML-driven computer vision for AR targeting and its emerging Agentic AI architectures align closely with your Python, OpenCV and multi-modal pipeline experience, and a micro Italian SME is small enough that a targeted cold email could reach a decision-maker. The company's Industry 4.0 and XR focus also matches your hardware prototyping and data-visualisation skills, making a speculative approach worthwhile despite the lack of advertised openings.",
+        "suggested_role": "AR computer-vision & multi-agent AI intern",
+        "focus_areas": [
+          "Machine Learning for computer vision",
+          "Agentic AI / multi-agent systems",
+          "XR content pipelines"
+        ],
+        "outreach_tips": [
+          "Reference their ISTI-CNR collaboration on the AR platform and propose extending the image-targeting ML models with your OpenCV experience",
+          "Mention your Synapse multi-modal pipeline project as a concrete example of processing unstructured visual data into structured outputs relevant to their XR content platform",
+          "Note your ESA-Scout repository and Italian location to signal both domain interest and immediate availability for summer 2027"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:44Z",
+        "fingerprint": "08aa621322983c50",
         "error": ""
       }
     },
@@ -1496,96 +1720,6 @@
       }
     },
     {
-      "id": "involve-space-s-r-l-133584",
-      "entity_id": "133584",
-      "name": "Involve Space S.r.l.",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Canzo",
-      "website": "https://www.involvespace.eu",
-      "description": "Involve Space – Insight from above, Impact on the ground Involve Space is an Italian aerospace company that designs, develops, and launches intelligent pseudo-satellite platforms based on space balloons for Earth observation, defense, flight validation, and scientific research. With over 30 successfully launched missions, it is the leading Italian provider and one of the European leaders in the stratospheric mission sector. The proprietary technology, capable of reaching altitudes of 30 km in suborbit, allows for close-up observation of the Earth with resolutions of up to 0.3 meters/pixel, eliminating the typical revisiting time of satellites, enabling constant and real-time monitoring. The asset can maintain its position and optimize routes based on atmospheric conditions. Involve Space integrates aerospace hardware, artificial intelligence, and a sustainable approach: its balloons are reusable, zero-emission, and produced in-house. The next frontier is LoonHive®: constellations of decentralized stratospheric balloons for targeted large-scale monitoring, distributed through the tools of the intelligent geospatial platform CLEAR, positioning Involve Space as an end-to-end provider. Based in Como and with an expanding presence in Europe and the United States, Involve Space aims to be a global reference point in the High Altitude Platforms (HAPS) market, with a clear vision: to bring strategic data from near-Earth space to generate concrete and sustainable impacts.",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/133584",
-      "domains": [
-        "Earth Observation",
-        "Artificial Intelligence",
-        "GIS"
-      ],
-      "matched_keywords": [
-        "earth observation",
-        "artificial intelligence",
-        "gis"
-      ],
-      "content_hash": "ac22450146197c24",
-      "fit_score": 78,
-      "evaluation": {
-        "fit_score": 78,
-        "rationale": "Your AI/ML pipeline experience and Python skills align directly with Involve Space's integration of artificial intelligence into stratospheric Earth-observation platforms and the CLEAR geospatial system. As a compact Italian SME with a focused technical offering, the company is small enough that a targeted cold approach for a 2027 summer role could be noticed, especially given your location in Italy and demonstrated interest in ESA-related work.",
-        "suggested_role": "AI & geospatial data pipeline intern",
-        "focus_areas": [
-          "Machine Learning for Earth Observation",
-          "Python data pipelines with OpenCV/Whisper",
-          "GIS analysis"
-        ],
-        "outreach_tips": [
-          "Reference their LoonHive constellation concept and how your Synapse multi-modal pipeline could process balloon imagery",
-          "Mention the ESA-Scout repository on your GitHub to signal familiarity with ESA suppliers",
-          "Note your proximity in Venice and drone-piloting experience when proposing work on real-time stratospheric data flows"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:24Z",
-        "fingerprint": "7fdf528b1c1940d5",
-        "error": ""
-      }
-    },
-    {
-      "id": "iws-consulting-s-r-l-137690",
-      "entity_id": "137690",
-      "name": "IWS Consulting S.r.l.",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Roma",
-      "website": "https://iwsconsulting.it/",
-      "description": "SME based in Rome (Italy) with expertise in business software development with corporate and government clients. Area of expertise: Machine Learning, Computer Vision, IoT and Satellite Downstream Data Analysis",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/137690",
-      "domains": [
-        "Machine Learning",
-        "Data Processing",
-        "Software",
-        "Computer Vision"
-      ],
-      "matched_keywords": [
-        "machine learning",
-        "data processing",
-        "software",
-        "computer vision"
-      ],
-      "content_hash": "c55e5fb855e61828",
-      "fit_score": 78,
-      "evaluation": {
-        "fit_score": 78,
-        "rationale": "Your ML, computer vision and data-pipeline experience aligns directly with IWS’s stated domains of satellite downstream analysis, IoT and computer vision, and a small Rome SME is realistically open to a motivated cold approach for summer 2027. The company’s ESA registration further strengthens the fit for an ESA-Scout-style student.",
-        "suggested_role": "Satellite downstream data pipeline intern",
-        "focus_areas": [
-          "Satellite Downstream Data Analysis",
-          "Computer Vision",
-          "Machine Learning"
-        ],
-        "outreach_tips": [
-          "Mention their government-client satellite downstream work and propose extending your Synapse pipeline to process ESA or Copernicus data",
-          "Reference the IoT + computer vision intersection on their site and offer an OpenCV-based prototype for one of their existing IoT use-cases",
-          "Note that you are already building an ESA-Scout TypeScript tool and would like to test it against their satellite data workflows"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:58Z",
-        "fingerprint": "9582b68b14c7351b",
-        "error": ""
-      }
-    },
-    {
       "id": "m3s-italia-141728",
       "entity_id": "141728",
       "name": "M3S Italia",
@@ -1613,21 +1747,21 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "M3S Italia's AI/ML data-processing platforms, drone-based remote sensing payloads and GNSS signal analysis align closely with your Python, machine-learning and drone-piloting experience, and the Rome location plus your Italian background make a speculative approach realistic for a small specialist team. The company's emphasis on integrated hardware/software turnkey solutions also matches several of your independent projects, though the defence-sector focus may limit the breadth of summer tasks available.",
-        "suggested_role": "AI/ML remote-sensing data pipeline intern",
+        "rationale": "M3S Italia's focus on AI/ML data processing for GNSS monitoring, SATCOM, and drone-based remote sensing aligns closely with your Python, ML, OpenCV and drone-piloting experience, and their Rome location matches your Italian base. As an SME offering full-lifecycle engineering services they are small enough that a targeted cold approach could secure a summer role even without an advertised opening.",
+        "suggested_role": "AI/ML intern for GNSS or UAS data-processing pipelines",
         "focus_areas": [
-          "AI/ML data processing for GNSS/SATCOM",
-          "Drone/UAS remote-sensing payloads",
-          "Big-data telemetry analytics"
+          "AI/ML-based GNSS/RF data analysis",
+          "Drone remote-sensing payloads",
+          "Satellite telemetry processing"
         ],
         "outreach_tips": [
-          "Reference their published work on Galileo/GNSS quality monitoring and propose extending it with your Synapse-style transcription pipeline",
-          "Mention your drone-piloting licence and the ESA-Scout GitHub repo when suggesting a short UAS telemetry analytics prototype",
-          "Note that you are based in Venice and available for hybrid or on-site work in Rome during summer 2027"
+          "Reference your ESA-Scout GitHub repository when writing to their software-engineering team",
+          "Mention your Synapse multi-modal pipeline and drone piloting in the context of their UAS/SATCOM work",
+          "Propose contributing to their real-time telemetry or spectrum-monitoring platforms"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:44Z",
-        "fingerprint": "42c50dad759db960",
+        "evaluated_at": "2026-08-23T11:36:48Z",
+        "fingerprint": "b918160f4bcf9518",
         "error": ""
       }
     },
@@ -1657,113 +1791,115 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "Your AI/ML and Python pipeline experience maps directly onto MESPAC's proprietary algorithms that fuse SatEO data with physical models for metocean products, and the Torino-based SME is small enough that a targeted cold approach for summer 2027 could succeed. The connection is slightly tempered by the company's narrow offshore-energy focus, which may limit the breadth of tasks available.",
-        "suggested_role": "AI for satellite metocean data intern",
+        "rationale": "MESPAC's core work on integrating SatEO data with proprietary AI algorithms for metocean datasets aligns closely with your Python, ML and data-pipeline projects, and your location in Italy makes a cold approach feasible for a small Torino SME. The offshore-energy focus narrows the fit slightly, but your ESA-Scout repository and Synapse pipeline give you a credible entry point.",
+        "suggested_role": "EO data pipeline & AI accuracy intern",
         "focus_areas": [
-          "Machine Learning on Earth Observation datasets",
-          "Python data fusion pipelines",
-          "Interactive analytics dashboards"
+          "SatEO data integration",
+          "AI model accuracy improvement",
+          "Python data analytics dashboards"
         ],
         "outreach_tips": [
-          "Cite their 40% time-saving claim versus traditional surveys and link it to your Synapse multi-modal pipeline",
-          "Reference the ESA-Scout repository on your GitHub as evidence of prior interest in ESA-registered EO work",
-          "Mention the online platform with interactive dashboards and propose contributing to its data analytics engine"
+          "Reference their 40 % time-saving claim and note how your Synapse pipeline could extend similar efficiency gains to metocean datasets.",
+          "Highlight the ESA-Scout repository and ask whether they need help ingesting additional Copernicus or Sentinel sources into their existing sensor-fusion workflow.",
+          "Propose a short test on one of their public interactive dashboards to demonstrate a small accuracy or visualisation improvement."
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:30Z",
-        "fingerprint": "19bf9161336fe697",
+        "evaluated_at": "2026-08-23T11:37:21Z",
+        "fingerprint": "2fb905213e7f83f3",
         "error": ""
       }
     },
     {
-      "id": "ostirion-s-l-u-132664",
-      "entity_id": "132664",
-      "name": "OSTIRION, S.L.U.",
-      "country": "Spain",
-      "country_code": "ES",
-      "city": "Madrid",
-      "website": "http://www.ostirion.net",
-      "description": "OSTIRION SL is a Small Enterprise that offers boutique consulting, advisory, and operation support in complex technological research topics. OSTIRION conducts artificial intelligence, machine learning, and computer vision research, prototyping, systems engineering, and development in the following areas: - Transportation and infrastructure. - Imagery intelligence acquisition from satellite imagery, cameras onboard vehicles, and fixed point surveillance systems. - Robotics Systems and Artificial Intelligence Robotics Control.",
+      "id": "sevalta-societa-a-responsabilita-limitata-141517",
+      "entity_id": "141517",
+      "name": "SEVALTA SOCIETA' A RESPONSABILITA' LIMITATA",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Bari",
+      "website": "https://sevalta.it",
+      "description": "SEVALTA S.r.l. is an Italian innovative start-up based in Bari, focused on the development, production and commercialisation of high-technology products and services in the fields of Earth Observation, geospatial intelligence, satellite data processing, GIS platforms, digital twins and decision support systems. The company develops solutions for the acquisition, processing, validation, fusion and analysis of multi-source geospatial data, including satellite imagery, in-situ data and sensor data. Its activities include software platforms, data services, artificial intelligence models, digital twin solutions, monitoring systems, predictive analytics and technical reporting for public and private decision-makers. SEVALTA operates with particular focus on environmental monitoring, climate adaptation, natural risk management, infrastructure resilience, smart cities, precision agriculture, blue economy and advanced geospatial analytics. The company also performs research and development, prototyping, pilot projects and operational testing, with the objective of transforming space-enabled data into actionable information for safer, more resilient and more sustainable territories and infrastructures.",
       "entity_type": "Company",
       "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/132664",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/141517",
       "domains": [
         "Earth Observation",
         "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
+        "Data Processing",
+        "Software",
+        "GIS",
         "Satellite Data"
       ],
       "matched_keywords": [
         "earth observation",
         "artificial intelligence",
-        "machine learning",
-        "computer vision",
+        "data processing",
+        "software",
+        "gis",
         "satellite data"
       ],
-      "content_hash": "aa307205b98fd9b5",
+      "content_hash": "927ef3269d592629",
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "Your Python, OpenCV, and multi-modal pipeline experience align directly with OSTIRION’s satellite-imagery intelligence and computer-vision work, and a small Madrid SME is realistically able to host one motivated summer student. The company’s published focus on transportation and robotics applications gives a clear hook for a speculative proposal.",
-        "suggested_role": "AI & Computer Vision intern for satellite imagery analysis",
+        "rationale": "Your AI/ML pipeline experience and ESA-Scout repository align directly with SEVALTA’s satellite-data processing, AI models and digital-twin work, and the Bari start-up is small enough that a motivated student could be useful. The geographic proximity (Venice–Bari) and shared Italian ESA ecosystem further improve the odds of a reply.",
+        "suggested_role": "EO data pipeline & AI intern",
         "focus_areas": [
-          "Machine Learning",
-          "Computer Vision",
-          "Earth Observation"
+          "Machine Learning for satellite imagery",
+          "Geospatial data fusion",
+          "Python-based processing pipelines"
         ],
         "outreach_tips": [
-          "Reference their published work on imagery intelligence from satellite and vehicle cameras when describing your Synapse pipeline",
-          "Mention your ESA-Scout GitHub repository and Spanish-language background as reasons for targeting an OSTIRION placement in Madrid",
-          "Propose a short prototype that applies your Whisper/OCR experience to their transportation or infrastructure imagery datasets"
+          "Reference their published work on multi-source geospatial data fusion and propose extending one of their environmental-monitoring AI models",
+          "Mention your Synapse pipeline and ESA-Scout repo as concrete examples of local AI processing you could adapt to their satellite workflows",
+          "Suggest a short pilot on open Sentinel data for one of their listed domains (precision agriculture or natural-risk mapping)"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:33Z",
-        "fingerprint": "53082666e044ece1",
+        "evaluated_at": "2026-08-23T11:36:33Z",
+        "fingerprint": "c9851bb7ede97caa",
         "error": ""
       }
     },
     {
-      "id": "railway-measurement-technology-srl-139348",
-      "entity_id": "139348",
-      "name": "RAILWAY MEASUREMENT TECHNOLOGY SRL",
+      "id": "sistematica-s-p-a-57383",
+      "entity_id": "57383",
+      "name": "SISTEMATICA S.P.A.",
       "country": "Italy",
       "country_code": "IT",
-      "city": "Santa Giustina In Colle",
-      "website": "http://www.ramete.com",
-      "description": "RMT is an Italian engineering and software development company specializing in advanced machine vision systems and artificial intelligence (AI) for industrial automation, railways application, quality control, and process optimization. Leveraging years of experience in applied research and development, RMT designs and implements custom-made solutions that integrate cutting-edge 2D and 3D vision sensors, intelligent illumination, robotics, and proprietary AI algorithms. RMT's core expertise lies in developing highly precise and reliable systems for: Automated defect detection and classification: Identifying even subtle imperfections on complex surfaces and materials (e.g., metals, wood panels, composite materials, tunnel walls, crack detection, water leakege, missing part...). Dimensional control and precise measurement: Utilizing 3D scanning technologies for accurate thickness, shape, and profile verification. Process optimization: Enabling efficient material utilization and decision-making through intelligent data analysis (e.g., automatic defect mapping for optimized material cutting). RMT's methodology involves a structured approach, often starting with paid feasibility studies and proof-of-concept (PoC) phases to validate the technical solution and define project requirements, ensuring a low-risk investment for clients before proceeding to full implementation. With a strong focus on delivering tangible value and return on investment (ROI) for its clients, RMT is committed to pushing the boundaries of industrial automation through innovative vision and AI solutions. Their proven ability to adapt advanced sensing and AI to diverse and challenging industrial environments positions them as a valuable partner for complex projects requiring high precision and intelligence.",
+      "city": "Rome",
+      "website": "http://www.grupposistematica.it",
+      "description": "SISTEMATICA’s main activities are the development of “Turn Key” SW solutions, System Integration and Consulting Services, in the following sectors:  Aerospace and Telecommunication Industry  Energy Industry  Mobility and Geolocation  Monitoring and Control  Public Service, Health Service, Document management and Dematerialization  Safety Partner The Group's experience is now decade-long in the AEROSPACE INDUSTRY, particularly with regard to the Ground Segment (G/S), having participated for the major agencies of the sector to the development of projects of great importance (COSMO-SkyMed, Galileo, Iridium, Astrolink SRTM) Aerospace and Satellite sector. The experience gained has allowed to consolidate specific expertise in:  Analysis and definition of requirements for the construction of ground segments (G/S)  Design and implementation of the components of G/S Monitoring & Control (Planning and production control, etc.).  Design and development of components for processing, distribution of remotely sensed data  Navigation Systems (Galileo, EGNOS, GPS)  Protocols for Remote Controls/Telemetries (eg CCSDS)  Standard Products Features (eg, MGD, GEC, GTC)  Typical formats for remote sensing (CEOS, x-TIFF, DTED)  ESA standard knowledge (PSS05, ECSS, etc.)., DoD In parallel with the projects in the aerospace sector, Sistematica Spa has established itself in the area of MOBILE SYSTEMS as technological reference partner in the design and implementation of operational centers for remote monitoring and location (via GPS) of mobile vehicles and for the fleet management, using GIS systems and communication networks both terrestrial (GSM-GPRS, TETRA) and satellite (EMSAT GLOBALSTAR, ORBCOMM). The main customers in this sector are: VIASAT, OCTOTELEMATICS, TELESPAZIO, ELSACOM, for some of these Sistematica has taken care of most of the software developments and of the necessary system integration in projects of:  Mobile Surveillance Systems: location services and…",
       "entity_type": "Company",
       "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/139348",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/57383",
       "domains": [
-        "Artificial Intelligence",
-        "Data Processing",
-        "Software"
+        "Remote Sensing",
+        "Software",
+        "GIS"
       ],
       "matched_keywords": [
-        "artificial intelligence",
-        "data processing",
-        "software"
+        "remote sensing",
+        "software",
+        "gis"
       ],
-      "content_hash": "dfc63395f0751f79",
+      "content_hash": "c098897b99298dc1",
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "Your Python, OpenCV, and multi-modal AI pipeline experience (Synapse) maps directly onto RMT's core work in 2D/3D vision systems and defect-detection algorithms for railways and industrial surfaces. The company is a small specialist engineering firm that runs paid PoC phases, making a speculative summer placement for an AI student plausible if you can show immediate value on their existing vision tasks.",
-        "suggested_role": "machine vision AI intern",
+        "rationale": "Sistematica’s core work on ground-segment software, remote-sensing data processing pipelines, and ESA-standard formats aligns directly with your Python, ML, and data-analysis skills plus the ESA-Scout repository. As an established but not enormous Italian firm with documented aerospace projects, they are large enough to host a summer student yet small enough that a targeted cold email could reach a technical lead.",
+        "suggested_role": "remote-sensing data pipeline intern",
         "focus_areas": [
-          "OpenCV/ML defect detection",
-          "3D vision pipelines",
-          "industrial data analysis"
+          "Python processing of CEOS / GeoTIFF data",
+          "GIS and satellite product generation",
+          "Ground-segment monitoring tools"
         ],
         "outreach_tips": [
-          "Mention their railway crack-detection and tunnel-wall inspection systems explicitly",
-          "Offer to support an ongoing feasibility study or PoC with a small OpenCV prototype",
-          "Note your Venice base and availability for hybrid work at Santa Giustina In Colle"
+          "Reference your ESA-Scout repository and note its relevance to their COSMO-SkyMed or Galileo ground-segment experience",
+          "Mention familiarity with CCSDS protocols and ESA ECSS standards from your coursework and projects",
+          "Propose contributing to their mobile/remote-monitoring GIS components using your drone and OpenCV background"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:16Z",
-        "fingerprint": "dfc9903f4da7d304",
+        "evaluated_at": "2026-08-23T11:37:09Z",
+        "fingerprint": "db101cef0617243e",
         "error": ""
       }
     },
@@ -1852,52 +1988,6 @@
       }
     },
     {
-      "id": "titan4-srl-69627",
-      "entity_id": "69627",
-      "name": "TITAN4 srl",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Roma",
-      "website": "http://www.titan4.it",
-      "description": "Titan4 is committed to leveraging innovative earth observation downstream solutions to advance environmental stewardship and safety on a global scale. Building on our successful incubation period in the European Space Agency BIC program, Titan4 harnesses innovative technologies to process and analyze optical and radar satellite images with unparalleled speed, cost-effectiveness, and accuracy. Our mission is to empower stakeholders to monitor and safeguard the health of our planet's ecosystems and infrastructure, providing actionable insights and timely information to inform strategic planning, risk management, and policy development. With the Titan4 platform, users can assess and monitor public and private infrastructures, land stability, structural deformations, seismic areas, and more. Our automatic InSAR data processing tool delivers near real-time results at a millimeter scale, complemented by data fusion features, visual and historical reports, trend analysis, and critical deformation alerts. Key features of Titan4 platform include: - Rapid and highly accurate results - Flexible pay-per-use pricing model - Scalable high-performance computing for large geographical areas - Streamlined automation of all processing phases - Intuitive interface and API connections for data integration - Comprehensive training and dedicated assistance at every stage At Titan4, we pride ourselves on our interdisciplinary team of telecom engineers, data scientists, and software architects. This collaborative approach ensures the robustness, reliability and innovation of our solutions, making Titan4 the preferred choice for both public and private sector clients seeking to leverage satellite technology for environmental monitoring and sustainability initiatives. Join us in our vision to preserve our planet for future generations. Let's work together to unlock the full potential of satellite data integration and drive positive environmental impact.",
-      "entity_type": "Company",
-      "entity_size": "Micro",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/69627",
-      "domains": [
-        "Earth Observation",
-        "Data Processing",
-        "Software",
-        "Satellite Data"
-      ],
-      "matched_keywords": [
-        "earth observation",
-        "data processing",
-        "software",
-        "satellite data"
-      ],
-      "content_hash": "b775bda83c7d21f9",
-      "fit_score": 78,
-      "evaluation": {
-        "fit_score": 78,
-        "rationale": "Titan4's core work on automated InSAR processing, data fusion and satellite-image analysis aligns closely with your Python/ML pipeline experience and the ESA-Scout repository on your GitHub. As a micro-company the team is small enough that a targeted cold approach from a local Italian student with demonstrated EO-relevant projects could realistically lead to a summer placement.",
-        "suggested_role": "EO data pipeline intern",
-        "focus_areas": [
-          "InSAR automation",
-          "satellite data fusion",
-          "Python-based image analysis"
-        ],
-        "outreach_tips": [
-          "Reference their ESA BIC incubation and the millimetre-scale deformation alerts in the first paragraph",
-          "Propose extending their pay-per-use platform with a lightweight ML module for anomaly detection in optical/radar stacks",
-          "Mention your Synapse pipeline and ESA-Scout repo as concrete examples of local, scalable processing you could adapt to their HPC workflow"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:32Z",
-        "fingerprint": "1970bf420b527f82",
-        "error": ""
-      }
-    },
-    {
       "id": "uptoearth-italia-srl-130894",
       "entity_id": "130894",
       "name": "UPTOEARTH ITALIA SRL",
@@ -1966,67 +2056,21 @@
       "fit_score": 78,
       "evaluation": {
         "fit_score": 78,
-        "rationale": "Vexiza's focus on AI-driven geospatial intelligence, Big Data processing, and environmental applications such as wildfire and meteorology analytics aligns closely with your Python, ML, and data-analysis skills, and their small cross-disciplinary team makes a speculative placement plausible. The GIS emphasis adds a valuable domain layer that matches your ESA-Scout repository and interest in turning complex data into actionable insights.",
-        "suggested_role": "Geospatial AI data pipeline intern",
+        "rationale": "Your AI/ML pipeline experience and Python skills map directly onto Vexiza's geospatial intelligence work for environmental and emergency-management clients, and the company's SME scale makes a speculative summer placement realistic. The ESA supplier status plus your ESA-Scout repository gives a concrete conversation starter that most cold emails lack.",
+        "suggested_role": "Geospatial AI data-pipeline intern",
         "focus_areas": [
-          "GIS and geospatial AI",
-          "Machine learning for environmental data",
-          "Big Data cloud processing"
+          "Python ML pipelines for GIS data",
+          "Big-data processing for environmental phenomena",
+          "Cloud-based geospatial analytics"
         ],
         "outreach_tips": [
-          "Reference their work converting wildfire or meteorology data into real-time insights",
-          "Propose extending their UX-centered platforms with your Synapse-style multi-modal pipelines",
-          "Highlight your ESA-Scout GitHub repo when discussing location-based data projects"
+          "Open by noting their ESA registration and linking your ESA-Scout repo",
+          "Reference their wildfire or meteorology projects when describing your Synapse pipeline",
+          "Propose building a small demo that ingests open Spanish geospatial datasets using your existing Python stack"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:48Z",
-        "fingerprint": "578f3c05bc5e2c75",
-        "error": ""
-      }
-    },
-    {
-      "id": "zendata-s-r-l-142069",
-      "entity_id": "142069",
-      "name": "Zendata S.r.l.",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Rome",
-      "website": "https://zendata.it",
-      "description": "Zendata S.r.l. is an Italian technology company specializing in Artificial Intelligence, Machine Learning, Generative AI, and end-to-end SaaS development. We design, develop, deploy, and operate intelligent software solutions across both cloud and on-premises environments, supporting the entire product lifecycle from strategy and architecture to implementation and maintenance. Our expertise includes AI agents, Retrieval-Augmented Generation (RAG), natural language processing, computer vision, predictive analytics, intelligent automation, and enterprise-grade AI systems that accelerate digital transformation and create measurable business value.",
-      "entity_type": "Company",
-      "entity_size": "Micro",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/142069",
-      "domains": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software",
-        "Computer Vision"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "machine learning",
-        "software",
-        "computer vision"
-      ],
-      "content_hash": "9af153fb08a4dc66",
-      "fit_score": 78,
-      "evaluation": {
-        "fit_score": 78,
-        "rationale": "Your Synapse multi-modal pipeline, OpenCV experience, and Python ML projects map directly onto Zendata's stated focus on computer vision, NLP, and RAG-based generative AI, while the micro-company size in Rome makes a speculative summer placement realistic. The ESA-Scout repository on your GitHub further strengthens the case given their ESA supplier status.",
-        "suggested_role": "Generative AI & computer-vision pipeline intern",
-        "focus_areas": [
-          "Python ML pipelines",
-          "Computer Vision with OpenCV",
-          "RAG / generative AI systems"
-        ],
-        "outreach_tips": [
-          "Cite their on-premises AI deployment work when describing how your local Whisper pipeline could extend their offerings",
-          "Reference the ESA-Scout TypeScript repo to signal immediate relevance to their ESA contracts",
-          "Propose a concrete 10-week project that combines their AI-agent expertise with your Synapse architecture"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:56Z",
-        "fingerprint": "b40be19d5dcf8264",
+        "evaluated_at": "2026-08-23T11:36:49Z",
+        "fingerprint": "139e9dc256f239d6",
         "error": ""
       }
     },
@@ -2247,48 +2291,48 @@
       }
     },
     {
-      "id": "mars-planet-technologies-srl-82876",
-      "entity_id": "82876",
-      "name": "Mars Planet Technologies Srl",
+      "id": "mauro-mazzei-141751",
+      "entity_id": "141751",
+      "name": "Mauro Mazzei",
       "country": "Italy",
       "country_code": "IT",
-      "city": "Curno",
-      "website": "http://www.mars-city.org",
-      "description": "THE COMPANY PURPOSES DEVELOPMENT, PRODUCTION AND MARKETING OF HIGH-TECHNOLOGICAL INNOVATIVE PRODUCTS OR SERVICES, AND MORE SPECIFICALLY: THE DESIGN, DEVELOPMENT AND REALIZATION OF SPATIAL SYSTEMS OF ANY TYPE, e.g., AND NOT EXCLUSIVELY: THE DESIGN AND REALIZATION OF ROBOTIC SYSTEMS, EVEN HUMANOID, LIFE SUPPORT SYSTEMS, SPATIAL PROPULSION SYSTEMS, SYSTEMS AVIONICS FOR THE SPACE, HOWEVER COMPLEX, LOCAL EXPLOITATION SYSTEMS OF SPATIAL RESOURCES (ISRU: IN SITU RESOURCE UTILIZATION) LOCATED BOTH ON PLANETS AND SATELLITES THAT ON ASTERODES, OF PLACED MODULES AND SPACE STATIONS BOTH IN ORBIT AND ON PLANETS AND SATELLITES, OF SPATIAL AGRICULTURE SYSTEMS, OF SYSTEMS AND APPARATUS DEDICATED TO SPACE MEDICINE, OF SYSTEMS ED SPACE TELECOMMUNICATIONS EQUIPMENT, SOFTWARE NECESSARY FOR THE CONTROL OF MISSION AND OF SPACE EQUIPMENT WHEREVER LOCATED, OF DEDICATED SOFTWARE THE PROCESSING OF SPATIAL DATA ALSO THROUGH INTELLIGENCE TECHNIQUES ARTIFICIAL, MACHINE LEARNING, BIG DATA, OF ELECTRICAL AND ELECTRONIC EQUIPMENT FOR THE SPACE, OF SPACE SIMULATION SYSTEMS LOCATED ON EARTH, AS VIRTUAL AND INCREASED SIMULATION SYSTEMS, AND THEIR RELATED COMMUNICATION EQUIPMENT AND SENSORS, OF NEW MATERIALS REQUIRED FOR THE HUMAN EXPLORATION OF SPACE, OF REMOTE SENSING SYSTEMS, REMOTE SENSING, DEDICATED TO BOTH LAND AND HAVING APPLICATIONS AS AIM THE EXPLORATION OF HEAVENLY BODIES. THE RESEARCH ACTIVITY IN THE CONTEXT OF ALL AREAS THAT CONCERN HUMAN EXPLORATION OF SPACE, WITH PARTICULAR REFERENCE TO EXPLORATION OF MARS. COMMERCIAL ACTIVITY OF SALE OF SYSTEMS, APPARATUS, dEVICES, MACHINES, PLANTS IN ALL THE ABOVE MENTIONED AND INDUSTRIAL SECTORS OF ANY KIND OF YOUR OWN INTEREST.",
+      "city": "Tivoli",
+      "website": "https://mauromazzei.altervista.org/",
+      "description": "Research areas: His work focuses on geomatics, geospatial data analysis, geographic information systems (GIS), machine learning and remote sensing.",
       "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/82876",
+      "entity_size": "Micro",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/141751",
       "domains": [
         "Remote Sensing",
         "Machine Learning",
         "Data Processing",
-        "Software"
+        "GIS"
       ],
       "matched_keywords": [
         "remote sensing",
         "machine learning",
         "data processing",
-        "software"
+        "gis"
       ],
-      "content_hash": "cb04e2c0f767b4e2",
+      "content_hash": "fa9e273c6a40fb40",
       "fit_score": 72,
       "evaluation": {
         "fit_score": 72,
-        "rationale": "Your AI/ML pipeline work and ESA-Scout repository align directly with the company's emphasis on machine-learning processing of spatial data and remote-sensing systems for Mars exploration. As an Italian SME with a broad but software-heavy mandate, they are small enough that a targeted cold approach could succeed if you highlight concrete Python and data projects rather than generic space interest.",
-        "suggested_role": "ML pipeline intern for remote-sensing data",
+        "rationale": "Your Python ML skills, OpenCV experience, and ESA-Scout repository align directly with Mauro Mazzei's published focus on machine learning applied to remote sensing and GIS, making a cold approach plausible for a micro-sized Italian research operation. The single-researcher scale limits capacity for structured internships, so the email must demonstrate immediate value on an active geomatics task rather than generic interest.",
+        "suggested_role": "remote-sensing ML pipeline intern",
         "focus_areas": [
-          "Machine Learning",
-          "Remote Sensing",
-          "Data Processing"
+          "Machine Learning for geospatial data",
+          "GIS and remote sensing pipelines",
+          "Python-based data processing"
         ],
         "outreach_tips": [
-          "Reference their ISRU and Mars simulation systems when describing your Synapse pipeline",
-          "Mention the ESA-Scout GitHub repo and ask about contributing to their spatial data software",
-          "Propose a short prototype using OpenCV or Whisper on publicly available planetary imagery"
+          "Mention your ESA-Scout repository and how it could extend his geomatics work",
+          "Propose a concrete 8-week project using OpenCV or similar on publicly available satellite datasets",
+          "Reference his Tivoli location and your Venice base to suggest a hybrid or short on-site visit in summer 2027"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:39Z",
-        "fingerprint": "c4cb785ea643c66e",
+        "evaluated_at": "2026-08-23T11:36:59Z",
+        "fingerprint": "3fd5aa8b6b47f53b",
         "error": ""
       }
     },
@@ -2337,6 +2381,98 @@
       }
     },
     {
+      "id": "radarwave-di-gianluca-sordiglioni-142114",
+      "entity_id": "142114",
+      "name": "RadarWave di Gianluca Sordiglioni",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Bollate",
+      "website": "https://www.radarwave.it",
+      "description": "RadarWave produces SaaS (Software as a Service) software services using artificial intelligence, machine learning, aggregated databases, GIS and processing. It also provides strategic and operational consulting services in management, ICT, fundraising, and marketing.",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/142114",
+      "domains": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software",
+        "GIS"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "software",
+        "gis"
+      ],
+      "content_hash": "420d630d6a6ff802",
+      "fit_score": 72,
+      "evaluation": {
+        "fit_score": 72,
+        "rationale": "RadarWave's focus on AI/ML-driven SaaS with GIS processing aligns directly with your Python, ML, data-analysis and Synapse pipeline experience, and a small Italian firm is plausible for hosting a speculative student. The published description remains high-level with no radar or remote-sensing specifics, so the match is strong but not guaranteed to need an extra pair of hands.",
+        "suggested_role": "AI/ML GIS pipeline intern",
+        "focus_areas": [
+          "Machine Learning for geospatial data",
+          "Python SaaS backend development",
+          "Data aggregation pipelines"
+        ],
+        "outreach_tips": [
+          "Reference their use of aggregated databases and GIS in the first paragraph",
+          "Mention your ESA-Scout repository and local AI pipeline project as relevant examples",
+          "Propose a concrete mini-project processing open geospatial datasets with their stack"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:54Z",
+        "fingerprint": "1e36b40951900bfd",
+        "error": ""
+      }
+    },
+    {
+      "id": "s-t-italy-s-r-l-131067",
+      "entity_id": "131067",
+      "name": "S&T ITALY S.R.L.",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Rome",
+      "website": "https://www.stcorp.nl/",
+      "description": "SME specialised in Earth Observation, with focus on satellite ground segment data processing and monitoring. Our expertise also covers satellite hyperspectral retrieval algorithms, cal/val and air quality monitoring services based on satellite data.",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/131067",
+      "domains": [
+        "Earth Observation",
+        "Remote Sensing",
+        "Data Processing",
+        "Satellite Data"
+      ],
+      "matched_keywords": [
+        "earth observation",
+        "remote sensing",
+        "data processing",
+        "satellite data"
+      ],
+      "content_hash": "3fe5a803d594e8d9",
+      "fit_score": 72,
+      "evaluation": {
+        "fit_score": 72,
+        "rationale": "Your Python/ML pipeline experience and the ESA-Scout repository align well with their satellite ground-segment data processing and hyperspectral algorithm work, and an Italian SME of this size can plausibly host a motivated student for a short project. The fit is not perfect because your background lacks explicit remote-sensing or calibration/validation exposure, so the email must demonstrate immediate technical value rather than general interest.",
+        "suggested_role": "EO data pipeline intern",
+        "focus_areas": [
+          "Python ML pipelines for satellite data",
+          "Hyperspectral retrieval support",
+          "Air-quality product validation"
+        ],
+        "outreach_tips": [
+          "Reference their hyperspectral retrieval algorithms page on stcorp.nl and note how your Synapse pipeline could adapt to Level-1/Level-2 product ingestion",
+          "Mention the ESA-Scout repository and propose a concrete two-month task such as prototyping a Whisper-style transcription step for operator logs or metadata",
+          "Address the email to the Rome office technical lead listed under the Italy contact section rather than the Dutch headquarters"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:57Z",
+        "fingerprint": "a611ecad0a1cca23",
+        "error": ""
+      }
+    },
+    {
       "id": "softwater-srl-141262",
       "entity_id": "141262",
       "name": "SoftWater SRL",
@@ -2364,21 +2500,111 @@
       "fit_score": 72,
       "evaluation": {
         "fit_score": 72,
-        "rationale": "SoftWater's work on satellite-data handling, climate-indicator computation and AI-driven environmental modeling aligns directly with your Python/ML pipeline experience and the ESA-Scout repository, making a cold approach credible for a small Milan-based team. The fit is not perfect because their core focus remains terrestrial water and climate applications rather than core space-system engineering.",
-        "suggested_role": "AI & satellite-data intern for climate-indicator pipelines",
+        "rationale": "SoftWater's work on satellite-data processing, ML-driven environmental modeling, and open-source web platforms for climate indicators aligns well with your Python, ML, and data-pipeline experience, especially given your ESA-Scout repository and proximity in Italy. The company is a small specialist SME, so a speculative approach could succeed if you frame yourself as someone who can immediately contribute to their AI-based forecasting tools rather than a generic data-science intern.",
+        "suggested_role": "ML pipeline intern for satellite climate-data processing",
         "focus_areas": [
-          "Machine Learning for environmental datasets",
-          "Satellite image classification & downscaling",
-          "Open-source web platforms for big geospatial data"
+          "Python ML pipelines for satellite imagery",
+          "Open-source environmental web platforms",
+          "Climate-indicator computation"
         ],
         "outreach_tips": [
-          "Reference their statistical-downscaling and satellite-image-classification work when describing your Synapse pipeline",
-          "Mention your ESA-Scout GitHub repo and interest in applying similar techniques to their open-source environmental platforms",
-          "Propose contributing to real-time AI procedures on their lightweight web platforms using Python and open-source libraries they already list"
+          "Reference their statistical downscaling of regional climate data and propose extending it with your Whisper/OCR pipeline experience",
+          "Mention the open-source stack they highlight and note your Linux/Neovim workflow plus GitHub activity",
+          "Point to the ESA-Scout repo as evidence of prior interest in ESA-registered environmental applications"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:37Z",
-        "fingerprint": "716fae5a35ef441b",
+        "evaluated_at": "2026-08-23T11:36:39Z",
+        "fingerprint": "1ece2cfb7220ec54",
+        "error": ""
+      }
+    },
+    {
+      "id": "zendata-s-r-l-142069",
+      "entity_id": "142069",
+      "name": "Zendata S.r.l.",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Rome",
+      "website": "https://zendata.it",
+      "description": "Zendata S.r.l. is an Italian technology company specializing in Artificial Intelligence, Machine Learning, Generative AI, and end-to-end SaaS development. We design, develop, deploy, and operate intelligent software solutions across both cloud and on-premises environments, supporting the entire product lifecycle from strategy and architecture to implementation and maintenance. Our expertise includes AI agents, Retrieval-Augmented Generation (RAG), natural language processing, computer vision, predictive analytics, intelligent automation, and enterprise-grade AI systems that accelerate digital transformation and create measurable business value.",
+      "entity_type": "Company",
+      "entity_size": "Micro",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/142069",
+      "domains": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software",
+        "Computer Vision"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "software",
+        "computer vision"
+      ],
+      "content_hash": "9af153fb08a4dc66",
+      "fit_score": 72,
+      "evaluation": {
+        "fit_score": 72,
+        "rationale": "Zendata's focus on computer vision, NLP and end-to-end AI pipelines aligns closely with your Synapse project, OpenCV/Whisper experience and ESA-Scout repository, while its micro size in Rome makes a speculative summer placement plausible. The ESA-supplier status adds relevance even though the published description does not explicitly reference space applications.",
+        "suggested_role": "AI pipeline development intern",
+        "focus_areas": [
+          "Computer Vision",
+          "Multi-modal AI pipelines",
+          "Generative AI / RAG"
+        ],
+        "outreach_tips": [
+          "Reference your ESA-Scout GitHub repository and how it could extend their on-prem AI solutions",
+          "Propose extending your Synapse pipeline to one of their listed domains such as intelligent automation",
+          "Mention your current location in Venice and willingness to work hybrid or relocate to Rome for summer 2027"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:53Z",
+        "fingerprint": "e0af938611112a3b",
+        "error": ""
+      }
+    },
+    {
+      "id": "amigo-srl-86139",
+      "entity_id": "86139",
+      "name": "AMIGO srl",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Rome",
+      "website": "https://amigoclimate.com/",
+      "description": "AMIGO s.r.l. is the first Italian SME working on climate service. The company was founded by two climate experts with 20-years of experience in 2013, starting for the idea that there was a lack of an easy-to-use solution for the climate risk assessment. The limitations of existing solutions motivated Sandro Calmanti and Marcello Petitta to begin the journey that brought AMIGO from an R&D project funded by the UN World Food Programme to finalizing AMIGOclimate, proprietary AI-powered software to support Insurance and Reinsurance companies to manage climate risk. During the last 7 years of intense R&D activity, AMIGO has designed three other innovative modular plugins for the quality control and the spacial refinement of climate data, and for the risk assessment over seasonal time-horizons. Parallel to the R&D projects, AMIGO has been heavily active in consultancy for international organisations, gaining, among other tenders, two 3+1 year Long Term Agreements with the UN World Food Programme in 2015. AMIGO was also one of 6 teams winning the 1st European Data Incubator in 2019. The company is currently involved in four H2020 projects on climate services for the insurance market, the aviation sector, the rural development and infrastructure management. All this was possible thanks to a highly motivated, multi-disciplinary team of experts guided by the CEO, Sara Dal Gesso. The core expertise of the AMIGO team ranges from climate science to Big Data and AI, from software development to socio-economic assessment, from strategic design to business development. AMIGOclimate is the innovative software at the heart of the company's strategy of growth and internationalisation, being the key asset to scale-up from a consultancy SME to a software service provider to large enterprises. With this software solution, AMIGO aims to become the European leader in the market of climate services for the insurance sector, hence taking part in the continental effort for a resilient…",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/86139",
+      "domains": [
+        "Artificial Intelligence",
+        "Data Processing",
+        "Software"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "data processing",
+        "software"
+      ],
+      "content_hash": "fc4389d737b58b82",
+      "fit_score": 68,
+      "evaluation": {
+        "fit_score": 68,
+        "rationale": "Your Python, ML and data-pipeline skills map directly onto AMIGO’s AI-powered climate-risk software and their modular data-quality plugins, yet the narrow insurance/aviation climate-services focus means only partial overlap with your demonstrated projects. As a small Rome-based SME that has never advertised internships, a cold approach is plausible but success will hinge on showing you can contribute immediately to their existing H2020 codebases.",
+        "suggested_role": "AI climate-data pipeline intern",
+        "focus_areas": [
+          "Python ML pipelines for geospatial climate data",
+          "Big Data quality-control modules",
+          "Seasonal risk-assessment algorithms"
+        ],
+        "outreach_tips": [
+          "Reference the three modular plugins they developed for spatial refinement and seasonal horizons",
+          "Mention your Synapse multi-modal pipeline and ESA-Scout repo as examples of local AI data structuring you could adapt to their climate datasets",
+          "Note their two Long-Term Agreements with WFP and ask whether a summer student could support the insurance-sector H2020 deliverables"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:37:10Z",
+        "fingerprint": "cbb967cba48629ea",
         "error": ""
       }
     },
@@ -2408,21 +2634,21 @@
       "fit_score": 68,
       "evaluation": {
         "fit_score": 68,
-        "rationale": "BAOSS's core work in AI, big data analytics, and cloud-based solutions aligns well with your Python, ML, and data pipeline experience, and their Madrid location plus Spanish operations make a cold approach feasible for a summer student. However, the description shows no explicit space or ESA project details, so the fit remains partial rather than a strong technical overlap.",
-        "suggested_role": "AI and big data analytics intern",
+        "rationale": "BAOSS's core work in AI, big data analytics, and cloud-based solution architecture aligns well with your Python, ML, and data pipeline experience, and their staffing services suggest openness to emerging talent. However, the company's purely commercial consulting focus and unknown team size make a speculative summer placement less certain than with a more technical or space-adjacent SME.",
+        "suggested_role": "AI data analytics intern",
         "focus_areas": [
           "Machine Learning pipelines",
-          "Big data processing",
-          "Cloud computing solutions"
+          "Big Data Processing",
+          "Cloud Computing"
         ],
         "outreach_tips": [
-          "Highlight your Synapse multi-modal AI pipeline and Microsoft-partnered curriculum when referencing their open-source SaaS products",
-          "Note your Spanish roots and Barcelona background to connect with their Madrid-based team",
-          "Propose contributing to turnkey client projects in data analytics given their staffing and development services"
+          "Reference their open-source SaaS products in the email subject line",
+          "Link your Synapse multi-modal pipeline project as an example of the kind of tailored analytics solution they deliver",
+          "Note your native Spanish and Barcelona roots when proposing remote or Madrid-based work"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:25Z",
-        "fingerprint": "524bcc90f6670164",
+        "evaluated_at": "2026-08-23T11:37:16Z",
+        "fingerprint": "7349ccda0a2e36a5",
         "error": ""
       }
     },
@@ -2511,138 +2737,46 @@
       }
     },
     {
-      "id": "ianus-srl-141990",
-      "entity_id": "141990",
-      "name": "Ianus Srl",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Milano",
-      "website": "http://www.doorsar.it",
-      "description": "IANUS S.r.l. (Milan, Italy) is an Italian innovative SME (\"PMI Innovativa\"), registered with the Milan Chamber of Commerce (REA MI-2659097, Tax Code/VAT No. 12388630969), specialising in the design and development of Augmented Reality (AR) solutions, Artificial Intelligence solutions, and advanced digital applications. Core technology and platform. The company has developed its own proprietary AR platform, integrating computer vision technologies for image targeting and recognition based on machine learning algorithms. These capabilities have been developed in collaboration with the Institute of Information Science and Technologies (ISTI) of the Italian National Research Council (CNR), Pisa. More broadly, IANUS's core activity centres on cloud-based software delivering immersive, responsive, 360-degree, three-dimensional AR/VR experiences for domestic, public, cultural, commercial, and industrial use (including Industry 4.0 applications), together with a cloud platform for the distribution and consumption of XR content. AI and decision intelligence focus. In parallel, IANUS is actively engaged in the development of Agentic Artificial Intelligence architectures, multi-agent orchestration frameworks, and human-centred decision intelligence systems. With multidisciplinary expertise, the company combines competencies in software engineering, artificial intelligence, business process innovation, and digital solution design. Adjacent activities. Within its broader scope of innovative technologies, the company may also engage in: design and production of video game software; production of audiovisual content and management and intermediation of digital content as well as related consulting, editorial management, and advertising services.",
-      "entity_type": "Company",
-      "entity_size": "Micro",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/141990",
-      "domains": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software",
-        "Computer Vision"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "machine learning",
-        "software",
-        "computer vision"
-      ],
-      "content_hash": "8dd5aa2c720627bf",
-      "fit_score": 68,
-      "evaluation": {
-        "fit_score": 68,
-        "rationale": "Your ML, OpenCV and multi-modal pipeline experience aligns well with Ianus's computer-vision AR platform and their newer Agentic-AI work, and a micro Italian SME may still accommodate a motivated summer student. The AR/VR and Industry-4.0 focus is only a partial match, however, so the cold email would need to be tightly targeted.",
-        "suggested_role": "AI & Computer Vision intern for AR platform development",
-        "focus_areas": [
-          "Machine Learning",
-          "Computer Vision",
-          "Agentic AI"
-        ],
-        "outreach_tips": [
-          "Reference their collaboration with CNR-ISTI on ML-based image targeting",
-          "Propose extending their multi-agent orchestration frameworks with your Synapse pipeline experience",
-          "Mention willingness to work on cloud-based XR content distribution tools"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:39Z",
-        "fingerprint": "6fc9b73453ed8ec0",
-        "error": ""
-      }
-    },
-    {
-      "id": "radarwave-di-gianluca-sordiglioni-142114",
-      "entity_id": "142114",
-      "name": "RadarWave di Gianluca Sordiglioni",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Bollate",
-      "website": "https://www.radarwave.it",
-      "description": "RadarWave produces SaaS (Software as a Service) software services using artificial intelligence, machine learning, aggregated databases, GIS and processing. It also provides strategic and operational consulting services in management, ICT, fundraising, and marketing.",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/142114",
-      "domains": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software",
-        "GIS"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "machine learning",
-        "software",
-        "gis"
-      ],
-      "content_hash": "420d630d6a6ff802",
-      "fit_score": 68,
-      "evaluation": {
-        "fit_score": 68,
-        "rationale": "RadarWave's focus on AI/ML-driven SaaS and GIS processing aligns well with your Python, machine learning, and data pipeline experience, and its Italian location plus ESA registration make a cold approach feasible for a small team. The published description remains quite generic with no visible space or EO specifics, so the fit is solid but not exceptional.",
-        "suggested_role": "AI/ML SaaS development intern",
-        "focus_areas": [
-          "Machine Learning for GIS",
-          "Python data pipelines",
-          "SaaS backend development"
-        ],
-        "outreach_tips": [
-          "Reference their use of aggregated databases and GIS in the SaaS services on radarwave.it",
-          "Mention your Synapse multi-modal pipeline project as an example of processing unstructured data into structured outputs",
-          "Note the shared Italian base and your ESA-Scout GitHub repo when proposing a summer contribution to their AI tools"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:14:55Z",
-        "fingerprint": "45d6ab31d577d9e4",
-        "error": ""
-      }
-    },
-    {
-      "id": "sistematica-s-p-a-57383",
-      "entity_id": "57383",
-      "name": "SISTEMATICA S.P.A.",
+      "id": "innova-s-r-l-137925",
+      "entity_id": "137925",
+      "name": "INNOVA S.R.L.",
       "country": "Italy",
       "country_code": "IT",
       "city": "Rome",
-      "website": "http://www.grupposistematica.it",
-      "description": "SISTEMATICA’s main activities are the development of “Turn Key” SW solutions, System Integration and Consulting Services, in the following sectors:  Aerospace and Telecommunication Industry  Energy Industry  Mobility and Geolocation  Monitoring and Control  Public Service, Health Service, Document management and Dematerialization  Safety Partner The Group's experience is now decade-long in the AEROSPACE INDUSTRY, particularly with regard to the Ground Segment (G/S), having participated for the major agencies of the sector to the development of projects of great importance (COSMO-SkyMed, Galileo, Iridium, Astrolink SRTM) Aerospace and Satellite sector. The experience gained has allowed to consolidate specific expertise in:  Analysis and definition of requirements for the construction of ground segments (G/S)  Design and implementation of the components of G/S Monitoring & Control (Planning and production control, etc.).  Design and development of components for processing, distribution of remotely sensed data  Navigation Systems (Galileo, EGNOS, GPS)  Protocols for Remote Controls/Telemetries (eg CCSDS)  Standard Products Features (eg, MGD, GEC, GTC)  Typical formats for remote sensing (CEOS, x-TIFF, DTED)  ESA standard knowledge (PSS05, ECSS, etc.)., DoD In parallel with the projects in the aerospace sector, Sistematica Spa has established itself in the area of MOBILE SYSTEMS as technological reference partner in the design and implementation of operational centers for remote monitoring and location (via GPS) of mobile vehicles and for the fleet management, using GIS systems and communication networks both terrestrial (GSM-GPRS, TETRA) and satellite (EMSAT GLOBALSTAR, ORBCOMM). The main customers in this sector are: VIASAT, OCTOTELEMATICS, TELESPAZIO, ELSACOM, for some of these Sistematica has taken care of most of the software developments and of the necessary system integration in projects of:  Mobile Surveillance Systems: location services and…",
+      "website": "https://www.innova-eu.net/",
+      "description": "INNOVA is a private technology accelerator. Created in Rome in 1993, it offers incubation and acceleration services toinnovative teams/companies operating in cutting-edge technologies (AI, IoT, machine learning, Industry 4.0 andbiotechnology). INNOVA has offices in Italy, the United Kingdom and the United States (New York) and providesspecialised support for technology validation and transfer, market acceleration, intellectual property rights protectionand internationalisation. INNOVA can count on its technical infrastructure based at the Tecnopolo Tiburtino in Rome(approximately 1,500 sqm), which includes chemistry, microelectronics and IT laboratories for software development,rapid prototyping and 3D printing, for testing, demonstration and validation processes. INNOVA Srl is the holding company of the INNOVA Group, which includes LABOR, INVENT and INAVYA. The first twosubsidiary companies add R&D and seed capital funding capacity to the core business consulting services. INVENTparticipates in 11 high-tech companies active in biotechnology, biomedical, pharmaceuticals, material sciences,artificial intelligence, and IT. INAVYA provides connections with the UK business and financial ecosystem. Headquarters: located in Rome at Tecnopolo Tiburtino, the technology park promoted by the local Chamber ofCommerce and the Province of Rome, with the support of public agencies and major corporations. The headquartershost the administration, the start-up incubator, the subsidiary companies LABOR, INVENT and CAMPUS.National Offices (Italy): Rome (headquarters), Aosta, and Cosenza. International Offices: London (INAVYA); Warsaw (TECHIN), and New York ((INNOVA ICG).",
       "entity_type": "Company",
       "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/57383",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/137925",
       "domains": [
-        "Remote Sensing",
-        "Software",
-        "GIS"
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Software"
       ],
       "matched_keywords": [
-        "remote sensing",
-        "software",
-        "gis"
+        "artificial intelligence",
+        "machine learning",
+        "software"
       ],
-      "content_hash": "c098897b99298dc1",
+      "content_hash": "8ae09d1f735aee2c",
       "fit_score": 68,
       "evaluation": {
         "fit_score": 68,
-        "rationale": "Sistematica’s documented work on COSMO-SkyMed ground-segment data processing, CEOS-format handling and GIS-based fleet monitoring overlaps with your Python, OpenCV and geospatial data-analysis skills, and the Rome location is reachable from Venice. However the company description emphasises classical system-integration and ESA-standard software rather than machine-learning pipelines, so the fit is real but partial.",
-        "suggested_role": "remote-sensing data-processing intern",
+        "rationale": "INNOVA's core work in AI/ML incubation, software labs and rapid prototyping aligns well with your Python, ML pipeline and data projects, and its Rome base is reachable from Venice. However, as a technology accelerator rather than a hands-on space or ESA-focused developer, the direct project fit is only partial and the team size for hosting a summer student is unclear.",
+        "suggested_role": "AI pipeline support intern for incubated startups",
         "focus_areas": [
-          "Satellite data processing (CEOS, GeoTIFF)",
-          "GIS and geospatial analytics",
-          "Ground-segment monitoring software"
+          "Machine Learning",
+          "Software Development",
+          "Rapid Prototyping"
         ],
         "outreach_tips": [
-          "Reference your ESA-Scout GitHub repository when mentioning their COSMO-SkyMed and Galileo ground-segment experience",
-          "Propose extending their existing data-distribution components with lightweight ML-based quality checks using Python/OpenCV",
-          "Note that you are already in Italy and available for on-site work at their Rome offices during summer 2027"
+          "Reference their Tecnopolo Tiburtino IT and 3D-printing labs when proposing to assist validation of AI tools for portfolio companies",
+          "Mention INVENT's AI and IT investments as a possible route to contribute to seed-stage projects",
+          "Highlight your Synapse multi-modal pipeline and ESA-Scout repo as examples of local AI work that could support their technology-transfer activities"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:13Z",
-        "fingerprint": "f7ff80b0cf06b970",
+        "evaluated_at": "2026-08-23T11:37:15Z",
+        "fingerprint": "0cf8e3a352142236",
         "error": ""
       }
     },
@@ -2689,50 +2823,6 @@
       }
     },
     {
-      "id": "amigo-srl-86139",
-      "entity_id": "86139",
-      "name": "AMIGO srl",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Rome",
-      "website": "https://amigoclimate.com/",
-      "description": "AMIGO s.r.l. is the first Italian SME working on climate service. The company was founded by two climate experts with 20-years of experience in 2013, starting for the idea that there was a lack of an easy-to-use solution for the climate risk assessment. The limitations of existing solutions motivated Sandro Calmanti and Marcello Petitta to begin the journey that brought AMIGO from an R&D project funded by the UN World Food Programme to finalizing AMIGOclimate, proprietary AI-powered software to support Insurance and Reinsurance companies to manage climate risk. During the last 7 years of intense R&D activity, AMIGO has designed three other innovative modular plugins for the quality control and the spacial refinement of climate data, and for the risk assessment over seasonal time-horizons. Parallel to the R&D projects, AMIGO has been heavily active in consultancy for international organisations, gaining, among other tenders, two 3+1 year Long Term Agreements with the UN World Food Programme in 2015. AMIGO was also one of 6 teams winning the 1st European Data Incubator in 2019. The company is currently involved in four H2020 projects on climate services for the insurance market, the aviation sector, the rural development and infrastructure management. All this was possible thanks to a highly motivated, multi-disciplinary team of experts guided by the CEO, Sara Dal Gesso. The core expertise of the AMIGO team ranges from climate science to Big Data and AI, from software development to socio-economic assessment, from strategic design to business development. AMIGOclimate is the innovative software at the heart of the company's strategy of growth and internationalisation, being the key asset to scale-up from a consultancy SME to a software service provider to large enterprises. With this software solution, AMIGO aims to become the European leader in the market of climate services for the insurance sector, hence taking part in the continental effort for a resilient…",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/86139",
-      "domains": [
-        "Artificial Intelligence",
-        "Data Processing",
-        "Software"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "data processing",
-        "software"
-      ],
-      "content_hash": "fc4389d737b58b82",
-      "fit_score": 62,
-      "evaluation": {
-        "fit_score": 62,
-        "rationale": "Your Python, ML and data-pipeline experience maps directly onto AMIGO's AI-driven climate-data processing and risk-assessment tools, and the Rome base is reachable from your Venice campus. The company's narrow climate-insurance niche and lack of advertised student roles still make a cold approach a moderate bet rather than a high-probability one.",
-        "suggested_role": "AI data-processing intern",
-        "focus_areas": [
-          "Machine Learning",
-          "Data Processing",
-          "Python development"
-        ],
-        "outreach_tips": [
-          "Reference their AMIGOclimate platform and the three modular plugins for data quality control and spatial refinement",
-          "Link your Synapse multi-modal pipeline project to their seasonal risk-assessment work",
-          "Note the two Long-Term Agreements with the UN World Food Programme as evidence of your interest in their consultancy-to-software transition"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:18Z",
-        "fingerprint": "082dd20c741360d6",
-        "error": ""
-      }
-    },
-    {
       "id": "astro-srl-140222",
       "entity_id": "140222",
       "name": "ASTRO SRL",
@@ -2758,67 +2848,20 @@
       "fit_score": 62,
       "evaluation": {
         "fit_score": 62,
-        "rationale": "Your Python, ML, and image-processing skills map directly onto ASTRO's need to turn tethered-satellite imagery into 3D reconstructions and moving-object products, and the company's Italian base plus small-team structure make a speculative approach realistic. The connection remains only partial because you lack demonstrated satellite or remote-sensing domain experience and the firm is still pre-operational on its core ODRADEK mission.",
-        "suggested_role": "EO data-processing and ML pipeline intern",
+        "rationale": "Your AI/ML and Python pipeline experience aligns with processing the optical/radar imagery ASTRO plans to sell from the ODRADEK tethered CubeSats, yet the company's core work on GNC algorithms and tether hardware leaves only partial overlap for a data-science student. As a small Italian startup still pre-operational, they may consider a speculative student who can contribute to early data-product development.",
+        "suggested_role": "EO data pipeline intern",
         "focus_areas": [
-          "Machine Learning for image analysis",
-          "Python data pipelines",
-          "OpenCV-based 3D reconstruction"
+          "Machine Learning for satellite imagery",
+          "Python data pipelines for remote sensing"
         ],
         "outreach_tips": [
-          "Reference the ODRADEK 12U tethered CubeSat and how your Synapse multi-modal pipeline could structure its optical/radar outputs",
-          "Note your Venice location and willingness to support Torino-based validation of GNC algorithms or near-space balloon demonstrators",
-          "Mention your Arduino and 3D-printing projects when discussing the tether-deployment mechanism or COTS payload integration"
+          "Reference the ODRADEK 200 m tether architecture and its zero-latency link when proposing to build sample processing chains for their optical payloads",
+          "Mention your ESA-Scout repository and Synapse multi-modal pipeline as direct parallels to turning raw CubeSat data into structured products",
+          "Note your location in Venice and willingness to work hybrid with Torino during summer 2027"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:18Z",
-        "fingerprint": "bc9a0d45d7306ccb",
-        "error": ""
-      }
-    },
-    {
-      "id": "mauro-mazzei-141751",
-      "entity_id": "141751",
-      "name": "Mauro Mazzei",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Tivoli",
-      "website": "https://mauromazzei.altervista.org/",
-      "description": "Research areas: His work focuses on geomatics, geospatial data analysis, geographic information systems (GIS), machine learning and remote sensing.",
-      "entity_type": "Company",
-      "entity_size": "Micro",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/141751",
-      "domains": [
-        "Remote Sensing",
-        "Machine Learning",
-        "Data Processing",
-        "GIS"
-      ],
-      "matched_keywords": [
-        "remote sensing",
-        "machine learning",
-        "data processing",
-        "gis"
-      ],
-      "content_hash": "fa9e273c6a40fb40",
-      "fit_score": 62,
-      "evaluation": {
-        "fit_score": 62,
-        "rationale": "Your Python, ML and data-analysis skills overlap with Mauro Mazzei’s geomatics and remote-sensing work, yet the absence of any GIS or geospatial experience on your profile makes the match only partial. A one-person micro-company in Tivoli is small enough to consider an unsolicited student but will only reply if the proposed contribution is immediately useful.",
-        "suggested_role": "remote-sensing ML data-processing intern",
-        "focus_areas": [
-          "Machine Learning for geospatial data",
-          "Python data pipelines",
-          "GIS/remote-sensing analysis"
-        ],
-        "outreach_tips": [
-          "Cite a specific research topic from mauromazzei.altervista.org when describing the project you could contribute to",
-          "Offer to adapt your Synapse pipeline or OpenCV experience to one of their existing remote-sensing datasets",
-          "Propose a concrete 10-week summer 2027 deliverable that combines your Python/ML work with their geomatics focus"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:03Z",
-        "fingerprint": "6e165c0902d39669",
+        "evaluated_at": "2026-08-23T11:37:11Z",
+        "fingerprint": "c87c3e180c9ded1b",
         "error": ""
       }
     },
@@ -2890,21 +2933,21 @@
       "fit_score": 58,
       "evaluation": {
         "fit_score": 58,
-        "rationale": "Sentinel Crop's use of Copernicus Sentinel data, NDVI analysis and ML risk models creates a genuine but narrow overlap with your Python, ML and data-analysis profile, yet the firm's primary identity remains fintech consulting rather than space-sector engineering. The TBD team size and lack of any advertised technical roles make a cold approach low-yield unless you explicitly pitch contribution to Sentinel Crop.",
-        "suggested_role": "Sentinel Crop ML & satellite-data intern",
+        "rationale": "Sentinel Crop's use of Copernicus Sentinel data, NDVI analysis and ML risk models creates a genuine but narrow overlap with your Python, ML and data-analysis skills, yet the parent company remains a fintech-focused consultancy rather than a core space SME. The project's early-stage status and the firm's small, non-technical team make a speculative summer placement plausible only if you pitch directly to that one initiative.",
+        "suggested_role": "Sentinel Crop data-pipeline intern",
         "focus_areas": [
           "Copernicus Sentinel data processing",
-          "Machine-learning crop-risk models",
-          "Python pipeline development"
+          "NDVI / vegetation-index ML models",
+          "Python data pipelines for parametric insurance"
         ],
         "outreach_tips": [
-          "Reference the sentinelcrop.com project and the ESA supplier registration in the subject line",
-          "Propose a concrete 8-week task such as extending their NDVI time-series pipeline with your Synapse-style OCR/transcription components",
-          "Address the email to the Sentinel Crop technical lead if the site lists any names, otherwise to the Vitoria-Gasteiz office"
+          "Reference the sentinelcrop.com project and their current development-program application in the first paragraph",
+          "Highlight your ESA-Scout GitHub repository and any Copernicus or satellite-data experience you already have",
+          "Propose a concrete 8-week deliverable such as an automated NDVI time-series ingestion script using Python and open Sentinel APIs"
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:10Z",
-        "fingerprint": "9501b85f9c0c93a9",
+        "evaluated_at": "2026-08-23T11:37:05Z",
+        "fingerprint": "76f7665c230e4504",
         "error": ""
       }
     },
@@ -3119,6 +3162,50 @@
       }
     },
     {
+      "id": "caelus-s-r-l-139545",
+      "entity_id": "139545",
+      "name": "CAELUS S.R.L.",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "Roma",
+      "website": "https://caelus-nuclear.com/",
+      "description": "CAELUS is an Italian deep tech startup established in October 2023 by current CEO Alessio Iuvara that has set itself the goal of reducing the costs and time of designing, licensing, building and decommissioning nuclear reactors through its unified AI-based software suite. Specifically, the designed product is an enterprise software suite that employs a series of innovative advanced technologies such as AI/ML, NLP, GenAI, HPC/QC, Digital Twins, BIM/GIS, Robotics and other Industry 4.0/5.0 technologies. Such a mix would allow the nuclear sector to be competitive with other sources of energy generation, and to make realistic the goal of tripling nuclear power, in global terms, necessary to achieve the Net Zero 2050 targets. The uniqueness of the software is given by the combination of its holistic approach and its ability to follow the entire life cycle of the reactor thanks to architectural specificities, currently in the process of patenting, which can guarantee the complete VV&Q (verification, validation and quality certification) of AI systems, strictly necessary in the nuclear sector as well as for the defense sector. This makes the application usable in high-risk situations, ensuring complete abstraction and generalizability to any engineering of complex systems in highly regulated sectors such as aerospace, maritime and defense. The product has an intrinsically innovative feature as it creates a new state of the art in the field of dismissal, design and management of nuclear reactors: these processes are currently managed completely by hand, especially for the regulatory field, thus involving a non-negligible amount of errors and delays often discriminating against the success or failure of an entire nuclear project. CAELUS operates by means of Product Innovation (CAELUS Ecosystem), Process Innovation (Purpose-Specific AI/HW/Software Development and Qualification) and Technical Strategic Consultancy (Ancillary Services) plus operating Commercial Activities such…",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/139545",
+      "domains": [
+        "Artificial Intelligence",
+        "Software",
+        "GIS"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "software",
+        "gis"
+      ],
+      "content_hash": "95c915db9cf41852",
+      "fit_score": 52,
+      "evaluation": {
+        "fit_score": 52,
+        "rationale": "Your AI/ML pipeline experience and Python skills align with CAELUS's use of GenAI, Digital Twins and GIS for complex-system modelling, yet the company's exclusive nuclear-reactor focus and 2023 start-up status make a summer placement unlikely without a clear aerospace extension. The thin overlap and lack of any published space-related work lower the chance that a cold email will receive a reply.",
+        "suggested_role": "AI pipeline & Digital Twin intern",
+        "focus_areas": [
+          "AI/ML for regulated systems",
+          "Digital Twins & GIS",
+          "Python-based data pipelines"
+        ],
+        "outreach_tips": [
+          "Reference their patent-pending VV&Q architecture for AI in high-risk domains and note how your Synapse multi-modal pipeline could extend to aerospace use-cases mentioned on their site.",
+          "Mention your ESA-Scout repository and interest in applying the same techniques to their BIM/GIS modules for complex engineering systems.",
+          "Propose a concrete 10-week project that adapts your Whisper/OCR pipeline to process regulatory documents for their nuclear-to-aerospace generalisation layer."
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:36:59Z",
+        "fingerprint": "8d08e1bbc02625a4",
+        "error": ""
+      }
+    },
+    {
       "id": "hsh-informatica-e-cultura-srl-70494",
       "entity_id": "70494",
       "name": "HSH Informatica e Cultura srl",
@@ -3157,50 +3244,6 @@
         "model": "grok-4",
         "evaluated_at": "2026-08-22T12:20:21Z",
         "fingerprint": "55163585edcf59c2",
-        "error": ""
-      }
-    },
-    {
-      "id": "innova-s-r-l-137925",
-      "entity_id": "137925",
-      "name": "INNOVA S.R.L.",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Rome",
-      "website": "https://www.innova-eu.net/",
-      "description": "INNOVA is a private technology accelerator. Created in Rome in 1993, it offers incubation and acceleration services toinnovative teams/companies operating in cutting-edge technologies (AI, IoT, machine learning, Industry 4.0 andbiotechnology). INNOVA has offices in Italy, the United Kingdom and the United States (New York) and providesspecialised support for technology validation and transfer, market acceleration, intellectual property rights protectionand internationalisation. INNOVA can count on its technical infrastructure based at the Tecnopolo Tiburtino in Rome(approximately 1,500 sqm), which includes chemistry, microelectronics and IT laboratories for software development,rapid prototyping and 3D printing, for testing, demonstration and validation processes. INNOVA Srl is the holding company of the INNOVA Group, which includes LABOR, INVENT and INAVYA. The first twosubsidiary companies add R&D and seed capital funding capacity to the core business consulting services. INVENTparticipates in 11 high-tech companies active in biotechnology, biomedical, pharmaceuticals, material sciences,artificial intelligence, and IT. INAVYA provides connections with the UK business and financial ecosystem. Headquarters: located in Rome at Tecnopolo Tiburtino, the technology park promoted by the local Chamber ofCommerce and the Province of Rome, with the support of public agencies and major corporations. The headquartershost the administration, the start-up incubator, the subsidiary companies LABOR, INVENT and CAMPUS.National Offices (Italy): Rome (headquarters), Aosta, and Cosenza. International Offices: London (INAVYA); Warsaw (TECHIN), and New York ((INNOVA ICG).",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/137925",
-      "domains": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "machine learning",
-        "software"
-      ],
-      "content_hash": "8ae09d1f735aee2c",
-      "fit_score": 52,
-      "evaluation": {
-        "fit_score": 52,
-        "rationale": "Your Python, ML and pipeline-building experience overlaps with INNOVA's AI/IoT incubation focus and their Rome software labs, yet the company acts mainly as an accelerator rather than a hands-on technology developer, so a summer project is plausible but not guaranteed. The published description gives no concrete ESA-related or current development work, lowering the chance a cold email receives a reply.",
-        "suggested_role": "AI software development intern",
-        "focus_areas": [
-          "Machine Learning",
-          "Software Development",
-          "Rapid Prototyping"
-        ],
-        "outreach_tips": [
-          "Reference your Synapse multi-modal pipeline and ESA-Scout repository when proposing work in their IT laboratories",
-          "Note their Tecnopolo Tiburtino facility and ask about summer access to the microelectronics or 3D-printing labs",
-          "Mention the Rome-Venice connection and your ongoing Italian-based consulting role at Lumina"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:21Z",
-        "fingerprint": "b15f47569a8440ac",
         "error": ""
       }
     },
@@ -3285,50 +3328,6 @@
         "model": "grok-4",
         "evaluated_at": "2026-08-22T12:19:56Z",
         "fingerprint": "c195389f385fdafa",
-        "error": ""
-      }
-    },
-    {
-      "id": "caelus-s-r-l-139545",
-      "entity_id": "139545",
-      "name": "CAELUS S.R.L.",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "Roma",
-      "website": "https://caelus-nuclear.com/",
-      "description": "CAELUS is an Italian deep tech startup established in October 2023 by current CEO Alessio Iuvara that has set itself the goal of reducing the costs and time of designing, licensing, building and decommissioning nuclear reactors through its unified AI-based software suite. Specifically, the designed product is an enterprise software suite that employs a series of innovative advanced technologies such as AI/ML, NLP, GenAI, HPC/QC, Digital Twins, BIM/GIS, Robotics and other Industry 4.0/5.0 technologies. Such a mix would allow the nuclear sector to be competitive with other sources of energy generation, and to make realistic the goal of tripling nuclear power, in global terms, necessary to achieve the Net Zero 2050 targets. The uniqueness of the software is given by the combination of its holistic approach and its ability to follow the entire life cycle of the reactor thanks to architectural specificities, currently in the process of patenting, which can guarantee the complete VV&Q (verification, validation and quality certification) of AI systems, strictly necessary in the nuclear sector as well as for the defense sector. This makes the application usable in high-risk situations, ensuring complete abstraction and generalizability to any engineering of complex systems in highly regulated sectors such as aerospace, maritime and defense. The product has an intrinsically innovative feature as it creates a new state of the art in the field of dismissal, design and management of nuclear reactors: these processes are currently managed completely by hand, especially for the regulatory field, thus involving a non-negligible amount of errors and delays often discriminating against the success or failure of an entire nuclear project. CAELUS operates by means of Product Innovation (CAELUS Ecosystem), Process Innovation (Purpose-Specific AI/HW/Software Development and Qualification) and Technical Strategic Consultancy (Ancillary Services) plus operating Commercial Activities such…",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/139545",
-      "domains": [
-        "Artificial Intelligence",
-        "Software",
-        "GIS"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "software",
-        "gis"
-      ],
-      "content_hash": "95c915db9cf41852",
-      "fit_score": 48,
-      "evaluation": {
-        "fit_score": 48,
-        "rationale": "Your Python ML pipeline work and multi-modal AI projects overlap with CAELUS's GenAI and digital-twin stack, yet the nuclear-reactor lifecycle domain is too specialised for a data-science student without relevant engineering exposure. The company is a 2023 Italian startup whose small team and narrow product focus make a speculative summer placement unlikely to succeed.",
-        "suggested_role": "AI pipeline development intern",
-        "focus_areas": [
-          "Machine Learning pipelines",
-          "Generative AI for engineering data",
-          "Digital Twins"
-        ],
-        "outreach_tips": [
-          "Reference their patent-pending VV&Q architecture for AI in regulated sectors",
-          "Point to your Synapse project as a concrete example of local multi-modal data structuring",
-          "Note your Venice base and willingness to support hybrid work from Rome"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:03Z",
-        "fingerprint": "0ca406c83bc7b942",
         "error": ""
       }
     },
@@ -3539,49 +3538,6 @@
       }
     },
     {
-      "id": "simone-poliandri-133692",
-      "entity_id": "133692",
-      "name": "Simone Poliandri",
-      "country": "Italy",
-      "country_code": "IT",
-      "city": "ROSETO DEGLI ABRUZZI",
-      "website": "https://singolarmente.app",
-      "description": "Overview: Simone Poliandri is a dynamic and innovative entity operating in the IT sector, led by an individual with a passion for technology and a vision to revolutionize the digital landscape. While Simone Poliandri operates as a one-person entity, there is a collaboration with a network of external partners, bringing together a diverse range of expertise to deliver cutting-edge solutions to clients. Custom Software Development: Simone Poliandri specializes in creating tailor-made software solutions designed to meet the unique needs of its clients. Whether it's a specialized tool for a niche market or a comprehensive system for large-scale operations, Simone leverages deep technical knowledge and industry insights to develop software that drives efficiency, innovation, and growth. Blockchain: Recognizing the transformative potential of blockchain technology, Simone Poliandri offers a range of services in this domain. This includes developing decentralized applications (DApps), creating custom blockchain networks, and offering consultancy on blockchain integration and adoption. The solutions are designed to enhance transparency, security, and efficiency for clients. Custom Web-app Development: In the digital age, a robust online presence is crucial for businesses. Simone Poliandri offers custom web-app development services, creating responsive and user-friendly web applications that cater to diverse business needs. From e-commerce platforms to interactive portals, Simone ensures that the web solutions are both functional and aesthetically pleasing. Artificial Intelligence (AI) Applications in the Business World: Simone Poliandri is at the forefront of leveraging AI to solve real-world business challenges. Simone develops AI-powered tools and applications that assist businesses in areas such as data analysis, customer service, and predictive modeling. By harnessing the power of AI, Simone helps businesses optimize operations, enhance customer experiences, and gain a…",
-      "entity_type": "Company",
-      "entity_size": "TBD",
-      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/133692",
-      "domains": [
-        "Artificial Intelligence",
-        "Data Processing",
-        "Software"
-      ],
-      "matched_keywords": [
-        "artificial intelligence",
-        "data processing",
-        "software"
-      ],
-      "content_hash": "3fb44f920c5a561d",
-      "fit_score": 42,
-      "evaluation": {
-        "fit_score": 42,
-        "rationale": "The company's AI and data-processing services align with your Python, ML, and pipeline experience, but its one-person structure and heavy emphasis on blockchain plus generic web apps make a summer placement unlikely. A cold email would probably receive no reply given the limited team capacity and lack of any public hiring signals.",
-        "suggested_role": "AI data-pipeline intern",
-        "focus_areas": [
-          "AI applications for business data analysis",
-          "Python ML pipelines"
-        ],
-        "outreach_tips": [
-          "Reference the exact AI predictive-modeling services listed on singolarmente.app",
-          "Propose extending your Synapse Whisper/OCR pipeline to their client data workflows",
-          "Note your ESA-Scout repository as evidence of interest in ESA-registered suppliers"
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-08-22T12:15:05Z",
-        "fingerprint": "343f47bfbebaddef",
-        "error": ""
-      }
-    },
-    {
       "id": "smart-shaped-srl-136419",
       "entity_id": "136419",
       "name": "Smart Shaped srl",
@@ -3661,6 +3617,49 @@
         "model": "grok-4",
         "evaluated_at": "2026-08-22T12:19:44Z",
         "fingerprint": "ecb7b4fef00b62f2",
+        "error": ""
+      }
+    },
+    {
+      "id": "simone-poliandri-133692",
+      "entity_id": "133692",
+      "name": "Simone Poliandri",
+      "country": "Italy",
+      "country_code": "IT",
+      "city": "ROSETO DEGLI ABRUZZI",
+      "website": "https://singolarmente.app",
+      "description": "Overview: Simone Poliandri is a dynamic and innovative entity operating in the IT sector, led by an individual with a passion for technology and a vision to revolutionize the digital landscape. While Simone Poliandri operates as a one-person entity, there is a collaboration with a network of external partners, bringing together a diverse range of expertise to deliver cutting-edge solutions to clients. Custom Software Development: Simone Poliandri specializes in creating tailor-made software solutions designed to meet the unique needs of its clients. Whether it's a specialized tool for a niche market or a comprehensive system for large-scale operations, Simone leverages deep technical knowledge and industry insights to develop software that drives efficiency, innovation, and growth. Blockchain: Recognizing the transformative potential of blockchain technology, Simone Poliandri offers a range of services in this domain. This includes developing decentralized applications (DApps), creating custom blockchain networks, and offering consultancy on blockchain integration and adoption. The solutions are designed to enhance transparency, security, and efficiency for clients. Custom Web-app Development: In the digital age, a robust online presence is crucial for businesses. Simone Poliandri offers custom web-app development services, creating responsive and user-friendly web applications that cater to diverse business needs. From e-commerce platforms to interactive portals, Simone ensures that the web solutions are both functional and aesthetically pleasing. Artificial Intelligence (AI) Applications in the Business World: Simone Poliandri is at the forefront of leveraging AI to solve real-world business challenges. Simone develops AI-powered tools and applications that assist businesses in areas such as data analysis, customer service, and predictive modeling. By harnessing the power of AI, Simone helps businesses optimize operations, enhance customer experiences, and gain a…",
+      "entity_type": "Company",
+      "entity_size": "TBD",
+      "detail_url": "https://esastar-emr.sso.esa.int/PublicEntityDir/PublicEntityDirPopupDetailSME/133692",
+      "domains": [
+        "Artificial Intelligence",
+        "Data Processing",
+        "Software"
+      ],
+      "matched_keywords": [
+        "artificial intelligence",
+        "data processing",
+        "software"
+      ],
+      "content_hash": "3fb44f920c5a561d",
+      "fit_score": 25,
+      "evaluation": {
+        "fit_score": 25,
+        "rationale": "Simone Poliandri is a one-person entity offering generic AI, blockchain and web-app services with no visible space or ESA-related work, so a cold summer-internship request is unlikely to be answered. Your Python/ML background overlaps only at the broadest level and the published description is too vague to confirm any concrete project that would benefit from a student.",
+        "suggested_role": "AI application development intern",
+        "focus_areas": [
+          "AI applications",
+          "Python-based data pipelines"
+        ],
+        "outreach_tips": [
+          "Reference the singolarmente.app platform and ask about extending its AI features",
+          "Highlight your Synapse multi-modal pipeline as directly relevant to their described AI tools",
+          "Mention your ESA-Scout repository to test whether any hidden space-sector work exists"
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-08-23T11:37:03Z",
+        "fingerprint": "c72ab60028a6d554",
         "error": ""
       }
     },
@@ -8366,7 +8365,6 @@
     }
   ],
   "errors": [
-    "github: GITHUB_USERNAME not configured",
-    "LLM_API_KEY not set — SME matches returned without AI ranking"
+    "SME evaluation budget reached: 253 company(ies) left unscored"
   ]
 }
