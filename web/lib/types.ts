@@ -6,6 +6,9 @@
  * are the source of truth.
  */
 
+/** Mirrors HIGH_FIT_THRESHOLD in `agent/config.py`. */
+export const HIGH_FIT_THRESHOLD = 80;
+
 export type Status = "Open" | "Pending" | "Closed" | "Unknown";
 
 export const STATUSES: Status[] = ["Open", "Pending", "Closed", "Unknown"];

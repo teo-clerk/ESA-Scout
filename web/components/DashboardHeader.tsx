@@ -7,6 +7,7 @@
 
 import { useEffect, useState } from "react";
 
+import ExportButton from "@/components/ExportButton";
 import ViewTabs from "@/components/ViewTabs";
 import { isStale, relativeTime } from "@/lib/format";
 import type { Stats } from "@/lib/types";
@@ -102,7 +103,8 @@ export default function DashboardHeader({
             </p>
           </div>
 
-          <div className="flex items-center gap-2">
+          <div className="flex flex-wrap items-center gap-2">
+            <ExportButton type="opportunities" disabled={stats.total === 0} />
             <button
               type="button"
               onClick={onOpenProfile}

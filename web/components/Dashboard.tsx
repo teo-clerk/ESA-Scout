@@ -13,9 +13,7 @@ import OpportunityCard from "@/components/OpportunityCard";
 import ProfileSyncModal from "@/components/ProfileSyncModal";
 import { applyFilters, type FilterState, INITIAL_FILTERS } from "@/lib/filter";
 import { categoriesOf } from "@/lib/format";
-import type { Snapshot } from "@/lib/types";
-
-const HIGH_FIT_THRESHOLD = 80;
+import { HIGH_FIT_THRESHOLD, type Snapshot } from "@/lib/types";
 
 export default function Dashboard({
   snapshot,

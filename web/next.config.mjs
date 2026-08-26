@@ -20,6 +20,7 @@ const nextConfig = {
     "/sme": ["./public/data/**"],
     "/api/opportunities": ["./public/data/**"],
     "/api/sme": ["./public/data/**"],
+    "/api/export": ["./public/data/**"],
   },
 };
 

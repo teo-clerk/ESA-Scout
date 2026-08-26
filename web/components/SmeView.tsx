@@ -7,6 +7,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
+import ExportButton from "@/components/ExportButton";
 import SmeCard from "@/components/SmeCard";
 import ViewTabs from "@/components/ViewTabs";
 import { isStale, relativeTime } from "@/lib/format";
@@ -165,14 +166,17 @@ export default function SmeView({
               </p>
             </div>
 
-            <button
-              type="button"
-              onClick={handleScan}
-              disabled={scan.kind === "running"}
-              className="rounded-lg bg-sky-500 px-3.5 py-2 text-sm font-semibold text-slate-950 transition hover:bg-sky-400 disabled:cursor-not-allowed disabled:opacity-60"
-            >
-              {scan.kind === "running" ? "Analysing…" : "Analyze best SME matches"}
-            </button>
+            <div className="flex flex-wrap items-center gap-2">
+              <ExportButton type="sme" disabled={companies.length === 0} />
+              <button
+                type="button"
+                onClick={handleScan}
+                disabled={scan.kind === "running"}
+                className="rounded-lg bg-sky-500 px-3.5 py-2 text-sm font-semibold text-slate-950 transition hover:bg-sky-400 disabled:cursor-not-allowed disabled:opacity-60"
+              >
+                {scan.kind === "running" ? "Analysing…" : "Analyze best SME matches"}
+              </button>
+            </div>
           </div>
 
           {scan.kind !== "idle" ? (

@@ -6,6 +6,7 @@
     python -m agent.main profile          # show the parsed CV + GitHub profile
     python -m agent.main notify --test    # send a sample alert to verify wiring
     python -m agent.main sme --evaluate   # scan ESA-star SMEs and rank them
+    python -m agent.main export           # write OPPORTUNITIES.md and SME_TARGETS.md
 
 Exit codes: 0 success, 1 pipeline failure, 2 completed with degraded sources.
 """
@@ -21,6 +22,7 @@ from typing import Sequence
 from . import (
     dates,
     evaluator,
+    exporter,
     notifier,
     profile_parser,
     scraper,
@@ -28,7 +30,7 @@ from . import (
     sme_state,
     state_manager,
 )
-from .config import Settings, SmeSettings
+from .config import REPO_ROOT, Settings, SmeSettings
 from .fetcher import Fetcher
 from .models import ChangeEvent, Opportunity, Profile, Snapshot
 from .sme_models import SmeSnapshot
@@ -249,6 +251,60 @@ def command_sme(args: argparse.Namespace, settings: Settings) -> int:
     return EXIT_DEGRADED if errors else EXIT_OK
 
 
+def command_export(args: argparse.Namespace, settings: Settings) -> int:
+    """Render the stored snapshots as Markdown next to the JSON they came from.
+
+    Reads only what is already on disk — no scraping, no LLM calls — so it is
+    safe to run at any time, including straight after a pipeline run.
+    """
+    output_dir = args.output_dir or REPO_ROOT
+    # Neither flag means "both"; the flags narrow the default rather than
+    # replacing it, so `--opportunities-only --sme-only` still writes both.
+    want_opportunities = args.opportunities or not args.sme
+    want_sme = args.sme or not args.opportunities
+
+    written: list[Path] = []
+    missing: list[str] = []
+
+    if want_opportunities:
+        snapshot = state_manager.load_snapshot(settings.data_file)
+        if snapshot.opportunities:
+            written.append(
+                exporter.write_opportunities(
+                    snapshot, output_dir, settings.high_fit_threshold
+                )
+            )
+        else:
+            missing.append(
+                f"no opportunities in {settings.data_file} — run `python -m agent.main run`"
+            )
+
+    if want_sme:
+        sme_snapshot = sme_state.load_snapshot(settings.sme.data_file)
+        if sme_snapshot.companies:
+            written.append(
+                exporter.write_sme_targets(
+                    sme_snapshot, output_dir, settings.sme.strong_fit_threshold
+                )
+            )
+        else:
+            missing.append(
+                f"no companies in {settings.sme.data_file} — run "
+                f"`python -m agent.main sme --evaluate`"
+            )
+
+    for path in written:
+        size = path.stat().st_size
+        print(f"  wrote {path} ({size:,} bytes)")
+    for warning in missing:
+        LOGGER.warning(warning)
+
+    if not written:
+        LOGGER.error("nothing to export")
+        return EXIT_FAILURE
+    return EXIT_DEGRADED if missing else EXIT_OK
+
+
 def command_notify(args: argparse.Namespace, settings: Settings) -> int:
     """Re-send the last run's notifiable events, or a synthetic test alert."""
     if args.test:
@@ -407,6 +463,29 @@ def build_parser() -> argparse.ArgumentParser:
         help="cap LLM evaluations for this run (overrides SME_MAX_EVALUATIONS)",
     )
     sme.set_defaults(handler=command_sme)
+
+    export = subparsers.add_parser(
+        "export", help="write OPPORTUNITIES.md and SME_TARGETS.md from stored data"
+    )
+    export.add_argument(
+        "--opportunities-only",
+        dest="opportunities",
+        action="store_true",
+        help="write only OPPORTUNITIES.md",
+    )
+    export.add_argument(
+        "--sme-only",
+        dest="sme",
+        action="store_true",
+        help="write only SME_TARGETS.md",
+    )
+    export.add_argument(
+        "--output-dir",
+        type=Path,
+        default=None,
+        help="directory to write into (default: the repository root)",
+    )
+    export.set_defaults(handler=command_export)
 
     notify = subparsers.add_parser("notify", help="dispatch notifications")
     notify.add_argument("--test", action="store_true", help="send a synthetic test alert")

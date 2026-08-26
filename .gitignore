@@ -41,3 +41,6 @@ web/*.tsbuildinfo
 # if you would rather keep it private and run the agent locally.
 web/AGENTS.md
 web/CLAUDE.md
+OPPORTUNITIES.md
+SME_TARGETS.md
+SME_TARGETS.md
