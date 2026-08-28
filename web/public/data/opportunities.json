@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T02:07:53Z",
+  "generated_at": "2026-08-28T18:28:57Z",
   "stats": {
     "total": 15,
     "open": 12,
@@ -75,7 +75,7 @@
           "url": "https://github.com/teo-clerk/portfolio",
           "stars": 1,
           "topics": [],
-          "pushed_at": "2026-08-28T00:31:39Z"
+          "pushed_at": "2026-08-28T12:25:50Z"
         },
         {
           "name": "ESA-Scout",
@@ -84,7 +84,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-08-27T17:33:25Z"
+          "pushed_at": "2026-08-28T02:07:54Z"
         },
         {
           "name": "PiLearn",
@@ -196,7 +196,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 48,
       "evaluation": {
@@ -254,7 +254,7 @@
       "deadline_text": "Call for proposals open until 2 October 2026, 13:00 CEST",
       "deadline": "2026-10-02",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "53aad25a398d5d3d",
       "match_score": 48,
       "evaluation": {
@@ -320,7 +320,7 @@
       "deadline_text": "Call for proposals open until 8 October 2026, 13:00 CEST",
       "deadline": "2026-10-08",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "2628ea59541d5ec5",
       "match_score": 48,
       "evaluation": {
@@ -387,7 +387,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 42,
       "evaluation": {
@@ -452,7 +452,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 38,
       "evaluation": {
@@ -512,7 +512,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 32,
       "evaluation": {
@@ -567,7 +567,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 22,
       "evaluation": {
@@ -627,7 +627,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 22,
       "evaluation": {
@@ -682,7 +682,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 22,
       "evaluation": {
@@ -742,7 +742,7 @@
       "deadline_text": "7 September 2026 23:59 CET/CEST",
       "deadline": "2026-09-07",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "b974e3409891d7e8",
       "match_score": 22,
       "evaluation": {
@@ -809,7 +809,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 15,
       "evaluation": {
@@ -862,7 +862,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 15,
       "evaluation": {
@@ -922,7 +922,7 @@
       "deadline_text": "TBD",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "7337bb9fac70a849",
       "match_score": 45,
       "evaluation": {
@@ -990,7 +990,7 @@
       "deadline_text": "Next cycle expected to open in 2027",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "9f3f94b0b389746e",
       "match_score": 42,
       "evaluation": {
@@ -1050,7 +1050,7 @@
       "deadline_text": "2026-2027",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-08-28T02:07:53Z",
+      "last_seen": "2026-08-28T18:28:57Z",
       "content_hash": "1ef87cb4af2afbe8",
       "match_score": 38,
       "evaluation": {
