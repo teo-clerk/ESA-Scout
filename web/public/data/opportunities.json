@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T20:27:10Z",
+  "generated_at": "2026-09-13T11:33:48Z",
   "stats": {
     "total": 15,
     "open": 13,
@@ -69,6 +69,15 @@
       "profile_url": "https://github.com/teo-clerk",
       "repos": [
         {
+          "name": "ESA-Scout",
+          "description": "",
+          "language": "Python",
+          "url": "https://github.com/teo-clerk/ESA-Scout",
+          "stars": 0,
+          "topics": [],
+          "pushed_at": "2026-09-12T20:27:11Z"
+        },
+        {
           "name": "PiLearn",
           "description": "",
           "language": "TypeScript",
@@ -76,15 +85,6 @@
           "stars": 0,
           "topics": [],
           "pushed_at": "2026-09-12T17:52:11Z"
-        },
-        {
-          "name": "ESA-Scout",
-          "description": "",
-          "language": "Python",
-          "url": "https://github.com/teo-clerk/ESA-Scout",
-          "stars": 0,
-          "topics": [],
-          "pushed_at": "2026-09-12T10:30:17Z"
         },
         {
           "name": "SciNet",
@@ -190,90 +190,17 @@
         }
       ],
       "languages": [
-        "TypeScript",
         "Python",
+        "TypeScript",
         "JavaScript",
         "C"
       ],
       "error": ""
     },
-    "fingerprint": "21c5982f025a3d84",
+    "fingerprint": "c4cfe34073ec5e98",
     "error": ""
   },
   "opportunities": [
-    {
-      "id": "esa-academy-cubesats-fly-your-satellite-design-booster",
-      "title": "CubeSats: Fly Your Satellite! Design Booster",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/Educational_Satellites/About_Design_Booster",
-      "status": "Open",
-      "kind": "Project / Hands-on Programme",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Call for proposals open until 2 October 2026, 13:00 CEST Contact: cubesats@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "Call for proposals open until 2 October 2026, 13:00 CEST",
-      "deadline": "2026-10-02",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
-      "content_hash": "53aad25a398d5d3d",
-      "match_score": 52,
-      "evaluation": {
-        "match_score": 52,
-        "justification": "Your AI/Data Science background, Arduino/3D-printing hardware projects, and hackathon mentoring give you transferable technical and teamwork skills, but the CubeSats Design Booster targets students with stronger space-systems or aerospace engineering foundations that you currently lack. The ESA-Scout repository shows genuine interest, yet your early-stage BSc and limited orbital/mechanical experience make this a stretch application. With only three weeks until the 2 October deadline, success would require rapid upskilling in CubeSat-specific topics.",
-        "why_apply": [
-          "Direct exposure to ESA engineers and CubeSat flight heritage",
-          "Opportunity to pivot your AI skills toward onboard data processing or autonomy",
-          "Networking within the European student satellite community"
-        ],
-        "required_skills": [
-          "CubeSat systems engineering and AIV",
-          "Basic orbital mechanics and mission design",
-          "Embedded systems / Arduino-level hardware integration",
-          "Team-based proposal writing under ESA constraints"
-        ],
-        "gaps": [
-          "No formal aerospace or space-systems coursework",
-          "Limited experience with satellite subsystems or ECSS standards",
-          "Early year of BSc (still 2028 graduation) reduces competitiveness",
-          "No demonstrated knowledge of power, attitude, or communications subsystems"
-        ],
-        "checklist": [
-          {
-            "task": "Draft a 2-page proposal outline linking your Synapse/Whisper pipeline to onboard CubeSat data handling",
-            "effort": "8 hours",
-            "done_when": "Outline reviewed by a mentor and saved as PDF"
-          },
-          {
-            "task": "Complete the ESA Academy CubeSat introductory webinars and note three technical areas to strengthen",
-            "effort": "4 hours",
-            "done_when": "Certificates and notes uploaded to your drive"
-          },
-          {
-            "task": "Contact cubesats@esa.int with a one-paragraph expression of interest highlighting your ESA-Scout repo",
-            "effort": "1 hour",
-            "done_when": "Email sent and reply logged"
-          },
-          {
-            "task": "Assemble a 3-person student team (include at least one engineering peer) and assign subsystem roles",
-            "effort": "3 hours",
-            "done_when": "Team roster and role matrix finalized"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application/proposal submission",
-            "date": "2026-10-02"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:27:02Z",
-        "fingerprint": "34083d25280a8acb",
-        "error": ""
-      }
-    },
     {
       "id": "esa-tlp-spaice-ai-in-and-for-space",
       "title": "SPAICE (AI in and for space)",
@@ -290,36 +217,42 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "4c0acc36b76074cb",
-      "match_score": 48,
+      "match_score": 62,
       "evaluation": {
-        "match_score": 48,
-        "justification": "Your AI & Data Science studies and projects like Synapse and SciNet demonstrate solid technical capability in machine learning and local AI pipelines, which align with the conference theme. However, you are still in the early stages of your BSc (year 2 in Oct 2026) with minimal demonstrated experience in space systems, Earth observation, or ESA-related work beyond a single repo name. The May 2026 application deadline has already passed relative to today's date, further reducing the practical value of applying now.",
+        "match_score": 62,
+        "justification": "You are a second-year AI & Data Science student with solid Python/ML skills and an ESA-Scout repository that shows thematic interest, making you eligible for this student-oriented ESA Academy conference. However, you lack demonstrated space-domain experience, publications, or relevant coursework beyond general AI projects, placing you in the lower-competitive range for a selective AI-in-space event.",
         "why_apply": [
-          "Exposure to ESA experts on AI applications in space missions",
-          "Networking with European students and researchers in the space-AI niche"
+          "Direct exposure to ESA experts on AI applications in Earth observation and space systems",
+          "Networking with PhD students and early-career researchers in the SPAICE community",
+          "Potential to present your Synapse or SciNet work in a space-relevant context"
         ],
         "required_skills": [
-          "Python and ML frameworks for space data processing",
-          "Understanding of satellite or EO applications",
-          "Student status in relevant STEM field"
+          "Python and machine-learning frameworks for space data",
+          "Understanding of AI use-cases in Earth observation or spacecraft operations",
+          "Ability to present technical work to an international research audience"
         ],
         "gaps": [
-          "No prior publications, internships or projects explicitly in space or EO",
-          "Limited evidence of engagement with ESA programmes or space hardware",
-          "Application window closed in May 2026"
+          "No prior space-related projects, internships or publications",
+          "Limited formal training in remote-sensing or orbital mechanics",
+          "Early-stage BSc status (year 2) compared with typical conference participants"
         ],
         "checklist": [
           {
-            "task": "Prepare a one-page abstract linking your Synapse pipeline to potential space data use-cases",
-            "effort": "4 hours",
-            "done_when": "Abstract draft saved as PDF ready for hypothetical late submission"
+            "task": "Prepare a 1-page abstract linking your SciNet or Synapse pipeline to ESA Earth-observation datasets",
+            "effort": "3 days",
+            "done_when": "Abstract draft ready for supervisor feedback"
           },
           {
-            "task": "Email spaice@esa.int to inquire about late or 2027 participation options",
-            "effort": "30 minutes",
-            "done_when": "Email sent and reply logged"
+            "task": "Email the SPAICE organisers to request late-poster consideration despite the May deadline",
+            "effort": "2 hours",
+            "done_when": "Response received from conference chair"
+          },
+          {
+            "task": "Complete the free ESA Academy MOOC module on AI for Earth Observation",
+            "effort": "1 week",
+            "done_when": "Certificate uploaded to your application portal"
           }
         ],
         "key_deadlines": [
@@ -329,140 +262,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:54Z",
-        "fingerprint": "0f56415b41905fda",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-academy-access-to-ground-and-space-based-platforms-esa-academy-exp",
-      "title": "Access to ground and space-based platforms: ESA Academy Experiments",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
-      "status": "Open",
-      "kind": "Project / Hands-on Programme",
-      "category": "Other",
-      "location": "",
-      "summary": "Call for proposals open until 22 November 2026, 23:59 CEST Contact: academy.experiments@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "Call for proposals open until 22 November 2026, 23:59 CEST",
-      "deadline": "2026-11-22",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
-      "content_hash": "7ace9d054b108179",
-      "match_score": 48,
-      "evaluation": {
-        "match_score": 48,
-        "justification": "Your AI/Data Science background and hardware/AI project experience give you a plausible angle for data-heavy experiment proposals, but you are still early in a three-year BSc and lack demonstrated expertise in space platform constraints or experiment hardware qualification. The November 2026 deadline leaves limited time to build a competitive team proposal from your current profile.",
-        "why_apply": [
-          "Direct access to ESA ground/space platforms for a student-led experiment",
-          "Networking with ESA engineers and potential future Academy opportunities",
-          "Hands-on validation of your AI pipeline or sensor projects in microgravity or vacuum conditions"
-        ],
-        "required_skills": [
-          "Experiment design and safety documentation for parabolic flights or drop towers",
-          "Hardware integration and qualification for space/ground platforms",
-          "Proposal writing and team coordination for ESA calls"
-        ],
-        "gaps": [
-          "Only first-year BSc status with no prior ESA or space-agency project involvement",
-          "Limited experience translating AI models into flight-qualified payloads",
-          "No publications or prior experiment proposals on record"
-        ],
-        "checklist": [
-          {
-            "task": "Draft a 2-page experiment concept note linking one of your existing projects (Synapse or plasma toroid) to an ESA platform",
-            "effort": "1 week",
-            "done_when": "Concept note reviewed by a mentor or submitted to academy.experiments@esa.int for feedback"
-          },
-          {
-            "task": "Identify and contact two additional students or researchers to form a minimum viable proposal team",
-            "effort": "2 weeks",
-            "done_when": "Team roster and roles documented with signed letters of intent"
-          },
-          {
-            "task": "Complete the ESA Academy Experiments proposal template sections on technical requirements and risk assessment",
-            "effort": "3 weeks",
-            "done_when": "Full draft ready for internal review by 1 November 2026"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Proposal submission",
-            "date": "2026-11-22"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:27:08Z",
-        "fingerprint": "b3a0c5e2a7c80268",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-navigation-training-course",
-      "title": "Navigation Training Course",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://learn.esa.int/explore/navigation-training-course",
-      "status": "Open",
-      "kind": "Training Course",
-      "category": "Robotics & Software",
-      "location": "",
-      "summary": "Training Course running 22 – 26 June 2026.",
-      "activity_dates": "22 – 26 June 2026",
-      "activity_start": "2026-06-22",
-      "deadline_text": "5 April 2026",
-      "deadline": "2026-04-05",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
-      "content_hash": "f89c630e8fe69e1e",
-      "match_score": 42,
-      "evaluation": {
-        "match_score": 42,
-        "justification": "Your AI/Data Science background and Python/ML projects give you a partial software foundation for a robotics & software training course, but the Navigation Training Course targets students with stronger aerospace, GNSS or orbital mechanics exposure that you currently lack. At the end of your first year you are also early in your degree relative to typical ESA Academy participants. The June 2026 dates have already passed relative to today, further reducing immediate applicability.",
-        "why_apply": [
-          "Gain direct exposure to ESA navigation systems and experts",
-          "Build a network with other European students in the space sector",
-          "Strengthen future applications to ESA internships or the Young Graduate Trainee programme"
-        ],
-        "required_skills": [
-          "Programming for navigation or robotics applications",
-          "Understanding of GNSS, orbital mechanics or sensor fusion",
-          "Team-based project work in an intensive training setting"
-        ],
-        "gaps": [
-          "No demonstrated coursework or projects in navigation, GNSS or space dynamics",
-          "Limited aerospace or satellite-systems background",
-          "Early-stage bachelor student (first year) versus typical participant profile"
-        ],
-        "checklist": [
-          {
-            "task": "Complete the ESA Academy Navigation Training Course prerequisites reading list once published",
-            "effort": "1 week",
-            "done_when": "All listed papers and tutorials read with notes"
-          },
-          {
-            "task": "Add a GNSS or sensor-fusion module to your SciNet or Synapse repository",
-            "effort": "3 weeks",
-            "done_when": "Working demo committed and documented on GitHub"
-          },
-          {
-            "task": "Draft a 1-page motivation letter linking your drone piloting and AI pipeline experience to satellite navigation",
-            "effort": "4 hours",
-            "done_when": "Letter reviewed by a mentor and stored in your application folder"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-04-05"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:44Z",
-        "fingerprint": "3822497a7020b8ba",
+        "evaluated_at": "2026-09-13T11:33:32Z",
+        "fingerprint": "4a7f84832df7aef1",
         "error": ""
       }
     },
@@ -482,41 +283,41 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "eaab3f0b8bade2b9",
-      "match_score": 42,
+      "match_score": 52,
       "evaluation": {
-        "match_score": 42,
-        "justification": "Your AI/ML background and projects like Synapse and ESA-Scout give you a partial technical fit for an EO & AI training course, but you lack any Earth Observation domain knowledge, remote sensing experience, or demonstrated interest in space applications. As a first-year BSc student with no relevant coursework or projects in satellite data or EO commercialisation, this is a stretch opportunity that would require substantial self-study before the (already passed) deadline.",
+        "match_score": 52,
+        "justification": "Your AI & Data Science background, Python/ML projects like Synapse and SciNet, and ESA-Scout repo show relevant technical skills and interest, but the course focuses on Earth Observation applications and commercialisation where you have no demonstrated experience. As a second-year BSc student you meet the likely eligibility level, yet the July 2026 dates have already passed relative to today.",
         "why_apply": [
-          "Gain ESA Academy certification and networking with EO professionals",
-          "Exposure to commercialisation pathways that could inform your future AI startup ideas"
+          "Gain ESA-certified training on EO innovation and market pathways",
+          "Network with ESA experts and peers in the EO commercial sector"
         ],
         "required_skills": [
-          "Earth Observation fundamentals and satellite data handling",
-          "Understanding of EO market and commercialisation",
-          "Python for geospatial analysis"
+          "Earth Observation data handling and applications",
+          "Business/commercialisation concepts for space tech",
+          "Python or equivalent for EO data processing"
         ],
         "gaps": [
-          "No coursework or projects involving satellite imagery, remote sensing or EO data",
-          "No demonstrated knowledge of ESA Earth Observation programmes",
-          "Early-stage BSc student without domain-specific experience"
+          "No coursework or projects in satellite imagery, remote sensing or EO",
+          "Limited exposure to commercialisation or entrepreneurship in space",
+          "Deadline and activity dates already passed"
         ],
         "checklist": [
           {
-            "task": "Complete the ESA EO fundamentals online modules on ESA Learn",
-            "effort": "15 hours",
-            "done_when": "Certificates for at least 3 EO modules obtained"
+            "task": "Review the ESA-Scout repo and add any EO-related code or notes",
+            "effort": "4 hours",
+            "done_when": "Repo shows at least one EO data example or comment"
           },
           {
-            "task": "Build a small project processing Sentinel-2 data with Python and OpenCV",
+            "task": "Complete one online ESA EO tutorial (e.g. Sentinel Hub or EO College)",
             "effort": "1 week",
-            "done_when": "GitHub repo with documented results pushed"
+            "done_when": "Certificate or notebook with processed Sentinel data uploaded"
           },
           {
-            "task": "Draft a 1-page motivation letter linking your AI pipeline work to an EO use-case",
+            "task": "Draft a 200-word statement linking your AI pipeline work to an EO use-case",
             "effort": "3 hours",
-            "done_when": "Letter reviewed by a mentor and saved as PDF"
+            "done_when": "Statement ready for future applications"
           }
         ],
         "key_deadlines": [
@@ -526,8 +327,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:42Z",
-        "fingerprint": "d9cb42f35e26ee63",
+        "evaluated_at": "2026-09-13T11:33:20Z",
+        "fingerprint": "e6dc8a35f08da510",
         "error": ""
       }
     },
@@ -547,52 +348,256 @@
       "deadline_text": "Call for proposals open until 8 October 2026, 13:00 CEST",
       "deadline": "2026-10-08",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "2628ea59541d5ec5",
-      "match_score": 32,
+      "match_score": 48,
       "evaluation": {
-        "match_score": 32,
-        "justification": "Your AI & Data Science background and mentoring experience give you transferable technical and teamwork skills, but REXUS/BEXUS demands experiment proposals rooted in aerospace engineering, physics or atmospheric science that you currently lack. With only four weeks until the 8 October 2026 deadline you would need an already-formed international team and a mature payload concept, neither of which appears in your profile.",
+        "match_score": 48,
+        "justification": "Your AI/data science background, hardware tinkering (Arduino, 3D printing, plasma toroid) and ESA-Scout repo show genuine interest, yet the programme demands student teams that can design, build and qualify actual rocket or balloon payloads. With only your first year of the BSc completed and no aerospace or stratospheric experiment experience, this is a stretch application that would require rapid team formation and technical upskilling before the October deadline.",
         "why_apply": [
-          "Gain direct access to ESA sounding rockets or stratospheric balloons for a real payload flight",
-          "Build an international student team and proposal-writing experience valued in future ESA programmes"
+          "Direct access to ESA launch campaign and flight opportunity on REXUS rocket or BEXUS balloon",
+          "Hands-on payload development experience valued for future ESA internships or graduate programmes"
         ],
         "required_skills": [
-          "Aerospace or mechanical engineering experiment design",
-          "Payload integration, testing and safety documentation",
-          "Team proposal writing under ESA Academy guidelines"
+          "Payload experiment design and integration",
+          "Mechanical/electrical engineering for flight hardware",
+          "Team proposal writing and project management",
+          "Data analysis from stratospheric or rocket environments"
         ],
         "gaps": [
-          "No demonstrated aerospace, rocketry or atmospheric-science coursework or projects",
-          "No prior experiment-proposal or payload-development experience",
-          "Need for a qualified multi-disciplinary team and faculty endorsement within one month"
+          "No demonstrated aerospace, rocketry or ballooning project experience",
+          "Early-stage BSc with limited formal engineering coursework",
+          "Need to assemble a multi-disciplinary student team within weeks"
         ],
         "checklist": [
           {
-            "task": "Contact rexus-bexus@esa.int to confirm eligibility for a 2026-2028 BSc AI student and request past winning proposals",
-            "effort": "2 hours",
-            "done_when": "Email reply received with eligibility confirmation"
-          },
-          {
-            "task": "Identify and contact at least two engineering or physics students at partner universities to form a proposal team",
-            "effort": "1 week",
-            "done_when": "Written commitment from two teammates with relevant technical backgrounds"
-          },
-          {
-            "task": "Draft a one-page experiment concept that uses your Python/OpenCV skills for in-flight data processing on a REXUS/BEXUS platform",
+            "task": "Contact two engineering or physics students at H-FARM or University of Chichester to form a minimum 4-person team",
             "effort": "3 days",
-            "done_when": "Concept document reviewed by a faculty member willing to endorse"
+            "done_when": "Written commitment from three teammates with complementary skills"
+          },
+          {
+            "task": "Draft a one-page experiment concept using your Synapse pipeline or drone data skills for a stratospheric measurement",
+            "effort": "1 week",
+            "done_when": "Concept reviewed by at least one mentor from MIT Edgerton Center"
+          },
+          {
+            "task": "Register and submit the team proposal via the ESA REXUS/BEXUS portal before 13:00 CEST",
+            "effort": "2 days",
+            "done_when": "Confirmation email received from rexus-bexus@esa.int"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Call for proposals closes",
+            "label": "REXUS/BEXUS proposal submission",
             "date": "2026-10-08"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:58Z",
-        "fingerprint": "a492373e313e1d22",
+        "evaluated_at": "2026-09-13T11:33:39Z",
+        "fingerprint": "2e27e83ffb556f87",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-academy-access-to-ground-and-space-based-platforms-esa-academy-exp",
+      "title": "Access to ground and space-based platforms: ESA Academy Experiments",
+      "source": "esa_academy",
+      "source_label": "ESA Academy Projects",
+      "url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
+      "status": "Open",
+      "kind": "Project / Hands-on Programme",
+      "category": "Other",
+      "location": "",
+      "summary": "Call for proposals open until 22 November 2026, 23:59 CEST Contact: academy.experiments@esa.int.",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "Call for proposals open until 22 November 2026, 23:59 CEST",
+      "deadline": "2026-11-22",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-13T11:33:48Z",
+      "content_hash": "7ace9d054b108179",
+      "match_score": 48,
+      "evaluation": {
+        "match_score": 48,
+        "justification": "Your AI/data science background and hardware projects (plasma toroid, Synapse pipeline) show technical capability that could support data-heavy experiment proposals, yet you are only in year two of a BSc with no demonstrated space-physics or microgravity experiment experience. The ESA Academy Experiments programme targets university teams ready to propose and execute platform-specific experiments; your profile is promising for future cycles but currently a stretch.",
+        "why_apply": [
+          "Direct access to ESA ground/space platforms for hands-on experiment execution",
+          "Networking with ESA scientists and potential letters of recommendation",
+          "Opportunity to leverage your ESA-Scout GitHub repo as a starting point for a data-analysis experiment"
+        ],
+        "required_skills": [
+          "Experiment design and proposal writing for space/ground platforms",
+          "Domain knowledge in physics, biology or materials relevant to microgravity",
+          "Team leadership for multi-student ESA project submissions",
+          "Python/ML for experiment data processing"
+        ],
+        "gaps": [
+          "Limited formal background in space sciences or microgravity research",
+          "No prior experience writing ESA-style experiment proposals",
+          "Early-stage BSc (only ~60 ECTS completed) versus typical successful applicants",
+          "Need stronger evidence of independent scientific experimentation beyond hobby projects"
+        ],
+        "checklist": [
+          {
+            "task": "Draft a 2-page experiment concept note linking your Synapse pipeline or plasma work to an ESA platform (e.g., drop tower or ISS data),",
+            "effort": "1 week",
+            "done_when": "Concept note reviewed by a faculty mentor"
+          },
+          {
+            "task": "Contact academy.experiments@esa.int with a one-paragraph inquiry about AI/data-analysis experiment eligibility",
+            "effort": "2 hours",
+            "done_when": "Reply received and logged"
+          },
+          {
+            "task": "Identify two upper-year students or professors to form a proposing team",
+            "effort": "3 days",
+            "done_when": "Team members confirmed in writing"
+          },
+          {
+            "task": "Review past ESA Academy Experiments reports for proposal structure and success criteria",
+            "effort": "4 hours",
+            "done_when": "Annotated summary of three winning proposals completed"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Proposal submission",
+            "date": "2026-11-22"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-13T11:33:46Z",
+        "fingerprint": "96ab9cdef05cf1d0",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-academy-cubesats-fly-your-satellite-design-booster",
+      "title": "CubeSats: Fly Your Satellite! Design Booster",
+      "source": "esa_academy",
+      "source_label": "ESA Academy Projects",
+      "url": "https://www.esa.int/Education/Educational_Satellites/About_Design_Booster",
+      "status": "Open",
+      "kind": "Project / Hands-on Programme",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Call for proposals open until 2 October 2026, 13:00 CEST Contact: cubesats@esa.int.",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "Call for proposals open until 2 October 2026, 13:00 CEST",
+      "deadline": "2026-10-02",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-13T11:33:48Z",
+      "content_hash": "53aad25a398d5d3d",
+      "match_score": 47,
+      "evaluation": {
+        "match_score": 47,
+        "justification": "Your AI/Data Science background and hardware tinkering (Arduino, 3D printing, plasma toroid) give you a plausible entry point for an AI-focused CubeSat subsystem proposal, and the ESA-Scout repo shows targeted interest. However, the programme targets space-systems engineering students and teams with satellite design experience, which you lack at this stage of your BSc. With only three weeks until the 2 October deadline, a competitive application would require rapid upskilling in CubeSat standards and team formation.",
+        "why_apply": [
+          "Direct exposure to ESA CubeSat engineers and flight-hardware processes",
+          "Opportunity to pitch an AI payload concept that aligns with your Synapse and SciNet projects"
+        ],
+        "required_skills": [
+          "CubeSat systems engineering and mission design",
+          "Spacecraft subsystems (ADCS, power, comms)",
+          "Proposal writing for ESA reviews"
+        ],
+        "gaps": [
+          "No aerospace or satellite coursework or projects",
+          "Limited experience with space standards (ECSS) or orbital mechanics",
+          "No demonstrated team of engineering peers for a full proposal"
+        ],
+        "checklist": [
+          {
+            "task": "Draft a one-page concept note linking your Synapse pipeline to an onboard data-processing payload for a 1U CubeSat",
+            "effort": "3 days",
+            "done_when": "Note sent to cubesats@esa.int for informal feedback"
+          },
+          {
+            "task": "Complete the ESA Academy CubeSat introductory webinars and note key requirements for Design Booster proposals",
+            "effort": "1 week",
+            "done_when": "Checklist of technical and documentation requirements extracted"
+          },
+          {
+            "task": "Identify and contact two engineering students (mechatronics or aerospace) to form a minimal team before submission",
+            "effort": "4 days",
+            "done_when": "Team roster and role allocation documented"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Proposal submission",
+            "date": "2026-10-02"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-13T11:33:41Z",
+        "fingerprint": "078924e546146879",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-navigation-training-course",
+      "title": "Navigation Training Course",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://learn.esa.int/explore/navigation-training-course",
+      "status": "Open",
+      "kind": "Training Course",
+      "category": "Robotics & Software",
+      "location": "",
+      "summary": "Training Course running 22 – 26 June 2026.",
+      "activity_dates": "22 – 26 June 2026",
+      "activity_start": "2026-06-22",
+      "deadline_text": "5 April 2026",
+      "deadline": "2026-04-05",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-13T11:33:48Z",
+      "content_hash": "f89c630e8fe69e1e",
+      "match_score": 42,
+      "evaluation": {
+        "match_score": 42,
+        "justification": "Your AI/Data Science background and Python/ML projects give you a software foundation that overlaps with the robotics & software category, but the Navigation Training Course targets students with stronger aerospace, control systems or satellite navigation exposure that you currently lack. At this early stage of your BSc (first year in 2026) and without demonstrated navigation-related work, the course would be a stretch rather than a strong fit.",
+        "why_apply": [
+          "Gain ESA Academy certificate and networking with European space navigation experts",
+          "Exposure to practical satellite and robotic navigation techniques that could inform future AI applications"
+        ],
+        "required_skills": [
+          "Satellite navigation principles or inertial/GNSS systems",
+          "Robotics control or path-planning algorithms",
+          "Strong programming in Python/C++ for real-time systems"
+        ],
+        "gaps": [
+          "No coursework or projects in navigation, orbital mechanics or control theory",
+          "Limited aerospace or space-systems experience beyond general AI/hardware projects",
+          "Still in first year of BSc with only 180 ECTS programme underway"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full Navigation Training Course syllabus and prerequisites on learn.esa.int",
+            "effort": "2 hours",
+            "done_when": "You have listed the exact technical topics covered and noted any mandatory prerequisites"
+          },
+          {
+            "task": "Map your Synapse and SciNet projects to navigation-related use cases (e.g. localisation from sensor data)",
+            "effort": "4 hours",
+            "done_when": "You have written a one-page note showing concrete links between your code and navigation concepts"
+          },
+          {
+            "task": "Contact ESA Academy or past participants via LinkedIn to confirm eligibility for first-year BSc students",
+            "effort": "1 week",
+            "done_when": "You receive written confirmation or clear guidance on application chances"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-04-05"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-13T11:33:20Z",
+        "fingerprint": "708803de467082db",
         "error": ""
       }
     },
@@ -612,172 +617,42 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 28,
       "evaluation": {
         "match_score": 28,
-        "justification": "Your AI & Data Science background and hardware projects like the xenon plasma toroid give you some technical curiosity for space systems, but the workshop targets students with aerospace or mechanical engineering focus on spacecraft testing procedures. At this early stage in your BSc you lack the domain knowledge and relevant coursework that typical participants bring.",
+        "justification": "Your AI & Data Science background and hardware projects (Arduino, plasma toroid, ESA-Scout repo) show technical curiosity but lack any aerospace, systems engineering or spacecraft testing coursework or experience required for this workshop. The 5 July 2026 deadline has already passed relative to today’s date, making an application impossible. This opportunity is therefore a poor use of your time.",
         "why_apply": [
-          "Direct exposure to ESA testing facilities and engineers",
-          "Potential to apply your AI skills to future spacecraft data or anomaly detection topics"
+          "Exposure to ESA testing facilities and engineers",
+          "Potential networking with space-systems professionals"
         ],
         "required_skills": [
-          "Spacecraft subsystems and testing methodologies",
-          "Aerospace or mechanical engineering fundamentals",
-          "Hands-on experience with space hardware or simulation tools"
+          "Spacecraft systems engineering",
+          "Environmental testing (vibration, thermal vacuum)",
+          "Test planning and verification procedures"
         ],
         "gaps": [
-          "No aerospace engineering or spacecraft-specific coursework",
-          "Limited evidence of systems engineering or testing experience",
-          "Application deadline (5 July 2026) has already passed"
+          "No aerospace or mechanical engineering courses",
+          "No documented spacecraft or satellite testing experience",
+          "Deadline already passed"
         ],
         "checklist": [
           {
-            "task": "Email ESA Academy to inquire about late applications or 2027 edition",
-            "effort": "1 hour",
-            "done_when": "Response received confirming next steps"
-          },
-          {
-            "task": "Add a spacecraft-testing-related module or project to your SciNet or ESA-Scout repo",
-            "effort": "2 weeks",
-            "done_when": "Public commit with testing simulation or data pipeline documented"
+            "task": "Search ESA Academy for the next iteration of the Spacecraft Testing Workshop",
+            "effort": "30 minutes",
+            "done_when": "Next edition dates and application window recorded"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application deadline",
+            "label": "Application deadline (this edition)",
             "date": "2026-07-05"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:55Z",
-        "fingerprint": "10919024d93dca5c",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
-      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
-      "status": "Open",
-      "kind": "Conference",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Conference running 18 – 22 May 2026.",
-      "activity_dates": "18 – 22 May 2026",
-      "activity_start": "2026-05-18",
-      "deadline_text": "6 April 2026",
-      "deadline": "2026-04-06",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
-      "content_hash": "0afa5793793d319f",
-      "match_score": 25,
-      "evaluation": {
-        "match_score": 25,
-        "justification": "Your AI & Data Science bachelor's and projects in ML pipelines and mentoring show strong technical aptitude, but the course requires prior knowledge of electromagnetics, RF engineering and satellite communications that your curriculum and experience do not cover. The May 2026 dates have already passed relative to today, further reducing relevance.",
-        "why_apply": [
-          "Exposure to ESA experts in satellite systems",
-          "Potential networking with European space industry"
-        ],
-        "required_skills": [
-          "Antenna theory and design",
-          "RF/microwave engineering",
-          "Satellite communication systems"
-        ],
-        "gaps": [
-          "No coursework or projects in electromagnetics or antennas",
-          "Degree focused on AI/data rather than space systems or electronics",
-          "Application deadline (6 Apr 2026) already passed"
-        ],
-        "checklist": [
-          {
-            "task": "Review the full ESoA Antennas course syllabus and prerequisites on the ESA Academy site",
-            "effort": "2 hours",
-            "done_when": "Notes taken on required background knowledge"
-          },
-          {
-            "task": "Identify one introductory antenna textbook or MOOC and complete the first module",
-            "effort": "1 week",
-            "done_when": "Certificate or notes from module completed"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-04-06"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:43Z",
-        "fingerprint": "62da566e43b4761c",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-esa-graduate-trainee-in-space-security-threat-and-geopolitica",
-      "title": "ESA Graduate Trainee in Space Security, Threat and Geopolitical Analysis",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Space-Security%2C-Threat-and-Geopolitical-Analysis/1432290033/",
-      "status": "Open",
-      "kind": "ESA Graduate Trainee",
-      "category": "Other",
-      "location": "Noordwijk, NL",
-      "summary": "ESA Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 September 2026 23:59 CET/CEST",
-      "deadline": "2026-09-30",
-      "first_seen": "2026-09-02T11:03:38Z",
-      "last_seen": "2026-09-12T20:27:10Z",
-      "content_hash": "d6f2504c56a295e2",
-      "match_score": 25,
-      "evaluation": {
-        "match_score": 25,
-        "justification": "Your current BSc in AI & Data Science (expected 2028) does not meet the graduate-level requirement typical for ESA GT positions, and your profile lacks demonstrated experience in space security, threat analysis or geopolitics. The ESA-Scout repository and AI pipeline work show initiative but do not compensate for the field and academic-level mismatch.",
-        "why_apply": [
-          "Direct exposure to ESA's Space Security Office and European space policy networks",
-          "Opportunity to test interest in geopolitical analysis before committing to further studies"
-        ],
-        "required_skills": [
-          "Space security and threat assessment methodologies",
-          "Geopolitical analysis and policy writing",
-          "Knowledge of international space law and treaties"
-        ],
-        "gaps": [
-          "No completed graduate degree or equivalent qualification",
-          "No coursework or projects in security, geopolitics or space policy",
-          "Limited evidence of written policy or threat-analysis outputs"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm exact eligibility criteria for this GT post on jobs.esa.int before investing time",
-            "effort": "30 minutes",
-            "done_when": "Eligibility section screenshot saved"
-          },
-          {
-            "task": "Draft a one-page policy brief on a current space-security topic using open sources",
-            "effort": "1 week",
-            "done_when": "Brief uploaded to GitHub with references"
-          },
-          {
-            "task": "Contact the hiring manager listed in the vacancy to ask about acceptable academic profiles",
-            "effort": "2 hours",
-            "done_when": "Email reply received and logged"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-09-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:27:10Z",
-        "fingerprint": "e1296196aa647abe",
+        "evaluated_at": "2026-09-13T11:33:37Z",
+        "fingerprint": "9430f42ab73fdaec",
         "error": ""
       }
     },
@@ -797,36 +672,36 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "5ffe78318b7213c9",
-      "match_score": 22,
+      "match_score": 25,
       "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science BSc (started 2025) and projects in ML pipelines and mentoring show technical promise, but the RAMS 2026 conference targets space-systems engineering expertise in reliability, availability, maintainability and safety that you have not yet developed. The April 2026 application deadline has already passed relative to today’s date, further reducing any immediate fit.",
+        "match_score": 25,
+        "justification": "Your AI & Data Science background and mentoring experience show strong technical skills, but the RAMS conference focuses on space systems reliability engineering where you have no demonstrated coursework, projects, or domain exposure. The April 2026 application deadline has already passed relative to today's date, further reducing viability. This would be a poor use of time without prior space-systems preparation.",
         "why_apply": [
-          "Direct exposure to ESA space-systems engineering community",
-          "Potential to explore RAMS applications of your AI skills (e.g., predictive maintenance)"
+          "Exposure to ESA space engineering community and RAMS methodologies",
+          "Potential networking with industry professionals in reliability and safety"
         ],
         "required_skills": [
-          "Space systems reliability engineering",
-          "RAMS analysis methods and standards",
-          "Aerospace or safety-critical systems background"
+          "Knowledge of reliability, availability, maintainability and safety (RAMS) in space systems",
+          "Background in aerospace or systems engineering",
+          "Understanding of space mission assurance and risk analysis"
         ],
         "gaps": [
-          "No demonstrated coursework or projects in RAMS or space engineering",
-          "Undergraduate level and recent start date limit depth in the domain",
-          "Application deadline already passed"
+          "No space systems, aerospace, or RAMS-related education or projects",
+          "Early-stage BSc student without relevant domain experience",
+          "Application deadline (15 April 2026) already passed"
         ],
         "checklist": [
           {
-            "task": "Study ESA RAMS conference proceedings from prior editions and map your Synapse or SciNet projects to potential RAMS use-cases",
-            "effort": "2 weeks",
-            "done_when": "One-page note linking at least two of your repositories to a RAMS topic"
+            "task": "Review past RAMS 2024 proceedings and identify 3 relevant papers to study",
+            "effort": "1 week",
+            "done_when": "Summary notes on applicability to AI/data science written"
           },
           {
-            "task": "Contact conference organizers to inquire about late or 2027 participation options given the missed deadline",
-            "effort": "3 hours",
-            "done_when": "Email sent and reply logged"
+            "task": "Contact ESA Academy to inquire about late or 2027 submission options",
+            "effort": "2 hours",
+            "done_when": "Response email received and logged"
           }
         ],
         "key_deadlines": [
@@ -836,8 +711,68 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:46Z",
-        "fingerprint": "324a8b29f8f85a55",
+        "evaluated_at": "2026-09-13T11:33:20Z",
+        "fingerprint": "9b0fd58149f2dc88",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
+      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
+      "status": "Open",
+      "kind": "Conference",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Conference running 18 – 22 May 2026.",
+      "activity_dates": "18 – 22 May 2026",
+      "activity_start": "2026-05-18",
+      "deadline_text": "6 April 2026",
+      "deadline": "2026-04-06",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-13T11:33:48Z",
+      "content_hash": "0afa5793793d319f",
+      "match_score": 22,
+      "evaluation": {
+        "match_score": 22,
+        "justification": "Your AI & Data Science BSc and projects in ML pipelines, mentoring, and general hardware do not align with the specialized antenna theory, RF engineering, and satellite communications content of this ESoA course. The ESA-Scout repository shows some ESA interest, but that alone does not bridge the technical gap for a competitive application.",
+        "why_apply": [
+          "Direct exposure to ESA experts in satellite systems",
+          "Potential networking with European space industry participants"
+        ],
+        "required_skills": [
+          "Antenna theory and electromagnetic simulation",
+          "Satellite communication systems knowledge",
+          "RF engineering or microwave engineering background"
+        ],
+        "gaps": [
+          "No coursework or projects in antennas, RF, or electromagnetics",
+          "Degree focus is AI/data science rather than aerospace/telecom engineering",
+          "No demonstrated satellite or space hardware experience"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full ESoA course syllabus and identify any overlap with your Python/OpenCV or Arduino work",
+            "effort": "3 hours",
+            "done_when": "Written 1-page mapping of your skills to at least 3 syllabus topics"
+          },
+          {
+            "task": "Contact past ESoA antenna course alumni via LinkedIn for application tips",
+            "effort": "1 week",
+            "done_when": "Received responses from at least two alumni"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-04-06"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-13T11:33:19Z",
+        "fingerprint": "ad58a8a7bcba9fab",
         "error": ""
       }
     },
@@ -857,36 +792,36 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 22,
       "evaluation": {
         "match_score": 22,
-        "justification": "Your AI & Data Science background and mentoring experience show strong technical aptitude, but the RADECS conference focuses on radiation effects on electronics and space systems with no overlap in your projects or coursework. The May 2026 application deadline has already passed relative to today's date, making participation impossible without an extension. This opportunity is a poor fit given the complete mismatch in domain knowledge.",
+        "justification": "Your AI & Data Science BSc and projects in ML pipelines, mentoring, and general hardware (Arduino, 3D printing) show no overlap with radiation effects on electronics or space systems engineering. The RADECS conference targets specialists in radiation physics, component testing, and space reliability; your profile lacks the required domain knowledge or related coursework/experience, making this a poor use of application effort.",
         "why_apply": [
-          "Exposure to radiation-hardening techniques used in ESA missions",
-          "Networking with radiation-effects specialists from European space industry"
+          "Exposure to ESA-funded space engineering community",
+          "Potential insight into radiation-hardened AI hardware for future projects"
         ],
         "required_skills": [
-          "Knowledge of radiation effects on semiconductors and electronics",
-          "Background in space systems or aerospace engineering",
-          "Experience with hardware testing or reliability analysis"
+          "Radiation effects on semiconductors and systems",
+          "Space electronics reliability testing",
+          "Physics or electronics engineering background"
         ],
         "gaps": [
-          "No coursework or projects in radiation physics, electronics reliability, or space hardware",
-          "Entirely AI/data-science focused profile with no space-systems exposure",
-          "Deadline (15 May 2026) already passed"
+          "No coursework or projects in radiation physics or space hardware",
+          "No demonstrated knowledge of RADECS topics",
+          "Limited space-systems experience beyond one ESA-named repo"
         ],
         "checklist": [
           {
-            "task": "Identify any late-application or wait-list options for RADECS 2026 via radecs2026.org",
-            "effort": "1 hour",
-            "done_when": "Email confirmation or notice received from organizers"
+            "task": "Read the last three RADECS proceedings and summarize three key radiation-effects papers relevant to onboard AI systems",
+            "effort": "8 hours",
+            "done_when": "One-page summary written with citations"
           },
           {
-            "task": "Map your Python/ML skills to potential radiation-data analysis use cases for future similar events",
-            "effort": "3 hours",
-            "done_when": "One-page note written linking Synapse or SciNet projects to radiation datasets"
+            "task": "Contact the ESA Academy grant page to confirm if late applications are still accepted after the 15 May 2026 deadline",
+            "effort": "30 minutes",
+            "done_when": "Email reply received and logged"
           }
         ],
         "key_deadlines": [
@@ -896,68 +831,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:52Z",
-        "fingerprint": "019e77fc579ac77f",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-14th-european-space-power-conference-espc-2026",
-      "title": "14th European Space Power Conference (ESPC 2026)",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://atpi.eventsair.com/cmspreview/espc2026/student-sponsorship",
-      "status": "Open",
-      "kind": "Conference",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Conference running 5 – 9 October 2026.",
-      "activity_dates": "5 – 9 October 2026",
-      "activity_start": "2026-10-05",
-      "deadline_text": "31 May 2026",
-      "deadline": "2026-05-31",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
-      "content_hash": "512ec4649ad785f2",
-      "match_score": 22,
-      "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science profile shows strong technical skills and ESA-related GitHub activity, but the ESPC 2026 focuses on space power systems engineering where you have no demonstrated coursework, projects or experience. The application deadline has already passed, further reducing any practical value in pursuing this specific event.",
-        "why_apply": [
-          "Exposure to European space power research community",
-          "Potential networking with ESA and industry experts if future editions open"
-        ],
-        "required_skills": [
-          "Space power systems (solar arrays, batteries, power electronics)",
-          "Satellite electrical architecture knowledge",
-          "Relevant engineering or physics background"
-        ],
-        "gaps": [
-          "No space power, electronics or aerospace engineering coursework or projects",
-          "Deadline (31 May 2026) already passed by current date",
-          "Limited demonstrated interest in space power domain beyond one repo name"
-        ],
-        "checklist": [
-          {
-            "task": "Review past ESPC proceedings to identify any AI/ML applications in power systems",
-            "effort": "4 hours",
-            "done_when": "Notes on 3-5 relevant papers saved"
-          },
-          {
-            "task": "Contact conference organizers to ask about late or 2028 student options",
-            "effort": "1 hour",
-            "done_when": "Email reply received and logged"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Student sponsorship application",
-            "date": "2026-05-31"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:52Z",
-        "fingerprint": "2b3c72bee31e99c9",
+        "evaluated_at": "2026-09-13T11:33:29Z",
+        "fingerprint": "9c4a999347262e5d",
         "error": ""
       }
     },
@@ -977,34 +852,41 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "acf44677c437a67b",
-      "match_score": 15,
+      "match_score": 22,
       "evaluation": {
-        "match_score": 15,
-        "justification": "Your AI & Data Science background and projects in ML pipelines and mentoring show strong technical aptitude, but SPCD 2026 focuses on passive electronic components for space applications with no overlap in your experience or studies. The May 2026 application deadline has already passed relative to today's date, making participation impossible this cycle.",
+        "match_score": 22,
+        "justification": "Your AI & Data Science studies and mentoring experience show strong technical aptitude and communication skills, but SPCD 2026 focuses on specialized passive electronic components for space applications with almost no overlap to your current background in machine learning, software pipelines, or general hardware projects.",
         "why_apply": [
-          "Exposure to ESA and space industry networking if future editions align with your career shift"
+          "Exposure to ESA and space-industry networking at a technical conference",
+          "Opportunity to explore hardware topics that could complement future AI-for-space work"
         ],
         "required_skills": [
-          "Knowledge of space-qualified passive components (resistors, capacitors, inductors)",
-          "Background in electronics reliability or space hardware testing"
+          "Knowledge of passive components (resistors, capacitors, inductors) in space environments",
+          "Understanding of space qualification, radiation effects and reliability testing",
+          "Background in electronics engineering or space systems"
         ],
         "gaps": [
-          "No coursework or projects in electronics, RF, or space components",
-          "Field of study is AI/Data Science rather than electrical engineering or space systems",
-          "Deadline already passed"
+          "No coursework or projects in electronics, RF, or space hardware",
+          "No demonstrated experience with space standards or component-level engineering",
+          "Current focus remains on AI software and data pipelines rather than hardware"
         ],
         "checklist": [
           {
-            "task": "Identify if SPCD 2028 call opens and review eligibility for students",
-            "effort": "1 hour",
-            "done_when": "Next call published and requirements noted"
+            "task": "Read the SPCD 2024 and 2022 proceedings and list 3–5 technical topics that could intersect with AI or data analysis",
+            "effort": "6 hours",
+            "done_when": "One-page summary of intersections written"
           },
           {
-            "task": "Add any future electronics or space hardware modules to your BSc curriculum",
-            "effort": "ongoing",
-            "done_when": "At least one relevant module enrolled"
+            "task": "Contact the conference organizers to ask whether student poster abstracts on AI-assisted component testing are welcomed",
+            "effort": "1 hour",
+            "done_when": "Email sent and reply received"
+          },
+          {
+            "task": "Update the ESA-Scout GitHub repo with a short section on how the tool could support space-component data analysis",
+            "effort": "3 hours",
+            "done_when": "New README section committed"
           }
         ],
         "key_deadlines": [
@@ -1014,8 +896,133 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:26:49Z",
-        "fingerprint": "6ea86311203dbc19",
+        "evaluated_at": "2026-09-13T11:33:27Z",
+        "fingerprint": "a4ce1099a2c62952",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-14th-european-space-power-conference-espc-2026",
+      "title": "14th European Space Power Conference (ESPC 2026)",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://atpi.eventsair.com/cmspreview/espc2026/student-sponsorship",
+      "status": "Open",
+      "kind": "Conference",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Conference running 5 – 9 October 2026.",
+      "activity_dates": "5 – 9 October 2026",
+      "activity_start": "2026-10-05",
+      "deadline_text": "31 May 2026",
+      "deadline": "2026-05-31",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-13T11:33:48Z",
+      "content_hash": "512ec4649ad785f2",
+      "match_score": 22,
+      "evaluation": {
+        "match_score": 22,
+        "justification": "Your AI & Data Science background and mentoring experience show strong technical aptitude, but the ESPC 2026 focuses on space power systems (solar arrays, batteries, power electronics for spacecraft) where you have no demonstrated coursework, projects or domain exposure. At this early stage of your BSc you lack the specialized engineering foundation that typical attendees bring.",
+        "why_apply": [
+          "Direct exposure to ESA and European space-industry power experts",
+          "Potential student sponsorship covering travel and registration"
+        ],
+        "required_skills": [
+          "Spacecraft power-system design and analysis",
+          "Electrical engineering fundamentals for space environments",
+          "Knowledge of ESA power standards and missions"
+        ],
+        "gaps": [
+          "No academic or project work in space power, electronics or aerospace",
+          "Limited relevant publications or conference experience",
+          "Current studies emphasize AI rather than power engineering"
+        ],
+        "checklist": [
+          {
+            "task": "Write a 300-word motivation letter linking your AI pipeline work to potential space-power data-analytics use cases",
+            "effort": "4 hours",
+            "done_when": "Letter drafted and reviewed by a mentor"
+          },
+          {
+            "task": "Identify two ESPC 2026 technical sessions most relevant to power subsystems and note specific questions for each",
+            "effort": "2 hours",
+            "done_when": "Session list and questions saved in application folder"
+          },
+          {
+            "task": "Request a letter of support from your H-FARM programme director confirming student status and interest in space applications",
+            "effort": "1 week",
+            "done_when": "Signed letter received"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Student sponsorship application",
+            "date": "2026-05-31"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-13T11:33:27Z",
+        "fingerprint": "73a0d6e6bae07906",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-esa-graduate-trainee-in-space-security-threat-and-geopolitica",
+      "title": "ESA Graduate Trainee in Space Security, Threat and Geopolitical Analysis",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Space-Security%2C-Threat-and-Geopolitical-Analysis/1432290033/",
+      "status": "Open",
+      "kind": "ESA Graduate Trainee",
+      "category": "Other",
+      "location": "Noordwijk, NL",
+      "summary": "ESA Graduate Trainee · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 September 2026 23:59 CET/CEST",
+      "deadline": "2026-09-30",
+      "first_seen": "2026-09-02T11:03:38Z",
+      "last_seen": "2026-09-13T11:33:48Z",
+      "content_hash": "d6f2504c56a295e2",
+      "match_score": 22,
+      "evaluation": {
+        "match_score": 22,
+        "justification": "You are currently in year one of a three-year bachelor's in AI & Data Science with graduation expected only in 2028, while ESA Graduate Trainee posts require recent master's-level graduates. Your Python/ML projects and ESA-Scout repository demonstrate technical interest, yet the role centers on space security, threat assessment and geopolitical analysis where you have no demonstrated background. The September 2026 deadline leaves insufficient time to close either the degree-level or domain gap.",
+        "why_apply": [
+          "Direct exposure to ESA's Space Security Office and its geopolitical work",
+          "Opportunity to test fit for future ESA roles after completing your degree"
+        ],
+        "required_skills": [
+          "Geopolitical and threat analysis in the space domain",
+          "Policy or security studies at master's level",
+          "Report writing and stakeholder communication"
+        ],
+        "gaps": [
+          "Bachelor's student, not recent master's graduate",
+          "No coursework or experience in security, geopolitics or international relations",
+          "Deadline in 17 days precludes meaningful preparation"
+        ],
+        "checklist": [
+          {
+            "task": "Verify exact eligibility criteria on the ESA jobs page for this Graduate Trainee post",
+            "effort": "30 minutes",
+            "done_when": "You have confirmed the minimum degree requirement in writing"
+          },
+          {
+            "task": "Read the full vacancy notice and note any required security or policy competencies",
+            "effort": "1 hour",
+            "done_when": "You have listed the three most emphasized competencies"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-09-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-13T11:33:48Z",
+        "fingerprint": "86ff36960e84f095",
         "error": ""
       }
     },
@@ -1035,36 +1042,42 @@
       "deadline_text": "Next cycle expected to open in 2027",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "9f3f94b0b389746e",
-      "match_score": 38,
+      "match_score": 35,
       "evaluation": {
-        "match_score": 38,
-        "justification": "Your AI/Data Science background and hardware projects give you transferable skills in Python, ML, and prototyping that could support payload data handling on a CubeSat team, but the programme targets students with stronger aerospace, electronics, or systems-engineering foundations that you currently lack. The 2027 cycle timing aligns with your remaining studies, yet the core curriculum mismatch makes this a stretch application rather than a competitive one today.",
+        "match_score": 35,
+        "justification": "Your AI/Data Science background and Python/ML projects give you relevant technical skills for data handling or onboard software in a CubeSat team, and the ESA-Scout repo shows targeted interest, but the programme targets university teams with aerospace, electronics or mechanical engineering focus that your current BSc does not provide.",
         "why_apply": [
-          "Direct ESA Academy exposure and potential flight opportunity for a student-built CubeSat",
-          "Access to ESA facilities, testing, and launch integration support"
+          "Direct ESA mentorship on building and launching a real CubeSat",
+          "Access to ESA facilities and testing infrastructure",
+          "Networking with European space engineering students and professionals"
         ],
         "required_skills": [
-          "CubeSat systems engineering and AIV (assembly, integration, verification)",
-          "Embedded systems, electronics, and mechanical design for space",
-          "Team-based project management under ESA standards"
+          "Satellite systems engineering and AIV",
+          "Embedded systems and space-qualified hardware",
+          "Team-based project management under ESA review cycles"
         ],
         "gaps": [
-          "No formal coursework or projects in orbital mechanics, space environment, or satellite subsystems",
-          "Limited documented experience with space-grade hardware or radiation-tolerant design",
-          "Early stage of BSc (only ~1 year completed) with primary focus on terrestrial AI applications"
+          "No aerospace, electronics or mechanical engineering coursework",
+          "Limited experience with space hardware constraints or radiation effects",
+          "Not yet part of a university team eligible for the programme"
         ],
         "checklist": [
           {
-            "task": "Join or form a university CubeSat team and contribute an AI/ML payload concept using your Synapse or SciNet experience",
-            "effort": "3-4 months",
-            "done_when": "Team registered and payload requirements document submitted to cubesats@esa.int"
+            "task": "Email cubesats@esa.int to confirm 2027 eligibility rules for AI/Data Science students",
+            "effort": "1 hour",
+            "done_when": "Reply received with explicit criteria"
           },
           {
-            "task": "Complete ESA Academy's free online CubeSat introductory modules once published for the 2027 cycle",
-            "effort": "2 weeks",
-            "done_when": "Certificates uploaded to application portal"
+            "task": "Join or form a student team at H-Farm/University of Chichester that includes at least one electronics or aerospace student",
+            "effort": "2-4 weeks",
+            "done_when": "Team registered and preliminary CubeSat concept documented"
+          },
+          {
+            "task": "Complete an introductory CubeSat systems course (e.g. ESA Academy MOOC or equivalent)",
+            "effort": "20-30 hours",
+            "done_when": "Certificate obtained and key subsystems mapped to your skills"
           }
         ],
         "key_deadlines": [
@@ -1074,8 +1087,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:27:05Z",
-        "fingerprint": "bcee417d589bddd7",
+        "evaluated_at": "2026-09-13T11:33:37Z",
+        "fingerprint": "2485302082a310c6",
         "error": ""
       }
     },
@@ -1095,44 +1108,41 @@
       "deadline_text": "TBD",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-12T20:27:10Z",
+      "last_seen": "2026-09-13T11:33:48Z",
       "content_hash": "7337bb9fac70a849",
       "match_score": 32,
       "evaluation": {
         "match_score": 32,
-        "justification": "Your AI & Data Science degree and mentoring experience show initiative and technical breadth, but the role centers on hands-on hardware testing for space systems where your background offers only tangential overlap through Arduino, 3D printing and the plasma toroid project. The early stage of your BSc (2025-2028) and lack of aerospace or formal testing credentials make this a poor immediate fit. The ESA-Scout repository is a nice signal of interest but does not close the domain gap.",
+        "justification": "Your profile shows solid AI/ML and some hands-on hardware tinkering (Arduino, plasma toroid, 3D printing), plus an ESA-Scout GitHub repo indicating interest, but the opportunity centers on space hardware testing and CubeSat systems where you lack relevant coursework, testing experience, or aerospace background. As a second-year AI/Data Science student the field mismatch makes this a poor use of time unless you can quickly demonstrate hardware-testing aptitude.",
         "why_apply": [
-          "Direct exposure to ESA CubeSat hardware testing facilities and procedures",
-          "Opportunity to pivot from AI toward space systems engineering",
-          "Potential letter of recommendation from ESA Academy staff"
+          "Direct contact with ESA CubeSat team via cubesats@esa.int",
+          "Potential exposure to real satellite hardware testing facilities"
         ],
         "required_skills": [
-          "Hardware assembly, integration and functional testing",
-          "Electronics troubleshooting and measurement equipment use",
-          "Understanding of space environmental test standards",
-          "Mechanical design validation with CAD and 3D-printed parts"
+          "Hardware testing and qualification procedures",
+          "Space systems engineering fundamentals",
+          "Electronics and embedded systems"
         ],
         "gaps": [
-          "No documented experience with space-grade hardware or vacuum/thermal-vacuum testing",
-          "Degree programme is AI/Data Science rather than aerospace or mechanical engineering",
-          "Limited formal training in test procedures, safety protocols or ESA standards",
-          "Still in first year of BSc with only personal projects as evidence"
+          "No demonstrated experience in space hardware testing or vacuum/thermal/vibration testing",
+          "Curriculum focused on AI/Data Science rather than aerospace or electronics engineering",
+          "Limited evidence of formal hardware qualification or CubeSat-related work"
         ],
         "checklist": [
           {
-            "task": "Email cubesats@esa.int with subject 'Inquiry: Hardware Testing Opportunities 2026' attaching your plasma toroid and Arduino project photos",
-            "effort": "2 hours",
-            "done_when": "Email sent and reply received"
+            "task": "Email cubesats@esa.int with a one-page summary of your DIY xenon plasma toroid and Arduino projects",
+            "effort": "3 hours",
+            "done_when": "Email sent and any reply logged"
           },
           {
-            "task": "Add a dedicated 'Hardware Projects' section to your GitHub README highlighting the xenon toroid and drone work with test logs",
+            "task": "Read the full Test Opportunities page and note exact eligibility and selection criteria",
+            "effort": "1 hour",
+            "done_when": "Criteria documented in your notes"
+          },
+          {
+            "task": "Add a dedicated section to your portfolio linking SciNet/ESA-Scout repos to potential CubeSat data-handling use cases",
             "effort": "4 hours",
-            "done_when": "Section live and linked in application"
-          },
-          {
-            "task": "Complete the free ESA Academy MOOC module on CubeSat testing if it opens before deadline",
-            "effort": "10 hours",
-            "done_when": "Certificate downloaded"
+            "done_when": "Updated portfolio live with new section"
           }
         ],
         "key_deadlines": [
@@ -1142,8 +1152,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-12T20:27:05Z",
-        "fingerprint": "ed75d6672e50dafc",
+        "evaluated_at": "2026-09-13T11:33:48Z",
+        "fingerprint": "5429d6fc39883bbe",
         "error": ""
       }
     }
