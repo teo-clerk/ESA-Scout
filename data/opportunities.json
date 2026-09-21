@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T12:33:27Z",
+  "generated_at": "2026-09-21T21:53:57Z",
   "stats": {
     "total": 18,
     "open": 16,
@@ -75,7 +75,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-09-21T10:36:44Z"
+          "pushed_at": "2026-09-21T12:33:28Z"
         },
         {
           "name": "portfolio",
@@ -217,7 +217,7 @@
       "deadline_text": "Call for proposals open until 22 November 2026, 23:59 CEST",
       "deadline": "2026-11-22",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "7ace9d054b108179",
       "match_score": 58,
       "evaluation": {
@@ -288,7 +288,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 52,
       "evaluation": {
@@ -348,7 +348,7 @@
       "deadline_text": "Call for proposals open until 2 October 2026, 13:00 CEST",
       "deadline": "2026-10-02",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "53aad25a398d5d3d",
       "match_score": 48,
       "evaluation": {
@@ -415,7 +415,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 48,
       "evaluation": {
@@ -480,7 +480,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 42,
       "evaluation": {
@@ -540,7 +540,7 @@
       "deadline_text": "Call for proposals open until 8 October 2026, 13:00 CEST",
       "deadline": "2026-10-08",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "2628ea59541d5ec5",
       "match_score": 42,
       "evaluation": {
@@ -605,7 +605,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 28,
       "evaluation": {
@@ -665,7 +665,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 28,
       "evaluation": {
@@ -725,7 +725,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 25,
       "evaluation": {
@@ -785,7 +785,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 22,
       "evaluation": {
@@ -845,7 +845,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 22,
       "evaluation": {
@@ -890,71 +890,6 @@
       }
     },
     {
-      "id": "esa-jobs-esa-graduate-trainee-in-space-security-threat-and-geopolitica",
-      "title": "ESA Graduate Trainee in Space Security, Threat and Geopolitical Analysis",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Space-Security%2C-Threat-and-Geopolitical-Analysis/1432290033/",
-      "status": "Open",
-      "kind": "ESA Graduate Trainee",
-      "category": "Other",
-      "location": "Noordwijk, NL",
-      "summary": "ESA Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 September 2026 23:59 CET/CEST",
-      "deadline": "2026-09-30",
-      "first_seen": "2026-09-02T11:03:38Z",
-      "last_seen": "2026-09-21T12:33:27Z",
-      "content_hash": "d6f2504c56a295e2",
-      "match_score": 22,
-      "evaluation": {
-        "match_score": 22,
-        "justification": "Your current BSc in AI & Data Science (expected 2028) does not meet the graduate-level entry typical for ESA Graduate Trainee posts, and your profile lacks demonstrated expertise in space security, threat assessment or geopolitical analysis. The ESA-Scout repository and mentoring experience show initiative, but the role's focus on policy and security analysis creates a significant field mismatch at this stage.",
-        "why_apply": [
-          "Exposure to ESA's space security policy environment",
-          "Networking with European space-sector professionals in Noordwijk"
-        ],
-        "required_skills": [
-          "Space security and threat analysis",
-          "Geopolitical analysis and policy writing",
-          "Knowledge of international space law and treaties"
-        ],
-        "gaps": [
-          "Not yet a recent graduate (BSc expected May 2028)",
-          "No coursework or projects in security, geopolitics or space policy",
-          "Limited evidence of written policy or threat-assessment deliverables"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm exact eligibility criteria on the ESA job page for this GT post",
-            "effort": "30 minutes",
-            "done_when": "You have noted the minimum degree requirement and nationality rules"
-          },
-          {
-            "task": "Draft a one-page note linking your Synapse or SciNet projects to space-data security use-cases",
-            "effort": "3 hours",
-            "done_when": "Note saved in your application folder"
-          },
-          {
-            "task": "Identify one recent ESA space-security publication and summarise its key threats in 300 words",
-            "effort": "4 hours",
-            "done_when": "Summary document completed"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-09-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:22Z",
-        "fingerprint": "9059b5365a337386",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
       "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
       "source": "esa_jobs",
@@ -967,49 +902,115 @@
       "summary": "National Graduate Trainee · Frascati, IT",
       "activity_dates": "",
       "activity_start": "",
-      "deadline_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13",
+      "deadline_text": "",
+      "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-21T12:33:27Z",
-      "content_hash": "805c8c2aeeac6a9f",
+      "last_seen": "2026-09-21T21:53:57Z",
+      "content_hash": "38ee8db9eeeefd3f",
       "match_score": 18,
       "evaluation": {
         "match_score": 18,
-        "justification": "You are ineligible for this Estonian National Graduate Trainee post due to nationality requirements and because you will not complete your BSc until 2028. Your AI/ML and Python skills align thematically with the Earth Observation focus, but the role targets recent graduates with domain experience in forestry or biodiversity mapping that you lack.",
+        "justification": "You are ineligible for this Estonian National Graduate Trainee post due to nationality requirements and because you will not have completed your BSc until 2028. Your AI/ML skills and projects align thematically with the Earth Observation focus, but the role demands a recent graduate with domain experience in forestry or biodiversity mapping that you lack.",
         "why_apply": [
-          "Gain insight into ESA Earth Observation projects even if application is unsuccessful"
+          "Exposure to ESA Earth Observation workflows at ESRIN",
+          "Networking with ESA scientists in Frascati"
         ],
         "required_skills": [
-          "AI/Machine Learning for Earth Observation",
-          "Forestry or biodiversity domain knowledge",
-          "Recent graduate status (Master or equivalent)"
+          "Graduate-level qualification in AI/ML or remote sensing",
+          "Estonian nationality",
+          "Experience with satellite data and forestry/biodiversity applications"
         ],
         "gaps": [
-          "Not an Estonian national",
-          "Still in first year of BSc (graduation 2028)",
-          "No demonstrated experience with satellite data or forestry applications"
+          "Not Estonian national",
+          "Still two years from BSc completion",
+          "No demonstrated work with Earth Observation data or ecological mapping"
         ],
         "checklist": [
           {
-            "task": "Confirm Estonian nationality eligibility on the ESA job page",
+            "task": "Confirm Estonian citizenship eligibility on the ESA job page",
             "effort": "15 minutes",
-            "done_when": "You have read the eligibility section and noted the nationality restriction"
+            "done_when": "Eligibility status verified"
           },
           {
-            "task": "Review the exact academic requirements in the full vacancy notice",
-            "effort": "30 minutes",
-            "done_when": "You have extracted the minimum degree and graduation date criteria"
+            "task": "Search ESA careers for open graduate trainee calls not restricted to Estonian nationals",
+            "effort": "1 hour",
+            "done_when": "List of alternative calls compiled"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline for this post",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-21T21:53:54Z",
+        "fingerprint": "fe42cb4dc831f8dd",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-esa-graduate-trainee-in-space-security-threat-and-geopolitica",
+      "title": "ESA Graduate Trainee in Space Security, Threat and Geopolitical Analysis",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Space-Security%2C-Threat-and-Geopolitical-Analysis/1432290033/",
+      "status": "Open",
+      "kind": "ESA Graduate Trainee",
+      "category": "Other",
+      "location": "Noordwijk, NL",
+      "summary": "ESA Graduate Trainee · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-02T11:03:38Z",
+      "last_seen": "2026-09-21T21:53:57Z",
+      "content_hash": "73bc508cf8d561bc",
+      "match_score": 18,
+      "evaluation": {
+        "match_score": 18,
+        "justification": "Your current profile is a weak match for this ESA Graduate Trainee role. You are still two years from completing a Bachelor's in AI & Data Science with no demonstrated background in space security, threat analysis or geopolitics, while the position targets candidates who have recently finished advanced studies in relevant policy, security or international relations fields. The ESA-Scout repository name is a superficial connection at best.",
+        "why_apply": [
+          "Direct exposure to ESA's Space Security Office and its international stakeholder network",
+          "Opportunity to test interest in policy-oriented space careers before committing to further studies"
+        ],
+        "required_skills": [
+          "Knowledge of space security threats and geopolitical dynamics",
+          "Analytical writing and policy assessment",
+          "Understanding of international space law and treaties"
+        ],
+        "gaps": [
+          "Only first-year undergraduate status (expected graduation 2028) versus typical Master's-level requirement",
+          "Zero coursework or experience in security studies, geopolitics or space policy",
+          "No publications, internships or projects addressing threat analysis or strategic issues"
+        ],
+        "checklist": [
+          {
+            "task": "Read the full vacancy notice on jobs.esa.int and note exact eligibility criteria for Graduate Trainees",
+            "effort": "1 hour",
+            "done_when": "You have confirmed whether a Bachelor's student in year 1 can apply"
+          },
+          {
+            "task": "Identify one recent ESA or EU document on space security threats and write a 1-page summary",
+            "effort": "4 hours",
+            "done_when": "Summary is completed and references specific threats mentioned in the vacancy"
+          },
+          {
+            "task": "Contact the ESA-Scout GitHub repo maintainer or similar student groups to understand any prior ESA trainee pathways",
+            "effort": "2 hours",
+            "done_when": "You have documented at least one concrete precedent or barrier"
           }
         ],
         "key_deadlines": [
           {
             "label": "Application deadline",
-            "date": "2026-10-13"
+            "date": "as published on jobs.esa.int"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T21:12:13Z",
-        "fingerprint": "1dc4ba7d14a71be9",
+        "evaluated_at": "2026-09-21T21:53:57Z",
+        "fingerprint": "6b19f3a723ee3630",
         "error": ""
       }
     },
@@ -1029,7 +1030,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 15,
       "evaluation": {
@@ -1086,57 +1087,49 @@
       "summary": "National Graduate Trainee · Harwell, GB",
       "activity_dates": "",
       "activity_start": "",
-      "deadline_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13",
+      "deadline_text": "",
+      "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-21T12:33:27Z",
-      "content_hash": "e075e28576feda37",
-      "match_score": 15,
+      "last_seen": "2026-09-21T21:53:57Z",
+      "content_hash": "135de145aa22401b",
+      "match_score": 12,
       "evaluation": {
-        "match_score": 15,
-        "justification": "You are not Estonian, so you are ineligible for this Estonian National Graduate Trainee post. You are also only in the first year of a three-year BSc (expected graduation 2028) while the role targets recent graduates. Your AI/data science profile and mentoring experience show some overlap with the robotics & software category but lack the required nationality, degree completion, and direct robotics credentials.",
-        "why_apply": [
-          "Gain direct exposure to ESA robotics projects at Harwell even if only as preparation for future calls",
-          "Build contacts with the Estonian space community through the national trainee network"
-        ],
+        "match_score": 12,
+        "justification": "You are ineligible for this Estonian National Graduate Trainee post because you are not an Estonian national and you will not complete your BSc until 2028. Your AI/data-science background and mentoring experience show some overlap with robotics software, but the nationality and graduation requirements are hard barriers that make an application a poor use of time.",
+        "why_apply": [],
         "required_skills": [
-          "Estonian nationality",
-          "Completed or near-completed MSc or equivalent in robotics, mechatronics or related field",
-          "Hands-on robotics software (ROS, control systems, embedded C++)",
-          "Recent graduate status (typically within 1-2 years of degree award)"
+          "Robotics software engineering",
+          "Embedded systems / control",
+          "C++ or Python for real-time systems",
+          "ESA project experience"
         ],
         "gaps": [
-          "Not Estonian national",
-          "Bachelor's degree not yet completed (only ~1 year into 3-year programme)",
-          "No demonstrated robotics-specific experience (ROS, manipulators, autonomy stacks)",
-          "Limited embedded/hardware control projects beyond Arduino and one plasma toroid build"
+          "Estonian nationality (mandatory for this national quota)",
+          "Graduate status (BSc expected only in 2028)",
+          "Direct robotics or control-systems projects",
+          "Prior ESA or space-hardware experience"
         ],
         "checklist": [
           {
-            "task": "Confirm Estonian nationality requirement on the ESA job page and note any exceptions for dual nationals",
+            "task": "Confirm Estonian citizenship or dual nationality eligibility on the ESA jobs portal",
             "effort": "30 minutes",
-            "done_when": "You have read the eligibility section and recorded the exact nationality rule"
+            "done_when": "Eligibility section reviewed and screenshot saved"
           },
           {
-            "task": "Email the Estonian Space Office to ask whether non-Estonian nationals can ever be considered for this post",
-            "effort": "1 hour",
-            "done_when": "Reply received and saved"
-          },
-          {
-            "task": "Map your Synapse and SciNet GitHub projects against typical ESA robotics software requirements (ROS2, simulation, perception)",
-            "effort": "4 hours",
-            "done_when": "One-page comparison document created"
+            "task": "Search for open ESA graduate trainee calls that accept Spanish/Italian nationals in robotics or AI",
+            "effort": "2 hours",
+            "done_when": "List of 3-5 alternative postings compiled"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application deadline",
-            "date": "2026-10-13"
+            "label": "Application deadline (Estonian National Graduate Trainee in Robotics)",
+            "date": "as published on jobs.esa.int"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:14Z",
-        "fingerprint": "819317ecaf418c2d",
+        "evaluated_at": "2026-09-21T21:53:56Z",
+        "fingerprint": "3715a9053ffc42d2",
         "error": ""
       }
     },
@@ -1153,51 +1146,46 @@
       "summary": "National Graduate Trainee · Harwell, GB",
       "activity_dates": "",
       "activity_start": "",
-      "deadline_text": "13 October 2026 23:59 CET/CEST",
-      "deadline": "2026-10-13",
+      "deadline_text": "",
+      "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-21T12:33:27Z",
-      "content_hash": "4a120e9de62bd6d2",
-      "match_score": 15,
+      "last_seen": "2026-09-21T21:53:57Z",
+      "content_hash": "b8f682017b960495",
+      "match_score": 8,
       "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Estonian National Graduate Trainee post because you lack Estonian nationality and your BSc in AI & Data Science (expected 2028) does not align with advanced materials or process engineering. Your mentoring, AI projects and hardware experiments show strong technical initiative but sit outside the required domain and career stage.",
+        "match_score": 8,
+        "justification": "You are not eligible for this Estonian National Graduate Trainee post because you lack Estonian nationality and are still in the second year of a BSc in AI & Data Science rather than holding a recent engineering or materials-science degree. The role focuses on advanced materials and process engineering for space systems, a field with no overlap to your AI, data science, and mentoring background.",
         "why_apply": [
-          "Gain direct ESA exposure in a UK site if nationality criteria were met",
-          "Develop contacts in space materials engineering"
+          "Gain insight into ESA's materials testing facilities at Harwell",
+          "Network with European space engineers during the traineeship"
         ],
         "required_skills": [
+          "Advanced materials science or process engineering degree",
           "Estonian nationality",
-          "Master's or recent engineering degree in materials/process engineering",
-          "Knowledge of advanced materials for space applications"
+          "Recent Master's-level qualification"
         ],
         "gaps": [
-          "Estonian citizenship (mandatory for national quota)",
-          "No academic background in materials science or process engineering",
-          "Still two years from bachelor's completion; position targets graduates",
-          "No demonstrated experience with space-grade materials or processes"
+          "No Estonian nationality or citizenship",
+          "Undergraduate AI/Data Science degree instead of materials/process engineering",
+          "Graduation not expected until 2028, well after typical graduate-trainee window",
+          "No demonstrated experience in materials characterisation, composites or manufacturing processes"
         ],
         "checklist": [
           {
-            "task": "Confirm Estonian nationality or dual citizenship status with ESA HR",
-            "effort": "1 hour",
-            "done_when": "Written confirmation received or eligibility ruled out"
+            "task": "Confirm Estonian nationality eligibility on the ESA jobs portal",
+            "effort": "30 minutes",
+            "done_when": "Eligibility section reviewed and status noted"
           },
           {
-            "task": "Search ESA jobs portal for non-national trainee or Young Graduate Trainee openings in AI/data for space",
+            "task": "Search for open ESA graduate trainee calls in AI, data or software engineering",
             "effort": "2 hours",
-            "done_when": "List of 3-5 alternative postings saved"
+            "done_when": "List of 3-5 alternative calls saved with deadlines"
           }
         ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-10-13"
-          }
-        ],
+        "key_deadlines": [],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:18Z",
-        "fingerprint": "d2f6acb3d01f8e87",
+        "evaluated_at": "2026-09-21T21:53:57Z",
+        "fingerprint": "2c041c9ef23857e5",
         "error": ""
       }
     },
@@ -1217,7 +1205,7 @@
       "deadline_text": "TBD",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "7337bb9fac70a849",
       "match_score": 48,
       "evaluation": {
@@ -1282,7 +1270,7 @@
       "deadline_text": "Next cycle expected to open in 2027",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-21T12:33:27Z",
+      "last_seen": "2026-09-21T21:53:57Z",
       "content_hash": "9f3f94b0b389746e",
       "match_score": 32,
       "evaluation": {
@@ -1342,16 +1330,6 @@
       "match_score": 48,
       "url": "https://www.esa.int/Education/Educational_Satellites/About_Design_Booster",
       "detail": "Deadline in 11 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-esa-graduate-trainee-in-space-security-threat-and-geopolitica",
-      "title": "ESA Graduate Trainee in Space Security, Threat and Geopolitical Analysis",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 22,
-      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Space-Security%2C-Threat-and-Geopolitical-Analysis/1432290033/",
-      "detail": "Deadline in 9 day(s)"
     }
   ],
   "errors": []
