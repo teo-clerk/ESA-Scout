@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T11:31:15Z",
+  "generated_at": "2026-09-24T21:25:18Z",
   "stats": {
     "total": 28,
     "open": 26,
@@ -69,13 +69,22 @@
       "profile_url": "https://github.com/teo-clerk",
       "repos": [
         {
+          "name": "hfarm-satellite-tracking",
+          "description": "",
+          "language": "Python",
+          "url": "https://github.com/teo-clerk/hfarm-satellite-tracking",
+          "stars": 0,
+          "topics": [],
+          "pushed_at": "2026-09-24T15:58:37Z"
+        },
+        {
           "name": "ESA-Scout",
           "description": "",
           "language": "Python",
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-09-23T21:22:50Z"
+          "pushed_at": "2026-09-24T11:31:16Z"
         },
         {
           "name": "portfolio",
@@ -197,81 +206,10 @@
       ],
       "error": ""
     },
-    "fingerprint": "6ae0357032e0a569",
+    "fingerprint": "9337ac8a3870e02f",
     "error": ""
   },
   "opportunities": [
-    {
-      "id": "esa-academy-access-to-ground-and-space-based-platforms-esa-academy-exp",
-      "title": "Access to ground and space-based platforms: ESA Academy Experiments",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
-      "status": "Open",
-      "kind": "Project / Hands-on Programme",
-      "category": "Other",
-      "location": "",
-      "summary": "Call for proposals open until 22 November 2026, 23:59 CEST Contact: academy.experiments@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "Call for proposals open until 22 November 2026, 23:59 CEST",
-      "deadline": "2026-11-22",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "7ace9d054b108179",
-      "match_score": 58,
-      "evaluation": {
-        "match_score": 58,
-        "justification": "Your AI/data science background, hardware projects (plasma toroid, Arduino), and ESA-Scout repository show genuine interest and relevant technical skills, but the programme primarily funds physical experiments on ground/space platforms where your profile is still early-stage. At the start of year 2 of a BSc you lack demonstrated experiment design or proposal experience in microgravity or space environments, making this a stretch application that would require rapid upskilling before the November deadline.",
-        "why_apply": [
-          "Direct access to ESA ground/space platforms for student experiments",
-          "Mentorship from ESA experts on experiment development",
-          "Potential to link your AI pipeline work to space data processing"
-        ],
-        "required_skills": [
-          "Experiment proposal writing and budgeting",
-          "Hardware integration for space/ground platforms",
-          "Team leadership for multi-week campaigns"
-        ],
-        "gaps": [
-          "No prior space or microgravity experiment experience",
-          "Limited formal proposal or peer-reviewed project track record",
-          "Current degree stage (year 2 BSc) below typical successful applicants"
-        ],
-        "checklist": [
-          {
-            "task": "Draft a 2-page experiment concept linking Synapse or SciNet to ESA platform data handling",
-            "effort": "1 week",
-            "done_when": "Concept document reviewed by a mentor"
-          },
-          {
-            "task": "Contact academy.experiments@esa.int with a one-paragraph idea to confirm fit",
-            "effort": "2 hours",
-            "done_when": "Reply received confirming eligibility"
-          },
-          {
-            "task": "Form a 3-4 person student team including at least one engineering peer",
-            "effort": "3 days",
-            "done_when": "Team members confirmed with signed commitment"
-          },
-          {
-            "task": "Review past ESA Academy experiment reports for platform constraints",
-            "effort": "4 hours",
-            "done_when": "Annotated list of 3 relevant past experiments completed"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Proposal submission",
-            "date": "2026-11-22"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:16Z",
-        "fingerprint": "c0714dcc0ba9c6fc",
-        "error": ""
-      }
-    },
     {
       "id": "esa-tlp-spaice-ai-in-and-for-space",
       "title": "SPAICE (AI in and for space)",
@@ -288,179 +226,126 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "4c0acc36b76074cb",
-      "match_score": 52,
+      "match_score": 68,
       "evaluation": {
-        "match_score": 52,
-        "justification": "Your AI & Data Science studies and projects like Synapse and SciNet demonstrate solid ML and local AI pipeline skills that align with the conference theme, and the ESA-Scout repository shows explicit interest in ESA topics. However, as a student still in the first half of a BSc program with no demonstrated space-domain applications, publications, or EO experience, you would be a stretch applicant for an ESA Academy space-AI event. The May 2026 deadline has already passed relative to today.",
+        "match_score": 68,
+        "justification": "Your AI & Data Science studies, Python/ML projects including hfarm-satellite-tracking and ESA-Scout, plus hackathon mentoring align well with the AI-in-space theme, but you are still early in your BSc (first year in 2026) with limited demonstrated space-domain experience. The May 2026 application deadline has already passed relative to today's date, reducing immediate applicability. This remains a worthwhile target for future editions once you build more targeted space-AI outputs.",
         "why_apply": [
-          "Direct exposure to ESA experts on AI for space missions",
-          "Potential networking with European space industry and academia"
+          "Direct exposure to ESA experts on AI for Earth observation and space systems",
+          "Networking with European student and early-career researchers in your exact field",
+          "Potential grant support for attendance listed on the SPAICE site"
         ],
         "required_skills": [
-          "AI/ML applied to space data or missions",
-          "Earth Observation or satellite data experience",
-          "Research or project presentation at conference level"
+          "Python and machine-learning implementation for space data",
+          "Understanding of satellite or Earth-observation applications",
+          "Ability to present or discuss technical AI work"
         ],
         "gaps": [
-          "No documented space, satellite, or EO projects beyond repository name",
-          "Early-stage BSc student without prior research outputs",
-          "Limited evidence of space-specific technical depth"
+          "No peer-reviewed or conference-level space-AI contributions yet",
+          "Limited formal coursework or projects in orbital mechanics or EO data formats",
+          "Application window for 2026 edition already closed"
         ],
         "checklist": [
           {
-            "task": "Prepare a 1-page abstract linking your Synapse pipeline to potential space data processing use cases",
-            "effort": "3 days",
-            "done_when": "Abstract draft completed and reviewed by a mentor"
+            "task": "Add a short README or poster-style summary of your ESA-Scout and satellite-tracking repos highlighting any space relevance",
+            "effort": "4 hours",
+            "done_when": "Both repos contain a clear one-page summary PDF or markdown section"
           },
           {
-            "task": "Review past SPAICE proceedings and map at least two papers to your SciNet or ESA-Scout work",
+            "task": "Draft a 300-word abstract on how your Synapse or SciNet pipeline could be adapted for onboard satellite data processing",
             "effort": "1 week",
-            "done_when": "Annotated list of 2-3 relevant papers with connection notes ready"
+            "done_when": "Abstract is reviewed by one mentor and stored in your portfolio"
+          },
+          {
+            "task": "Identify and bookmark the 2027 SPAICE call when published (monitor spaice.esa.int)",
+            "effort": "30 minutes",
+            "done_when": "Calendar reminder set for expected 2027 announcement window"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application deadline",
+            "label": "SPAICE 2026 application deadline",
             "date": "2026-05-31"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:56Z",
-        "fingerprint": "c40a7f719a2e9547",
+        "evaluated_at": "2026-09-24T21:24:28Z",
+        "fingerprint": "070748ba1f53c498",
         "error": ""
       }
     },
     {
-      "id": "esa-academy-cubesats-fly-your-satellite-design-booster",
-      "title": "CubeSats: Fly Your Satellite! Design Booster",
+      "id": "esa-academy-access-to-ground-and-space-based-platforms-esa-academy-exp",
+      "title": "Access to ground and space-based platforms: ESA Academy Experiments",
       "source": "esa_academy",
       "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/Educational_Satellites/About_Design_Booster",
+      "url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
       "status": "Open",
       "kind": "Project / Hands-on Programme",
-      "category": "Space Systems",
+      "category": "Other",
       "location": "",
-      "summary": "Call for proposals open until 2 October 2026, 13:00 CEST Contact: cubesats@esa.int.",
+      "summary": "Call for proposals open until 22 November 2026, 23:59 CEST Contact: academy.experiments@esa.int.",
       "activity_dates": "",
       "activity_start": "",
-      "deadline_text": "Call for proposals open until 2 October 2026, 13:00 CEST",
-      "deadline": "2026-10-02",
+      "deadline_text": "Call for proposals open until 22 November 2026, 23:59 CEST",
+      "deadline": "2026-11-22",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "53aad25a398d5d3d",
-      "match_score": 48,
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "7ace9d054b108179",
+      "match_score": 68,
       "evaluation": {
-        "match_score": 48,
-        "justification": "Your AI & Data Science background and hardware projects (Arduino, 3D printing, Synapse pipeline) give you a plausible entry point for an AI-enhanced CubeSat payload concept, but the programme centres on space systems engineering where you lack formal training. The ESA-Scout repository shows targeted interest, yet your current BSc stage and limited satellite-specific experience make this a stretch application. With the 2 October deadline only two weeks away, a competitive proposal would require rapid upskilling in CubeSat subsystems.",
+        "match_score": 68,
+        "justification": "Your AI/Data Science background, satellite-tracking and ESA-Scout repositories, plus hardware projects like the xenon plasma toroid and drone work give you a credible profile for an ESA Academy experiment proposal. However, you are still in year two of a three-year BSc and lack documented experience with formal experiment design, safety documentation or ground/space platform interfaces that the call typically expects. With the November 2026 deadline you have time to close the main gaps.",
         "why_apply": [
-          "Direct exposure to ESA engineers and potential future CubeSat flight opportunities",
-          "Hands-on systems engineering experience that complements your AI skill set",
-          "Networking within the European student space community"
+          "Direct access to ESA facilities and flight opportunities for student experiments",
+          "Networking with ESA scientists and potential future PhD supervisors",
+          "Visibility for your existing satellite-tracking and SciNet projects"
         ],
         "required_skills": [
-          "CubeSat systems engineering and subsystem design",
-          "Technical proposal writing for space projects",
-          "Hardware prototyping and integration testing",
-          "Team-based project management under ESA review"
+          "Experiment design and safety documentation",
+          "Python-based data pipelines for sensor or telemetry data",
+          "Hardware integration (Arduino, 3D printing, sensors)",
+          "Proposal writing and project budgeting"
         ],
         "gaps": [
-          "No coursework or projects in orbital mechanics or satellite communications",
-          "Limited documented experience with space-grade electronics or power systems",
-          "Absence of prior CubeSat or nanosatellite design work"
+          "No prior parabolic-flight, drop-tower or sounding-rocket experiment experience",
+          "Limited formal training in space-environment constraints and qualification testing",
+          "Early-stage BSc status (only ~60 ECTS completed)",
+          "No published experiment results or peer-reviewed outputs"
         ],
         "checklist": [
           {
-            "task": "Draft a one-page concept note integrating your Synapse pipeline or SciNet as a CubeSat onboard data-processing payload",
-            "effort": "3 days",
-            "done_when": "Concept note reviewed by a mentor and saved as PDF"
+            "task": "Draft a one-page experiment concept using your hfarm-satellite-tracking code as the data-analysis core and submit to academy.experiments@esa.int for feedback",
+            "effort": "1 week",
+            "done_when": "Email confirmation received with ESA comments"
           },
           {
-            "task": "Study ESA CubeSat design guidelines and extract top 5 technical requirements relevant to an AI payload",
-            "effort": "2 days",
-            "done_when": "Annotated requirements list completed"
-          },
-          {
-            "task": "Identify two university or ESA contacts for a quick technical sanity-check call before submission",
-            "effort": "1 day",
-            "done_when": "Two confirmed calls scheduled"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Proposal submission",
-            "date": "2026-10-02"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:06Z",
-        "fingerprint": "17afe0983fc89d84",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-disruptive-innovation-and-commercialisation-in-earth-observati",
-      "title": "Disruptive Innovation and Commercialisation in Earth Observation",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://learn.esa.int/explore/disruptive-innovation-and-commercialisation-earth-observation-2026",
-      "status": "Open",
-      "kind": "Training Course",
-      "category": "Earth Observation & AI",
-      "location": "",
-      "summary": "Training Course running 6 – 9 July 2026.",
-      "activity_dates": "6 – 9 July 2026",
-      "activity_start": "2026-07-06",
-      "deadline_text": "19 April",
-      "deadline": "2027-04-19",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "eaab3f0b8bade2b9",
-      "match_score": 48,
-      "evaluation": {
-        "match_score": 48,
-        "justification": "Your AI & Data Science background and hackathon mentoring align with the AI-for-EO theme, and the ESA-Scout repository shows genuine interest, but you lack any Earth Observation, remote-sensing or commercialisation experience and are still in year 1 of a BSc, making this a stretch application.",
-        "why_apply": [
-          "Direct exposure to ESA Earth Observation programmes and commercialisation pathways",
-          "Networking with ESA experts and peers in the EO innovation ecosystem"
-        ],
-        "required_skills": [
-          "Earth Observation fundamentals and satellite data handling",
-          "Business model development for space data services",
-          "Python/ML applied to geospatial datasets"
-        ],
-        "gaps": [
-          "No demonstrated coursework or projects in remote sensing or EO data",
-          "Limited knowledge of ESA Earth Observation missions and data policies",
-          "Early-stage BSc with no prior space-sector experience"
-        ],
-        "checklist": [
-          {
-            "task": "Study ESA EO missions (Sentinel, Earth Explorers) and write a 1-page summary of one commercial use-case",
-            "effort": "8 hours",
-            "done_when": "Summary uploaded to your ESA-Scout repo"
-          },
-          {
-            "task": "Complete the free ESA MOOC 'Introduction to Remote Sensing' and note three AI applications",
-            "effort": "15 hours",
-            "done_when": "Certificate and notes saved in portfolio"
-          },
-          {
-            "task": "Draft a 300-word idea for an AI-driven EO service and link it to your Synapse pipeline",
+            "task": "Complete the ESA Academy online module 'Introduction to Experiment Safety' and obtain the certificate",
             "effort": "4 hours",
-            "done_when": "Idea posted as GitHub issue in ESA-Scout"
+            "done_when": "Certificate uploaded to your ESA Academy profile"
+          },
+          {
+            "task": "Add a dedicated 'Experiments' section to your GitHub READMEs for ESA-Scout and hfarm-satellite-tracking with clear hardware/software interface diagrams",
+            "effort": "3 days",
+            "done_when": "Updated READMEs live and linked in application"
+          },
+          {
+            "task": "Contact one current ESA Academy Experiments alumnus via LinkedIn for a 20-minute call on proposal structure",
+            "effort": "2 hours",
+            "done_when": "Call completed and notes written"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application deadline",
-            "date": "2026-04-19"
+            "label": "Call for proposals closes",
+            "date": "2026-11-22"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:48Z",
-        "fingerprint": "786904ea3c6cc0a1",
+        "evaluated_at": "2026-09-24T21:24:44Z",
+        "fingerprint": "e1bbdf7fe90ec6e5",
         "error": ""
       }
     },
@@ -480,36 +365,36 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "f89c630e8fe69e1e",
-      "match_score": 42,
+      "match_score": 62,
       "evaluation": {
-        "match_score": 42,
-        "justification": "Your AI/Data Science background and Python/ML projects give you a partial software foundation for a robotics & software navigation course, but you are only in the first year of your BSc with no demonstrated aerospace, orbital mechanics or satellite navigation experience. The June 2026 course date has already passed its April 2026 deadline, making an application impossible this cycle.",
+        "match_score": 62,
+        "justification": "Your ESA-Scout and satellite-tracking repositories plus drone and astrophoto experience show genuine interest and software skills aligned with the course, but as a first-year AI/Data Science student you lack demonstrated aerospace navigation or orbital mechanics coursework that most selected participants possess.",
         "why_apply": [
-          "Gain hands-on ESA navigation training and networking with European space professionals",
-          "Strengthen your ESA-Scout GitHub profile with domain-specific knowledge"
+          "Direct exposure to ESA navigation experts and potential future internship pathways",
+          "Hands-on training that complements your existing Python satellite-tracking work"
         ],
         "required_skills": [
-          "Navigation systems fundamentals (GNSS, inertial, orbital)",
-          "Software development for robotics or control systems",
-          "Python or C++ for simulation and data processing"
+          "Python programming for navigation algorithms",
+          "Basic orbital mechanics or GNSS concepts",
+          "Robotics/software integration experience"
         ],
         "gaps": [
-          "No coursework or projects in orbital mechanics or space navigation",
-          "Early-stage BSc student (first year) versus typical ESA Academy participant profile",
-          "Deadline already passed (5 April 2026)"
+          "No formal aerospace or navigation coursework yet",
+          "Deadline (5 April 2026) already passed relative to today",
+          "Limited evidence of satellite navigation or attitude-determination projects"
         ],
         "checklist": [
           {
-            "task": "Email ESA Academy to inquire about 2027 Navigation Training Course dates and eligibility for first-year AI students",
-            "effort": "1 hour",
-            "done_when": "Reply received with next-cycle information"
+            "task": "Add orbital-mechanics or GNSS module to your hfarm-satellite-tracking repo and document results",
+            "effort": "2 weeks",
+            "done_when": "Public commit with README explaining navigation-related code"
           },
           {
-            "task": "Complete an online orbital mechanics module (e.g., ESA or Coursera) and add a short navigation-related script to the ESA-Scout repo",
-            "effort": "2 weeks",
-            "done_when": "Script committed and documented on GitHub"
+            "task": "Draft a one-page motivation letter linking Synapse pipeline and ESA-Scout repo to navigation use-cases",
+            "effort": "4 hours",
+            "done_when": "Letter ready for next ESA Academy call"
           }
         ],
         "key_deadlines": [
@@ -519,8 +404,142 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:46Z",
-        "fingerprint": "265e9eec495603a3",
+        "evaluated_at": "2026-09-24T21:24:16Z",
+        "fingerprint": "1f9bd29b61291a5f",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-academy-cubesats-fly-your-satellite-design-booster",
+      "title": "CubeSats: Fly Your Satellite! Design Booster",
+      "source": "esa_academy",
+      "source_label": "ESA Academy Projects",
+      "url": "https://www.esa.int/Education/Educational_Satellites/About_Design_Booster",
+      "status": "Open",
+      "kind": "Project / Hands-on Programme",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Call for proposals open until 2 October 2026, 13:00 CEST Contact: cubesats@esa.int.",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "Call for proposals open until 2 October 2026, 13:00 CEST",
+      "deadline": "2026-10-02",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "53aad25a398d5d3d",
+      "match_score": 52,
+      "evaluation": {
+        "match_score": 52,
+        "justification": "Your AI & Data Science background, Python satellite-tracking project, and ESA-Scout repository demonstrate genuine interest and relevant technical skills, but the Design Booster targets teams with stronger space-systems or aerospace engineering foundations that you currently lack. The extremely short window until the 2 October 2026 deadline further limits your ability to build a competitive proposal from scratch. This makes the opportunity a stretch rather than a strong fit at present.",
+        "why_apply": [
+          "Direct exposure to ESA CubeSat experts and flight-hardware processes",
+          "Opportunity to leverage your hfarm-satellite-tracking code into a real mission concept",
+          "Networking with European student teams and potential future ESA Academy selections"
+        ],
+        "required_skills": [
+          "CubeSat systems engineering and mission design",
+          "Proposal writing and technical documentation",
+          "Hardware integration (ADCS, power, communications)",
+          "Team-based project management under ESA review"
+        ],
+        "gaps": [
+          "No formal aerospace or space-systems coursework",
+          "Limited time (8 days) to assemble a credible multi-page proposal",
+          "Absence of demonstrated satellite hardware or AIV experience",
+          "Early-stage BSc (first year) with only 180 ECTS programme still ahead"
+        ],
+        "checklist": [
+          {
+            "task": "Draft a 3-page CubeSat mission concept note that extends your hfarm-satellite-tracking repository into a 1U or 2U payload",
+            "effort": "3 days",
+            "done_when": "PDF document ready for team review"
+          },
+          {
+            "task": "Identify and contact two engineering students (e.g., via H-Farm or UPC contacts) willing to join as co-authors before 28 Sept",
+            "effort": "1 day",
+            "done_when": "Written confirmations received"
+          },
+          {
+            "task": "Prepare a 5-slide pitch deck covering mission objectives, orbit, and your Python-based ground-segment contribution",
+            "effort": "2 days",
+            "done_when": "Deck uploaded to cubesats@esa.int submission portal"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Proposal submission",
+            "date": "2026-10-02"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:24:38Z",
+        "fingerprint": "b7822f2b615ca793",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-disruptive-innovation-and-commercialisation-in-earth-observati",
+      "title": "Disruptive Innovation and Commercialisation in Earth Observation",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://learn.esa.int/explore/disruptive-innovation-and-commercialisation-earth-observation-2026",
+      "status": "Open",
+      "kind": "Training Course",
+      "category": "Earth Observation & AI",
+      "location": "",
+      "summary": "Training Course running 6 – 9 July 2026.",
+      "activity_dates": "6 – 9 July 2026",
+      "activity_start": "2026-07-06",
+      "deadline_text": "19 April",
+      "deadline": "2027-04-19",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "eaab3f0b8bade2b9",
+      "match_score": 52,
+      "evaluation": {
+        "match_score": 52,
+        "justification": "Your AI & Data Science background, Python/ML projects, and GitHub repositories (hfarm-satellite-tracking, ESA-Scout) show clear relevance to Earth Observation data processing and ESA themes, but you are still in the first year of your BSc with no demonstrated EO datasets, satellite imagery experience, or commercialization knowledge. The course targets disruptive innovation and business aspects of EO, areas where your mentoring and consulting roles provide transferable skills but not direct preparation. This makes the opportunity a moderate stretch rather than a strong fit today.",
+        "why_apply": [
+          "Direct exposure to ESA Earth Observation experts and commercialization pathways",
+          "Opportunity to pitch or refine your satellite-tracking and Synapse projects in an EO context",
+          "Networking with European students and potential future ESA Academy pathways"
+        ],
+        "required_skills": [
+          "Understanding of Earth Observation data and satellite missions",
+          "Python/ML applied to geospatial or imagery datasets",
+          "Innovation and commercialisation concepts for space data"
+        ],
+        "gaps": [
+          "No hands-on experience with EO datasets, Copernicus, or satellite imagery",
+          "Limited knowledge of business models or commercialisation in the space sector",
+          "Early-stage BSc (first year) versus typical ESA Academy participant profiles"
+        ],
+        "checklist": [
+          {
+            "task": "Complete the ESA MOOC 'Earth Observation from Space: The Optical View' and document key Copernicus missions",
+            "effort": "15 hours",
+            "done_when": "Certificate obtained and 2-page summary written"
+          },
+          {
+            "task": "Adapt hfarm-satellite-tracking repo to ingest and visualise a public Sentinel-2 or Landsat scene",
+            "effort": "1 week",
+            "done_when": "Updated GitHub repo with README showing processed EO output"
+          },
+          {
+            "task": "Draft a 1-page concept note on commercialising one of your AI pipelines for EO applications",
+            "effort": "4 hours",
+            "done_when": "Note reviewed by a mentor or Lumina Consulting colleague"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-04-19"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:24:18Z",
+        "fingerprint": "a6e0845189711cda",
         "error": ""
       }
     },
@@ -540,112 +559,55 @@
       "deadline_text": "Call for proposals open until 8 October 2026, 13:00 CEST",
       "deadline": "2026-10-08",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "2628ea59541d5ec5",
-      "match_score": 42,
+      "match_score": 48,
       "evaluation": {
-        "match_score": 42,
-        "justification": "Your AI/Data Science background and hardware tinkering (Arduino, plasma toroid, drones) show technical capability and genuine ESA interest via the ESA-Scout repo, but the programme primarily seeks experiment proposals rooted in physics, aerospace engineering or space-environment testing rather than data pipelines. You are still early in your BSc (grad 2028) with no demonstrated space-systems coursework or prior payload experience, making this a stretch application that would require rapid upskilling before the October deadline.",
+        "match_score": 48,
+        "justification": "Your AI/data science background and projects like hfarm-satellite-tracking and ESA-Scout show relevant technical skills and space interest, but REXUS/BEXUS primarily seeks experiment proposals in physics, biology or engineering from more advanced student teams. You are still early in your BSc (year 2) with limited hardware/experimentation experience beyond mentoring and personal builds. The October 2026 deadline gives time to form a team and align a proposal, yet the field mismatch makes this a stretch application.",
         "why_apply": [
-          "Direct access to ESA launch campaign and flight opportunity on sounding rocket or stratospheric balloon",
-          "Networking with European space agencies and student teams across member states"
+          "Direct access to ESA sounding rocket or balloon flight opportunity",
+          "Build experiment design and proposal skills valued in future ESA programmes",
+          "Network with European student teams and ESA experts in space systems"
         ],
         "required_skills": [
-          "Experiment proposal writing for microgravity or near-space environment",
-          "Hardware integration and environmental testing experience",
-          "Team-based project management under ESA review cycles"
+          "Experiment proposal writing and team coordination",
+          "Hardware integration and payload design for rockets/balloons",
+          "Data acquisition and analysis from flight experiments",
+          "Project management under tight integration timelines"
         ],
         "gaps": [
-          "No aerospace, physics or space-systems academic modules completed",
-          "No prior payload or balloon/rocket experiment design documented",
-          "Limited demonstrated ability to lead a full technical proposal team"
+          "No prior involvement in rocketry, ballooning or ESA student experiments",
+          "Early-stage BSc with limited formal engineering or physics coursework",
+          "AI-focused profile needs stronger linkage to a physical experiment concept",
+          "No demonstrated experience leading a full experiment proposal"
         ],
         "checklist": [
           {
-            "task": "Review the last three REXUS/BEXUS experiment reports and identify one feasible AI/data-analysis experiment that fits payload constraints",
-            "effort": "3 days",
-            "done_when": "One-page concept note written and shared with a faculty supervisor"
-          },
-          {
-            "task": "Contact rexus-bexus@esa.int with a short email outlining your proposed experiment idea and request feedback on student-team eligibility",
-            "effort": "2 hours",
-            "done_when": "Reply received confirming next steps"
-          },
-          {
-            "task": "Form a 4-6 person student team including at least one engineering/physics student and draft the initial proposal outline",
+            "task": "Form or join a 4-6 student team and draft a one-page experiment concept using your satellite-tracking or Synapse pipeline ideas",
             "effort": "2 weeks",
-            "done_when": "Team registered and 3-page draft ready for internal review"
+            "done_when": "Concept document shared with rexus-bexus@esa.int for feedback"
+          },
+          {
+            "task": "Review the last three years of REXUS/BEXUS experiment reports and map your skills to one payload type",
+            "effort": "1 week",
+            "done_when": "Annotated list of 3-5 past experiments with personal skill matches completed"
+          },
+          {
+            "task": "Contact your university or H-FARM to confirm they can act as endorsing institution and provide lab access",
+            "effort": "3 days",
+            "done_when": "Written confirmation from faculty advisor obtained"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Proposal submission",
+            "label": "Call for proposals closes",
             "date": "2026-10-08"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:04Z",
-        "fingerprint": "8c59439ba5c7f303",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
-      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
-      "status": "Open",
-      "kind": "Conference",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Conference running 18 – 22 May 2026.",
-      "activity_dates": "18 – 22 May 2026",
-      "activity_start": "2026-05-18",
-      "deadline_text": "6 April 2026",
-      "deadline": "2026-04-06",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "0afa5793793d319f",
-      "match_score": 28,
-      "evaluation": {
-        "match_score": 28,
-        "justification": "Your AI & Data Science background and mentoring experience show general technical aptitude and ESA interest via your ESA-Scout repo, but the course demands specialized knowledge in antenna theory, RF engineering and satellite communications that you lack. The May 2026 dates have already passed relative to today, further reducing relevance.",
-        "why_apply": [
-          "Direct exposure to ESA antenna experts and satellite industry contacts",
-          "Potential to pivot AI skills toward space data applications"
-        ],
-        "required_skills": [
-          "Antenna theory and electromagnetic simulation",
-          "RF engineering and satellite link budgets",
-          "Microwave and array antenna design"
-        ],
-        "gaps": [
-          "No coursework or projects in electromagnetics or RF",
-          "Degree focused on ML/data rather than space hardware",
-          "No demonstrated satellite or communications experience"
-        ],
-        "checklist": [
-          {
-            "task": "Study Balanis Antenna Theory chapters 1-4 and run basic dipole simulations in Python",
-            "effort": "2 weeks",
-            "done_when": "Completed 4 simulation notebooks with radiation pattern plots"
-          },
-          {
-            "task": "Review ESA ESoA past course materials on satellite antennas if publicly released",
-            "effort": "3 days",
-            "done_when": "Annotated summary of key antenna types for satellites"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-04-06"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:46Z",
-        "fingerprint": "b82af7a7372597cd",
+        "evaluated_at": "2026-09-24T21:24:37Z",
+        "fingerprint": "bf28cb97a6286a82",
         "error": ""
       }
     },
@@ -665,36 +627,36 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "512ec4649ad785f2",
-      "match_score": 28,
+      "match_score": 42,
       "evaluation": {
-        "match_score": 28,
-        "justification": "Your AI & Data Science background and ESA-Scout repository show general interest in ESA topics, but the ESPC focuses on space power systems engineering where you have no demonstrated coursework, projects, or experience. The May 2026 application deadline has already passed relative to today's date, further reducing viability.",
+        "match_score": 42,
+        "justification": "Your AI/Data Science background and ESA-themed GitHub projects (satellite-tracking, ESA-Scout) show genuine space interest, but the ESPC focuses on space power systems where you lack direct coursework or experience; the May 2026 deadline has already passed relative to today’s date, further reducing immediate applicability.",
         "why_apply": [
-          "Direct exposure to ESA and European space industry professionals",
-          "Potential to explore intersections between AI/data tools and space power applications"
+          "Direct exposure to ESA and European space-power experts",
+          "Opportunity to present student work on satellite-related AI tools"
         ],
         "required_skills": [
-          "Space power systems engineering (solar arrays, batteries, power management)",
-          "Electrical or aerospace engineering fundamentals",
-          "Conference paper or poster on relevant technical work"
+          "Interest in space power subsystems",
+          "Student status in relevant STEM field",
+          "Ability to submit abstract or motivation for sponsorship"
         ],
         "gaps": [
-          "No background in space power, electronics, or related hardware for space",
-          "Application deadline (31 May 2026) already passed",
-          "Limited space-sector projects or publications"
+          "No demonstrated work in power electronics, solar arrays or space batteries",
+          "Deadline (31 May 2026) already passed",
+          "Limited formal space-systems engineering background"
         ],
         "checklist": [
           {
-            "task": "Review past ESPC proceedings to identify any AI/ML applications in power systems",
+            "task": "Prepare a one-page motivation letter linking your hfarm-satellite-tracking repo to space-power data analytics",
             "effort": "4 hours",
-            "done_when": "Notes on 3-5 relevant papers compiled"
+            "done_when": "Letter drafted and reviewed by mentor"
           },
           {
-            "task": "Contact conference organizers about late student sponsorship options",
+            "task": "Contact ESPC student-sponsorship organizers to inquire about late or 2028 applications",
             "effort": "1 hour",
-            "done_when": "Email response received and logged"
+            "done_when": "Email sent and reply logged"
           }
         ],
         "key_deadlines": [
@@ -704,128 +666,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:56Z",
-        "fingerprint": "99c65bd945baef59",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-6th-space-passive-component-days-spcd-2026",
-      "title": "6th Space Passive Component Days (SPCD 2026)",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://www.spcd.space/page.php?pid=48",
-      "status": "Open",
-      "kind": "Conference",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Conference running 13 – 16 october 2026.",
-      "activity_dates": "13 – 16 october 2026",
-      "activity_start": "2026-10-13",
-      "deadline_text": "18 May 2026",
-      "deadline": "2026-05-18",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "acf44677c437a67b",
-      "match_score": 25,
-      "evaluation": {
-        "match_score": 25,
-        "justification": "Your AI & Data Science background and mentoring experience show strong technical aptitude and ESA interest via your GitHub, but SPCD 2026 focuses on passive electronic components for space systems, a domain with no overlap in your coursework, projects, or hardware work. The May 2026 deadline leaves little time to build relevant knowledge before the October conference. This is a poor fit for your current profile.",
-        "why_apply": [
-          "Exposure to ESA Academy networking and space industry contacts",
-          "Potential to explore hardware topics adjacent to your 3D printing and Arduino interests"
-        ],
-        "required_skills": [
-          "Knowledge of passive components (resistors, capacitors, inductors) in space environments",
-          "Understanding of space qualification, reliability and radiation effects",
-          "Background in electronics engineering or space systems"
-        ],
-        "gaps": [
-          "No education or projects in electronics, space hardware or passive components",
-          "Early-stage BSc student without relevant engineering specialization",
-          "Curriculum centered on ML, data analysis and software rather than hardware"
-        ],
-        "checklist": [
-          {
-            "task": "Read the full SPCD 2026 technical programme and past proceedings to identify any AI-adjacent sessions",
-            "effort": "4 hours",
-            "done_when": "Notes on 3-5 relevant papers or sessions prepared"
-          },
-          {
-            "task": "Draft a motivation statement linking your Synapse pipeline or SciNet project to component data analysis",
-            "effort": "3 hours",
-            "done_when": "One-page statement ready for submission"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-05-18"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:52Z",
-        "fingerprint": "0ba255e1f93b4931",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-3rd-esa-reliability-availability-maintainability-and-safety-co",
-      "title": "3rd ESA Reliability Availability Maintainability and Safety conference (RAMS 2026)",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://atpi.eventsair.com/3rd-esa-rams-conference/esa-education-sponsorship",
-      "status": "Open",
-      "kind": "Conference",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Conference running 23 – 25 June 2026.",
-      "activity_dates": "23 – 25 June 2026",
-      "activity_start": "2026-06-23",
-      "deadline_text": "15 April 2026",
-      "deadline": "2026-04-15",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "5ffe78318b7213c9",
-      "match_score": 22,
-      "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science BSc (started 2025) and mentoring/hackathon experience show strong technical curiosity and ESA interest via your ESA-Scout repo, but the RAMS conference demands domain knowledge in space systems reliability engineering that you currently lack. The June 2026 dates have also passed relative to today, making attendance impossible.",
-        "why_apply": [
-          "Exposure to ESA space systems engineering community",
-          "Potential to explore RAMS applications in AI pipelines"
-        ],
-        "required_skills": [
-          "Space systems reliability engineering",
-          "RAMS analysis methods",
-          "Aerospace safety standards"
-        ],
-        "gaps": [
-          "No coursework or projects in reliability/safety engineering",
-          "Undergraduate level and non-aerospace degree",
-          "Missed April 2026 application deadline"
-        ],
-        "checklist": [
-          {
-            "task": "Review past RAMS 2026 proceedings for AI-related papers",
-            "effort": "4 hours",
-            "done_when": "Notes on 3+ relevant papers saved"
-          },
-          {
-            "task": "Map your Synapse or SciNet projects to potential RAMS use-cases",
-            "effort": "1 week",
-            "done_when": "One-page summary written"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-04-15"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:45Z",
-        "fingerprint": "c33973c0c2929153",
+        "evaluated_at": "2026-09-24T21:24:26Z",
+        "fingerprint": "290ef47bf622e1ba",
         "error": ""
       }
     },
@@ -845,36 +687,41 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "2e3a0efd9bd2842b",
-      "match_score": 22,
+      "match_score": 42,
       "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science profile shows strong technical skills in Python, ML, and hardware prototyping, but the Spacecraft Testing Workshop targets students with aerospace or mechanical engineering backgrounds focused on space hardware verification. With only one year of undergraduate study completed by the event and no demonstrated experience in spacecraft systems or testing protocols, this is a significant field mismatch.",
+        "match_score": 42,
+        "justification": "Your AI & Data Science background and projects like hfarm-satellite-tracking and ESA-Scout show genuine interest in space applications, but the workshop focuses on spacecraft testing procedures and systems engineering, which lies outside your primary field and current academic level. With only one year of BSc studies completed by the 2026 deadline and no hardware testing or space systems coursework, this is a stretch application that would require substantial preparation.",
         "why_apply": [
-          "Direct exposure to ESA engineers and spacecraft testing facilities",
-          "Opportunity to explore space systems career paths beyond data science"
+          "Direct exposure to ESA Academy and space industry professionals",
+          "Opportunity to pivot your satellite-tracking and SciNet projects toward testing use cases"
         ],
         "required_skills": [
-          "Spacecraft subsystems and environmental testing knowledge",
-          "Engineering fundamentals in mechanics or electronics for space",
-          "Prior experience with hardware verification or AIV processes"
+          "Spacecraft systems engineering and verification knowledge",
+          "Understanding of environmental testing (vibration, thermal vacuum)",
+          "Technical reporting and test procedure documentation"
         ],
         "gaps": [
-          "No coursework or projects in aerospace engineering or space systems",
-          "Limited relevant background for a workshop aimed at space engineering students",
-          "Application deadline (5 July 2026) has already passed as of today"
+          "No formal training or projects in spacecraft testing or aerospace engineering",
+          "Limited systems engineering experience beyond AI pipelines and mentoring",
+          "Early-stage BSc student without relevant internships or coursework"
         ],
         "checklist": [
           {
-            "task": "Review the full workshop syllabus on learn.esa.int to identify any AI/ML testing angles",
-            "effort": "1 hour",
-            "done_when": "Syllabus notes saved with highlighted overlaps"
+            "task": "Review ESA Academy spacecraft testing materials and past workshop reports",
+            "effort": "1 week",
+            "done_when": "Notes on key testing phases and standards completed"
           },
           {
-            "task": "Contact ESA Academy to ask about future spacecraft testing events open to data science students",
-            "effort": "30 minutes",
-            "done_when": "Email sent and response logged"
+            "task": "Extend hfarm-satellite-tracking repo with a test-plan module or simulation",
+            "effort": "2 weeks",
+            "done_when": "Pull request with documented test cases merged"
+          },
+          {
+            "task": "Draft a 1-page motivation letter linking your AI skills to spacecraft data validation",
+            "effort": "3 hours",
+            "done_when": "Letter reviewed by mentor and ready for submission"
           }
         ],
         "key_deadlines": [
@@ -884,188 +731,139 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:01Z",
-        "fingerprint": "2b57a23109cbdb28",
+        "evaluated_at": "2026-09-24T21:24:34Z",
+        "fingerprint": "129fbebb30f05577",
         "error": ""
       }
     },
     {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-robotics-noordwijk",
-      "title": "Luxembourgish National Graduate Trainee in Robotics",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Robotics/1440902233/",
+      "id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
+      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
       "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Robotics & Software",
-      "location": "Noordwijk, NL",
-      "summary": "National Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "f9a7180d04de4fd2",
-      "match_score": 18,
+      "kind": "Conference",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Conference running 18 – 22 May 2026.",
+      "activity_dates": "18 – 22 May 2026",
+      "activity_start": "2026-05-18",
+      "deadline_text": "6 April 2026",
+      "deadline": "2026-04-06",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "0afa5793793d319f",
+      "match_score": 28,
       "evaluation": {
-        "match_score": 18,
-        "justification": "You are ineligible for this Luxembourgish National Graduate Trainee position because you lack Luxembourg nationality and will not graduate until 2028, while the role targets recent graduates; your AI/data science background and mentoring experience show only partial overlap with robotics software needs.",
+        "match_score": 28,
+        "justification": "Your AI/Data Science background and satellite-tracking project show general space interest, but the course focuses on antenna theory, RF design, and satellite communications engineering that your curriculum and projects do not cover. At the end of your first year of a non-engineering BSc you lack the prerequisite electromagnetics and microwave knowledge expected for this ESA ESoA course.",
         "why_apply": [
-          "Direct exposure to ESA robotics laboratories in Noordwijk",
-          "Potential long-term ESA networking if nationality changes"
+          "Direct exposure to ESA experts on satellite antenna systems",
+          "Networking with European space-industry and academic participants",
+          "Potential letter of recommendation for future ESA Academy applications"
         ],
         "required_skills": [
-          "Robotics software development",
-          "Space-qualified systems engineering",
-          "Luxembourgish nationality"
+          "Antenna theory and electromagnetic simulation",
+          "RF/microwave engineering fundamentals",
+          "Satellite communication link budgets"
         ],
         "gaps": [
-          "Luxembourg nationality requirement",
-          "Completed graduate-level degree",
-          "Hands-on robotics project portfolio"
+          "No coursework or projects in electromagnetics or antennas",
+          "Current BSc is AI/Data Science, not RF or aerospace engineering",
+          "Limited formal space-systems engineering experience"
         ],
         "checklist": [
           {
-            "task": "Verify official Luxembourgish citizenship status via national registry",
-            "effort": "2 hours",
-            "done_when": "Documented proof or confirmation obtained"
-          },
-          {
-            "task": "Contact ESA careers to confirm exact graduation timing rules for this 2026 opening",
-            "effort": "1 day",
-            "done_when": "Written reply received and filed"
-          }
-        ],
-        "key_deadlines": [],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:02Z",
-        "fingerprint": "65bbc52d9dea58a0",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
-      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Frascati, IT",
-      "summary": "National Graduate Trainee · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "38ee8db9eeeefd3f",
-      "match_score": 18,
-      "evaluation": {
-        "match_score": 18,
-        "justification": "You are ineligible for this Estonian National Graduate Trainee post due to nationality requirements and because you will not have completed your BSc until 2028. Your AI/ML skills and projects align thematically with the Earth Observation focus, but the role demands a recent graduate with domain experience in forestry or biodiversity mapping that you lack.",
-        "why_apply": [
-          "Exposure to ESA Earth Observation workflows at ESRIN",
-          "Networking with ESA scientists in Frascati"
-        ],
-        "required_skills": [
-          "Graduate-level qualification in AI/ML or remote sensing",
-          "Estonian nationality",
-          "Experience with satellite data and forestry/biodiversity applications"
-        ],
-        "gaps": [
-          "Not Estonian national",
-          "Still two years from BSc completion",
-          "No demonstrated work with Earth Observation data or ecological mapping"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm Estonian citizenship eligibility on the ESA job page",
-            "effort": "15 minutes",
-            "done_when": "Eligibility status verified"
-          },
-          {
-            "task": "Search ESA careers for open graduate trainee calls not restricted to Estonian nationals",
-            "effort": "1 hour",
-            "done_when": "List of alternative calls compiled"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline for this post",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-21T21:53:54Z",
-        "fingerprint": "fe42cb4dc831f8dd",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-esa-graduate-trainee-in-space-security-threat-and-geopolitica",
-      "title": "ESA Graduate Trainee in Space Security, Threat and Geopolitical Analysis",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Space-Security%2C-Threat-and-Geopolitical-Analysis/1432290033/",
-      "status": "Open",
-      "kind": "ESA Graduate Trainee",
-      "category": "Other",
-      "location": "Noordwijk, NL",
-      "summary": "ESA Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-02T11:03:38Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "73bc508cf8d561bc",
-      "match_score": 18,
-      "evaluation": {
-        "match_score": 18,
-        "justification": "Your current profile is a weak match for this ESA Graduate Trainee role. You are still two years from completing a Bachelor's in AI & Data Science with no demonstrated background in space security, threat analysis or geopolitics, while the position targets candidates who have recently finished advanced studies in relevant policy, security or international relations fields. The ESA-Scout repository name is a superficial connection at best.",
-        "why_apply": [
-          "Direct exposure to ESA's Space Security Office and its international stakeholder network",
-          "Opportunity to test interest in policy-oriented space careers before committing to further studies"
-        ],
-        "required_skills": [
-          "Knowledge of space security threats and geopolitical dynamics",
-          "Analytical writing and policy assessment",
-          "Understanding of international space law and treaties"
-        ],
-        "gaps": [
-          "Only first-year undergraduate status (expected graduation 2028) versus typical Master's-level requirement",
-          "Zero coursework or experience in security studies, geopolitics or space policy",
-          "No publications, internships or projects addressing threat analysis or strategic issues"
-        ],
-        "checklist": [
-          {
-            "task": "Read the full vacancy notice on jobs.esa.int and note exact eligibility criteria for Graduate Trainees",
-            "effort": "1 hour",
-            "done_when": "You have confirmed whether a Bachelor's student in year 1 can apply"
-          },
-          {
-            "task": "Identify one recent ESA or EU document on space security threats and write a 1-page summary",
+            "task": "Review the full course syllabus and note any prerequisite topics you can self-study before the April deadline",
             "effort": "4 hours",
-            "done_when": "Summary is completed and references specific threats mentioned in the vacancy"
+            "done_when": "List of 5-7 key missing concepts prepared"
           },
           {
-            "task": "Contact the ESA-Scout GitHub repo maintainer or similar student groups to understand any prior ESA trainee pathways",
+            "task": "Email the course organisers to ask whether first-year AI students have been accepted in prior editions",
+            "effort": "30 minutes",
+            "done_when": "Reply received and saved"
+          },
+          {
+            "task": "Add a short section to your ESA-Scout repo README explaining any antenna-related code or data handling",
             "effort": "2 hours",
-            "done_when": "You have documented at least one concrete precedent or barrier"
+            "done_when": "Updated README committed and visible"
           }
         ],
         "key_deadlines": [
           {
             "label": "Application deadline",
-            "date": "as published on jobs.esa.int"
+            "date": "2026-04-06"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-21T21:53:57Z",
-        "fingerprint": "6b19f3a723ee3630",
+        "evaluated_at": "2026-09-24T21:24:17Z",
+        "fingerprint": "90d31acbb96339f2",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-3rd-esa-reliability-availability-maintainability-and-safety-co",
+      "title": "3rd ESA Reliability Availability Maintainability and Safety conference (RAMS 2026)",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://atpi.eventsair.com/3rd-esa-rams-conference/esa-education-sponsorship",
+      "status": "Open",
+      "kind": "Conference",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Conference running 23 – 25 June 2026.",
+      "activity_dates": "23 – 25 June 2026",
+      "activity_start": "2026-06-23",
+      "deadline_text": "15 April 2026",
+      "deadline": "2026-04-15",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "5ffe78318b7213c9",
+      "match_score": 28,
+      "evaluation": {
+        "match_score": 28,
+        "justification": "Your AI & Data Science BSc and projects like hfarm-satellite-tracking and ESA-Scout show genuine interest in space applications, but the RAMS conference focuses on reliability engineering, safety analysis, and maintainability for space systems—areas outside your current curriculum and experience. At this stage in your degree you lack the domain knowledge needed to contribute meaningfully or benefit fully from the technical sessions.",
+        "why_apply": [
+          "Direct exposure to ESA engineers working on space systems reliability",
+          "Opportunity to explore a potential specialization path beyond core AI/data science"
+        ],
+        "required_skills": [
+          "RAMS engineering methods (FMEA, FMECA, reliability modelling)",
+          "Space systems engineering fundamentals",
+          "Technical presentation or poster on reliability/safety topics"
+        ],
+        "gaps": [
+          "No coursework or projects in reliability, safety or maintainability engineering",
+          "Degree programme is AI/Data Science rather than aerospace or systems engineering",
+          "Limited evidence of prior work on space hardware qualification or risk analysis"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full RAMS 2026 programme and identify 3 sessions most relevant to satellite data pipelines",
+            "effort": "3 hours",
+            "done_when": "List of sessions with one-sentence relevance notes saved"
+          },
+          {
+            "task": "Prepare a 1-page statement linking your satellite-tracking and Synapse projects to RAMS challenges",
+            "effort": "1 day",
+            "done_when": "Statement drafted and reviewed by a mentor"
+          },
+          {
+            "task": "Contact the conference organisers to confirm student eligibility and any poster slot availability",
+            "effort": "2 hours",
+            "done_when": "Email reply received confirming status"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-04-15"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:24:18Z",
+        "fingerprint": "ba238e440524bdaa",
         "error": ""
       }
     },
@@ -1085,109 +883,102 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "449645db0dd84c80",
-      "match_score": 15,
+      "match_score": 28,
       "evaluation": {
-        "match_score": 15,
-        "justification": "Your AI & Data Science bachelor's and mentoring experience show strong technical aptitude, but RADECS 2026 focuses on radiation effects on space electronics and systems, a domain with no overlap in your background, projects, or coursework. The May 2026 application deadline has already passed relative to today, further reducing relevance.",
+        "match_score": 28,
+        "justification": "Your AI & Data Science background and satellite-tracking projects show general space interest, but RADECS focuses on radiation effects on electronics and systems, a specialized domain far from your current coursework and projects. The May 2026 application deadline has already passed relative to today's date, making participation impossible without an extension. This is not a good use of your time right now.",
         "why_apply": [
-          "Exposure to ESA Academy networking in space systems",
-          "Potential insight into hardware reliability topics that could inform future AI-on-edge projects"
+          "Potential ESA Academy student grant covering travel and registration",
+          "Networking with radiation-effects experts from ESA and industry"
         ],
         "required_skills": [
-          "Knowledge of radiation effects on semiconductors and electronics",
-          "Background in space systems engineering or physics",
-          "Experience with hardware testing or component qualification"
+          "Knowledge of radiation effects on semiconductors and systems",
+          "Background in space electronics or nuclear physics",
+          "Experience with component testing or reliability analysis"
         ],
         "gaps": [
-          "No coursework or projects in radiation, electronics reliability, or space hardware",
-          "Current studies centered on AI/ML and data pipelines rather than physical systems",
-          "Application deadline (15 May 2026) already passed"
+          "No coursework or projects in radiation hardness or space systems engineering",
+          "Deadline (15 May 2026) already passed",
+          "Limited hardware reliability or electronics experience beyond basic Arduino"
         ],
         "checklist": [
           {
-            "task": "Review the RADECS 2026 technical program and identify any AI-related radiation data analysis sessions",
-            "effort": "3 hours",
-            "done_when": "List of 2-3 potentially relevant sessions noted"
-          },
-          {
-            "task": "Contact ESA Academy to confirm if late student sponsorship applications are still accepted",
-            "effort": "1 hour",
-            "done_when": "Email reply received and logged"
+            "task": "Identify 2027 RADECS or similar ESA radiation workshops that align with your timeline",
+            "effort": "2 hours",
+            "done_when": "List of 2-3 future events with open calls saved"
           }
         ],
         "key_deadlines": [
           {
-            "label": "ESA Academy student sponsorship application",
+            "label": "Application deadline for RADECS 2026 ESA sponsorship",
             "date": "2026-05-15"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:25:53Z",
-        "fingerprint": "24761743a2835ca3",
+        "evaluated_at": "2026-09-24T21:24:26Z",
+        "fingerprint": "5d1aac0dd6aa9c78",
         "error": ""
       }
     },
     {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-land-surface-tempe",
-      "title": "Luxembourgish National Graduate Trainee in Land Surface Temperature Monitoring (LTSM) Data Science",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Land-Surface-Temperature-Monitoring-%28LTSM%29-Data-Science/1440901733/",
+      "id": "esa-tlp-6th-space-passive-component-days-spcd-2026",
+      "title": "6th Space Passive Component Days (SPCD 2026)",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://www.spcd.space/page.php?pid=48",
       "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Frascati, IT",
-      "summary": "National Graduate Trainee · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "8d767385c48959bf",
-      "match_score": 15,
+      "kind": "Conference",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Conference running 13 – 16 october 2026.",
+      "activity_dates": "13 – 16 october 2026",
+      "activity_start": "2026-10-13",
+      "deadline_text": "18 May 2026",
+      "deadline": "2026-05-18",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "acf44677c437a67b",
+      "match_score": 28,
       "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee post because you lack Luxembourgish nationality and are still an undergraduate (BSc expected 2028) rather than a recent graduate. While your Python/AI skills and mentoring experience align broadly with the data-science component, the role demands domain expertise in Earth Observation and land-surface temperature data that you have not demonstrated.",
+        "match_score": 28,
+        "justification": "Your AI & Data Science background and satellite-tracking GitHub projects show general ESA interest, but SPCD 2026 focuses on passive electronic components for space hardware—an area with no overlap in your coursework, projects, or experience. The May 2026 application deadline has already passed relative to today’s date, further reducing relevance.",
         "why_apply": [
-          "Gain direct exposure to ESA Earth Observation infrastructure at ESRIN",
-          "Build contacts in the Luxembourgish space ecosystem even if ineligible this cycle"
+          "Direct exposure to ESA and European space-industry engineers",
+          "Potential networking for future hardware-oriented ESA opportunities"
         ],
         "required_skills": [
-          "Luxembourgish nationality",
-          "Recent Master's or equivalent in remote sensing / Earth observation data science",
-          "Experience processing satellite LST or thermal infrared datasets",
-          "Python for large-scale geospatial analysis"
+          "Knowledge of passive components (resistors, capacitors, inductors) in space environments",
+          "Understanding of space qualification, reliability and radiation effects",
+          "Background in electronics or aerospace engineering"
         ],
         "gaps": [
-          "Luxembourgish nationality requirement",
-          "Graduate-level qualification (you are mid-BSc)",
-          "No demonstrated work with satellite thermal or land-surface temperature data",
-          "No publications or projects in Earth Observation"
+          "No formal education or projects in electronics or passive components",
+          "Curriculum is AI/ML-focused with only basic Arduino/hardware exposure",
+          "No demonstrated experience in space hardware or component testing"
         ],
         "checklist": [
           {
-            "task": "Confirm exact nationality eligibility rules on the ESA jobs page for this posting",
-            "effort": "30 minutes",
-            "done_when": "You have the nationality criterion written down and verified against your passport"
+            "task": "Review the SPCD 2026 technical programme and identify any AI-related sessions on component data analysis",
+            "effort": "3 hours",
+            "done_when": "List of 2-3 relevant sessions noted with speaker names"
           },
           {
-            "task": "Email the Luxembourgish ESA delegate to ask about future non-national routes into similar LST projects",
-            "effort": "1 hour",
-            "done_when": "Reply received or contact logged"
+            "task": "Update ESA-Scout repo with a short note on passive-component data pipelines if applicable",
+            "effort": "1 day",
+            "done_when": "Commit pushed and README updated"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application closing date (check posting)",
-            "date": "as published on jobs.esa.int"
+            "label": "Application deadline",
+            "date": "2026-05-18"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:00Z",
-        "fingerprint": "dbf6c6ac369bb712",
+        "evaluated_at": "2026-09-24T21:24:24Z",
+        "fingerprint": "78b533acfa19ef34",
         "error": ""
       }
     },
@@ -1207,57 +998,55 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "e7665fcc76792b64",
-      "match_score": 15,
+      "match_score": 22,
       "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee position because you lack Luxembourgish nationality and are still in the first year of a bachelor's programme (graduation 2028), whereas the role targets recent graduates. Your AI/data science background and mentoring experience show some overlap with the robotics/software category, but the specific LUNA and Spaceship EAC focus requires domain knowledge you have not yet demonstrated.",
+        "match_score": 22,
+        "justification": "You are ineligible for this Luxembourgish-national-only graduate trainee post and are still two years from completing your BSc, making the application a poor use of time despite your relevant AI/robotics projects and ESA-named GitHub repos.",
         "why_apply": [
-          "Gain direct exposure to ESA's lunar robotics facilities and European space operations",
-          "Build a network inside ESA's EAC centre even if the current application is unsuccessful"
+          "Exposure to ESA robotics facilities if nationality changes"
         ],
         "required_skills": [
-          "Robotics software development (ROS, simulation, control systems)",
-          "Space or lunar analogue robotics experience",
-          "Graduate-level qualification in engineering or computer science"
+          "Robotics software development",
+          "Graduate-level engineering degree",
+          "Luxembourgish nationality"
         ],
         "gaps": [
-          "Luxembourgish nationality (mandatory for this national quota post)",
-          "Bachelor's degree not yet completed; trainee programmes expect recent graduates",
-          "No demonstrated robotics or space-systems project experience",
-          "No publications or internships in space robotics or related ESA domains"
+          "Not Luxembourgish",
+          "Not yet graduated (BSc expected 2028)",
+          "No demonstrated robotics hardware or ESA internship experience"
         ],
         "checklist": [
           {
-            "task": "Verify Luxembourgish nationality or dual citizenship status against the job notice eligibility rules",
-            "effort": "1 hour",
-            "done_when": "Nationality confirmed or ruled out in writing"
+            "task": "Confirm Luxembourgish citizenship eligibility on ESA jobs portal",
+            "effort": "30 minutes",
+            "done_when": "Eligibility status recorded in application notes"
           },
           {
-            "task": "Contact ESA recruitment or Luxembourgish delegation to confirm whether current BSc students can exceptionally apply",
-            "effort": "2 hours",
-            "done_when": "Written reply received and filed"
-          },
-          {
-            "task": "Map your Synapse and SciNet projects against LUNA facility robotics requirements and note concrete overlaps",
+            "task": "Map your Synapse and hfarm-satellite-tracking repos to LUNA robotics use-cases",
             "effort": "4 hours",
-            "done_when": "One-page comparison document created"
+            "done_when": "One-page relevance note written"
           }
         ],
-        "key_deadlines": [],
+        "key_deadlines": [
+          {
+            "label": "Application close",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:30:59Z",
-        "fingerprint": "6f0fc3fb194d18b6",
+        "evaluated_at": "2026-09-24T21:24:48Z",
+        "fingerprint": "b9b8b4a0dbd7c70b",
         "error": ""
       }
     },
     {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-human-and-robotic",
-      "title": "Luxembourgish National Graduate Trainee in Human and Robotic Exploration Commercialisation",
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-robotics-noordwijk",
+      "title": "Luxembourgish National Graduate Trainee in Robotics",
       "source": "esa_jobs",
       "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Human-and-Robotic-Exploration-Commercialisation/1440546033/",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Robotics/1440902233/",
       "status": "Open",
       "kind": "National Graduate Trainee",
       "category": "Robotics & Software",
@@ -1268,57 +1057,62 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "bf9d1fafe324b005",
-      "match_score": 15,
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "f9a7180d04de4fd2",
+      "match_score": 22,
       "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee position because you lack Luxembourgish nationality and are still in the second year of your bachelor's degree. Your AI and software skills align loosely with the robotics & software category, but the role focuses on human/robotic exploration commercialisation, an area where you have no demonstrated experience.",
+        "match_score": 22,
+        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee position because you lack Luxembourgish nationality and have not yet completed a bachelor's degree. Your AI/Data Science studies and projects in Python, ML, and hardware show some software overlap with robotics, but the role demands graduate-level robotics expertise that you do not yet possess.",
         "why_apply": [
-          "Gain insight into ESA's commercialisation processes even if ineligible"
+          "Exposure to ESA's robotics facilities in Noordwijk",
+          "Insight into European space engineering careers"
         ],
         "required_skills": [
-          "Luxembourgish nationality",
-          "Completed graduate-level degree",
-          "Knowledge of space exploration commercialisation",
-          "Robotics or human spaceflight domain experience"
+          "Robotics engineering",
+          "Space software development",
+          "Luxembourgish nationality"
         ],
         "gaps": [
-          "Luxembourgish nationality (strict eligibility requirement)",
-          "Bachelor's degree not yet completed (expected 2028)",
-          "No background in space sector or commercialisation",
-          "Limited hardware/robotics project experience beyond Arduino"
+          "Luxembourgish nationality or eligibility",
+          "Completed graduate degree",
+          "Direct robotics project experience",
+          "Space or ESA domain knowledge"
         ],
         "checklist": [
           {
-            "task": "Confirm Luxembourgish nationality or dual citizenship status with ESA recruitment",
-            "effort": "1 hour",
-            "done_when": "Email response received from ESA careers confirming eligibility"
+            "task": "Confirm Luxembourgish citizenship or dual nationality eligibility on the ESA jobs portal",
+            "effort": "30 minutes",
+            "done_when": "Eligibility status documented"
           },
           {
-            "task": "Identify any open ESA graduate trainee calls open to Spanish or Italian nationals",
+            "task": "Review full job description for exact degree and robotics requirements",
+            "effort": "1 hour",
+            "done_when": "Requirements checklist completed"
+          },
+          {
+            "task": "Map your hfarm-satellite-tracking and Synapse projects to robotics use cases",
             "effort": "3 hours",
-            "done_when": "List of 2-3 alternative calls saved with deadlines"
+            "done_when": "One-page mapping document created"
           }
         ],
         "key_deadlines": [
           {
             "label": "Application deadline",
-            "date": "as published on ESA careers"
+            "date": "as published on jobs.esa.int"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:09Z",
-        "fingerprint": "e8f8f4210c5d0e9e",
+        "evaluated_at": "2026-09-24T21:24:50Z",
+        "fingerprint": "8fd7efc3639435cb",
         "error": ""
       }
     },
     {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-country-capability",
-      "title": "Luxembourgish National Graduate Trainee in Country Capability Development",
+      "id": "esa-jobs-esa-graduate-trainee-in-space-security-threat-and-geopolitica",
+      "title": "ESA Graduate Trainee in Space Security, Threat and Geopolitical Analysis",
       "source": "esa_jobs",
       "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Country-Capability-Development/1440551133/",
+      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Space-Security%2C-Threat-and-Geopolitical-Analysis/1432290033/",
       "status": "Open",
       "kind": "ESA Graduate Trainee",
       "category": "Other",
@@ -1328,94 +1122,42 @@
       "activity_start": "",
       "deadline_text": "",
       "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "c295381006a0fa0f",
-      "match_score": 15,
+      "first_seen": "2026-09-02T11:03:38Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "73bc508cf8d561bc",
+      "match_score": 22,
       "evaluation": {
-        "match_score": 15,
-        "justification": "You are not a Luxembourgish national, which is a strict eligibility requirement for this position, and you are still two years from completing your bachelor's degree while the role targets recent graduates. Your AI/data science profile and mentoring experience have little overlap with country capability development work. Applying now would be a poor use of time.",
-        "why_apply": [],
-        "required_skills": [
-          "Luxembourgish nationality",
-          "Recent master's or equivalent graduate qualification",
-          "Experience in international relations or national space capability building"
-        ],
-        "gaps": [
-          "Luxembourgish nationality",
-          "Graduate-level qualification",
-          "Relevant policy or capability-development experience"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm exact nationality and graduation requirements on the ESA job page",
-            "effort": "30 minutes",
-            "done_when": "Eligibility rules copied and checked against your profile"
-          },
-          {
-            "task": "Identify any future Luxembourgish-national trainee calls that match your 2028 graduation",
-            "effort": "2 hours",
-            "done_when": "List of 2027-2028 calls saved with deadlines"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:08Z",
-        "fingerprint": "f74805f18667eec0",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-space-economy-pari",
-      "title": "Luxembourgish National Graduate Trainee in Space Economy",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Paris-Luxembourgish-National-Graduate-Trainee-in-Space-Economy/1440414933/",
-      "status": "Open",
-      "kind": "ESA Graduate Trainee",
-      "category": "Other",
-      "location": "Paris, FR",
-      "summary": "ESA Graduate Trainee · Paris, FR",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "50504e8df3b97349",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish-national-only Graduate Trainee post because your profile shows no Luxembourg nationality or residency ties, and you remain an undergraduate (expected BSc completion 2028) while the scheme targets recent graduates. Your AI/data-science background and mentoring experience also lack any demonstrated space-economy or economics/policy component required for the role.",
+        "match_score": 22,
+        "justification": "Your current BSc in AI & Data Science (graduating 2028) and projects like satellite tracking and ESA-Scout show genuine interest in space, but the role targets post-Master's candidates with expertise in security policy and geopolitics. The field mismatch and lack of relevant academic or professional experience in threat analysis make this a poor use of application time right now.",
         "why_apply": [
-          "Gain direct exposure to ESA’s Paris-based space-economy policy work even if only as a networking contact"
+          "Direct exposure to ESA's space security directorate and networking with policy experts",
+          "Opportunity to leverage your satellite-tracking Python work in a professional ESA context"
         ],
         "required_skills": [
-          "Luxembourgish nationality",
-          "Recent master’s-level degree in economics, space policy or related field",
-          "Knowledge of space-economy metrics, markets and regulation"
+          "Space security policy and geopolitical analysis",
+          "Threat assessment and intelligence methodologies",
+          "Advanced academic qualification (Master's level)"
         ],
         "gaps": [
-          "No Luxembourg nationality or connection stated",
-          "Still enrolled in BSc (not yet a graduate)",
-          "Zero space-economy, policy or economics coursework or projects",
-          "Application requires demonstrated interest in European space sector economics"
+          "No Master's degree or equivalent (still in year 1-2 of BSc)",
+          "Zero demonstrated experience in security, geopolitics or threat analysis",
+          "Curriculum focused on ML/data rather than policy or international relations"
         ],
         "checklist": [
           {
-            "task": "Verify exact nationality eligibility clause on the ESA job page and confirm Luxembourgish status with ESA HR",
+            "task": "Verify exact eligibility criteria for this GT position on jobs.esa.int",
             "effort": "30 minutes",
-            "done_when": "Email confirmation or screenshot of eligibility text saved"
+            "done_when": "You have confirmed whether a completed Master's is mandatory"
           },
           {
-            "task": "Contact Luxembourgish ESA delegate or national space agency for alternative trainee routes open to non-nationals",
-            "effort": "2 hours",
-            "done_when": "Reply received with list of open opportunities"
+            "task": "Email the hiring manager listed on the vacancy to ask about acceptable academic profiles",
+            "effort": "1 hour",
+            "done_when": "Reply received and saved"
+          },
+          {
+            "task": "Map your hfarm-satellite-tracking repo outputs to any space-security use cases",
+            "effort": "3 hours",
+            "done_when": "One-page note written linking your code to threat monitoring"
           }
         ],
         "key_deadlines": [
@@ -1425,72 +1167,17 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:10Z",
-        "fingerprint": "0626e86c34940e8a",
+        "evaluated_at": "2026-09-24T21:25:18Z",
+        "fingerprint": "408eb186655c74ea",
         "error": ""
       }
     },
     {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-technology-r-d-man",
-      "title": "Luxembourgish National Graduate Trainee in Technology R&D Management and Strategic Road Mapping",
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-land-surface-tempe",
+      "title": "Luxembourgish National Graduate Trainee in Land Surface Temperature Monitoring (LTSM) Data Science",
       "source": "esa_jobs",
       "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Darmstadt-Luxembourgish-National-Graduate-Trainee-in-Technology-R&D-Management-and-Strategic-Road-Mapping/1440550433/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Business & Policy",
-      "location": "Darmstadt, DE",
-      "summary": "National Graduate Trainee · Darmstadt, DE",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "ca99fff7b295b708",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "This role requires Luxembourgish nationality and recent graduate status for a Technology R&D Management position, neither of which you meet as an early-stage AI undergraduate without indicated Luxembourgish citizenship. Your technical AI and mentoring background shows limited overlap with the business/policy focus of strategic roadmapping.",
-        "why_apply": [
-          "Exposure to ESA's technology planning processes in Darmstadt"
-        ],
-        "required_skills": [
-          "Strategic roadmapping and R&D management",
-          "Technology policy and business analysis",
-          "Graduate-level qualification"
-        ],
-        "gaps": [
-          "Luxembourgish nationality requirement",
-          "Not yet a graduate (degree expected 2028)",
-          "No demonstrated experience in R&D management or roadmapping",
-          "Field mismatch between AI/data science and business/policy category"
-        ],
-        "checklist": [
-          {
-            "task": "Verify Luxembourgish nationality eligibility on the ESA job page",
-            "effort": "30 minutes",
-            "done_when": "Nationality confirmed or ruled out"
-          },
-          {
-            "task": "Contact ESA careers to confirm minimum degree requirements for National Graduate Trainee posts",
-            "effort": "1 hour",
-            "done_when": "Email response received clarifying eligibility"
-          }
-        ],
-        "key_deadlines": [],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:14Z",
-        "fingerprint": "11d316dfcd477b5c",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-business-analytics",
-      "title": "Luxembourgish National Graduate Trainee in Business Analytics and Data Science",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Business-Analytics-and-Data-Science/1440415233/",
+      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Land-Surface-Temperature-Monitoring-%28LTSM%29-Data-Science/1440901733/",
       "status": "Open",
       "kind": "National Graduate Trainee",
       "category": "Earth Observation & AI",
@@ -1501,110 +1188,47 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "b8169ae671d6ef35",
-      "match_score": 15,
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "8d767385c48959bf",
+      "match_score": 18,
       "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee post because you lack Luxembourgish nationality and have not yet completed your BSc (expected 2028). The role's Earth Observation & AI focus and Frascati location align with your studies and projects, but these hard eligibility barriers make an application a poor use of time.",
+        "match_score": 18,
+        "justification": "Your strong Python/ML background and satellite-related GitHub projects align with the data-science focus, but the position is restricted to Luxembourgish nationals and targets recent graduates, while you are a Spanish/Italian undergraduate not scheduled to finish until 2028. This eligibility mismatch makes the application a poor use of time. A score above 40 would require both the correct nationality and graduate status.",
         "why_apply": [
-          "Direct exposure to ESA Earth Observation data workflows at ESRIN",
-          "Networking with Luxembourgish space sector professionals"
+          "Direct exposure to ESA Earth Observation operations at ESRIN",
+          "Opportunity to contribute to operational Land Surface Temperature products"
         ],
         "required_skills": [
-          "Luxembourgish nationality",
-          "Completed relevant Master's or Bachelor's degree",
-          "Business analytics and data science applied to EO",
-          "Python and data tools for satellite applications"
+          "Python for large-scale EO data processing",
+          "Machine learning applied to satellite imagery",
+          "Land-surface or thermal remote-sensing domain knowledge"
         ],
         "gaps": [
-          "Not a Luxembourgish national",
-          "Still enrolled in BSc (graduation May 2028)",
-          "No demonstrated experience with Earth Observation datasets",
-          "Limited business analytics or commercial EO project work"
+          "Luxembourgish nationality (mandatory for this National Trainee post)",
+          "Graduate-level degree (you are still in year 1 of a 3-year BSc)",
+          "Specific experience with land-surface temperature or thermal infrared datasets"
         ],
         "checklist": [
           {
-            "task": "Verify Luxembourgish nationality or dual citizenship eligibility on ESA jobs portal",
-            "effort": "30 minutes",
-            "done_when": "Eligibility confirmed or ruled out via official criteria"
+            "task": "Verify Luxembourgish citizenship eligibility on the ESA jobs page",
+            "effort": "15 minutes",
+            "done_when": "You have confirmed you do not meet the nationality requirement"
           },
           {
-            "task": "Contact ESA National Trainee Programme desk to confirm graduation timing rules for 2026 intake",
-            "effort": "1 hour",
-            "done_when": "Written confirmation received on whether current BSc students qualify"
+            "task": "Check exact degree-completion requirement in the full vacancy notice",
+            "effort": "20 minutes",
+            "done_when": "You have noted the minimum qualification level stated"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application closing date",
-            "date": "as published on jobs.esa.int"
+            "label": "Application deadline",
+            "date": "as published on ESA site"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:15Z",
-        "fingerprint": "17a2b8ed614474fc",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-opto-electronics-a",
-      "title": "Luxembourgish National Graduate Trainee in Opto-Electronics and Quantum Engineering",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Opto-Electronics-and-Quantum-Engineering/1440903133/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Space Systems",
-      "location": "Noordwijk, NL",
-      "summary": "National Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "0f225d03c5618c36",
-      "match_score": 12,
-      "evaluation": {
-        "match_score": 12,
-        "justification": "You are ineligible for this Luxembourgish National Graduate Trainee post because the position is reserved for Luxembourg nationals and you show no indication of holding that citizenship; additionally your ongoing BSc in AI & Data Science (expected 2028) and project focus on machine learning pipelines do not match the required opto-electronics or quantum engineering background.",
-        "why_apply": [
-          "Gain insight into ESA's optoelectronics laboratories even if application is unsuccessful"
-        ],
-        "required_skills": [
-          "Opto-electronics engineering",
-          "Quantum engineering or photonics",
-          "Space systems hardware experience",
-          "Master's-level qualification in relevant field"
-        ],
-        "gaps": [
-          "Luxembourgish nationality (mandatory for this national quota)",
-          "Graduate degree or imminent graduation in physics/engineering",
-          "Any demonstrated work in quantum optics, lasers or detectors",
-          "Current undergraduate status until 2028"
-        ],
-        "checklist": [
-          {
-            "task": "Email ESA Luxembourg delegation to confirm exact nationality proof required for this 2026 intake",
-            "effort": "1 hour",
-            "done_when": "Received written confirmation of eligibility criteria"
-          },
-          {
-            "task": "Map your plasma toroid project against ESA quantum detector requirements listed in the job description",
-            "effort": "3 hours",
-            "done_when": "One-page technical comparison document completed"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application closing date",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:02Z",
-        "fingerprint": "b93283c8d16880dd",
+        "evaluated_at": "2026-09-24T21:24:51Z",
+        "fingerprint": "5c328caa2a44d542",
         "error": ""
       }
     },
@@ -1624,41 +1248,403 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "2e197bb5356c0458",
-      "match_score": 12,
+      "match_score": 15,
       "evaluation": {
-        "match_score": 12,
-        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee position because you lack Luxembourgish nationality and have not yet completed your bachelor's degree. Your AI and data science background also shows no connection to space safety, operations, or programme coordination. Applying now would be an inefficient use of time given these fundamental mismatches.",
-        "why_apply": [
-          "Gain insight into ESA's Space Safety Programme structure"
-        ],
+        "match_score": 15,
+        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee position because you are not a Luxembourgish national and you are still two years from completing your bachelor's degree. Your AI/data science background and satellite-tracking projects show some thematic interest, but the role requires recent graduates from Luxembourg with coordination experience in space safety.",
+        "why_apply": [],
         "required_skills": [
-          "Programme coordination in space operations",
-          "Knowledge of space safety and orbital debris topics",
-          "Luxembourgish nationality and recent graduate status"
+          "Luxembourgish nationality",
+          "Recent master's or equivalent graduation",
+          "Programme coordination experience",
+          "Space safety domain knowledge"
         ],
         "gaps": [
-          "Luxembourgish nationality (mandatory for this national quota)",
-          "Graduate-level qualification (you are still an undergraduate until 2028)",
-          "Any demonstrated experience in space safety or ground segment operations"
+          "Luxembourgish citizenship or residency eligibility",
+          "Graduate-level qualification (you are in year 1 of BSc)",
+          "Direct experience in space operations or safety programmes",
+          "French fluency at professional level"
         ],
         "checklist": [
           {
-            "task": "Verify exact nationality and graduation requirements on the ESA job posting",
+            "task": "Confirm exact nationality and graduation requirements on the ESA job page",
             "effort": "30 minutes",
-            "done_when": "You have confirmed the eligibility criteria in writing from the posting"
+            "done_when": "You have read the full eligibility section and noted the nationality clause"
           },
           {
-            "task": "Search for any Luxembourg-linked study or work experience you could add to your profile",
+            "task": "Search for any open Luxembourgish trainee calls that accept current BSc students",
             "effort": "2 hours",
-            "done_when": "You have listed or ruled out any relevant ties"
+            "done_when": "You have a list of alternative ESA trainee opportunities with matching eligibility"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "as published on ESA careers"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:24:56Z",
+        "fingerprint": "3e8b98346977560c",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-space-economy-pari",
+      "title": "Luxembourgish National Graduate Trainee in Space Economy",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Paris-Luxembourgish-National-Graduate-Trainee-in-Space-Economy/1440414933/",
+      "status": "Open",
+      "kind": "ESA Graduate Trainee",
+      "category": "Other",
+      "location": "Paris, FR",
+      "summary": "ESA Graduate Trainee · Paris, FR",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "50504e8df3b97349",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are ineligible for this Luxembourgish-national-only Graduate Trainee role because your background shows Spanish/Italian roots with no Luxembourg connection, and you remain more than 18 months from completing your BSc (expected May 2028). Your AI/data projects and ESA-Scout repo demonstrate relevant technical interest, but the position targets recent graduates in space economy rather than early-stage students.",
+        "why_apply": [
+          "Direct exposure to ESA space economy policy work in Paris",
+          "Opportunity to leverage your satellite-tracking and ESA-named GitHub projects"
+        ],
+        "required_skills": [
+          "Luxembourgish nationality",
+          "Completed university degree in economics, space policy or related field",
+          "Knowledge of space economy and European space sector"
+        ],
+        "gaps": [
+          "Luxembourgish nationality or citizenship",
+          "Graduate status (you are in year 2 of BSc)",
+          "Specific coursework or experience in economics or space policy"
+        ],
+        "checklist": [
+          {
+            "task": "Verify official Luxembourgish citizenship status via passport or government records",
+            "effort": "1 hour",
+            "done_when": "Citizenship confirmed or ruled out in writing"
+          },
+          {
+            "task": "Email ESA recruitment to confirm whether non-Luxembourgish nationals can ever be considered for this posting",
+            "effort": "30 minutes",
+            "done_when": "Reply received and logged"
+          },
+          {
+            "task": "Map your hfarm-satellite-tracking repo outputs to space economy metrics (e.g. launch data, market forecasts)",
+            "effort": "4 hours",
+            "done_when": "One-page summary produced"
           }
         ],
         "key_deadlines": [],
         "model": "grok-4",
-        "evaluated_at": "2026-09-24T11:31:07Z",
-        "fingerprint": "879820eda54035fe",
+        "evaluated_at": "2026-09-24T21:25:01Z",
+        "fingerprint": "3e48f6d00e5a262c",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-technology-r-d-man",
+      "title": "Luxembourgish National Graduate Trainee in Technology R&D Management and Strategic Road Mapping",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Darmstadt-Luxembourgish-National-Graduate-Trainee-in-Technology-R&D-Management-and-Strategic-Road-Mapping/1440550433/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Business & Policy",
+      "location": "Darmstadt, DE",
+      "summary": "National Graduate Trainee · Darmstadt, DE",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "ca99fff7b295b708",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Luxembourgish-national-only graduate trainee post and your current BSc (started 2025, due 2028) does not meet the graduate requirement. Your AI/data-science profile and mentoring experience show technical aptitude but little direct exposure to R&D management or strategic road-mapping in a space-agency context.",
+        "why_apply": [
+          "Gain insight into ESA technology planning processes even if ineligible this cycle",
+          "Network with Luxembourgish delegates and ESA staff in Darmstadt"
+        ],
+        "required_skills": [
+          "Luxembourgish nationality",
+          "Completed relevant Master's degree or equivalent",
+          "Experience in technology road-mapping or R&D programme management",
+          "Business & policy analysis in space sector"
+        ],
+        "gaps": [
+          "Nationality requirement not met",
+          "Not yet a graduate",
+          "No demonstrated R&D management or strategic planning experience",
+          "Limited space-sector policy exposure"
+        ],
+        "checklist": [
+          {
+            "task": "Confirm Luxembourgish citizenship or dual nationality status with ESA HR",
+            "effort": "1 hour",
+            "done_when": "Written confirmation received from ESA careers contact"
+          },
+          {
+            "task": "Map your Synapse and hfarm-satellite-tracking projects to ESA technology road-mapping language",
+            "effort": "4 hours",
+            "done_when": "One-page alignment note produced"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application closing date",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:25:00Z",
+        "fingerprint": "628f39c4f488a091",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-country-capability",
+      "title": "Luxembourgish National Graduate Trainee in Country Capability Development",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Country-Capability-Development/1440551133/",
+      "status": "Open",
+      "kind": "ESA Graduate Trainee",
+      "category": "Other",
+      "location": "Noordwijk, NL",
+      "summary": "ESA Graduate Trainee · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "c295381006a0fa0f",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "This role requires Luxembourgish nationality and recent graduate status, neither of which you meet as a Spanish-Italian BSc student still two years from completion. Your ESA-Scout and satellite-tracking projects demonstrate relevant interest, but the eligibility barriers make an application a poor use of time.",
+        "why_apply": [
+          "Direct exposure to ESA's international cooperation mechanisms",
+          "Insight into national capability-building programmes"
+        ],
+        "required_skills": [
+          "Luxembourgish nationality",
+          "Recent master's or equivalent graduate qualification",
+          "Experience in policy, international relations or capability development"
+        ],
+        "gaps": [
+          "Luxembourgish nationality (not indicated in profile)",
+          "Graduate-level degree (currently year 1-2 of BSc)",
+          "Relevant policy or country-development experience"
+        ],
+        "checklist": [
+          {
+            "task": "Check ESA job posting for exact nationality and degree-level eligibility wording",
+            "effort": "15 minutes",
+            "done_when": "Eligibility criteria confirmed against your Spanish nationality and BSc status"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "as published on ESA careers"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:25:08Z",
+        "fingerprint": "536496721340f6fb",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-human-and-robotic",
+      "title": "Luxembourgish National Graduate Trainee in Human and Robotic Exploration Commercialisation",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Human-and-Robotic-Exploration-Commercialisation/1440546033/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Robotics & Software",
+      "location": "Noordwijk, NL",
+      "summary": "National Graduate Trainee · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "bf9d1fafe324b005",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "The position is restricted to Luxembourgish nationals who have recently completed a graduate degree, but you are a Spanish national still in the first year of your BSc and therefore ineligible. Your AI, Python and satellite-tracking projects demonstrate relevant technical interest, yet they do not offset the nationality and graduation requirements.",
+        "why_apply": [
+          "Direct exposure to ESA Human and Robotic Exploration Directorate",
+          "Insight into commercialisation pathways for space technologies"
+        ],
+        "required_skills": [
+          "Space exploration commercialisation knowledge",
+          "Robotics and software engineering for human spaceflight",
+          "Project management and stakeholder engagement"
+        ],
+        "gaps": [
+          "Luxembourgish nationality (mandatory for this national trainee post)",
+          "Completed graduate degree (you graduate in 2028)",
+          "Demonstrated experience in space-sector commercialisation"
+        ],
+        "checklist": [
+          {
+            "task": "Verify Luxembourgish nationality requirement on the ESA job page",
+            "effort": "30 minutes",
+            "done_when": "Nationality criterion confirmed as mandatory"
+          },
+          {
+            "task": "Check whether any future Luxembourg-linked graduate schemes open after your 2028 graduation",
+            "effort": "2 hours",
+            "done_when": "List of alternative ESA national trainee calls recorded"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline for current call",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:25:07Z",
+        "fingerprint": "2e74a6f2193b6eb0",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-business-analytics",
+      "title": "Luxembourgish National Graduate Trainee in Business Analytics and Data Science",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Business-Analytics-and-Data-Science/1440415233/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Earth Observation & AI",
+      "location": "Frascati, IT",
+      "summary": "National Graduate Trainee · Frascati, IT",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "b8169ae671d6ef35",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee position because you do not hold Luxembourgish nationality, which is a strict requirement. Your AI & Data Science studies and projects like hfarm-satellite-tracking and ESA-Scout show relevant technical interest, but you are still an undergraduate (expected graduation 2028) and the role targets recent graduates in business analytics for Earth Observation.",
+        "why_apply": [
+          "Gain direct ESA experience in Frascati if nationality were met",
+          "Work on Earth Observation data applications"
+        ],
+        "required_skills": [
+          "Luxembourgish nationality",
+          "Recent graduate status in data science or business analytics",
+          "Experience with Earth Observation datasets"
+        ],
+        "gaps": [
+          "Luxembourgish nationality (not indicated in profile)",
+          "Graduate-level qualification (currently BSc student until 2028)",
+          "Specific business analytics or EO domain experience"
+        ],
+        "checklist": [
+          {
+            "task": "Confirm Luxembourgish nationality eligibility on ESA jobs portal",
+            "effort": "30 minutes",
+            "done_when": "Eligibility section reviewed and confirmed ineligible"
+          },
+          {
+            "task": "Search for open ESA graduate trainee calls without national restrictions",
+            "effort": "2 hours",
+            "done_when": "List of 3-5 alternative ESA trainee postings compiled"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application window close",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:25:10Z",
+        "fingerprint": "d93ee989562033fc",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
+      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Earth Observation & AI",
+      "location": "Frascati, IT",
+      "summary": "National Graduate Trainee · Frascati, IT",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-15T11:31:39Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "38ee8db9eeeefd3f",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Estonian-national-only graduate trainee post, and you remain an early-stage undergraduate (expected graduation 2028) while the role targets recent graduates. Your AI/ML and satellite-tracking projects show relevant technical interest, but the nationality and degree-level barriers make an application a poor use of time.",
+        "why_apply": [
+          "Exposure to ESA Earth-observation workflows at ESRIN",
+          "Networking with the Estonian space community"
+        ],
+        "required_skills": [
+          "AI/ML for remote-sensing or biodiversity mapping",
+          "Graduate-level qualification",
+          "Estonian nationality"
+        ],
+        "gaps": [
+          "Not Estonian national",
+          "Still in first year of BSc (not graduate)",
+          "No demonstrated forestry or biodiversity domain experience"
+        ],
+        "checklist": [
+          {
+            "task": "Confirm Estonian citizenship or residency eligibility on the ESA jobs portal",
+            "effort": "30 minutes",
+            "done_when": "Eligibility status recorded"
+          },
+          {
+            "task": "Review the exact degree and graduation-date requirements in the full vacancy notice",
+            "effort": "1 hour",
+            "done_when": "Requirements compared against your 2028 graduation date"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline (check ESA portal)",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:25:09Z",
+        "fingerprint": "cfe5b3f84129e9c0",
         "error": ""
       }
     },
@@ -1678,46 +1664,108 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "135de145aa22401b",
-      "match_score": 12,
+      "match_score": 15,
       "evaluation": {
-        "match_score": 12,
-        "justification": "You are ineligible for this Estonian National Graduate Trainee post because you are not an Estonian national and you will not complete your BSc until 2028. Your AI/data-science background and mentoring experience show some overlap with robotics software, but the nationality and graduation requirements are hard barriers that make an application a poor use of time.",
-        "why_apply": [],
+        "match_score": 15,
+        "justification": "This Estonian National Graduate Trainee role requires Estonian citizenship and targets recent graduates, neither of which matches your profile as a non-Estonian undergraduate in AI & Data Science with an expected 2028 graduation. While your Python, ML, and satellite-tracking projects show some technical overlap with robotics software, the nationality and degree-level barriers make a competitive application unlikely.",
+        "why_apply": [
+          "Direct exposure to ESA robotics activities at Harwell",
+          "Potential future eligibility pathways once you graduate"
+        ],
         "required_skills": [
-          "Robotics software engineering",
-          "Embedded systems / control",
-          "C++ or Python for real-time systems",
-          "ESA project experience"
+          "Estonian nationality",
+          "Graduate-level qualification in robotics or related field",
+          "Hands-on robotics hardware/software experience"
         ],
         "gaps": [
-          "Estonian nationality (mandatory for this national quota)",
-          "Graduate status (BSc expected only in 2028)",
-          "Direct robotics or control-systems projects",
-          "Prior ESA or space-hardware experience"
+          "Estonian citizenship or eligibility",
+          "Completed bachelor's degree (you are in year 2 of 3)",
+          "Specific robotics project or internship experience"
         ],
         "checklist": [
           {
-            "task": "Confirm Estonian citizenship or dual nationality eligibility on the ESA jobs portal",
+            "task": "Verify Estonian nationality requirement on the ESA job page",
             "effort": "30 minutes",
-            "done_when": "Eligibility section reviewed and screenshot saved"
+            "done_when": "Eligibility confirmed or ruled out"
           },
           {
-            "task": "Search for open ESA graduate trainee calls that accept Spanish/Italian nationals in robotics or AI",
-            "effort": "2 hours",
-            "done_when": "List of 3-5 alternative postings compiled"
+            "task": "Email ESA careers to ask if non-Estonians can ever apply to National Trainee posts",
+            "effort": "1 hour",
+            "done_when": "Reply received and logged"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application deadline (Estonian National Graduate Trainee in Robotics)",
-            "date": "as published on jobs.esa.int"
+            "label": "Application deadline",
+            "date": "as published on ESA site"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-21T21:53:56Z",
-        "fingerprint": "3715a9053ffc42d2",
+        "evaluated_at": "2026-09-24T21:25:15Z",
+        "fingerprint": "d5aa0db71247b4bc",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-opto-electronics-a",
+      "title": "Luxembourgish National Graduate Trainee in Opto-Electronics and Quantum Engineering",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Opto-Electronics-and-Quantum-Engineering/1440903133/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Space Systems",
+      "location": "Noordwijk, NL",
+      "summary": "National Graduate Trainee · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "0f225d03c5618c36",
+      "match_score": 12,
+      "evaluation": {
+        "match_score": 12,
+        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee post because you are neither a Luxembourgish national nor a recent graduate; your BSc in AI & Data Science is only expected to finish in 2028. The role demands specialized knowledge in opto-electronics and quantum engineering, fields in which you have no demonstrated coursework, projects or experience. Your AI, data and mentoring background shows general technical aptitude but does not align with the technical requirements of this specific ESA trainee position.",
+        "why_apply": [
+          "Gain direct exposure to ESA’s opto-electronics laboratories in Noordwijk",
+          "Build a network inside ESA’s Space Systems directorate"
+        ],
+        "required_skills": [
+          "Opto-electronics or quantum engineering at graduate level",
+          "Hands-on laboratory experience with optical systems or quantum devices",
+          "Luxembourgish nationality and recent graduation"
+        ],
+        "gaps": [
+          "No Luxembourgish nationality",
+          "Not yet graduated (BSc expected 2028)",
+          "Zero academic or project background in opto-electronics or quantum engineering",
+          "No relevant laboratory or hardware experience in photonics/quantum"
+        ],
+        "checklist": [
+          {
+            "task": "Verify exact nationality and graduation-year eligibility rules on the ESA job page",
+            "effort": "30 minutes",
+            "done_when": "You have confirmed you do not meet the nationality or graduate criteria"
+          },
+          {
+            "task": "Search ESA careers for any future AI/Data Science trainee openings open to your nationality",
+            "effort": "2 hours",
+            "done_when": "You have a list of 2–3 alternative ESA trainee calls that match your profile"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline for this trainee post",
+            "date": "as published on ESA careers"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:24:55Z",
+        "fingerprint": "767bbe658b60a2d0",
         "error": ""
       }
     },
@@ -1737,108 +1785,46 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "b8f682017b960495",
-      "match_score": 8,
+      "match_score": 12,
       "evaluation": {
-        "match_score": 8,
-        "justification": "You are not eligible for this Estonian National Graduate Trainee post because you lack Estonian nationality and are still in the second year of a BSc in AI & Data Science rather than holding a recent engineering or materials-science degree. The role focuses on advanced materials and process engineering for space systems, a field with no overlap to your AI, data science, and mentoring background.",
-        "why_apply": [
-          "Gain insight into ESA's materials testing facilities at Harwell",
-          "Network with European space engineers during the traineeship"
-        ],
+        "match_score": 12,
+        "justification": "You are ineligible for this Estonian National Graduate Trainee post because you are not an Estonian national and you will not hold a completed bachelor's degree until 2028. Your AI & Data Science background also has no overlap with advanced materials or process engineering. Applying would be a poor use of time.",
+        "why_apply": [],
         "required_skills": [
-          "Advanced materials science or process engineering degree",
+          "Advanced materials science",
+          "Process engineering",
           "Estonian nationality",
-          "Recent Master's-level qualification"
+          "Recent graduate status"
         ],
         "gaps": [
-          "No Estonian nationality or citizenship",
-          "Undergraduate AI/Data Science degree instead of materials/process engineering",
-          "Graduation not expected until 2028, well after typical graduate-trainee window",
-          "No demonstrated experience in materials characterisation, composites or manufacturing processes"
+          "Estonian citizenship or residency eligibility",
+          "Completed BSc or MSc in materials/engineering",
+          "Any coursework or projects in materials science or manufacturing processes",
+          "Graduate-level research experience"
         ],
         "checklist": [
           {
-            "task": "Confirm Estonian nationality eligibility on the ESA jobs portal",
-            "effort": "30 minutes",
-            "done_when": "Eligibility section reviewed and status noted"
+            "task": "Confirm Estonian nationality requirement on the ESA job page",
+            "effort": "15 minutes",
+            "done_when": "You have read the eligibility section and verified your status"
           },
           {
-            "task": "Search for open ESA graduate trainee calls in AI, data or software engineering",
+            "task": "Search for open ESA graduate trainee calls in AI or Earth observation",
             "effort": "2 hours",
-            "done_when": "List of 3-5 alternative calls saved with deadlines"
-          }
-        ],
-        "key_deadlines": [],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-21T21:53:57Z",
-        "fingerprint": "2c041c9ef23857e5",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-academy-hardware-testing-test-opportunities",
-      "title": "Hardware testing: Test Opportunities",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/Educational_Satellites/About_Test_Opportunities",
-      "status": "Pending",
-      "kind": "Project / Hands-on Programme",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "TBD Contact: cubesats@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "TBD",
-      "deadline": "",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
-      "content_hash": "7337bb9fac70a849",
-      "match_score": 48,
-      "evaluation": {
-        "match_score": 48,
-        "justification": "Your profile shows relevant hands-on hardware work (Arduino, 3D printing, plasma toroid) and engineering mentoring, plus an ESA-Scout repository that signals interest, but your degree is squarely in AI & Data Science with limited space-systems or formal hardware-testing experience. At this early stage of your BSc the opportunity is a stretch rather than a strong fit.",
-        "why_apply": [
-          "Direct exposure to ESA CubeSat hardware-testing facilities and procedures",
-          "Opportunity to translate your DIY hardware projects into a space context"
-        ],
-        "required_skills": [
-          "Hardware testing and verification procedures",
-          "Basic electronics and mechanical integration",
-          "Documentation and test reporting"
-        ],
-        "gaps": [
-          "No demonstrated experience with space-grade hardware or vacuum/thermal testing",
-          "Primary expertise is software/AI rather than hardware qualification",
-          "Limited formal knowledge of space systems standards"
-        ],
-        "checklist": [
-          {
-            "task": "Email cubesats@esa.int with a one-page summary of your plasma toroid and Arduino projects, asking for next steps on Test Opportunities",
-            "effort": "2 hours",
-            "done_when": "Email sent and any reply logged"
-          },
-          {
-            "task": "Add a short section to your ESA-Scout repo README explaining how the project could support hardware-test data analysis",
-            "effort": "4 hours",
-            "done_when": "Updated README committed and visible"
-          },
-          {
-            "task": "Complete a 2-page technical note on the Xenon Plasma Toroid build, including test results and safety considerations",
-            "effort": "1 week",
-            "done_when": "PDF uploaded to GitHub and linked in application materials"
+            "done_when": "You have a list of 3-5 matching calls with deadlines after May 2028"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Application window",
-            "date": "TBD"
+            "label": "Application deadline",
+            "date": "as published on jobs.esa.int"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:10Z",
-        "fingerprint": "50a02215869f51b2",
+        "evaluated_at": "2026-09-24T21:25:13Z",
+        "fingerprint": "8acde659859bab7f",
         "error": ""
       }
     },
@@ -1858,41 +1844,42 @@
       "deadline_text": "Next cycle expected to open in 2027",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-24T21:25:18Z",
       "content_hash": "9f3f94b0b389746e",
-      "match_score": 32,
+      "match_score": 52,
       "evaluation": {
-        "match_score": 32,
-        "justification": "Your AI & Data Science profile and hardware tinkering (Arduino, 3D printing, Python pipelines) show genuine technical curiosity, but the CubeSats programme demands hands-on satellite systems engineering, orbital mechanics and team-based spacecraft development that your current curriculum and projects do not cover. With the next cycle still in 2027 you have time, yet the field mismatch makes this a low-priority application unless you deliberately pivot toward space hardware.",
+        "match_score": 52,
+        "justification": "Your Python-based satellite-tracking repo and ESA-Scout project show genuine interest and relevant coding skills, yet the CubeSats programme centres on full satellite systems engineering, AIV, and mission operations that your current AI/Data Science curriculum and limited hardware-in-the-loop experience do not yet cover. With the next cycle still a year away you have time to close gaps, but today the match remains a stretch rather than competitive.",
         "why_apply": [
-          "Direct exposure to ESA satellite integration and testing facilities",
-          "Opportunity to add a real space-mission deliverable to your portfolio"
+          "Hands-on access to ESA facilities, clean rooms and launch integration support",
+          "Direct mentoring from ESA engineers on real CubeSat missions",
+          "Networking with European student teams and potential future employers"
         ],
         "required_skills": [
-          "CubeSat subsystem design and AIV",
-          "Spacecraft systems engineering",
-          "Team-based project management under ESA standards"
+          "Satellite systems engineering and mission design",
+          "Hardware integration, testing and AIV procedures",
+          "Team-based project management under ESA review cycles"
         ],
         "gaps": [
-          "No aerospace or space-systems coursework or projects",
-          "Limited electronics and RF experience beyond Arduino-level work",
-          "No demonstrated orbital-mechanics or mission-analysis skills"
+          "No demonstrated experience with space hardware qualification or environmental testing",
+          "Curriculum focused on AI/ML rather than aerospace or control systems",
+          "Limited evidence of leading a multi-disciplinary engineering team through formal reviews"
         ],
         "checklist": [
           {
-            "task": "Complete the ESA Academy CubeSats introductory MOOC and document key subsystems",
-            "effort": "3 weeks",
-            "done_when": "Certificate plus one-page subsystem summary uploaded to GitHub"
+            "task": "Complete the ESA Academy CubeSats online introductory modules once published",
+            "effort": "2 weeks",
+            "done_when": "Certificates uploaded to your ESA Academy profile"
           },
           {
-            "task": "Join or form a university CubeSat team and contribute to at least one hardware subsystem",
-            "effort": "6 months",
-            "done_when": "Named contributor on a CDR-level document or test report"
+            "task": "Extend hfarm-satellite-tracking into an end-to-end orbit determination and attitude simulation using Orekit or GMAT",
+            "effort": "4 weeks",
+            "done_when": "Public GitHub release with documented results and test cases"
           },
           {
-            "task": "Build and test a basic 1U CubeSat mock-up with OBC, EPS and simple payload using your existing Python/Arduino skills",
-            "effort": "2 months",
-            "done_when": "Functional prototype demonstrated and documented in a public repo"
+            "task": "Join or form a student team and submit a Phase-0 proposal concept for a 1U CubeSat payload",
+            "effort": "6 weeks",
+            "done_when": "Document reviewed by a university supervisor or ESA mentor"
           }
         ],
         "key_deadlines": [
@@ -1902,8 +1889,68 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-09-17T11:26:08Z",
-        "fingerprint": "9ddf33a5fd1b2736",
+        "evaluated_at": "2026-09-24T21:24:40Z",
+        "fingerprint": "96b3b4235f77b5d7",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-academy-hardware-testing-test-opportunities",
+      "title": "Hardware testing: Test Opportunities",
+      "source": "esa_academy",
+      "source_label": "ESA Academy Projects",
+      "url": "https://www.esa.int/Education/Educational_Satellites/About_Test_Opportunities",
+      "status": "Pending",
+      "kind": "Project / Hands-on Programme",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "TBD Contact: cubesats@esa.int.",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "TBD",
+      "deadline": "",
+      "first_seen": "2026-08-17T13:40:21Z",
+      "last_seen": "2026-09-24T21:25:18Z",
+      "content_hash": "7337bb9fac70a849",
+      "match_score": 48,
+      "evaluation": {
+        "match_score": 48,
+        "justification": "Your AI/Data Science degree and satellite-tracking GitHub repo show genuine interest in ESA topics, but the opportunity centers on hands-on hardware testing of space systems where your background is limited to hobbyist Arduino/3D-printing projects rather than formal electronics or aerospace testing experience. At the end of your first year you are still early in your studies, making this a stretch application unless you can quickly demonstrate relevant test skills.",
+        "why_apply": [
+          "Direct exposure to ESA CubeSat hardware testing facilities and procedures",
+          "Networking with ESA engineers via cubesats@esa.int contact"
+        ],
+        "required_skills": [
+          "Hardware testing and validation procedures",
+          "Electronics or mechanical integration for space systems",
+          "Familiarity with CubeSat standards and environmental testing"
+        ],
+        "gaps": [
+          "No documented experience in electronics testing, vibration/thermal testing or space hardware qualification",
+          "Degree is AI-focused rather than aerospace/mechanical/electrical engineering",
+          "Early-stage undergraduate (first year) with limited formal lab or industry hardware work"
+        ],
+        "checklist": [
+          {
+            "task": "Email cubesats@esa.int with a one-page summary of your hfarm-satellite-tracking and DIY plasma toroid projects, requesting current test-opportunity status and requirements",
+            "effort": "2 hours",
+            "done_when": "Email sent and any reply logged"
+          },
+          {
+            "task": "Document the exact test procedures and results from your xenon plasma toroid build in a short technical note",
+            "effort": "1 week",
+            "done_when": "2-page PDF ready with photos, measurements and safety notes"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application status update from ESA",
+            "date": "TBD"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-24T21:24:43Z",
+        "fingerprint": "924c5f0d7687d111",
         "error": ""
       }
     }
@@ -1915,7 +1962,7 @@
       "title": "CubeSats: Fly Your Satellite! Design Booster",
       "status": "Open",
       "previous_status": "",
-      "match_score": 48,
+      "match_score": 52,
       "url": "https://www.esa.int/Education/Educational_Satellites/About_Design_Booster",
       "detail": "Deadline in 8 day(s)"
     },
@@ -1925,109 +1972,9 @@
       "title": "Rocket and Balloon Experiments: REXUS/BEXUS",
       "status": "Open",
       "previous_status": "",
-      "match_score": 42,
+      "match_score": 48,
       "url": "https://www.esa.int/Education/Rexus_Bexus",
       "detail": "Deadline in 14 day(s)"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-robotics-noordwijk",
-      "title": "Luxembourgish National Graduate Trainee in Robotics",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 18,
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Robotics/1440902233/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-land-surface-tempe",
-      "title": "Luxembourgish National Graduate Trainee in Land Surface Temperature Monitoring (LTSM) Data Science",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 15,
-      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Land-Surface-Temperature-Monitoring-%28LTSM%29-Data-Science/1440901733/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-spaceship-eac-and",
-      "title": "Luxembourgish National Graduate Trainee in Spaceship EAC and LUNA Robotics",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 15,
-      "url": "https://jobs.esa.int/job/Porz-Wahn-Luxembourgish-National-Graduate-Trainee-in-Spaceship-EAC-and-LUNA-Robotics/1440899533/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-human-and-robotic",
-      "title": "Luxembourgish National Graduate Trainee in Human and Robotic Exploration Commercialisation",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 15,
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Human-and-Robotic-Exploration-Commercialisation/1440546033/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-country-capability",
-      "title": "Luxembourgish National Graduate Trainee in Country Capability Development",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 15,
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Country-Capability-Development/1440551133/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-space-economy-pari",
-      "title": "Luxembourgish National Graduate Trainee in Space Economy",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 15,
-      "url": "https://jobs.esa.int/job/Paris-Luxembourgish-National-Graduate-Trainee-in-Space-Economy/1440414933/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-technology-r-d-man",
-      "title": "Luxembourgish National Graduate Trainee in Technology R&D Management and Strategic Road Mapping",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 15,
-      "url": "https://jobs.esa.int/job/Darmstadt-Luxembourgish-National-Graduate-Trainee-in-Technology-R&D-Management-and-Strategic-Road-Mapping/1440550433/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-business-analytics",
-      "title": "Luxembourgish National Graduate Trainee in Business Analytics and Data Science",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 15,
-      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Business-Analytics-and-Data-Science/1440415233/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-opto-electronics-a",
-      "title": "Luxembourgish National Graduate Trainee in Opto-Electronics and Quantum Engineering",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 12,
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Opto-Electronics-and-Quantum-Engineering/1440903133/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-jobs-luxembourgish-national-graduate-trainee-in-space-safety-progr",
-      "title": "Luxembourgish National Graduate Trainee in Space Safety Programme Coordination",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 12,
-      "url": "https://jobs.esa.int/job/Paris-Luxembourgish-National-Graduate-Trainee-in-Space-Safety-Programme-Coordination/1440555833/",
-      "detail": "Newly listed"
     }
   ],
   "errors": []
