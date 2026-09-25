@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T11:37:46Z",
+  "generated_at": "2026-09-25T21:24:18Z",
   "stats": {
     "total": 28,
     "open": 26,
@@ -75,7 +75,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-09-24T21:25:20Z"
+          "pushed_at": "2026-09-25T11:37:48Z"
         },
         {
           "name": "hfarm-satellite-tracking",
@@ -109,7 +109,7 @@
           "description": "A private 3D map of everything you've read — local models, zero cloud egress, 10 MCP tools built in",
           "language": "Python",
           "url": "https://github.com/teo-clerk/SciNet",
-          "stars": 1,
+          "stars": 2,
           "topics": [
             "fastapi",
             "hdbscan",
@@ -226,7 +226,7 @@
       "deadline_text": "Call for proposals open until 2 October 2026, 13:00 CEST",
       "deadline": "2026-10-02",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "53aad25a398d5d3d",
       "match_score": 68,
       "evaluation": {
@@ -291,7 +291,7 @@
       "deadline_text": "Call for proposals open until 22 November 2026, 23:59 CEST",
       "deadline": "2026-11-22",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "7ace9d054b108179",
       "match_score": 62,
       "evaluation": {
@@ -362,7 +362,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 52,
       "evaluation": {
@@ -422,7 +422,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 48,
       "evaluation": {
@@ -482,7 +482,7 @@
       "deadline_text": "Call for proposals open until 8 October 2026, 13:00 CEST",
       "deadline": "2026-10-08",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "2628ea59541d5ec5",
       "match_score": 48,
       "evaluation": {
@@ -542,7 +542,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 48,
       "evaluation": {
@@ -607,7 +607,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 42,
       "evaluation": {
@@ -673,7 +673,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 32,
       "evaluation": {
@@ -733,7 +733,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 28,
       "evaluation": {
@@ -793,7 +793,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 28,
       "evaluation": {
@@ -852,7 +852,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "8d767385c48959bf",
       "match_score": 25,
       "evaluation": {
@@ -914,7 +914,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-02T11:03:38Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "73bc508cf8d561bc",
       "match_score": 25,
       "evaluation": {
@@ -979,7 +979,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 22,
       "evaluation": {
@@ -1039,7 +1039,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 22,
       "evaluation": {
@@ -1104,7 +1104,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "e7665fcc76792b64",
       "match_score": 15,
       "evaluation": {
@@ -1148,62 +1148,6 @@
       }
     },
     {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-robotics-noordwijk",
-      "title": "Luxembourgish National Graduate Trainee in Robotics",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Robotics/1440902233/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Robotics & Software",
-      "location": "Noordwijk, NL",
-      "summary": "National Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
-      "content_hash": "f9a7180d04de4fd2",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are ineligible for this Luxembourgish National Graduate Trainee role because you are not a Luxembourgish national and you will not complete your BSc until 2028. Your AI/Data Science background and mentoring experience show relevant technical aptitude, but the position targets recent graduates in robotics from the specified nationality.",
-        "why_apply": [
-          "Gain direct exposure to ESA robotics facilities in Noordwijk",
-          "Build professional network within European space robotics community"
-        ],
-        "required_skills": [
-          "Robotics engineering",
-          "Graduate-level qualification",
-          "Luxembourgish nationality"
-        ],
-        "gaps": [
-          "Not Luxembourgish national",
-          "Not yet graduated (BSc expected 2028)",
-          "Limited demonstrated robotics project experience",
-          "No ESA or space-sector internships listed"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm Luxembourgish nationality eligibility on ESA jobs portal",
-            "effort": "30 minutes",
-            "done_when": "Eligibility confirmed or ruled out via official criteria"
-          },
-          {
-            "task": "Identify 2027/2028 Luxembourgish National Trainee calls that accept final-year students",
-            "effort": "2 hours",
-            "done_when": "List of future calls with deadlines recorded"
-          }
-        ],
-        "key_deadlines": [],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-25T11:37:22Z",
-        "fingerprint": "82e1e5c45b557552",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-opto-electronics-a",
       "title": "Luxembourgish National Graduate Trainee in Opto-Electronics and Quantum Engineering",
       "source": "esa_jobs",
@@ -1219,7 +1163,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "0f225d03c5618c36",
       "match_score": 15,
       "evaluation": {
@@ -1266,11 +1210,11 @@
       }
     },
     {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-human-and-robotic",
-      "title": "Luxembourgish National Graduate Trainee in Human and Robotic Exploration Commercialisation",
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-robotics-noordwijk",
+      "title": "Luxembourgish National Graduate Trainee in Robotics",
       "source": "esa_jobs",
       "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Human-and-Robotic-Exploration-Commercialisation/1440546033/",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Robotics/1440902233/",
       "status": "Open",
       "kind": "National Graduate Trainee",
       "category": "Robotics & Software",
@@ -1281,162 +1225,43 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
-      "content_hash": "bf9d1fafe324b005",
+      "last_seen": "2026-09-25T21:24:18Z",
+      "content_hash": "f9a7180d04de4fd2",
       "match_score": 15,
       "evaluation": {
         "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee post because you lack Luxembourgish nationality and will not hold a completed degree by the typical start date; your current BSc timeline (graduation 2028) and Spanish/Italian background place you outside the core requirements.",
+        "justification": "You are ineligible for this Luxembourgish National Graduate Trainee role because you are not a Luxembourgish national and you will not complete your BSc until 2028. Your AI/Data Science background and mentoring experience show relevant technical aptitude, but the position targets recent graduates in robotics from the specified nationality.",
         "why_apply": [
-          "Direct exposure to ESA Human and Robotic Exploration programmes at ESTEC",
-          "Networking with commercialisation teams in robotics and software"
+          "Gain direct exposure to ESA robotics facilities in Noordwijk",
+          "Build professional network within European space robotics community"
         ],
         "required_skills": [
-          "Graduate-level qualification in engineering or space-related field",
-          "Knowledge of space exploration commercialisation and robotics",
+          "Robotics engineering",
+          "Graduate-level qualification",
           "Luxembourgish nationality"
         ],
         "gaps": [
           "Not Luxembourgish national",
-          "No completed Bachelor or Master degree yet",
-          "No demonstrated experience in space commercialisation or human/robotic exploration",
-          "Limited relevant project work beyond hobby repositories"
-        ],
-        "checklist": [
-          {
-            "task": "Verify Luxembourgish nationality eligibility on the ESA jobs portal",
-            "effort": "30 minutes",
-            "done_when": "Confirmed or ruled out via official eligibility criteria"
-          },
-          {
-            "task": "Contact ESA recruitment to confirm minimum degree completion date for 2027 intake",
-            "effort": "1 hour",
-            "done_when": "Written reply received clarifying graduation requirement"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application close date",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-25T11:37:32Z",
-        "fingerprint": "bebe74563d0beac0",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-country-capability",
-      "title": "Luxembourgish National Graduate Trainee in Country Capability Development",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Country-Capability-Development/1440551133/",
-      "status": "Open",
-      "kind": "ESA Graduate Trainee",
-      "category": "Other",
-      "location": "Noordwijk, NL",
-      "summary": "ESA Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
-      "content_hash": "c295381006a0fa0f",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish-national-only Graduate Trainee post and are still two years from completing your BSc, so an application would not be productive. Your AI/data projects and ESA-related GitHub repos show genuine space interest, but the role focuses on national capability development rather than technical AI work.",
-        "why_apply": [
-          "Exposure to ESA's international cooperation and education programmes"
-        ],
-        "required_skills": [
-          "Luxembourgish nationality",
-          "Recent Master's or equivalent degree",
-          "Experience in national space capability building or policy"
-        ],
-        "gaps": [
-          "Not Luxembourgish",
           "Not yet graduated (BSc expected 2028)",
-          "No demonstrated background in country capability or policy work"
+          "Limited demonstrated robotics project experience",
+          "No ESA or space-sector internships listed"
         ],
         "checklist": [
           {
-            "task": "Confirm exact nationality and graduation requirements on the ESA job page",
+            "task": "Confirm Luxembourgish nationality eligibility on ESA jobs portal",
             "effort": "30 minutes",
-            "done_when": "Eligibility rules recorded"
+            "done_when": "Eligibility confirmed or ruled out via official criteria"
           },
           {
-            "task": "Identify Luxembourgish-national ESA Graduate Trainee calls opening in 2027-2028",
+            "task": "Identify 2027/2028 Luxembourgish National Trainee calls that accept final-year students",
             "effort": "2 hours",
-            "done_when": "List of future calls saved"
+            "done_when": "List of future calls with deadlines recorded"
           }
         ],
         "key_deadlines": [],
         "model": "grok-4",
-        "evaluated_at": "2026-09-25T11:37:34Z",
-        "fingerprint": "7d4e6fb842486d32",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-business-analytics",
-      "title": "Luxembourgish National Graduate Trainee in Business Analytics and Data Science",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Business-Analytics-and-Data-Science/1440415233/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Frascati, IT",
-      "summary": "National Graduate Trainee · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
-      "content_hash": "b8169ae671d6ef35",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee post because you lack Luxembourgish nationality and are still an undergraduate (expected graduation 2028). Your AI/Data Science studies, Python projects, and mentoring experience align thematically with the role's Earth Observation & AI focus, but these cannot overcome the nationality and degree-level barriers.",
-        "why_apply": [
-          "Location in Frascati is geographically convenient to your Venice campus",
-          "Exposure to ESA Earth Observation data workflows"
-        ],
-        "required_skills": [
-          "Luxembourgish nationality",
-          "Recent Master's or equivalent graduate degree",
-          "Business analytics applied to Earth Observation datasets"
-        ],
-        "gaps": [
-          "Not a Luxembourgish national",
-          "Still enrolled in BSc programme, not yet a graduate",
-          "No demonstrated experience with ESA or Earth Observation data"
-        ],
-        "checklist": [
-          {
-            "task": "Verify Luxembourgish nationality or dual citizenship eligibility on ESA jobs portal",
-            "effort": "30 minutes",
-            "done_when": "Eligibility confirmed or ruled out via official ESA nationality rules"
-          },
-          {
-            "task": "Contact ESA National Trainee Programme desk to confirm degree requirements for this call",
-            "effort": "1 hour",
-            "done_when": "Written confirmation received on minimum qualification level"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application closing date",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-25T11:37:36Z",
-        "fingerprint": "43b1b6d7287e1827",
+        "evaluated_at": "2026-09-25T11:37:22Z",
+        "fingerprint": "82e1e5c45b557552",
         "error": ""
       }
     },
@@ -1456,7 +1281,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "2e197bb5356c0458",
       "match_score": 15,
       "evaluation": {
@@ -1502,6 +1327,239 @@
       }
     },
     {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-business-analytics",
+      "title": "Luxembourgish National Graduate Trainee in Business Analytics and Data Science",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Frascati-Luxembourgish-National-Graduate-Trainee-in-Business-Analytics-and-Data-Science/1440415233/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Earth Observation & AI",
+      "location": "Frascati, IT",
+      "summary": "National Graduate Trainee · Frascati, IT",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-25T21:24:18Z",
+      "content_hash": "b8169ae671d6ef35",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee post because you lack Luxembourgish nationality and are still an undergraduate (expected graduation 2028). Your AI/Data Science studies, Python projects, and mentoring experience align thematically with the role's Earth Observation & AI focus, but these cannot overcome the nationality and degree-level barriers.",
+        "why_apply": [
+          "Location in Frascati is geographically convenient to your Venice campus",
+          "Exposure to ESA Earth Observation data workflows"
+        ],
+        "required_skills": [
+          "Luxembourgish nationality",
+          "Recent Master's or equivalent graduate degree",
+          "Business analytics applied to Earth Observation datasets"
+        ],
+        "gaps": [
+          "Not a Luxembourgish national",
+          "Still enrolled in BSc programme, not yet a graduate",
+          "No demonstrated experience with ESA or Earth Observation data"
+        ],
+        "checklist": [
+          {
+            "task": "Verify Luxembourgish nationality or dual citizenship eligibility on ESA jobs portal",
+            "effort": "30 minutes",
+            "done_when": "Eligibility confirmed or ruled out via official ESA nationality rules"
+          },
+          {
+            "task": "Contact ESA National Trainee Programme desk to confirm degree requirements for this call",
+            "effort": "1 hour",
+            "done_when": "Written confirmation received on minimum qualification level"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application closing date",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-25T11:37:36Z",
+        "fingerprint": "43b1b6d7287e1827",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-country-capability",
+      "title": "Luxembourgish National Graduate Trainee in Country Capability Development",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Country-Capability-Development/1440551133/",
+      "status": "Open",
+      "kind": "ESA Graduate Trainee",
+      "category": "Other",
+      "location": "Noordwijk, NL",
+      "summary": "ESA Graduate Trainee · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-25T21:24:18Z",
+      "content_hash": "c295381006a0fa0f",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Luxembourgish-national-only Graduate Trainee post and are still two years from completing your BSc, so an application would not be productive. Your AI/data projects and ESA-related GitHub repos show genuine space interest, but the role focuses on national capability development rather than technical AI work.",
+        "why_apply": [
+          "Exposure to ESA's international cooperation and education programmes"
+        ],
+        "required_skills": [
+          "Luxembourgish nationality",
+          "Recent Master's or equivalent degree",
+          "Experience in national space capability building or policy"
+        ],
+        "gaps": [
+          "Not Luxembourgish",
+          "Not yet graduated (BSc expected 2028)",
+          "No demonstrated background in country capability or policy work"
+        ],
+        "checklist": [
+          {
+            "task": "Confirm exact nationality and graduation requirements on the ESA job page",
+            "effort": "30 minutes",
+            "done_when": "Eligibility rules recorded"
+          },
+          {
+            "task": "Identify Luxembourgish-national ESA Graduate Trainee calls opening in 2027-2028",
+            "effort": "2 hours",
+            "done_when": "List of future calls saved"
+          }
+        ],
+        "key_deadlines": [],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-25T11:37:34Z",
+        "fingerprint": "7d4e6fb842486d32",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-human-and-robotic",
+      "title": "Luxembourgish National Graduate Trainee in Human and Robotic Exploration Commercialisation",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Luxembourgish-National-Graduate-Trainee-in-Human-and-Robotic-Exploration-Commercialisation/1440546033/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Robotics & Software",
+      "location": "Noordwijk, NL",
+      "summary": "National Graduate Trainee · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-24T11:31:15Z",
+      "last_seen": "2026-09-25T21:24:18Z",
+      "content_hash": "bf9d1fafe324b005",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Luxembourgish National Graduate Trainee post because you lack Luxembourgish nationality and will not hold a completed degree by the typical start date; your current BSc timeline (graduation 2028) and Spanish/Italian background place you outside the core requirements.",
+        "why_apply": [
+          "Direct exposure to ESA Human and Robotic Exploration programmes at ESTEC",
+          "Networking with commercialisation teams in robotics and software"
+        ],
+        "required_skills": [
+          "Graduate-level qualification in engineering or space-related field",
+          "Knowledge of space exploration commercialisation and robotics",
+          "Luxembourgish nationality"
+        ],
+        "gaps": [
+          "Not Luxembourgish national",
+          "No completed Bachelor or Master degree yet",
+          "No demonstrated experience in space commercialisation or human/robotic exploration",
+          "Limited relevant project work beyond hobby repositories"
+        ],
+        "checklist": [
+          {
+            "task": "Verify Luxembourgish nationality eligibility on the ESA jobs portal",
+            "effort": "30 minutes",
+            "done_when": "Confirmed or ruled out via official eligibility criteria"
+          },
+          {
+            "task": "Contact ESA recruitment to confirm minimum degree completion date for 2027 intake",
+            "effort": "1 hour",
+            "done_when": "Written reply received clarifying graduation requirement"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application close date",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-25T11:37:32Z",
+        "fingerprint": "bebe74563d0beac0",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
+      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Earth Observation & AI",
+      "location": "Frascati, IT",
+      "summary": "National Graduate Trainee · Frascati, IT",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-15T11:31:39Z",
+      "last_seen": "2026-09-25T21:24:18Z",
+      "content_hash": "38ee8db9eeeefd3f",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are ineligible for this Estonian-national-only graduate trainee post because you are not Estonian and you will not hold a completed degree by the typical start date. Your AI/ML background and satellite-tracking project show thematic interest, but the nationality and graduation requirements create a hard barrier.",
+        "why_apply": [],
+        "required_skills": [
+          "Estonian nationality",
+          "Master's degree or equivalent completed",
+          "Earth-observation data processing",
+          "Machine-learning for biodiversity mapping"
+        ],
+        "gaps": [
+          "Estonian citizenship",
+          "Graduate status (you are a second-year BSc student)",
+          "Domain experience in forestry or biodiversity applications"
+        ],
+        "checklist": [
+          {
+            "task": "Confirm Estonian nationality requirement on the ESA job page",
+            "effort": "15 minutes",
+            "done_when": "You have read the eligibility section and verified you do not meet it"
+          },
+          {
+            "task": "Check whether any non-Estonian graduate trainee calls in Earth Observation are open",
+            "effort": "30 minutes",
+            "done_when": "You have listed two alternative ESA trainee vacancies that match your nationality"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-09-25T11:37:43Z",
+        "fingerprint": "91e0b8dff6d68cbc",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-estonian-national-graduate-trainee-in-robotics-harwell-gb",
       "title": "Estonian National Graduate Trainee in Robotics",
       "source": "esa_jobs",
@@ -1517,7 +1575,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "135de145aa22401b",
       "match_score": 15,
       "evaluation": {
@@ -1564,64 +1622,6 @@
       }
     },
     {
-      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
-      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Frascati, IT",
-      "summary": "National Graduate Trainee · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-25T11:37:46Z",
-      "content_hash": "38ee8db9eeeefd3f",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are ineligible for this Estonian-national-only graduate trainee post because you are not Estonian and you will not hold a completed degree by the typical start date. Your AI/ML background and satellite-tracking project show thematic interest, but the nationality and graduation requirements create a hard barrier.",
-        "why_apply": [],
-        "required_skills": [
-          "Estonian nationality",
-          "Master's degree or equivalent completed",
-          "Earth-observation data processing",
-          "Machine-learning for biodiversity mapping"
-        ],
-        "gaps": [
-          "Estonian citizenship",
-          "Graduate status (you are a second-year BSc student)",
-          "Domain experience in forestry or biodiversity applications"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm Estonian nationality requirement on the ESA job page",
-            "effort": "15 minutes",
-            "done_when": "You have read the eligibility section and verified you do not meet it"
-          },
-          {
-            "task": "Check whether any non-Estonian graduate trainee calls in Earth Observation are open",
-            "effort": "30 minutes",
-            "done_when": "You have listed two alternative ESA trainee vacancies that match your nationality"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-09-25T11:37:43Z",
-        "fingerprint": "91e0b8dff6d68cbc",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-luxembourgish-national-graduate-trainee-in-space-economy-pari",
       "title": "Luxembourgish National Graduate Trainee in Space Economy",
       "source": "esa_jobs",
@@ -1637,7 +1637,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "50504e8df3b97349",
       "match_score": 12,
       "evaluation": {
@@ -1698,7 +1698,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "ca99fff7b295b708",
       "match_score": 12,
       "evaluation": {
@@ -1740,7 +1740,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "b8f682017b960495",
       "match_score": 10,
       "evaluation": {
@@ -1792,7 +1792,7 @@
       "deadline_text": "Next cycle expected to open in 2027",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "9f3f94b0b389746e",
       "match_score": 48,
       "evaluation": {
@@ -1859,7 +1859,7 @@
       "deadline_text": "TBD",
       "deadline": "",
       "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-09-25T11:37:46Z",
+      "last_seen": "2026-09-25T21:24:18Z",
       "content_hash": "7337bb9fac70a849",
       "match_score": 42,
       "evaluation": {
