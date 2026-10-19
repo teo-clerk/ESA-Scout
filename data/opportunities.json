@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T12:48:40Z",
+  "generated_at": "2026-10-19T22:13:28Z",
   "stats": {
-    "total": 28,
-    "open": 24,
-    "pending": 3,
-    "closed": 1,
-    "high_fit": 1,
-    "evaluated": 28
+    "total": 23,
+    "open": 23,
+    "pending": 0,
+    "closed": 0,
+    "high_fit": 0,
+    "evaluated": 23
   },
   "profile": {
     "name": "TEO CLERICI JURADO",
@@ -75,7 +75,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-10-19T10:40:08Z"
+          "pushed_at": "2026-10-19T12:48:42Z"
         },
         {
           "name": "floodfusion",
@@ -230,78 +230,6 @@
   },
   "opportunities": [
     {
-      "id": "esa-academy-access-to-ground-and-space-based-platforms-esa-academy-exp",
-      "title": "Access to ground and space-based platforms: ESA Academy Experiments",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
-      "status": "Open",
-      "kind": "Project / Hands-on Programme",
-      "category": "Other",
-      "location": "",
-      "summary": "Call for proposals open until 22 November 2026, 23:59 CEST Contact: academy.experiments@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "Call for proposals open until 22 November 2026, 23:59 CEST",
-      "deadline": "2026-11-22",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-10-19T12:48:40Z",
-      "content_hash": "7ace9d054b108179",
-      "match_score": 82,
-      "evaluation": {
-        "match_score": 82,
-        "justification": "Your Sentinel-1/2 flood-mapping project, ESA-Scout repository, and satellite-tracking work demonstrate direct alignment with ESA Earth-observation platforms, while your Python/ML stack and hardware prototyping experience meet the technical demands of student-led experiments. At the end of your first year you are still early in your degree, yet the November 2026 deadline gives you time to strengthen a proposal. The programme is a strong next step for you.",
-        "why_apply": [
-          "Direct access to ESA ground/space platforms for your own experiment",
-          "Mentorship from ESA experts on satellite-data pipelines",
-          "Networking with European student teams in Earth observation"
-        ],
-        "required_skills": [
-          "Python for satellite data processing",
-          "Experience with Sentinel or similar EO datasets",
-          "Proposal writing and experiment design",
-          "Team leadership in hackathon-style projects"
-        ],
-        "gaps": [
-          "No prior ESA Academy or space-agency project experience",
-          "Limited formal training in space systems engineering",
-          "Need to form or join a multi-student team for the call"
-        ],
-        "checklist": [
-          {
-            "task": "Draft a one-page experiment concept using your floodfusion pipeline on ESA platforms",
-            "effort": "1 week",
-            "done_when": "Concept document ready for internal review"
-          },
-          {
-            "task": "Contact academy.experiments@esa.int with a 200-word summary of your Sentinel work",
-            "effort": "2 hours",
-            "done_when": "Reply or acknowledgement received"
-          },
-          {
-            "task": "Identify two student collaborators from H-FARM or MIT Edgerton network",
-            "effort": "3 days",
-            "done_when": "Team of three confirmed with roles assigned"
-          },
-          {
-            "task": "Register for ESA Academy Experiments info session if announced before 22 Nov",
-            "effort": "30 min",
-            "done_when": "Registration confirmation saved"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Proposal submission",
-            "date": "2026-11-22"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-16T20:50:45Z",
-        "fingerprint": "54d102bf9c43b2f5",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-tlp-spaice-ai-in-and-for-space",
       "title": "SPAICE (AI in and for space)",
       "source": "esa_tlp",
@@ -317,7 +245,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 78,
       "evaluation": {
@@ -378,7 +306,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 68,
       "evaluation": {
@@ -439,7 +367,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 52,
       "evaluation": {
@@ -499,7 +427,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 38,
       "evaluation": {
@@ -564,7 +492,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 35,
       "evaluation": {
@@ -624,7 +552,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-10-07T13:05:27Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "7f51fae437ac2b83",
       "match_score": 32,
       "evaluation": {
@@ -684,7 +612,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 28,
       "evaluation": {
@@ -744,7 +672,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 28,
       "evaluation": {
@@ -804,7 +732,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 28,
       "evaluation": {
@@ -869,7 +797,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-10-19T12:48:40Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 22,
       "evaluation": {
@@ -929,7 +857,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "8d767385c48959bf",
       "match_score": 22,
       "evaluation": {
@@ -990,7 +918,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "f9a7180d04de4fd2",
       "match_score": 18,
       "evaluation": {
@@ -1050,7 +978,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "50504e8df3b97349",
       "match_score": 18,
       "evaluation": {
@@ -1110,7 +1038,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "135de145aa22401b",
       "match_score": 15,
       "evaluation": {
@@ -1171,7 +1099,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "38ee8db9eeeefd3f",
       "match_score": 15,
       "evaluation": {
@@ -1230,7 +1158,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "e7665fcc76792b64",
       "match_score": 15,
       "evaluation": {
@@ -1287,7 +1215,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "b8169ae671d6ef35",
       "match_score": 15,
       "evaluation": {
@@ -1347,7 +1275,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "ca99fff7b295b708",
       "match_score": 15,
       "evaluation": {
@@ -1408,7 +1336,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "c295381006a0fa0f",
       "match_score": 15,
       "evaluation": {
@@ -1468,7 +1396,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "bf9d1fafe324b005",
       "match_score": 15,
       "evaluation": {
@@ -1527,7 +1455,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "2e197bb5356c0458",
       "match_score": 15,
       "evaluation": {
@@ -1588,7 +1516,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "b8f682017b960495",
       "match_score": 12,
       "evaluation": {
@@ -1644,7 +1572,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-24T11:31:15Z",
-      "last_seen": "2026-10-19T12:48:40Z",
+      "last_seen": "2026-10-19T22:13:28Z",
       "content_hash": "0f225d03c5618c36",
       "match_score": 12,
       "evaluation": {
@@ -1687,351 +1615,10 @@
         "fingerprint": "11d7a4485bd39b9d",
         "error": ""
       }
-    },
-    {
-      "id": "esa-academy-rocket-and-balloon-experiments-rexus-bexus",
-      "title": "Rocket and Balloon Experiments: REXUS/BEXUS",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/Rexus_Bexus",
-      "status": "Pending",
-      "kind": "Project / Hands-on Programme",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Next call for proposals expected to open in June 2027 Contact: rexus-bexus@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "Next call for proposals expected to open in June 2027",
-      "deadline": "",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-10-19T12:48:40Z",
-      "content_hash": "b8e615b81b9eb8ca",
-      "match_score": 48,
-      "evaluation": {
-        "match_score": 48,
-        "justification": "Your AI/data science profile and space-related projects (Sentinel-1 fusion, satellite tracking, ESA-Scout repo) show genuine interest and relevant technical skills, but REXUS/BEXUS primarily seeks experiment proposals in physics, biology or engineering payloads rather than pure data/AI work. As a first-year BSc student you have time before the 2027 call, yet you lack demonstrated payload hardware or sounding-rocket experiment experience.",
-        "why_apply": [
-          "Direct access to ESA sounding-rocket or balloon flight opportunity",
-          "Build a student team and proposal-writing experience for future ESA calls"
-        ],
-        "required_skills": [
-          "Experiment proposal writing and team coordination",
-          "Payload hardware integration and testing",
-          "Scientific data analysis from rocket/balloon sensors"
-        ],
-        "gaps": [
-          "No prior payload or rocket/balloon experiment background",
-          "Currently individual projects rather than a formed student team",
-          "Early-stage BSc (year 1) with limited formal space-systems coursework"
-        ],
-        "checklist": [
-          {
-            "task": "Join or form a 4-6 student team from H-Farm/University of Chichester for a 2027 REXUS/BEXUS proposal",
-            "effort": "4-6 weeks",
-            "done_when": "Team registered with at least one faculty supervisor"
-          },
-          {
-            "task": "Draft a one-page experiment concept using your Sentinel or satellite-tracking work adapted to a balloon or rocket measurement",
-            "effort": "2 weeks",
-            "done_when": "Concept reviewed by a mentor or lecturer"
-          },
-          {
-            "task": "Complete the ESA Academy online REXUS/BEXUS information webinars when announced in 2027",
-            "effort": "4 hours",
-            "done_when": "Attendance certificate obtained"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Next REXUS/BEXUS call opens",
-            "date": "2027-06"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-16T20:50:44Z",
-        "fingerprint": "ffe7463a645b4b85",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-academy-cubesats-fly-your-satellite",
-      "title": "CubeSats: Fly Your Satellite!",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/CubeSats_-_Fly_Your_Satellite",
-      "status": "Pending",
-      "kind": "Project / Hands-on Programme",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Next cycle expected to open in 2027 Contact: cubesats@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "Next cycle expected to open in 2027",
-      "deadline": "",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-10-19T12:48:40Z",
-      "content_hash": "9f3f94b0b389746e",
-      "match_score": 48,
-      "evaluation": {
-        "match_score": 48,
-        "justification": "Your AI/data science background and satellite-related projects (Sentinel fusion, tracking, ESA-Scout repo) show genuine interest and relevant Python/ML skills, but the CubeSats programme demands hands-on space systems engineering, electronics integration and satellite operations experience that your current curriculum and projects do not yet provide. At the start of a three-year BSc you would be competing against more advanced engineering students; the 2027 cycle gives time to close gaps but the fit remains a stretch.",
-        "why_apply": [
-          "Direct exposure to ESA CubeSat development, testing and launch processes",
-          "Networking with ESA engineers and potential future collaborators on space data projects",
-          "Opportunity to apply your Sentinel and tracking work to real flight hardware"
-        ],
-        "required_skills": [
-          "CubeSat systems engineering and AIV (assembly, integration, verification)",
-          "Embedded software and on-board data handling",
-          "Attitude determination/control and power systems",
-          "Team-based project management under ESA standards"
-        ],
-        "gaps": [
-          "No demonstrated aerospace or mechanical/electrical engineering coursework",
-          "Limited hardware integration experience beyond Arduino and 3D printing",
-          "Early stage of BSc (only ~1 year completed) versus typical participant cohorts",
-          "No prior satellite hardware or ground-station operations projects"
-        ],
-        "checklist": [
-          {
-            "task": "Join or form a university team and contact cubesats@esa.int for 2027 cycle requirements",
-            "effort": "1 week",
-            "done_when": "Email sent and team registered"
-          },
-          {
-            "task": "Complete an introductory CubeSat systems course (e.g. ESA Academy MOOC or equivalent)",
-            "effort": "4-6 weeks",
-            "done_when": "Certificate obtained"
-          },
-          {
-            "task": "Extend hfarm-satellite-tracking or floodfusion repo with on-board processing simulation using actual CubeSat bus specs",
-            "effort": "3 weeks",
-            "done_when": "Public repo updated with documented simulation results"
-          },
-          {
-            "task": "Build and document a small satellite subsystem prototype (e.g. Arduino-based ADCS or power module) tested in a relevant environment",
-            "effort": "2 months",
-            "done_when": "Working prototype + test report uploaded to GitHub"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Next application cycle opens",
-            "date": "2027 (exact date TBA)"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-16T20:50:46Z",
-        "fingerprint": "4ba13cb0329cec0b",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-academy-hardware-testing-test-opportunities",
-      "title": "Hardware testing: Test Opportunities",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/Educational_Satellites/About_Test_Opportunities",
-      "status": "Pending",
-      "kind": "Project / Hands-on Programme",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "TBD Contact: cubesats@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "TBD",
-      "deadline": "",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-10-19T12:48:40Z",
-      "content_hash": "7337bb9fac70a849",
-      "match_score": 38,
-      "evaluation": {
-        "match_score": 38,
-        "justification": "Your profile shows genuine space interest through ESA-Scout and satellite-tracking repositories, plus Arduino and 3D-printing skills, but the opportunity centers on hardware testing for CubeSats and space systems where your AI/Data Science focus and limited electronics testing experience create a clear mismatch. At this early stage of your BSc you would be competing against students with stronger hardware or aerospace engineering backgrounds. A score of 38 reflects a stretch application that could still be worthwhile for exposure if you can quickly demonstrate relevant hardware work.",
-        "why_apply": [
-          "Direct contact with ESA cubesat team and potential access to test facilities",
-          "Hands-on experience with space hardware that complements your existing satellite-tracking projects"
-        ],
-        "required_skills": [
-          "Hardware testing and qualification procedures",
-          "Electronics assembly and debugging",
-          "CubeSat or small-satellite systems knowledge"
-        ],
-        "gaps": [
-          "Almost no documented hardware testing or qualification experience",
-          "Degree is AI & Data Science rather than aerospace, mechanical or electronics engineering",
-          "Early in BSc programme (only one year completed by application time)"
-        ],
-        "checklist": [
-          {
-            "task": "Email cubesats@esa.int with a one-page summary of your Arduino, 3D-printing and drone projects plus your ESA-Scout repo",
-            "effort": "3 hours",
-            "done_when": "Email sent and any reply logged"
-          },
-          {
-            "task": "Build and document a simple hardware test rig (e.g. vibration or thermal test of a 3D-printed CubeSat mock-up) and add results to GitHub",
-            "effort": "2 weeks",
-            "done_when": "Repository updated with test procedure, data and photos"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application opening or update from ESA",
-            "date": "TBD"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-16T20:50:45Z",
-        "fingerprint": "37bed88e72b5634a",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-academy-cubesats-fly-your-satellite-design-booster",
-      "title": "CubeSats: Fly Your Satellite! Design Booster",
-      "source": "esa_academy",
-      "source_label": "ESA Academy Projects",
-      "url": "https://www.esa.int/Education/Educational_Satellites/About_Design_Booster",
-      "status": "Closed",
-      "kind": "Project / Hands-on Programme",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Closed Contact: cubesats@esa.int.",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "Closed",
-      "deadline": "",
-      "first_seen": "2026-08-17T13:40:21Z",
-      "last_seen": "2026-10-19T12:48:40Z",
-      "content_hash": "0f20e32929eba407",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "The CubeSats Design Booster is closed with no active application window, so pursuing it now is not feasible regardless of your strong alignment in AI/ML for satellite data (Sentinel-1 fusion, ESA-Scout repo, hfarm-satellite-tracking). Your profile would otherwise be a reasonable stretch for an open edition given your Python, remote-sensing projects and mentoring experience.",
-        "why_apply": [
-          "Hands-on CubeSat systems engineering training",
-          "Direct ESA Academy networking and certification"
-        ],
-        "required_skills": [
-          "CubeSat subsystem design and AIV",
-          "Satellite data processing (radar/optical)",
-          "Team-based project documentation"
-        ],
-        "gaps": [
-          "Opportunity status is closed; no current call",
-          "Limited formal aerospace or hardware systems experience beyond personal projects"
-        ],
-        "checklist": [
-          {
-            "task": "Monitor esa.int/Education for next Design Booster announcement",
-            "effort": "5 minutes weekly",
-            "done_when": "Next open call is bookmarked with eligibility confirmed"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "Closed"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-16T20:50:40Z",
-        "fingerprint": "236af76e63fa41c0",
-        "error": ""
-      }
     }
   ],
-  "events": [
-    {
-      "kind": "new_high_match",
-      "opportunity_id": "esa-tlp-spaice-ai-in-and-for-space",
-      "title": "SPAICE (AI in and for space)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 78,
-      "url": "https://spaice.esa.int/2026/grants/",
-      "detail": "New open opportunity scoring 78% (threshold 70%)"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-disruptive-innovation-and-commercialisation-in-earth-observati",
-      "title": "Disruptive Innovation and Commercialisation in Earth Observation",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 68,
-      "url": "https://learn.esa.int/explore/disruptive-innovation-and-commercialisation-earth-observation-2026",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-navigation-training-course",
-      "title": "Navigation Training Course",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 52,
-      "url": "https://learn.esa.int/explore/navigation-training-course",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-14th-european-space-power-conference-espc-2026",
-      "title": "14th European Space Power Conference (ESPC 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 38,
-      "url": "https://atpi.eventsair.com/cmspreview/espc2026/student-sponsorship",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-spacecraft-testing-workshop",
-      "title": "Spacecraft Testing Workshop",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 35,
-      "url": "https://learn.esa.int/explore/spacecraft-testing-workshop",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
-      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-3rd-esa-reliability-availability-maintainability-and-safety-co",
-      "title": "3rd ESA Reliability Availability Maintainability and Safety conference (RAMS 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://atpi.eventsair.com/3rd-esa-rams-conference/esa-education-sponsorship",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-radiation-and-its-effects-on-components-and-systems-conference",
-      "title": "RADiation and its Effects on Components and Systems Conference (RADECS 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://radecs2026.org/grants/esa-academy-student-sponsorship/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-6th-space-passive-component-days-spcd-2026",
-      "title": "6th Space Passive Component Days (SPCD 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 22,
-      "url": "https://www.spcd.space/page.php?pid=48",
-      "detail": "Newly listed"
-    }
-  ],
-  "errors": []
+  "events": [],
+  "errors": [
+    "esa_academy: no table rows found — markup may have changed"
+  ]
 }
