@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T22:34:57Z",
+  "generated_at": "2026-10-27T11:58:38Z",
   "stats": {
     "total": 4,
     "open": 4,
@@ -75,7 +75,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-10-26T12:43:31Z"
+          "pushed_at": "2026-10-26T22:34:58Z"
         },
         {
           "name": "floodfusion",
@@ -245,7 +245,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-10-07T13:05:27Z",
-      "last_seen": "2026-10-26T22:34:57Z",
+      "last_seen": "2026-10-27T11:58:38Z",
       "content_hash": "7f51fae437ac2b83",
       "match_score": 32,
       "evaluation": {
@@ -290,65 +290,6 @@
       }
     },
     {
-      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
-      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Frascati, IT",
-      "summary": "National Graduate Trainee · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-26T22:34:57Z",
-      "content_hash": "38ee8db9eeeefd3f",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Estonian National Graduate Trainee post because you lack Estonian nationality and are still completing a bachelor's degree (expected 2028). While your AI projects involving Sentinel data and Python ML pipelines show relevant technical skills, the nationality and graduate-level requirements create a fundamental mismatch.",
-        "why_apply": [],
-        "required_skills": [
-          "Estonian nationality",
-          "Master's degree or equivalent",
-          "AI/ML applied to Earth Observation",
-          "Forestry or biodiversity domain knowledge"
-        ],
-        "gaps": [
-          "Estonian citizenship (mandatory for this national quota)",
-          "Graduate qualification (you are mid-bachelor's)",
-          "Experience with forestry/biodiversity mapping",
-          "ESA or EO-specific project portfolio beyond personal repos"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm exact eligibility rules and deadline on the ESA job posting for Estonian NGT positions",
-            "effort": "30 minutes",
-            "done_when": "You have the official eligibility text saved"
-          },
-          {
-            "task": "Search for any open ESA graduate trainee calls open to Spanish or Italian nationals in AI/EO",
-            "effort": "2 hours",
-            "done_when": "You have a shortlist of 2-3 alternative postings"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline for this Estonian NGT post",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-16T20:50:52Z",
-        "fingerprint": "b9889ffbc04781b6",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-estonian-national-graduate-trainee-in-robotics-harwell-gb",
       "title": "Estonian National Graduate Trainee in Robotics",
       "source": "esa_jobs",
@@ -364,7 +305,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-26T22:34:57Z",
+      "last_seen": "2026-10-27T11:58:38Z",
       "content_hash": "135de145aa22401b",
       "match_score": 15,
       "evaluation": {
@@ -410,6 +351,65 @@
       }
     },
     {
+      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
+      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Earth Observation & AI",
+      "location": "Frascati, IT",
+      "summary": "National Graduate Trainee · Frascati, IT",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-15T11:31:39Z",
+      "last_seen": "2026-10-27T11:58:38Z",
+      "content_hash": "38ee8db9eeeefd3f",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Estonian National Graduate Trainee post because you lack Estonian nationality and are still completing a bachelor's degree (expected 2028). While your AI projects involving Sentinel data and Python ML pipelines show relevant technical skills, the nationality and graduate-level requirements create a fundamental mismatch.",
+        "why_apply": [],
+        "required_skills": [
+          "Estonian nationality",
+          "Master's degree or equivalent",
+          "AI/ML applied to Earth Observation",
+          "Forestry or biodiversity domain knowledge"
+        ],
+        "gaps": [
+          "Estonian citizenship (mandatory for this national quota)",
+          "Graduate qualification (you are mid-bachelor's)",
+          "Experience with forestry/biodiversity mapping",
+          "ESA or EO-specific project portfolio beyond personal repos"
+        ],
+        "checklist": [
+          {
+            "task": "Confirm exact eligibility rules and deadline on the ESA job posting for Estonian NGT positions",
+            "effort": "30 minutes",
+            "done_when": "You have the official eligibility text saved"
+          },
+          {
+            "task": "Search for any open ESA graduate trainee calls open to Spanish or Italian nationals in AI/EO",
+            "effort": "2 hours",
+            "done_when": "You have a shortlist of 2-3 alternative postings"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline for this Estonian NGT post",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-10-16T20:50:52Z",
+        "fingerprint": "b9889ffbc04781b6",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-estonian-national-graduate-trainee-in-advanced-materials-and",
       "title": "Estonian National Graduate Trainee in Advanced Materials and Process Engineering",
       "source": "esa_jobs",
@@ -425,7 +425,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-26T22:34:57Z",
+      "last_seen": "2026-10-27T11:58:38Z",
       "content_hash": "b8f682017b960495",
       "match_score": 12,
       "evaluation": {
