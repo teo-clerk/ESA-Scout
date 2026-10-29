@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T22:27:08Z",
+  "generated_at": "2026-10-29T12:44:04Z",
   "stats": {
     "total": 13,
     "open": 13,
@@ -75,7 +75,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-10-28T12:35:29Z"
+          "pushed_at": "2026-10-28T22:27:10Z"
         },
         {
           "name": "floodfusion",
@@ -245,7 +245,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 72,
       "evaluation": {
@@ -311,7 +311,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 68,
       "evaluation": {
@@ -378,7 +378,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 62,
       "evaluation": {
@@ -442,7 +442,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 32,
       "evaluation": {
@@ -500,7 +500,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 32,
       "evaluation": {
@@ -560,7 +560,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-10-07T13:05:27Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "7f51fae437ac2b83",
       "match_score": 32,
       "evaluation": {
@@ -620,7 +620,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 28,
       "evaluation": {
@@ -685,7 +685,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 25,
       "evaluation": {
@@ -745,7 +745,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 22,
       "evaluation": {
@@ -805,7 +805,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 22,
       "evaluation": {
@@ -855,65 +855,6 @@
       }
     },
     {
-      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
-      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Frascati, IT",
-      "summary": "National Graduate Trainee · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-28T22:27:08Z",
-      "content_hash": "38ee8db9eeeefd3f",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are not eligible for this Estonian National Graduate Trainee post because you lack Estonian nationality and are still completing a bachelor's degree (expected 2028). While your AI projects involving Sentinel data and Python ML pipelines show relevant technical skills, the nationality and graduate-level requirements create a fundamental mismatch.",
-        "why_apply": [],
-        "required_skills": [
-          "Estonian nationality",
-          "Master's degree or equivalent",
-          "AI/ML applied to Earth Observation",
-          "Forestry or biodiversity domain knowledge"
-        ],
-        "gaps": [
-          "Estonian citizenship (mandatory for this national quota)",
-          "Graduate qualification (you are mid-bachelor's)",
-          "Experience with forestry/biodiversity mapping",
-          "ESA or EO-specific project portfolio beyond personal repos"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm exact eligibility rules and deadline on the ESA job posting for Estonian NGT positions",
-            "effort": "30 minutes",
-            "done_when": "You have the official eligibility text saved"
-          },
-          {
-            "task": "Search for any open ESA graduate trainee calls open to Spanish or Italian nationals in AI/EO",
-            "effort": "2 hours",
-            "done_when": "You have a shortlist of 2-3 alternative postings"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline for this Estonian NGT post",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-16T20:50:52Z",
-        "fingerprint": "b9889ffbc04781b6",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-estonian-national-graduate-trainee-in-robotics-harwell-gb",
       "title": "Estonian National Graduate Trainee in Robotics",
       "source": "esa_jobs",
@@ -929,7 +870,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "135de145aa22401b",
       "match_score": 15,
       "evaluation": {
@@ -975,6 +916,65 @@
       }
     },
     {
+      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
+      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
+      "status": "Open",
+      "kind": "National Graduate Trainee",
+      "category": "Earth Observation & AI",
+      "location": "Frascati, IT",
+      "summary": "National Graduate Trainee · Frascati, IT",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "",
+      "deadline": "",
+      "first_seen": "2026-09-15T11:31:39Z",
+      "last_seen": "2026-10-29T12:44:04Z",
+      "content_hash": "38ee8db9eeeefd3f",
+      "match_score": 15,
+      "evaluation": {
+        "match_score": 15,
+        "justification": "You are not eligible for this Estonian National Graduate Trainee post because you lack Estonian nationality and are still completing a bachelor's degree (expected 2028). While your AI projects involving Sentinel data and Python ML pipelines show relevant technical skills, the nationality and graduate-level requirements create a fundamental mismatch.",
+        "why_apply": [],
+        "required_skills": [
+          "Estonian nationality",
+          "Master's degree or equivalent",
+          "AI/ML applied to Earth Observation",
+          "Forestry or biodiversity domain knowledge"
+        ],
+        "gaps": [
+          "Estonian citizenship (mandatory for this national quota)",
+          "Graduate qualification (you are mid-bachelor's)",
+          "Experience with forestry/biodiversity mapping",
+          "ESA or EO-specific project portfolio beyond personal repos"
+        ],
+        "checklist": [
+          {
+            "task": "Confirm exact eligibility rules and deadline on the ESA job posting for Estonian NGT positions",
+            "effort": "30 minutes",
+            "done_when": "You have the official eligibility text saved"
+          },
+          {
+            "task": "Search for any open ESA graduate trainee calls open to Spanish or Italian nationals in AI/EO",
+            "effort": "2 hours",
+            "done_when": "You have a shortlist of 2-3 alternative postings"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline for this Estonian NGT post",
+            "date": "as published on jobs.esa.int"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-10-16T20:50:52Z",
+        "fingerprint": "b9889ffbc04781b6",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-estonian-national-graduate-trainee-in-advanced-materials-and",
       "title": "Estonian National Graduate Trainee in Advanced Materials and Process Engineering",
       "source": "esa_jobs",
@@ -990,7 +990,7 @@
       "deadline_text": "",
       "deadline": "",
       "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-10-29T12:44:04Z",
       "content_hash": "b8f682017b960495",
       "match_score": 12,
       "evaluation": {
@@ -1031,98 +1031,7 @@
       }
     }
   ],
-  "events": [
-    {
-      "kind": "new_high_match",
-      "opportunity_id": "esa-tlp-spaice-ai-in-and-for-space",
-      "title": "SPAICE (AI in and for space)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 72,
-      "url": "https://spaice.esa.int/2026/grants/",
-      "detail": "New open opportunity scoring 72% (threshold 70%)"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-disruptive-innovation-and-commercialisation-in-earth-observati",
-      "title": "Disruptive Innovation and Commercialisation in Earth Observation",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 68,
-      "url": "https://learn.esa.int/explore/disruptive-innovation-and-commercialisation-earth-observation-2026",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-navigation-training-course",
-      "title": "Navigation Training Course",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 62,
-      "url": "https://learn.esa.int/explore/navigation-training-course",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-14th-european-space-power-conference-espc-2026",
-      "title": "14th European Space Power Conference (ESPC 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 32,
-      "url": "https://atpi.eventsair.com/cmspreview/espc2026/student-sponsorship",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-spacecraft-testing-workshop",
-      "title": "Spacecraft Testing Workshop",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 32,
-      "url": "https://learn.esa.int/explore/spacecraft-testing-workshop",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
-      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-3rd-esa-reliability-availability-maintainability-and-safety-co",
-      "title": "3rd ESA Reliability Availability Maintainability and Safety conference (RAMS 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 25,
-      "url": "https://atpi.eventsair.com/3rd-esa-rams-conference/esa-education-sponsorship",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-radiation-and-its-effects-on-components-and-systems-conference",
-      "title": "RADiation and its Effects on Components and Systems Conference (RADECS 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 22,
-      "url": "https://radecs2026.org/grants/esa-academy-student-sponsorship/",
-      "detail": "Newly listed"
-    },
-    {
-      "kind": "new_opportunity",
-      "opportunity_id": "esa-tlp-6th-space-passive-component-days-spcd-2026",
-      "title": "6th Space Passive Component Days (SPCD 2026)",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 22,
-      "url": "https://www.spcd.space/page.php?pid=48",
-      "detail": "Newly listed"
-    }
-  ],
+  "events": [],
   "errors": [
     "esa_academy: no table rows found — markup may have changed"
   ]
