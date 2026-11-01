@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T21:18:50Z",
+  "generated_at": "2026-11-01T13:03:10Z",
   "stats": {
-    "total": 13,
-    "open": 13,
+    "total": 9,
+    "open": 9,
     "pending": 0,
     "closed": 0,
     "high_fit": 0,
-    "evaluated": 13
+    "evaluated": 9
   },
   "profile": {
     "name": "TEO CLERICI JURADO",
@@ -85,16 +85,7 @@
             "spaced-repetition",
             "study"
           ],
-          "pushed_at": "2026-10-31T20:08:31Z"
-        },
-        {
-          "name": "ESA-Scout",
-          "description": "",
-          "language": "Python",
-          "url": "https://github.com/teo-clerk/ESA-Scout",
-          "stars": 0,
-          "topics": [],
-          "pushed_at": "2026-10-31T12:02:04Z"
+          "pushed_at": "2026-11-01T13:01:26Z"
         },
         {
           "name": "floodfusion",
@@ -113,7 +104,16 @@
             "sentinel-2",
             "terramind"
           ],
-          "pushed_at": "2026-10-16T09:15:12Z"
+          "pushed_at": "2026-11-01T00:57:05Z"
+        },
+        {
+          "name": "ESA-Scout",
+          "description": "",
+          "language": "Python",
+          "url": "https://github.com/teo-clerk/ESA-Scout",
+          "stars": 0,
+          "topics": [],
+          "pushed_at": "2026-10-31T21:18:51Z"
         },
         {
           "name": "portfolio",
@@ -244,10 +244,70 @@
       ],
       "error": ""
     },
-    "fingerprint": "ff04cb6b592b4159",
+    "fingerprint": "ee2d7a8f4de8cf4c",
     "error": ""
   },
   "opportunities": [
+    {
+      "id": "esa-tlp-navigation-training-course",
+      "title": "Navigation Training Course",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://learn.esa.int/explore/navigation-training-course",
+      "status": "Open",
+      "kind": "Training Course",
+      "category": "Robotics & Software",
+      "location": "",
+      "summary": "Training Course running 22 – 26 June 2026.",
+      "activity_dates": "22 – 26 June 2026",
+      "activity_start": "2026-06-22",
+      "deadline_text": "5 April 2026",
+      "deadline": "2026-04-05",
+      "first_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-11-01T13:03:10Z",
+      "content_hash": "f89c630e8fe69e1e",
+      "match_score": 68,
+      "evaluation": {
+        "match_score": 68,
+        "justification": "Your AI/Data Science background, Sentinel-1 flood mapping project, satellite-tracking repo, and ESA-Scout GitHub presence show solid software and Earth-observation skills that overlap with navigation topics, yet you are still in the first year of a three-year BSc and lack documented coursework or projects in orbital mechanics, GNSS, or spacecraft attitude control.",
+        "why_apply": [
+          "Direct exposure to ESA navigation experts and potential letters of recommendation for future ESA programmes",
+          "Hands-on training that can strengthen your floodfusion and hfarm-satellite-tracking projects"
+        ],
+        "required_skills": [
+          "Python for data processing and algorithm implementation",
+          "Fundamentals of satellite navigation or robotics",
+          "Experience with sensor fusion or orbital data"
+        ],
+        "gaps": [
+          "No explicit GNSS, orbit determination or attitude-control coursework or projects",
+          "Early-stage BSc (only ~1 year completed by June 2026) versus typical ESA Academy cohorts with more advanced students",
+          "Limited formal aerospace or robotics engineering credits"
+        ],
+        "checklist": [
+          {
+            "task": "Add a 1-page technical summary of your floodfusion Sentinel-1 fusion work to the ESA Academy application",
+            "effort": "4 hours",
+            "done_when": "PDF uploaded to the application portal"
+          },
+          {
+            "task": "Watch the three ESA Academy navigation webinars from 2024-2025 and note two specific techniques you could apply to your satellite-tracking repo",
+            "effort": "3 hours",
+            "done_when": "Notes saved in your application draft"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-04-05"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-01T13:02:34Z",
+        "fingerprint": "9234b34c7d9c3b78",
+        "error": ""
+      }
+    },
     {
       "id": "esa-tlp-spaice-ai-in-and-for-space",
       "title": "SPAICE (AI in and for space)",
@@ -264,53 +324,53 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
+      "last_seen": "2026-11-01T13:03:10Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 68,
       "evaluation": {
         "match_score": 68,
-        "justification": "Your AI & Data Science BSc combined with floodfusion (Sentinel-1/2 fusion) and hfarm-satellite-tracking projects shows clear alignment with the SPAICE theme of AI for Earth observation. At one year into your degree you remain early-career, so the conference would be valuable for networking but you lack published space-domain results or prior ESA involvement that stronger applicants typically present.",
+        "justification": "Your floodfusion Sentinel-1 project, ESA-Scout repository, and hfarm-satellite-tracking work demonstrate direct relevance to AI for Earth Observation, while your hackathon mentoring and multilingual skills fit the conference's educational and international profile. As a first-year BSc student, however, you lack the research publications or prior conference experience that many attendees bring. The May 2026 deadline has already passed, limiting immediate applicability.",
         "why_apply": [
-          "Direct exposure to ESA scientists working on AI for EO missions",
-          "Opportunity to present floodfusion or SciNet as student posters",
-          "Potential student grant covering travel to the October 2026 event"
+          "Direct exposure to ESA experts on AI for satellite data",
+          "Opportunity to present student projects like floodfusion",
+          "Access to grants and networking for early-career space AI"
         ],
         "required_skills": [
-          "Python and ML applied to satellite imagery or remote-sensing data",
-          "Ability to articulate research in a conference poster or short talk",
-          "Interest in AI for space applications"
+          "AI/ML applied to satellite or Earth Observation data",
+          "Ability to present technical projects at conference level",
+          "Python and remote-sensing libraries experience"
         ],
         "gaps": [
-          "Only first-year BSc status with limited formal research output",
-          "No prior ESA Academy or space-agency programme participation",
-          "No peer-reviewed or conference papers yet"
+          "No peer-reviewed publications or prior conference papers",
+          "Application deadline (31 May 2026) already passed",
+          "Limited depth in space-specific datasets beyond personal projects"
         ],
         "checklist": [
           {
-            "task": "Prepare a 1-page abstract on floodfusion or hfarm-satellite-tracking for the student poster session",
+            "task": "Draft a 300-word abstract on the floodfusion Sentinel-1 fusion pipeline",
             "effort": "1 week",
-            "done_when": "Abstract draft ready for supervisor feedback"
+            "done_when": "Abstract ready for hypothetical future submission"
           },
           {
-            "task": "Check grant eligibility and prepare the required motivation letter + CV for the 31 May 2026 deadline",
-            "effort": "3 days",
-            "done_when": "Application package submitted via spaice.esa.int portal"
+            "task": "Update ESA-Scout GitHub README with space-AI use-case examples",
+            "effort": "3 hours",
+            "done_when": "README includes clear Sentinel or EO references"
           },
           {
-            "task": "Record a 2-minute video summary of your Sentinel flood-mapping pipeline to accompany the grant application",
-            "effort": "4 hours",
-            "done_when": "Video uploaded to GitHub or shared drive"
+            "task": "Prepare a 5-slide poster deck on hfarm-satellite-tracking",
+            "effort": "2 days",
+            "done_when": "Deck includes results and visuals"
           }
         ],
         "key_deadlines": [
           {
-            "label": "Grant/application deadline",
+            "label": "Application deadline",
             "date": "2026-05-31"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:30Z",
-        "fingerprint": "9c1fd3fce57a6275",
+        "evaluated_at": "2026-11-01T13:02:54Z",
+        "fingerprint": "d6f3db9ef641be31",
         "error": ""
       }
     },
@@ -330,358 +390,52 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
+      "last_seen": "2026-11-01T13:03:10Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 68,
       "evaluation": {
         "match_score": 68,
-        "justification": "Your AI & Data Science studies plus concrete Sentinel-1 flood-mapping and satellite-tracking projects give you a solid technical base for an Earth-observation innovation course. However, you are still in year 1-2 of a three-year BSc and show limited evidence of commercialisation or business-model work that the course emphasises. With the July 2026 dates already passed relative to today, any future edition would require you to strengthen the innovation/commercialisation angle before applying.",
+        "justification": "Your Sentinel-1 flood-mapping project, hfarm-satellite-tracking repo and ESA-Scout activity demonstrate direct technical engagement with Earth-observation data and ESA themes, while your consulting and mentoring roles align with the innovation/commercialisation focus. However, you are still in the second year of a three-year BSc and lack documented experience in EO business models or market analysis that the course emphasises. The July 2026 dates have already passed relative to today’s date, so the immediate application window is closed.",
         "why_apply": [
-          "Direct exposure to ESA experts on EO commercialisation pathways",
-          "Opportunity to test your floodfusion and satellite-tracking ideas against real market requirements"
+          "Gain structured exposure to ESA EO commercialisation pathways and contacts",
+          "Strengthen your existing Sentinel and flood-mapping work with market-oriented perspectives"
         ],
         "required_skills": [
-          "Earth-observation data handling (Sentinel, etc.)",
-          "Business-model and commercialisation thinking",
-          "Python-based AI/ML for EO applications"
+          "Python for EO data processing (Sentinel-1/2)",
+          "Understanding of EO value chains and business models",
+          "Innovation or entrepreneurship project experience"
         ],
         "gaps": [
-          "No documented experience in EO product commercialisation or market analysis",
-          "Early-stage BSc (only ~60 ECTS completed) versus typical ESA Academy participant profile",
-          "Limited formal EO coursework beyond personal projects"
+          "Limited explicit commercialisation or market-analysis experience",
+          "Early-stage BSc (second year) versus typical participant profile",
+          "No prior ESA Academy or similar training-course attendance"
         ],
         "checklist": [
           {
-            "task": "Add a one-page commercialisation section to the floodfusion GitHub README describing target users and revenue model",
-            "effort": "4 hours",
+            "task": "Add a one-paragraph market-impact section to the floodfusion GitHub README",
+            "effort": "3 hours",
             "done_when": "README updated and committed"
           },
           {
-            "task": "Register for the next ESA Academy EO course announcement and note the new deadline",
-            "effort": "30 minutes",
-            "done_when": "Email alert set and calendar entry created"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline (next edition)",
-            "date": "2027-04-19"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:18Z",
-        "fingerprint": "9ba1b17daf7aa27c",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-navigation-training-course",
-      "title": "Navigation Training Course",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://learn.esa.int/explore/navigation-training-course",
-      "status": "Open",
-      "kind": "Training Course",
-      "category": "Robotics & Software",
-      "location": "",
-      "summary": "Training Course running 22 – 26 June 2026.",
-      "activity_dates": "22 – 26 June 2026",
-      "activity_start": "2026-06-22",
-      "deadline_text": "5 April 2026",
-      "deadline": "2026-04-05",
-      "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "f89c630e8fe69e1e",
-      "match_score": 42,
-      "evaluation": {
-        "match_score": 42,
-        "justification": "Your AI/Data Science background and satellite-related projects (floodfusion with Sentinel-1/2, hfarm-satellite-tracking, ESA-Scout repo) show relevant software and Earth-observation skills, but the Navigation Training Course targets students with stronger foundations in orbital mechanics, GNSS, or robotics engineering. At the early stage of your BSc (started 2025) you lack the specialized coursework and demonstrated navigation experience the course expects. The April 2026 deadline has already passed relative to today, further reducing fit.",
-        "why_apply": [
-          "Hands-on ESA Academy exposure to satellite navigation concepts and tools",
-          "Networking with European space navigation experts and peers"
-        ],
-        "required_skills": [
-          "Orbital mechanics and GNSS fundamentals",
-          "Python for navigation data processing and simulation",
-          "Robotics or aerospace engineering basics"
-        ],
-        "gaps": [
-          "Limited formal training in navigation, orbital dynamics or signal processing",
-          "Early undergraduate level (first-year BSc) versus typical ESA Academy participant profile",
-          "No prior ESA or navigation-specific projects beyond general satellite data work",
-          "Application deadline (5 April 2026) already passed"
-        ],
-        "checklist": [
-          {
-            "task": "Review the full Navigation Training Course syllabus and prerequisites on learn.esa.int",
-            "effort": "2 hours",
-            "done_when": "Syllabus notes and eligibility checklist completed"
+            "task": "Draft a 300-word statement linking your Audi ambassador role to EO downstream services",
+            "effort": "4 hours",
+            "done_when": "Statement saved in application folder"
           },
           {
-            "task": "Map your floodfusion and satellite-tracking code to navigation use-cases (e.g., positioning from radar data)",
+            "task": "Identify two concrete EO business cases from recent ESA Scout or Sentinel data",
             "effort": "1 week",
-            "done_when": "One-page technical note written linking your repo to navigation topics"
+            "done_when": "Two cases documented with sources"
           }
         ],
         "key_deadlines": [
           {
             "label": "Application deadline",
-            "date": "2026-04-05"
+            "date": "2026-04-19"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:20Z",
-        "fingerprint": "fb3ab9ff77feee6a",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-spacecraft-testing-workshop",
-      "title": "Spacecraft Testing Workshop",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://learn.esa.int/explore/spacecraft-testing-workshop",
-      "status": "Open",
-      "kind": "Workshop",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Workshop running 31 August 2026 – 1 September 2026.",
-      "activity_dates": "31 August 2026 – 1 September 2026",
-      "activity_start": "2026-08-31",
-      "deadline_text": "5 July 2026",
-      "deadline": "2026-07-05",
-      "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "2e3a0efd9bd2842b",
-      "match_score": 42,
-      "evaluation": {
-        "match_score": 42,
-        "justification": "Your AI/Data Science background and satellite-related projects (Sentinel flood mapping, hfarm-satellite-tracking) give you a partial technical foundation, but the workshop targets spacecraft systems testing and verification processes that align poorly with your current curriculum and lack of aerospace or hardware-testing experience. At this stage in your BSc you would be a stretch applicant.",
-        "why_apply": [
-          "Direct exposure to ESA testing standards and facilities",
-          "Networking with space-systems professionals and other students",
-          "Potential to strengthen future ESA applications with workshop certificate"
-        ],
-        "required_skills": [
-          "Spacecraft subsystems and verification methods",
-          "Test planning, procedures and anomaly handling",
-          "Basic knowledge of space environmental testing"
-        ],
-        "gaps": [
-          "No formal aerospace, mechanical or electrical engineering coursework",
-          "No documented experience in hardware testing or systems verification",
-          "Early-stage BSc (first year completed) versus typical participant profile"
-        ],
-        "checklist": [
-          {
-            "task": "Draft a motivation letter linking your Sentinel-1/2 fusion project and satellite-tracking repo to spacecraft data-handling and testing needs",
-            "effort": "4 hours",
-            "done_when": "Letter reviewed by a mentor and under 500 words"
-          },
-          {
-            "task": "Email ESA Academy contact to confirm whether first-year AI students have been accepted in prior editions",
-            "effort": "30 minutes",
-            "done_when": "Reply received and logged"
-          },
-          {
-            "task": "Complete the free ESA Academy MOOC module on Spacecraft Systems if still open",
-            "effort": "6 hours",
-            "done_when": "Certificate downloaded"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-07-05"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:40Z",
-        "fingerprint": "4aec391a446160e8",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-14th-european-space-power-conference-espc-2026",
-      "title": "14th European Space Power Conference (ESPC 2026)",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://atpi.eventsair.com/cmspreview/espc2026/student-sponsorship",
-      "status": "Open",
-      "kind": "Conference",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Conference running 5 – 9 October 2026.",
-      "activity_dates": "5 – 9 October 2026",
-      "activity_start": "2026-10-05",
-      "deadline_text": "31 May 2026",
-      "deadline": "2026-05-31",
-      "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "512ec4649ad785f2",
-      "match_score": 35,
-      "evaluation": {
-        "match_score": 35,
-        "justification": "Your AI/data science background and Sentinel-based projects show emerging space interest, but the ESPC focuses on spacecraft power systems engineering where you lack direct coursework or experience. As a first-year BSc student the timing is early and the technical fit is limited, making this a low-priority stretch application.",
-        "why_apply": [
-          "Exposure to ESA space-power experts and student sponsorship networking",
-          "Opportunity to present your Sentinel flood-mapping or satellite-tracking work"
-        ],
-        "required_skills": [
-          "Spacecraft electrical power systems knowledge",
-          "Engineering or physics background in energy/storage",
-          "Poster or paper submission on relevant hardware"
-        ],
-        "gaps": [
-          "No demonstrated experience in solar arrays, batteries or power electronics",
-          "Curriculum still in early AI/ML stage with limited space-systems depth",
-          "No prior conference paper or hardware project in power domain"
-        ],
-        "checklist": [
-          {
-            "task": "Draft a 300-word abstract linking your floodfusion Sentinel-1 work to power-constrained satellite operations",
-            "effort": "4 hours",
-            "done_when": "Abstract ready for submission review"
-          },
-          {
-            "task": "Email ESPC student-sponsorship contact to confirm eligibility for AI/data-science students",
-            "effort": "30 minutes",
-            "done_when": "Reply received confirming or denying eligibility"
-          },
-          {
-            "task": "Prepare one-slide summary of hfarm-satellite-tracking repo for potential poster",
-            "effort": "2 hours",
-            "done_when": "Slide exported as PDF"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Student sponsorship application",
-            "date": "2026-05-31"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:30Z",
-        "fingerprint": "6cb451275b6e7873",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-esa-graduate-trainee-in-remote-sensing-earth-observation-miss",
-      "title": "ESA Graduate Trainee in Remote Sensing Earth Observation Mission Concept Development",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-ESA-Graduate-Trainee-in-Remote-Sensing-Earth-Observation-Mission-Concept-Development/1445111833/",
-      "status": "Open",
-      "kind": "ESA Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Noordwijk, NL",
-      "summary": "ESA Graduate Trainee · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-10-07T13:05:27Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "7f51fae437ac2b83",
-      "match_score": 35,
-      "evaluation": {
-        "match_score": 35,
-        "justification": "Your AI/ML background and Sentinel-1 flood-mapping project align with the remote-sensing focus, but you are still two years from BSc completion and the position targets recent Master's-level graduates. The Noordwijk location and mission-concept work would be a strong fit only after you finish your degree and gain more EO-specific experience.",
-        "why_apply": [
-          "Direct exposure to ESA Earth Observation mission teams",
-          "Opportunity to apply your floodfusion and satellite-tracking projects in an operational setting"
-        ],
-        "required_skills": [
-          "Remote sensing / Earth Observation data processing",
-          "Mission concept development and systems engineering",
-          "Python for satellite data analysis (e.g. Sentinel toolboxes)"
-        ],
-        "gaps": [
-          "BSc not yet completed (expected 2028); GT posts normally require recent Master's or equivalent",
-          "Limited demonstrated experience with ESA toolchains or formal mission studies",
-          "No publications or internships in Earth Observation mission design"
-        ],
-        "checklist": [
-          {
-            "task": "Contact the hiring manager listed on the vacancy to confirm exact degree requirements and application window for 2028 graduates",
-            "effort": "2 hours",
-            "done_when": "Email reply received with eligibility clarification"
-          },
-          {
-            "task": "Extend floodfusion repository with full reproducibility instructions and quantitative results on Sentinel-1/2 fusion",
-            "effort": "1 week",
-            "done_when": "README updated and repo passes peer review by a mentor"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "as published on jobs.esa.int"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:50Z",
-        "fingerprint": "2c72e7ac1d185019",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
-      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
-      "source": "esa_tlp",
-      "source_label": "ESA Academy TLP",
-      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
-      "status": "Open",
-      "kind": "Conference",
-      "category": "Space Systems",
-      "location": "",
-      "summary": "Conference running 18 – 22 May 2026.",
-      "activity_dates": "18 – 22 May 2026",
-      "activity_start": "2026-05-18",
-      "deadline_text": "6 April 2026",
-      "deadline": "2026-04-06",
-      "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "0afa5793793d319f",
-      "match_score": 28,
-      "evaluation": {
-        "match_score": 28,
-        "justification": "Your AI & Data Science profile shows relevant satellite-data projects (Sentinel-1 flood mapping, satellite tracking) and an ESA-named repo, but the course focuses on antenna theory, RF design and satellite communications engineering—topics absent from your curriculum and experience. The May 2026 dates have already passed relative to today’s 2026-10-31, further reducing immediate applicability.",
-        "why_apply": [
-          "Direct exposure to ESA experts in satellite systems",
-          "Potential to pivot your ML-on-satellite-data work toward hardware applications"
-        ],
-        "required_skills": [
-          "Electromagnetics and antenna theory",
-          "RF/microwave engineering",
-          "Satellite communication systems"
-        ],
-        "gaps": [
-          "No coursework or projects in antennas or RF",
-          "Undergraduate AI degree does not align with the engineering prerequisites typical for ESoA antenna courses"
-        ],
-        "checklist": [
-          {
-            "task": "Write a motivation letter that explicitly links your Sentinel-1 floodfusion and hfarm-satellite-tracking projects to antenna performance questions",
-            "effort": "4 hours",
-            "done_when": "Letter draft completed and reviewed by a mentor"
-          },
-          {
-            "task": "Study the first three chapters of Balanis Antenna Theory and note two concrete questions to ask during the course",
-            "effort": "12 hours",
-            "done_when": "Annotated notes and questions saved in a single PDF"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-04-06"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:17Z",
-        "fingerprint": "5e2d25e60c8466e6",
+        "evaluated_at": "2026-11-01T13:02:35Z",
+        "fingerprint": "89a46d99038888de",
         "error": ""
       }
     },
@@ -701,47 +455,233 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
+      "last_seen": "2026-11-01T13:03:10Z",
       "content_hash": "5ffe78318b7213c9",
-      "match_score": 28,
+      "match_score": 42,
       "evaluation": {
-        "match_score": 28,
-        "justification": "Your AI & Data Science BSc (started 2025) and satellite-related projects like floodfusion and hfarm-satellite-tracking show interest in ESA topics, but the RAMS conference focuses on reliability, availability, maintainability and safety engineering for space systems, an area where you have no demonstrated coursework, projects or experience.",
+        "match_score": 42,
+        "justification": "Your AI/Data Science background and satellite-related projects (Sentinel flood mapping, hfarm-satellite-tracking, ESA-Scout repo) show genuine space interest, but the RAMS conference focuses on reliability engineering and safety processes in space systems where you currently lack direct exposure or coursework. At the start of your BSc you are still building the technical depth expected for meaningful participation.",
         "why_apply": [
-          "Direct exposure to ESA space systems engineering community",
-          "Potential student sponsorship for the June 2026 event"
+          "Direct exposure to ESA engineers working on space-system dependability",
+          "Opportunity to present your Sentinel-based fusion work to a specialist audience",
+          "Potential ESA Academy sponsorship covering travel and accommodation"
         ],
         "required_skills": [
-          "RAMS engineering principles for space hardware/software",
-          "Space systems reliability and safety analysis",
-          "Technical paper or poster contribution in systems engineering"
+          "Knowledge of RAMS standards and space-system lifecycle processes",
+          "Experience with satellite data or hardware reliability analysis",
+          "Ability to discuss engineering trade-offs in a systems context"
         ],
         "gaps": [
-          "No background in reliability, maintainability or safety engineering",
-          "Currently first-year BSc student with limited space systems exposure",
-          "Deadline of 15 April 2026 already passed by today"
+          "No demonstrated work in reliability, availability, maintainability or safety engineering",
+          "Limited formal space-systems engineering coursework at this early stage of the BSc",
+          "Application materials would need to convincingly link your AI projects to RAMS themes"
         ],
         "checklist": [
           {
-            "task": "Review past RAMS conference proceedings to identify any AI/ML applications in safety analysis",
+            "task": "Draft a 300-word motivation statement linking your floodfusion Sentinel-1/2 work to RAMS data-quality and availability aspects",
             "effort": "4 hours",
-            "done_when": "One-page summary of 3 relevant papers written"
+            "done_when": "Statement reviewed by a mentor and saved as PDF"
           },
           {
-            "task": "Contact ESA Education Office to ask about future RAMS or similar student events",
-            "effort": "1 hour",
-            "done_when": "Email sent and reply logged"
+            "task": "Identify one specific RAMS topic from the conference programme that overlaps with your satellite-tracking or Synapse projects",
+            "effort": "2 hours",
+            "done_when": "Topic written down with one-sentence justification"
+          },
+          {
+            "task": "Prepare a 2-slide summary of your ESA-Scout or hfarm-satellite-tracking repository for potential poster or networking use",
+            "effort": "3 hours",
+            "done_when": "Slides exported and uploaded to your portfolio repo"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "ESA Education sponsorship application",
+            "date": "2026-04-15"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-01T13:02:34Z",
+        "fingerprint": "a84a71a7effb2d68",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-spacecraft-testing-workshop",
+      "title": "Spacecraft Testing Workshop",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://learn.esa.int/explore/spacecraft-testing-workshop",
+      "status": "Open",
+      "kind": "Workshop",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Workshop running 31 August 2026 – 1 September 2026.",
+      "activity_dates": "31 August 2026 – 1 September 2026",
+      "activity_start": "2026-08-31",
+      "deadline_text": "5 July 2026",
+      "deadline": "2026-07-05",
+      "first_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-11-01T13:03:10Z",
+      "content_hash": "2e3a0efd9bd2842b",
+      "match_score": 42,
+      "evaluation": {
+        "match_score": 42,
+        "justification": "Your AI & Data Science background with Sentinel-1 flood mapping and satellite-tracking projects shows relevant remote-sensing exposure, but the workshop focuses on spacecraft subsystem testing procedures that lie outside your current curriculum and experience. At the start of your second BSc year you lack the systems-engineering or hardware-testing foundation typically expected for this ESA Academy activity. The July 2026 deadline has already passed relative to today’s date, further reducing practical fit.",
+        "why_apply": [
+          "Direct exposure to ESA testing facilities and engineers",
+          "Opportunity to pivot from data-science projects toward space-systems engineering"
+        ],
+        "required_skills": [
+          "Spacecraft subsystems and environmental testing knowledge",
+          "Systems engineering or AIV (assembly, integration, verification) basics",
+          "Hands-on hardware or test-equipment experience"
+        ],
+        "gaps": [
+          "No documented coursework or projects in spacecraft testing or AIV",
+          "Limited hardware-testing portfolio beyond Arduino/3D-printing hobby work",
+          "Early-stage BSc with only one year of university completed by deadline"
+        ],
+        "checklist": [
+          {
+            "task": "Review ESA spacecraft testing standards (ECSS) and map your Sentinel-1 fusion project to relevant test phases",
+            "effort": "6 hours",
+            "done_when": "One-page note linking your flood-mapping pipeline to at least three ECSS test categories"
+          },
+          {
+            "task": "Contact MIT Edgerton Center mentors for a reference letter focused on engineering-workshop leadership",
+            "effort": "1 week",
+            "done_when": "Signed reference letter received"
           }
         ],
         "key_deadlines": [
           {
             "label": "Application deadline",
-            "date": "2026-04-15"
+            "date": "2026-07-05"
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:18Z",
-        "fingerprint": "ab89ea15d990bda2",
+        "evaluated_at": "2026-11-01T13:03:10Z",
+        "fingerprint": "6a43d3d5b190ea6f",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-14th-european-space-power-conference-espc-2026",
+      "title": "14th European Space Power Conference (ESPC 2026)",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://atpi.eventsair.com/cmspreview/espc2026/student-sponsorship",
+      "status": "Open",
+      "kind": "Conference",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Conference running 5 – 9 October 2026.",
+      "activity_dates": "5 – 9 October 2026",
+      "activity_start": "2026-10-05",
+      "deadline_text": "31 May 2026",
+      "deadline": "2026-05-31",
+      "first_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-11-01T13:03:10Z",
+      "content_hash": "512ec4649ad785f2",
+      "match_score": 35,
+      "evaluation": {
+        "match_score": 35,
+        "justification": "Your AI & Data Science background with satellite-data projects (Sentinel-1 flood mapping, hfarm-satellite-tracking) shows genuine ESA interest, but the ESPC focuses on space power systems engineering where you have no demonstrated coursework or projects. At this stage of your BSc you lack the electrical/power-specific profile the conference targets.",
+        "why_apply": [
+          "Direct exposure to ESA power-systems community and potential student sponsorship",
+          "Opportunity to present your Sentinel-based work in a space-engineering setting"
+        ],
+        "required_skills": [
+          "Space power systems (solar arrays, batteries, power electronics)",
+          "Electrical or aerospace engineering fundamentals",
+          "Conference paper or poster preparation"
+        ],
+        "gaps": [
+          "No academic or project experience in space power or electrical systems",
+          "Early-stage BSc (year 1–2 in 2026) with limited space-engineering depth",
+          "No publications or presentations in power-related topics"
+        ],
+        "checklist": [
+          {
+            "task": "Draft a 300-word abstract linking your floodfusion Sentinel-1 work to power-system implications for radar satellites",
+            "effort": "1 week",
+            "done_when": "Abstract ready for supervisor feedback"
+          },
+          {
+            "task": "Identify two ESPC 2026 power-session topics that could accept an AI/data contribution and note submission requirements",
+            "effort": "3 hours",
+            "done_when": "List of topics and requirements saved"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Student sponsorship application",
+            "date": "2026-05-31"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-01T13:02:57Z",
+        "fingerprint": "09bd2064a4c0a6b9",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-tlp-11th-esa-esoa-course-on-antennas-for-satellite-applications",
+      "title": "11th ESA ESoA Course on Antennas for Satellite Applications",
+      "source": "esa_tlp",
+      "source_label": "ESA Academy TLP",
+      "url": "https://atpi.eventsair.com/11th-esoa-antennas-for-satellite-applications/esa-education-scholarshipMYJQiiBUhEs%3D&reserved=0",
+      "status": "Open",
+      "kind": "Conference",
+      "category": "Space Systems",
+      "location": "",
+      "summary": "Conference running 18 – 22 May 2026.",
+      "activity_dates": "18 – 22 May 2026",
+      "activity_start": "2026-05-18",
+      "deadline_text": "6 April 2026",
+      "deadline": "2026-04-06",
+      "first_seen": "2026-10-28T22:27:08Z",
+      "last_seen": "2026-11-01T13:03:10Z",
+      "content_hash": "0afa5793793d319f",
+      "match_score": 28,
+      "evaluation": {
+        "match_score": 28,
+        "justification": "Your AI & Data Science background and satellite-data projects (Sentinel-1 flood mapping, hfarm-satellite-tracking, ESA-Scout repo) show genuine interest in ESA activities, but the course focuses on antenna theory, RF design and satellite communications engineering—topics absent from your curriculum and projects. At the current stage of your BSc you lack the electromagnetics and microwave prerequisites that the ESoA programme assumes. The May 2026 dates have already passed relative to today’s date, further reducing relevance.",
+        "why_apply": [
+          "Direct exposure to ESA experts in satellite systems",
+          "Potential to pivot your AI skills toward space-communications applications"
+        ],
+        "required_skills": [
+          "Antenna theory and electromagnetic simulation",
+          "RF/microwave engineering fundamentals",
+          "Satellite communication link budgets"
+        ],
+        "gaps": [
+          "No coursework or projects in electromagnetics or antennas",
+          "No demonstrated experience with RF test equipment or simulation tools (HFSS, CST)",
+          "Current degree programme is data-science rather than telecommunications engineering"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full ESoA syllabus and map each module against your existing Python/ML satellite projects",
+            "effort": "3 hours",
+            "done_when": "One-page gap analysis document completed"
+          },
+          {
+            "task": "Contact the course organisers to confirm whether 2027 edition will open and what prerequisites apply to AI students",
+            "effort": "1 hour",
+            "done_when": "Reply received and logged"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline (already passed)",
+            "date": "2026-04-06"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-01T13:02:33Z",
+        "fingerprint": "4c8fd57dd02850d8",
         "error": ""
       }
     },
@@ -761,36 +701,36 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
+      "last_seen": "2026-11-01T13:03:10Z",
       "content_hash": "449645db0dd84c80",
-      "match_score": 22,
+      "match_score": 28,
       "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science BSc and satellite-related projects (Sentinel-1 fusion, satellite tracking) show emerging space interest, but RADECS focuses on radiation effects on electronics and systems, a domain far from your current curriculum and experience. At this stage you lack the required technical foundation in radiation physics, component reliability or space hardware, making a competitive application unlikely before the May 2026 deadline.",
+        "match_score": 28,
+        "justification": "Your AI & Data Science BSc and satellite-related projects (Sentinel-1 fusion, hfarm-satellite-tracking, ESA-Scout repo) show emerging space interest, but RADECS focuses on radiation effects on electronics and systems, a domain far from your current curriculum and experience. The May 2026 application deadline has already passed relative to today’s date, further reducing immediate viability.",
         "why_apply": [
-          "Direct exposure to ESA and European space-industry experts",
-          "Potential to identify future thesis or internship topics in space data or hardware"
+          "Direct exposure to radiation-hardness engineering and space-component reliability topics",
+          "Networking with ESA and industry specialists in radiation effects"
         ],
         "required_skills": [
-          "Radiation effects on electronics and systems",
-          "Space systems engineering or component reliability",
-          "Physics or electrical engineering background"
+          "Knowledge of radiation physics and its impact on semiconductors",
+          "Background in electronics, FPGA/ASIC design or space hardware testing",
+          "Prior coursework or projects in space systems or radiation testing"
         ],
         "gaps": [
-          "No coursework or projects in radiation, electronics reliability or space hardware",
-          "Early-stage BSc (year 1-2) without demonstrated space-systems knowledge",
-          "AI/data focus does not align with RADECS technical scope"
+          "No demonstrated experience or coursework in radiation effects or component reliability",
+          "Undergraduate AI/Data Science track lacks electronics/physics depth required for meaningful participation",
+          "Deadline (15 May 2026) already passed"
         ],
         "checklist": [
           {
-            "task": "Read the last three RADECS proceedings and list three papers whose methods could intersect with your Sentinel-1 or satellite-tracking work",
-            "effort": "8 hours",
-            "done_when": "One-page summary written with specific paper titles and possible links"
+            "task": "Contact RADECS 2026 organizers to inquire about late or 2027 sponsorship options",
+            "effort": "2 hours",
+            "done_when": "Email sent and reply received"
           },
           {
-            "task": "Draft a 300-word motivation statement explaining how your AI pipeline experience could support radiation-effects data analysis",
-            "effort": "3 hours",
-            "done_when": "Statement reviewed by a mentor or lecturer"
+            "task": "Enroll in an introductory radiation-effects or space-electronics MOOC and complete first module",
+            "effort": "1 week",
+            "done_when": "Certificate of completion for module 1 obtained"
           }
         ],
         "key_deadlines": [
@@ -800,8 +740,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:30Z",
-        "fingerprint": "5a0b5ca76caa4130",
+        "evaluated_at": "2026-11-01T13:02:48Z",
+        "fingerprint": "cc62b30fa1783aec",
         "error": ""
       }
     },
@@ -821,36 +761,36 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-10-28T22:27:08Z",
-      "last_seen": "2026-10-31T21:18:50Z",
+      "last_seen": "2026-11-01T13:03:10Z",
       "content_hash": "acf44677c437a67b",
-      "match_score": 22,
+      "match_score": 18,
       "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science background and satellite-data projects show general space interest, but SPCD 2026 focuses on passive electronic components for space applications, a domain far outside your current studies and experience.",
+        "match_score": 18,
+        "justification": "Your AI & Data Science profile and satellite-data projects show interest in space but lack any foundation in passive electronic components, space qualification, or hardware reliability engineering that SPCD targets. The conference is a specialized industry event rather than an educational programme aligned with your current studies or mentoring experience.",
         "why_apply": [
-          "Exposure to ESA and space-industry engineers",
-          "Potential to explore hardware topics complementary to your flood-mapping and satellite-tracking projects"
+          "Exposure to ESA and European space supply-chain actors",
+          "Potential to learn requirements for space-grade electronics"
         ],
         "required_skills": [
-          "Knowledge of space-qualified passive components (resistors, capacitors, inductors)",
-          "Electronics engineering or materials science background",
-          "Understanding of space environmental testing and reliability"
+          "Knowledge of passive components (resistors, capacitors, inductors) for space",
+          "Understanding of space environmental testing and qualification",
+          "Background in electronics engineering or physics"
         ],
         "gaps": [
-          "No coursework or projects in passive components or space electronics",
-          "Undergraduate AI/Data Science degree does not align with conference technical scope",
-          "Limited hardware experience beyond Arduino and 3D printing"
+          "No coursework or projects in electronics or component-level hardware",
+          "Current bachelor's is AI-focused with limited relevant ECTS",
+          "No demonstrated experience with space hardware standards"
         ],
         "checklist": [
           {
-            "task": "Review the full SPCD 2026 technical programme and identify any sessions on data-processing hardware",
+            "task": "Read the full SPCD 2026 programme and identify at least three technical sessions on component reliability",
             "effort": "3 hours",
-            "done_when": "List of 3-5 relevant sessions noted"
+            "done_when": "List of sessions with notes on relevance prepared"
           },
           {
-            "task": "Prepare a one-page statement linking your Sentinel-1 flood-mapping work to passive-component performance in radar payloads",
-            "effort": "1 week",
-            "done_when": "Statement drafted and reviewed by a mentor"
+            "task": "Contact the ESA Academy TLP office to confirm student eligibility and any poster or observer options",
+            "effort": "1 hour",
+            "done_when": "Email reply received and saved"
           }
         ],
         "key_deadlines": [
@@ -860,176 +800,8 @@
           }
         ],
         "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:27Z",
-        "fingerprint": "034f17fda6ebc139",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-estonian-national-graduate-trainee-in-robotics-harwell-gb",
-      "title": "Estonian National Graduate Trainee in Robotics",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Harwell-Estonian-National-Graduate-Trainee-in-Robotics/1437025233/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Robotics & Software",
-      "location": "Harwell, GB",
-      "summary": "National Graduate Trainee · Harwell, GB",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "135de145aa22401b",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are ineligible for the Estonian National Graduate Trainee position because it is restricted to Estonian nationals and targets recent graduates, while you are a first-year bachelor's student expected to finish in 2028 with no Estonian background. Your AI/data science profile and projects in ML, satellite data, and hardware show some thematic overlap with robotics & software, but the nationality and degree-level barriers make this a poor use of application time.",
-        "why_apply": [
-          "Insight into ESA robotics work at Harwell",
-          "Networking with European space robotics teams"
-        ],
-        "required_skills": [
-          "Robotics engineering",
-          "Software development for space systems",
-          "Recent Master's-level qualification"
-        ],
-        "gaps": [
-          "Estonian nationality requirement",
-          "Completed graduate degree (you are mid-bachelor's)",
-          "Demonstrated robotics project portfolio"
-        ],
-        "checklist": [
-          {
-            "task": "Verify exact eligibility rules for Estonian National Trainees on jobs.esa.int",
-            "effort": "30 minutes",
-            "done_when": "Eligibility confirmed or ruled out in writing"
-          },
-          {
-            "task": "Document any Estonian citizenship or dual-nationality proof if it exists",
-            "effort": "1 hour",
-            "done_when": "Official documents ready or absence noted"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application window close",
-            "date": "as published on ESA careers"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:46Z",
-        "fingerprint": "6b59f7a2d9aeaa0f",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-estonian-national-graduate-trainee-in-ai-machine-learning-map",
-      "title": "Estonian National Graduate Trainee in AI/Machine Learning Mapping of Forestry Biodiversity",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Estonian-National-Graduate-Trainee-in-AIMachine-Learning-Mapping-of-Forestry-Biodiversity/1437025433/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Earth Observation & AI",
-      "location": "Frascati, IT",
-      "summary": "National Graduate Trainee · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "38ee8db9eeeefd3f",
-      "match_score": 15,
-      "evaluation": {
-        "match_score": 15,
-        "justification": "You are not an Estonian national and remain an undergraduate student until at least 2028, making you ineligible for this Estonian National Graduate Trainee post. While your Sentinel-1 flood-mapping project and satellite-tracking repositories show relevant Earth-observation and ML skills, the nationality and degree-completion barriers are absolute.",
-        "why_apply": [],
-        "required_skills": [
-          "Estonian nationality",
-          "Completed bachelor's or master's degree",
-          "Machine learning for Earth-observation forestry applications"
-        ],
-        "gaps": [
-          "Not Estonian national",
-          "Still enrolled in BSc (expected graduation 2028)",
-          "No demonstrated forestry or biodiversity mapping experience"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm eligibility rules for Estonian National Trainee posts on jobs.esa.int",
-            "effort": "30 minutes",
-            "done_when": "Eligibility criteria page saved and nationality requirement noted"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "as published"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:41Z",
-        "fingerprint": "dcca5adffbac3ccb",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-estonian-national-graduate-trainee-in-advanced-materials-and",
-      "title": "Estonian National Graduate Trainee in Advanced Materials and Process Engineering",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Harwell-Estonian-National-Graduate-Trainee-in-Advanced-Materials-and-Process-Engineering/1437024433/",
-      "status": "Open",
-      "kind": "National Graduate Trainee",
-      "category": "Space Systems",
-      "location": "Harwell, GB",
-      "summary": "National Graduate Trainee · Harwell, GB",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "",
-      "deadline": "",
-      "first_seen": "2026-09-15T11:31:39Z",
-      "last_seen": "2026-10-31T21:18:50Z",
-      "content_hash": "b8f682017b960495",
-      "match_score": 12,
-      "evaluation": {
-        "match_score": 12,
-        "justification": "You are ineligible for this Estonian-national-only graduate trainee role because you are not an Estonian citizen and will not complete your BSc until 2028. Your AI & Data Science background and projects (Sentinel flood mapping, Synapse pipeline) show no overlap with advanced materials or process engineering. The position is therefore a poor use of your time.",
-        "why_apply": [
-          "Exposure to ESA Harwell site and materials labs",
-          "Potential future eligibility once you hold a relevant Master's"
-        ],
-        "required_skills": [
-          "Advanced materials science or process engineering degree",
-          "Estonian nationality",
-          "Recent graduate status (Master's level preferred)"
-        ],
-        "gaps": [
-          "Not Estonian national",
-          "Still an undergraduate (graduation 2028)",
-          "Zero coursework or projects in materials or process engineering",
-          "No demonstrated laboratory experience with advanced materials"
-        ],
-        "checklist": [
-          {
-            "task": "Confirm Estonian citizenship requirement on the ESA job page",
-            "effort": "15 minutes",
-            "done_when": "You have read the eligibility paragraph and confirmed it applies"
-          },
-          {
-            "task": "Search for any future Estonian National Trainee calls in AI or Earth observation",
-            "effort": "1 hour",
-            "done_when": "You have a list of 2-3 relevant future calls with their expected opening dates"
-          }
-        ],
-        "key_deadlines": [],
-        "model": "grok-4",
-        "evaluated_at": "2026-10-31T21:18:43Z",
-        "fingerprint": "8ad32d79f7dcac29",
+        "evaluated_at": "2026-11-01T13:02:53Z",
+        "fingerprint": "23499baad1c10f3a",
         "error": ""
       }
     }
