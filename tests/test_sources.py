@@ -214,6 +214,8 @@ class TestJobs:
             ("Internship in Robotics", "", ("internship",), True),
             ("Senior Engineer", "ESA Graduate Trainee", ("graduate trainee",), True),
             ("Senior Engineer", "Fixed-Term", ("internship",), False),
+            ("Intern in the Strategy Department", "", ("intern",), True),
+            ("International Relations Officer", "", ("intern",), False),
             ("Anything", "", (), True),  # no filter configured
         ],
     )

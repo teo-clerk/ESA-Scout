@@ -10,8 +10,8 @@ Results are server-rendered job tiles, 25 per page, paginated with `startrow`:
       <div id="job-1288869001-desktop-section-department-value">7 September 2026 23:59 CET/CEST</div>
       <div id="job-1288869001-desktop-section-multilocation-value">Noordwijk, NL</div>
 
-ESA's SuccessFactors instance puts the *application closing date* in the field
-labelled `department`, so fields are resolved by content shape (does it parse as
+ESA's SuccessFactors instance has put the *application closing date* in the
+field labelled `department` and, since late 2026, in `customfield5`, so fields are resolved by content shape (does it parse as
 a date?) with the observed names as hints, rather than trusting the name alone.
 
 Each tile is duplicated for the desktop and mobile layouts; `id*=` matching
@@ -20,6 +20,7 @@ takes the first occurrence and the caller dedupes by job id.
 
 from __future__ import annotations
 
+import re
 from datetime import date
 
 from .. import dates
@@ -34,11 +35,13 @@ BASE_URL = "https://jobs.esa.int"
 RESULTS_PER_PAGE = 25
 
 # Field names seen on ESA's careers site, in the order we try them.
-_DATE_FIELD_ORDER = ("closingdate", "date", "department", "shifttype")
+_DATE_FIELD_ORDER = (
+    "customfield5", "closingdate", "date", "department", "shifttype",
+)
 _LOCATION_FIELD_ORDER = ("multilocation", "location", "city")
 _KNOWN_FIELDS = (
     "shifttype", "department", "multilocation", "location", "city",
-    "date", "closingdate",
+    "date", "closingdate", "customfield5",
 )
 
 
@@ -59,8 +62,11 @@ def matches_keywords(title: str, kind: str, keywords: tuple[str, ...]) -> bool:
     """
     if not keywords:
         return True
-    haystack = f"{title} {kind}".lower()
-    return any(keyword.lower() in haystack for keyword in keywords)
+    haystack = f"{title} {kind}"
+    return any(
+        re.search(rf"\b{re.escape(keyword)}\b", haystack, re.IGNORECASE)
+        for keyword in keywords
+    )
 
 
 def parse_html(
