@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T23:27:07Z",
+  "generated_at": "2026-11-14T13:21:50Z",
   "stats": {
     "total": 9,
     "open": 9,
@@ -85,7 +85,7 @@
             "sentinel-2",
             "terramind"
           ],
-          "pushed_at": "2026-11-13T20:39:33Z"
+          "pushed_at": "2026-11-14T07:02:50Z"
         },
         {
           "name": "ESA-Scout",
@@ -94,7 +94,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-11-13T14:27:17Z"
+          "pushed_at": "2026-11-13T23:27:09Z"
         },
         {
           "name": "portfolio",
@@ -236,7 +236,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 72,
       "evaluation": {
@@ -302,7 +302,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 72,
       "evaluation": {
@@ -368,7 +368,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 62,
       "evaluation": {
@@ -435,7 +435,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 38,
       "evaluation": {
@@ -501,7 +501,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 38,
       "evaluation": {
@@ -564,7 +564,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 38,
       "evaluation": {
@@ -624,7 +624,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 28,
       "evaluation": {
@@ -689,7 +689,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 28,
       "evaluation": {
@@ -747,7 +747,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-13T23:27:07Z",
+      "last_seen": "2026-11-14T13:21:50Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 22,
       "evaluation": {
@@ -799,6 +799,6 @@
   "events": [],
   "errors": [
     "esa_academy: no table rows found — markup may have changed",
-    "esa_jobs: fetch failed on page 1 (https://jobs.esa.int/search/ returned HTTP 404)"
+    "esa_jobs: fetch failed on page 1 (https://jobs.esa.int/search/ failed after 3 attempts: ConnectTimeout: timed out)"
   ]
 }
