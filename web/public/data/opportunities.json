@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T00:51:25Z",
+  "generated_at": "2026-11-18T15:28:30Z",
   "stats": {
     "total": 168,
     "open": 168,
@@ -85,7 +85,7 @@
             "sentinel-2",
             "terramind"
           ],
-          "pushed_at": "2026-11-17T20:54:55Z"
+          "pushed_at": "2026-11-18T07:25:38Z"
         },
         {
           "name": "ESA-Scout",
@@ -94,7 +94,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-11-17T15:50:42Z"
+          "pushed_at": "2026-11-18T00:51:27Z"
         },
         {
           "name": "portfolio",
@@ -236,7 +236,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d597bdd498343d80",
       "match_score": 85,
       "evaluation": {
@@ -303,7 +303,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "7b187e29f19bdfad",
       "match_score": 82,
       "evaluation": {
@@ -375,7 +375,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "62a4e623af6e6e03",
       "match_score": 82,
       "evaluation": {
@@ -442,7 +442,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "a397e6b8fa1de953",
       "match_score": 82,
       "evaluation": {
@@ -514,7 +514,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f04a67ab68045af9",
       "match_score": 82,
       "evaluation": {
@@ -581,7 +581,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "1bf27c94b61de0e3",
       "match_score": 82,
       "evaluation": {
@@ -648,7 +648,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "1818efdd54ab0754",
       "match_score": 81,
       "evaluation": {
@@ -714,7 +714,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 78,
       "evaluation": {
@@ -786,7 +786,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "e90876efddec815c",
       "match_score": 78,
       "evaluation": {
@@ -853,7 +853,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "754411572512bddf",
       "match_score": 78,
       "evaluation": {
@@ -919,7 +919,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "add078f8fe9f9bb4",
       "match_score": 78,
       "evaluation": {
@@ -985,7 +985,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "e8760a40741ee1bd",
       "match_score": 78,
       "evaluation": {
@@ -1052,7 +1052,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "c07d4323f6eaa60b",
       "match_score": 72,
       "evaluation": {
@@ -1123,7 +1123,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "1592c69929083af3",
       "match_score": 72,
       "evaluation": {
@@ -1190,7 +1190,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2c562a4bdaf1ef65",
       "match_score": 72,
       "evaluation": {
@@ -1251,7 +1251,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "3f8811d0ae6ee758",
       "match_score": 72,
       "evaluation": {
@@ -1318,7 +1318,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "73ad50c0f122e433",
       "match_score": 72,
       "evaluation": {
@@ -1384,7 +1384,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "e5d34cdecd235258",
       "match_score": 72,
       "evaluation": {
@@ -1457,7 +1457,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "8da62259b15cf45c",
       "match_score": 68,
       "evaluation": {
@@ -1530,7 +1530,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "add13a9a787422f1",
       "match_score": 68,
       "evaluation": {
@@ -1602,7 +1602,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "55cd0d75ba58087b",
       "match_score": 68,
       "evaluation": {
@@ -1675,7 +1675,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "9b49daba9010b740",
       "match_score": 68,
       "evaluation": {
@@ -1741,7 +1741,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d399d34db16884d9",
       "match_score": 68,
       "evaluation": {
@@ -1808,7 +1808,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "534b116821ea1df5",
       "match_score": 68,
       "evaluation": {
@@ -1872,7 +1872,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "cc5ad0efd3b948dc",
       "match_score": 68,
       "evaluation": {
@@ -1939,7 +1939,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "55e5f84b387ec3ec",
       "match_score": 68,
       "evaluation": {
@@ -2005,7 +2005,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b67e769f5ca34544",
       "match_score": 68,
       "evaluation": {
@@ -2071,7 +2071,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "301b915071744b62",
       "match_score": 68,
       "evaluation": {
@@ -2138,7 +2138,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "6e335b08589ddfec",
       "match_score": 68,
       "evaluation": {
@@ -2204,7 +2204,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "a8bb6617d2302641",
       "match_score": 68,
       "evaluation": {
@@ -2271,7 +2271,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2f5aa125908f4c22",
       "match_score": 68,
       "evaluation": {
@@ -2336,7 +2336,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 68,
       "evaluation": {
@@ -2396,7 +2396,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "6625a14002e7423d",
       "match_score": 62,
       "evaluation": {
@@ -2464,7 +2464,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "e453686a776f76de",
       "match_score": 62,
       "evaluation": {
@@ -2532,7 +2532,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "35cfc2ca4db06a4e",
       "match_score": 62,
       "evaluation": {
@@ -2584,73 +2584,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-mission-operations-department-web-based-operati",
-      "title": "Intern in the Mission Operations Department - Web-Based Operations Tools",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Web-Based-Operations-Tools/1452807333/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Operations & Ground Segment",
-      "location": "Darmstadt, DE",
-      "summary": "Intern · Darmstadt, DE",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "714f9b03b52dfcd5",
-      "match_score": 62,
-      "evaluation": {
-        "match_score": 62,
-        "justification": "Your Sentinel-1 flood mapping project, ESA-Scout repository, and satellite-tracking work demonstrate direct relevance to ESA operations and data tools, while your Python/ML stack aligns with backend development for web-based mission tools. However, you are only in your second year of a three-year BSc and lack explicit web-framework or ground-segment operations experience, making this a competitive but not top-tier application today.",
-        "why_apply": [
-          "Direct exposure to ESA mission operations workflows in Darmstadt",
-          "Opportunity to extend your Sentinel and ESA-Scout projects into operational tools",
-          "Networking with Mission Operations engineers and potential future ESA pathways"
-        ],
-        "required_skills": [
-          "Python web frameworks (Flask/FastAPI or similar)",
-          "JavaScript/TypeScript front-end development",
-          "Data visualisation and user-interface design for operational users",
-          "Version control and collaborative software engineering"
-        ],
-        "gaps": [
-          "Only first-year completed in BSc programme (ESA often prefers later-stage students)",
-          "No demonstrated experience with web application deployment or operations tooling",
-          "Limited formal software engineering process or ground-segment knowledge"
-        ],
-        "checklist": [
-          {
-            "task": "Add a short README to the ESA-Scout repo describing any web-related components or planned extensions",
-            "effort": "3 hours",
-            "done_when": "README updated and pushed"
-          },
-          {
-            "task": "Implement a minimal web dashboard prototype (e.g., Streamlit or FastAPI + simple frontend) that visualises one of your Sentinel outputs",
-            "effort": "1 week",
-            "done_when": "Working demo deployed or runnable locally with screenshots in repo"
-          },
-          {
-            "task": "Draft a 1-page motivation letter explicitly linking floodfusion and hfarm-satellite-tracking to web-based operations tools",
-            "effort": "4 hours",
-            "done_when": "Letter reviewed by mentor or peer"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-14T22:14:00Z",
-        "fingerprint": "f2ded50d983c7097",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-the-esa-education-office-stem-education-didactics-a",
       "title": "Intern in the ESA Education Office - STEM Education, Didactics and E-Learning for Teachers",
       "source": "esa_jobs",
@@ -2666,7 +2599,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "64e8cce2511f2eda",
       "match_score": 62,
       "evaluation": {
@@ -2732,7 +2665,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "e59a70f94e7283ad",
       "match_score": 62,
       "evaluation": {
@@ -2804,7 +2737,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d2f6750e406e23f2",
       "match_score": 62,
       "evaluation": {
@@ -2864,7 +2797,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "192da32888a41750",
       "match_score": 62,
       "evaluation": {
@@ -2937,7 +2870,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "fbaf39adb74b4327",
       "match_score": 62,
       "evaluation": {
@@ -2982,6 +2915,73 @@
       }
     },
     {
+      "id": "esa-jobs-intern-in-the-mission-operations-department-web-based-operati",
+      "title": "Intern in the Mission Operations Department - Web-Based Operations Tools",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Web-Based-Operations-Tools/1452807333/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Operations & Ground Segment",
+      "location": "Darmstadt, DE",
+      "summary": "Intern · Darmstadt, DE",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "714f9b03b52dfcd5",
+      "match_score": 62,
+      "evaluation": {
+        "match_score": 62,
+        "justification": "Your Sentinel-1 flood mapping project, ESA-Scout repository, and satellite-tracking work demonstrate direct relevance to ESA operations and data tools, while your Python/ML stack aligns with backend development for web-based mission tools. However, you are only in your second year of a three-year BSc and lack explicit web-framework or ground-segment operations experience, making this a competitive but not top-tier application today.",
+        "why_apply": [
+          "Direct exposure to ESA mission operations workflows in Darmstadt",
+          "Opportunity to extend your Sentinel and ESA-Scout projects into operational tools",
+          "Networking with Mission Operations engineers and potential future ESA pathways"
+        ],
+        "required_skills": [
+          "Python web frameworks (Flask/FastAPI or similar)",
+          "JavaScript/TypeScript front-end development",
+          "Data visualisation and user-interface design for operational users",
+          "Version control and collaborative software engineering"
+        ],
+        "gaps": [
+          "Only first-year completed in BSc programme (ESA often prefers later-stage students)",
+          "No demonstrated experience with web application deployment or operations tooling",
+          "Limited formal software engineering process or ground-segment knowledge"
+        ],
+        "checklist": [
+          {
+            "task": "Add a short README to the ESA-Scout repo describing any web-related components or planned extensions",
+            "effort": "3 hours",
+            "done_when": "README updated and pushed"
+          },
+          {
+            "task": "Implement a minimal web dashboard prototype (e.g., Streamlit or FastAPI + simple frontend) that visualises one of your Sentinel outputs",
+            "effort": "1 week",
+            "done_when": "Working demo deployed or runnable locally with screenshots in repo"
+          },
+          {
+            "task": "Draft a 1-page motivation letter explicitly linking floodfusion and hfarm-satellite-tracking to web-based operations tools",
+            "effort": "4 hours",
+            "done_when": "Letter reviewed by mentor or peer"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-14T22:14:00Z",
+        "fingerprint": "f2ded50d983c7097",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-tlp-navigation-training-course",
       "title": "Navigation Training Course",
       "source": "esa_tlp",
@@ -2997,7 +2997,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 58,
       "evaluation": {
@@ -3057,7 +3057,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "9421ad9ea2608877",
       "match_score": 58,
       "evaluation": {
@@ -3122,7 +3122,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2e7989f01d03dd0f",
       "match_score": 58,
       "evaluation": {
@@ -3195,7 +3195,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d66257a3e1c37a5a",
       "match_score": 58,
       "evaluation": {
@@ -3260,7 +3260,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "df4dd02d5908cc2a",
       "match_score": 58,
       "evaluation": {
@@ -3326,7 +3326,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "6bbfc19401a8c636",
       "match_score": 58,
       "evaluation": {
@@ -3386,7 +3386,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f7d62441d4946057",
       "match_score": 58,
       "evaluation": {
@@ -3454,7 +3454,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "c83577eb16910c33",
       "match_score": 58,
       "evaluation": {
@@ -3519,7 +3519,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "0b94c48941c016f3",
       "match_score": 58,
       "evaluation": {
@@ -3587,7 +3587,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "66aad9c9dd4cd10e",
       "match_score": 52,
       "evaluation": {
@@ -3648,7 +3648,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "c54fd6a3148fbb6d",
       "match_score": 52,
       "evaluation": {
@@ -3713,7 +3713,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "8bd62ebc26d20a36",
       "match_score": 52,
       "evaluation": {
@@ -3778,7 +3778,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d0e0146b395ff563",
       "match_score": 52,
       "evaluation": {
@@ -3844,7 +3844,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "7d2dea3affba33bb",
       "match_score": 52,
       "evaluation": {
@@ -3912,7 +3912,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2cd7c924386b72cd",
       "match_score": 52,
       "evaluation": {
@@ -3977,7 +3977,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "a2260701986f56d6",
       "match_score": 52,
       "evaluation": {
@@ -4043,7 +4043,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "922f8c491f0f329b",
       "match_score": 48,
       "evaluation": {
@@ -4108,7 +4108,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "702bd2f77d7da071",
       "match_score": 48,
       "evaluation": {
@@ -4173,7 +4173,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "539b67613860e411",
       "match_score": 48,
       "evaluation": {
@@ -4238,7 +4238,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2a0c8e018f8265fa",
       "match_score": 48,
       "evaluation": {
@@ -4306,7 +4306,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "bba1848264816037",
       "match_score": 48,
       "evaluation": {
@@ -4372,7 +4372,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "67b2b0a5f0feec59",
       "match_score": 48,
       "evaluation": {
@@ -4438,7 +4438,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d96cee51ec75754a",
       "match_score": 48,
       "evaluation": {
@@ -4504,7 +4504,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "80c1f342d38ac207",
       "match_score": 48,
       "evaluation": {
@@ -4564,7 +4564,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "9b38bb50a1301810",
       "match_score": 48,
       "evaluation": {
@@ -4630,7 +4630,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "4bf48b9bee1554c3",
       "match_score": 48,
       "evaluation": {
@@ -4703,7 +4703,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "511e36cc1c4080bd",
       "match_score": 48,
       "evaluation": {
@@ -4776,7 +4776,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "cfa308d78b6fbbb2",
       "match_score": 48,
       "evaluation": {
@@ -4841,7 +4841,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "44efc30d441dd40b",
       "match_score": 48,
       "evaluation": {
@@ -4906,7 +4906,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "08e207b3f5dee2e2",
       "match_score": 48,
       "evaluation": {
@@ -4971,7 +4971,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "609a56e868957588",
       "match_score": 48,
       "evaluation": {
@@ -5036,7 +5036,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "3194f0cfdc8183b0",
       "match_score": 48,
       "evaluation": {
@@ -5101,7 +5101,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "80fc641f70af4067",
       "match_score": 48,
       "evaluation": {
@@ -5167,7 +5167,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "44d45d71f24d5421",
       "match_score": 47,
       "evaluation": {
@@ -5232,7 +5232,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "fe7d7cf6339f6d67",
       "match_score": 47,
       "evaluation": {
@@ -5305,7 +5305,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "ecfb020b9b5c9813",
       "match_score": 47,
       "evaluation": {
@@ -5369,7 +5369,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "34252ba8e76d4944",
       "match_score": 47,
       "evaluation": {
@@ -5442,7 +5442,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "436229e142d8d2f5",
       "match_score": 45,
       "evaluation": {
@@ -5507,7 +5507,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "64f4a230bd8fd845",
       "match_score": 42,
       "evaluation": {
@@ -5575,7 +5575,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "e8819d2a1a271ff4",
       "match_score": 42,
       "evaluation": {
@@ -5640,7 +5640,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "723b77c49a1e5bff",
       "match_score": 42,
       "evaluation": {
@@ -5705,7 +5705,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "36064f363c714b84",
       "match_score": 42,
       "evaluation": {
@@ -5771,7 +5771,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "bfb0e51b25e4441a",
       "match_score": 42,
       "evaluation": {
@@ -5837,7 +5837,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "72377337e84db548",
       "match_score": 42,
       "evaluation": {
@@ -5903,7 +5903,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "7fdc64f3dd9ee683",
       "match_score": 42,
       "evaluation": {
@@ -5969,7 +5969,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "c7b77742afa043b2",
       "match_score": 42,
       "evaluation": {
@@ -6034,7 +6034,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "72194d6402673ea0",
       "match_score": 42,
       "evaluation": {
@@ -6094,7 +6094,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "884b62d1de0e70df",
       "match_score": 42,
       "evaluation": {
@@ -6159,7 +6159,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "5dcf6b3518decb08",
       "match_score": 42,
       "evaluation": {
@@ -6224,7 +6224,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b7f0222599cfa9f2",
       "match_score": 42,
       "evaluation": {
@@ -6289,7 +6289,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "35f3e00926f601ee",
       "match_score": 42,
       "evaluation": {
@@ -6354,7 +6354,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "13299fcc6e2418bb",
       "match_score": 42,
       "evaluation": {
@@ -6427,7 +6427,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 38,
       "evaluation": {
@@ -6492,7 +6492,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "66cbd46864af6c5f",
       "match_score": 38,
       "evaluation": {
@@ -6559,7 +6559,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "183c533ea976a1bd",
       "match_score": 38,
       "evaluation": {
@@ -6624,7 +6624,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b6d38bae77a9beb8",
       "match_score": 38,
       "evaluation": {
@@ -6689,7 +6689,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "cd851e8224724ed9",
       "match_score": 38,
       "evaluation": {
@@ -6755,7 +6755,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "52846bd67a90be3d",
       "match_score": 38,
       "evaluation": {
@@ -6828,7 +6828,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "1b18726ad310ce24",
       "match_score": 38,
       "evaluation": {
@@ -6893,7 +6893,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "44310addaf4575d8",
       "match_score": 38,
       "evaluation": {
@@ -6961,7 +6961,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "0ea3936b2bb649ec",
       "match_score": 38,
       "evaluation": {
@@ -7026,7 +7026,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "9ab54a47b28847fd",
       "match_score": 38,
       "evaluation": {
@@ -7092,7 +7092,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "cb831f4d53e90165",
       "match_score": 38,
       "evaluation": {
@@ -7165,7 +7165,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f729fb8c3621608e",
       "match_score": 35,
       "evaluation": {
@@ -7225,7 +7225,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "13602df95d72ea73",
       "match_score": 35,
       "evaluation": {
@@ -7290,7 +7290,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b9499cca82b8c6b9",
       "match_score": 35,
       "evaluation": {
@@ -7350,7 +7350,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2e16ccb2374337e5",
       "match_score": 32,
       "evaluation": {
@@ -7410,7 +7410,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "dd1b3b6cb0884ca1",
       "match_score": 32,
       "evaluation": {
@@ -7475,7 +7475,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "4f46de28fde63ee8",
       "match_score": 32,
       "evaluation": {
@@ -7541,7 +7541,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "75d4895a9da1710c",
       "match_score": 32,
       "evaluation": {
@@ -7606,7 +7606,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "641efc4d97b5f040",
       "match_score": 32,
       "evaluation": {
@@ -7666,7 +7666,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "c40b6c2141f93f4c",
       "match_score": 32,
       "evaluation": {
@@ -7731,7 +7731,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d1e13fea417c13cb",
       "match_score": 32,
       "evaluation": {
@@ -7802,7 +7802,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2476013a5569bbad",
       "match_score": 32,
       "evaluation": {
@@ -7867,7 +7867,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "6967a97ddc3b1449",
       "match_score": 32,
       "evaluation": {
@@ -7932,7 +7932,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b9c31bc931868f5c",
       "match_score": 32,
       "evaluation": {
@@ -7997,7 +7997,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "df0f10d3d7f49e34",
       "match_score": 32,
       "evaluation": {
@@ -8062,7 +8062,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "7729b3c3ff6cf1c8",
       "match_score": 32,
       "evaluation": {
@@ -8127,7 +8127,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f11ac15be3baf70c",
       "match_score": 32,
       "evaluation": {
@@ -8192,7 +8192,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "8667bd05a5986024",
       "match_score": 32,
       "evaluation": {
@@ -8257,7 +8257,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "3189c249983dd98c",
       "match_score": 32,
       "evaluation": {
@@ -8317,7 +8317,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b30eccdc75506184",
       "match_score": 32,
       "evaluation": {
@@ -8390,7 +8390,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "22b6c4ed56d9a064",
       "match_score": 32,
       "evaluation": {
@@ -8450,7 +8450,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "31f3e3b22c8c50a4",
       "match_score": 32,
       "evaluation": {
@@ -8510,7 +8510,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "2c1c78325d30bd8a",
       "match_score": 32,
       "evaluation": {
@@ -8576,7 +8576,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 28,
       "evaluation": {
@@ -8636,7 +8636,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 28,
       "evaluation": {
@@ -8694,7 +8694,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 28,
       "evaluation": {
@@ -8759,7 +8759,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "32d0c27d07a40493",
       "match_score": 28,
       "evaluation": {
@@ -8824,7 +8824,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "1bf2a9d09ec26b0a",
       "match_score": 28,
       "evaluation": {
@@ -8884,7 +8884,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "c8c79bcad0fa98f1",
       "match_score": 28,
       "evaluation": {
@@ -8944,7 +8944,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "892c343170e4b0d7",
       "match_score": 28,
       "evaluation": {
@@ -8994,66 +8994,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-science-contracts-service-noordwijk-nl",
-      "title": "Intern in the Science Contracts Service",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Contracts-Service/1452885533/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Business & Policy",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "b5dca63b0a4c44c0",
-      "match_score": 28,
-      "evaluation": {
-        "match_score": 28,
-        "justification": "Your strong technical profile in AI, Python, and satellite data projects (including Sentinel-related work and an ESA-Scout repo) shows clear interest in ESA, but the Science Contracts Service internship is a Business & Policy role focused on procurement, legal frameworks, and science mission contracting rather than technical development. With your degree still in progress until 2028 and no demonstrated experience in contracts or policy, this is a significant mismatch that makes a competitive application unlikely before the 30 November deadline.",
-        "why_apply": [
-          "Gain direct exposure to ESA science programme management and contracting processes",
-          "Network with ESA staff in Noordwijk during a short internship window"
-        ],
-        "required_skills": [
-          "Understanding of ESA procurement and science contracts procedures",
-          "Business or policy analysis skills",
-          "Ability to support administrative and legal aspects of research contracts"
-        ],
-        "gaps": [
-          "No experience in contracts, procurement, or business/policy roles",
-          "Curriculum is purely technical (AI/Data Science) with no relevant coursework",
-          "Very short preparation time before 30 November deadline"
-        ],
-        "checklist": [
-          {
-            "task": "Review the full Science Contracts Service job description and ESA procurement rules on the ESA website",
-            "effort": "3 hours",
-            "done_when": "You can list the main responsibilities and required competencies in your own words"
-          },
-          {
-            "task": "Draft a motivation letter that explicitly links your Sentinel flood-mapping project to science mission support needs",
-            "effort": "4 hours",
-            "done_when": "Letter is ready for submission and mentions specific ESA science programmes"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-15T22:41:33Z",
-        "fingerprint": "2a62459016aa7c21",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-visual-communication-presentation-design-and-event",
       "title": "Intern in Visual Communication, Presentation Design and Event Coordination",
       "source": "esa_jobs",
@@ -9069,7 +9009,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "98e09b36648248b5",
       "match_score": 28,
       "evaluation": {
@@ -9130,7 +9070,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "21fe57f047b1a630",
       "match_score": 28,
       "evaluation": {
@@ -9190,7 +9130,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "794d242c2566f686",
       "match_score": 28,
       "evaluation": {
@@ -9250,7 +9190,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "466590677a320233",
       "match_score": 28,
       "evaluation": {
@@ -9300,66 +9240,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-technology-and-commercialisation-contracts-divi",
-      "title": "Intern in the Technology and Commercialisation Contracts Division",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-and-Commercialisation-Contracts-Division/1453009033/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Business & Policy",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "f2eb39fcb6d2cd09",
-      "match_score": 28,
-      "evaluation": {
-        "match_score": 28,
-        "justification": "Your strong AI, data science and mentoring profile does not align with the contracts, commercialisation and legal focus of this internship. The Technology and Commercialisation Contracts Division requires demonstrated interest or coursework in business law, IP or procurement, none of which appear in your background. With the deadline only two weeks away, this is not an efficient use of your time.",
-        "why_apply": [
-          "Direct exposure to ESA’s technology transfer and industrial policy processes",
-          "Networking with ESA legal and procurement staff in Noordwijk"
-        ],
-        "required_skills": [
-          "Knowledge of contract law or technology commercialisation",
-          "Understanding of ESA procurement and IP rules",
-          "Business or policy analysis skills"
-        ],
-        "gaps": [
-          "No coursework or experience in law, contracts or commercialisation",
-          "Degree programme is purely technical (AI & Data Science)",
-          "Consulting experience is student-led and technology-focused rather than contractual"
-        ],
-        "checklist": [
-          {
-            "task": "Locate and read the full vacancy notice on jobs.esa.int for required qualifications",
-            "effort": "30 minutes",
-            "done_when": "You have extracted the exact eligibility and desirable criteria listed"
-          },
-          {
-            "task": "Draft a motivation letter that explicitly maps any consulting or mentoring work to contract-related tasks",
-            "effort": "3 hours",
-            "done_when": "Letter is ready for submission with the application"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-14T22:15:50Z",
-        "fingerprint": "7b23a213a58a59fb",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-the-mechanical-department-optics-section-noordwijk",
       "title": "Intern in the Mechanical Department - Optics Section",
       "source": "esa_jobs",
@@ -9375,7 +9255,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "fcbbe956a1114971",
       "match_score": 28,
       "evaluation": {
@@ -9420,136 +9300,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-sme-s",
-      "title": "Intern in the Industrial Policy and Auditing Department - SME Section",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-SME-Section/1452888233/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Business & Policy",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "c4aa924be6cd6937",
-      "match_score": 28,
-      "evaluation": {
-        "match_score": 28,
-        "justification": "Your AI & Data Science studies and technical projects show limited overlap with the Industrial Policy and Auditing Department’s focus on SME support, procurement policy, and auditing processes. The consulting and mentoring roles provide some transferable soft skills, but you lack demonstrated experience in policy analysis, industrial economics, or ESA procurement frameworks. With the November 2026 deadline still distant, this remains a stretch application unless you rapidly build policy-related credentials.",
-        "why_apply": [
-          "Direct exposure to ESA’s SME industrial policy mechanisms and supplier auditing practices",
-          "Networking with ESA staff in the Netherlands and potential future policy or business-development roles"
-        ],
-        "required_skills": [
-          "Knowledge of industrial policy, SME support schemes, or public procurement",
-          "Analytical skills for auditing, data review, and policy reporting",
-          "Understanding of European space industry supply chains"
-        ],
-        "gaps": [
-          "No coursework or experience in economics, policy, law, or auditing",
-          "Portfolio is almost entirely technical AI/ML and hardware projects",
-          "Limited evidence of engagement with ESA programmes or industrial policy topics"
-        ],
-        "checklist": [
-          {
-            "task": "Read the full ESA Industrial Policy and SME Action Plan documents and write a one-page summary of implications for start-ups",
-            "effort": "3 days",
-            "done_when": "Summary document completed and referenced in application"
-          },
-          {
-            "task": "Produce a short policy brief (max 800 words) analysing how AI tools could support SME auditing at ESA",
-            "effort": "1 week",
-            "done_when": "Brief uploaded to GitHub and linked in motivation letter"
-          },
-          {
-            "task": "Contact the internship supervisor via ESA careers portal with a targeted question about current SME auditing priorities",
-            "effort": "2 hours",
-            "done_when": "Response received or polite follow-up sent"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-17T01:50:16Z",
-        "fingerprint": "06192da8e188f4f4",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
-      "title": "Intern in the Quality Department - RAMS Section",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Other",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "449627db03c99076",
-      "match_score": 28,
-      "evaluation": {
-        "match_score": 28,
-        "justification": "Your AI & Data Science background and ESA-related side projects (Sentinel flood mapping, satellite tracking, ESA-Scout repo) show genuine space interest, but the RAMS internship requires reliability/safety engineering expertise that your curriculum and experience do not cover. With the deadline only two weeks away and no demonstrated quality or aerospace systems knowledge, this is a poor use of application time.",
-        "why_apply": [
-          "Direct exposure to ESA Noordwijk site and quality processes",
-          "Potential to pivot AI skills toward space data assurance topics"
-        ],
-        "required_skills": [
-          "RAMS engineering fundamentals",
-          "Aerospace quality standards and safety analysis",
-          "Systems engineering or hardware reliability experience"
-        ],
-        "gaps": [
-          "No coursework or projects in reliability, availability, maintainability or safety",
-          "Limited aerospace domain knowledge beyond satellite data processing",
-          "Current first-year BSc status with no engineering internship record"
-        ],
-        "checklist": [
-          {
-            "task": "Review the full RAMS internship description and extract required technical competencies",
-            "effort": "1 hour",
-            "done_when": "List of 5-7 explicit skills from the posting is written down"
-          },
-          {
-            "task": "Map your Sentinel-1 floodfusion and hfarm-satellite-tracking repos against any RAMS-relevant data quality aspects mentioned",
-            "effort": "3 hours",
-            "done_when": "One-page note linking your code to at least two quality-related concepts is complete"
-          },
-          {
-            "task": "Draft a motivation letter that honestly addresses the RAMS gap and proposes how your Python/ML skills could support data-driven reliability work",
-            "effort": "4 hours",
-            "done_when": "Letter is reviewed by a mentor and ready to submit"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application submission",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-15T22:42:44Z",
-        "fingerprint": "ce5a974b74a7ab1d",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-the-quality-department-human-spaceflight-safety-noo",
       "title": "Intern in the Quality Department - Human Spaceflight Safety",
       "source": "esa_jobs",
@@ -9565,7 +9315,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "0f9e1c5992465c51",
       "match_score": 28,
       "evaluation": {
@@ -9630,7 +9380,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f234b90ed5cc8b8b",
       "match_score": 28,
       "evaluation": {
@@ -9697,7 +9447,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "ae7518f71be4f39d",
       "match_score": 28,
       "evaluation": {
@@ -9762,7 +9512,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "40aad1ed83ced79e",
       "match_score": 28,
       "evaluation": {
@@ -9827,7 +9577,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "88ba1d15edbe33a0",
       "match_score": 28,
       "evaluation": {
@@ -9887,7 +9637,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b0886ccaa8959872",
       "match_score": 28,
       "evaluation": {
@@ -9937,6 +9687,256 @@
       }
     },
     {
+      "id": "esa-jobs-intern-in-the-technology-and-commercialisation-contracts-divi",
+      "title": "Intern in the Technology and Commercialisation Contracts Division",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-and-Commercialisation-Contracts-Division/1453009033/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Business & Policy",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "f2eb39fcb6d2cd09",
+      "match_score": 28,
+      "evaluation": {
+        "match_score": 28,
+        "justification": "Your strong AI, data science and mentoring profile does not align with the contracts, commercialisation and legal focus of this internship. The Technology and Commercialisation Contracts Division requires demonstrated interest or coursework in business law, IP or procurement, none of which appear in your background. With the deadline only two weeks away, this is not an efficient use of your time.",
+        "why_apply": [
+          "Direct exposure to ESA’s technology transfer and industrial policy processes",
+          "Networking with ESA legal and procurement staff in Noordwijk"
+        ],
+        "required_skills": [
+          "Knowledge of contract law or technology commercialisation",
+          "Understanding of ESA procurement and IP rules",
+          "Business or policy analysis skills"
+        ],
+        "gaps": [
+          "No coursework or experience in law, contracts or commercialisation",
+          "Degree programme is purely technical (AI & Data Science)",
+          "Consulting experience is student-led and technology-focused rather than contractual"
+        ],
+        "checklist": [
+          {
+            "task": "Locate and read the full vacancy notice on jobs.esa.int for required qualifications",
+            "effort": "30 minutes",
+            "done_when": "You have extracted the exact eligibility and desirable criteria listed"
+          },
+          {
+            "task": "Draft a motivation letter that explicitly maps any consulting or mentoring work to contract-related tasks",
+            "effort": "3 hours",
+            "done_when": "Letter is ready for submission with the application"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-14T22:15:50Z",
+        "fingerprint": "7b23a213a58a59fb",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-sme-s",
+      "title": "Intern in the Industrial Policy and Auditing Department - SME Section",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-SME-Section/1452888233/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Business & Policy",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "c4aa924be6cd6937",
+      "match_score": 28,
+      "evaluation": {
+        "match_score": 28,
+        "justification": "Your AI & Data Science studies and technical projects show limited overlap with the Industrial Policy and Auditing Department’s focus on SME support, procurement policy, and auditing processes. The consulting and mentoring roles provide some transferable soft skills, but you lack demonstrated experience in policy analysis, industrial economics, or ESA procurement frameworks. With the November 2026 deadline still distant, this remains a stretch application unless you rapidly build policy-related credentials.",
+        "why_apply": [
+          "Direct exposure to ESA’s SME industrial policy mechanisms and supplier auditing practices",
+          "Networking with ESA staff in the Netherlands and potential future policy or business-development roles"
+        ],
+        "required_skills": [
+          "Knowledge of industrial policy, SME support schemes, or public procurement",
+          "Analytical skills for auditing, data review, and policy reporting",
+          "Understanding of European space industry supply chains"
+        ],
+        "gaps": [
+          "No coursework or experience in economics, policy, law, or auditing",
+          "Portfolio is almost entirely technical AI/ML and hardware projects",
+          "Limited evidence of engagement with ESA programmes or industrial policy topics"
+        ],
+        "checklist": [
+          {
+            "task": "Read the full ESA Industrial Policy and SME Action Plan documents and write a one-page summary of implications for start-ups",
+            "effort": "3 days",
+            "done_when": "Summary document completed and referenced in application"
+          },
+          {
+            "task": "Produce a short policy brief (max 800 words) analysing how AI tools could support SME auditing at ESA",
+            "effort": "1 week",
+            "done_when": "Brief uploaded to GitHub and linked in motivation letter"
+          },
+          {
+            "task": "Contact the internship supervisor via ESA careers portal with a targeted question about current SME auditing priorities",
+            "effort": "2 hours",
+            "done_when": "Response received or polite follow-up sent"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-17T01:50:16Z",
+        "fingerprint": "06192da8e188f4f4",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-intern-in-the-science-contracts-service-noordwijk-nl",
+      "title": "Intern in the Science Contracts Service",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Contracts-Service/1452885533/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Business & Policy",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "b5dca63b0a4c44c0",
+      "match_score": 28,
+      "evaluation": {
+        "match_score": 28,
+        "justification": "Your strong technical profile in AI, Python, and satellite data projects (including Sentinel-related work and an ESA-Scout repo) shows clear interest in ESA, but the Science Contracts Service internship is a Business & Policy role focused on procurement, legal frameworks, and science mission contracting rather than technical development. With your degree still in progress until 2028 and no demonstrated experience in contracts or policy, this is a significant mismatch that makes a competitive application unlikely before the 30 November deadline.",
+        "why_apply": [
+          "Gain direct exposure to ESA science programme management and contracting processes",
+          "Network with ESA staff in Noordwijk during a short internship window"
+        ],
+        "required_skills": [
+          "Understanding of ESA procurement and science contracts procedures",
+          "Business or policy analysis skills",
+          "Ability to support administrative and legal aspects of research contracts"
+        ],
+        "gaps": [
+          "No experience in contracts, procurement, or business/policy roles",
+          "Curriculum is purely technical (AI/Data Science) with no relevant coursework",
+          "Very short preparation time before 30 November deadline"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full Science Contracts Service job description and ESA procurement rules on the ESA website",
+            "effort": "3 hours",
+            "done_when": "You can list the main responsibilities and required competencies in your own words"
+          },
+          {
+            "task": "Draft a motivation letter that explicitly links your Sentinel flood-mapping project to science mission support needs",
+            "effort": "4 hours",
+            "done_when": "Letter is ready for submission and mentions specific ESA science programmes"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-15T22:41:33Z",
+        "fingerprint": "2a62459016aa7c21",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
+      "title": "Intern in the Quality Department - RAMS Section",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Other",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "449627db03c99076",
+      "match_score": 28,
+      "evaluation": {
+        "match_score": 28,
+        "justification": "Your AI & Data Science background and ESA-related side projects (Sentinel flood mapping, satellite tracking, ESA-Scout repo) show genuine space interest, but the RAMS internship requires reliability/safety engineering expertise that your curriculum and experience do not cover. With the deadline only two weeks away and no demonstrated quality or aerospace systems knowledge, this is a poor use of application time.",
+        "why_apply": [
+          "Direct exposure to ESA Noordwijk site and quality processes",
+          "Potential to pivot AI skills toward space data assurance topics"
+        ],
+        "required_skills": [
+          "RAMS engineering fundamentals",
+          "Aerospace quality standards and safety analysis",
+          "Systems engineering or hardware reliability experience"
+        ],
+        "gaps": [
+          "No coursework or projects in reliability, availability, maintainability or safety",
+          "Limited aerospace domain knowledge beyond satellite data processing",
+          "Current first-year BSc status with no engineering internship record"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full RAMS internship description and extract required technical competencies",
+            "effort": "1 hour",
+            "done_when": "List of 5-7 explicit skills from the posting is written down"
+          },
+          {
+            "task": "Map your Sentinel-1 floodfusion and hfarm-satellite-tracking repos against any RAMS-relevant data quality aspects mentioned",
+            "effort": "3 hours",
+            "done_when": "One-page note linking your code to at least two quality-related concepts is complete"
+          },
+          {
+            "task": "Draft a motivation letter that honestly addresses the RAMS gap and proposes how your Python/ML skills could support data-driven reliability work",
+            "effort": "4 hours",
+            "done_when": "Letter is reviewed by a mentor and ready to submit"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application submission",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-15T22:42:44Z",
+        "fingerprint": "ce5a974b74a7ab1d",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-intern-in-the-mechanical-department-thermal-control-section-n",
       "title": "Intern in the Mechanical Department - Thermal Control Section",
       "source": "esa_jobs",
@@ -9952,7 +9952,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "496f78cc862359a5",
       "match_score": 25,
       "evaluation": {
@@ -10019,7 +10019,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "d9464939851f4811",
       "match_score": 25,
       "evaluation": {
@@ -10084,7 +10084,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "90d9b5bb0930c816",
       "match_score": 25,
       "evaluation": {
@@ -10149,7 +10149,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 22,
       "evaluation": {
@@ -10204,7 +10204,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 22,
       "evaluation": {
@@ -10264,7 +10264,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "4b16a292428f3683",
       "match_score": 22,
       "evaluation": {
@@ -10329,7 +10329,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "393e2345833a70cb",
       "match_score": 22,
       "evaluation": {
@@ -10374,66 +10374,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-contracts-department-frascati-it",
-      "title": "Intern in the Contracts Department",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Contracts-Department/1452986633/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Business & Policy",
-      "location": "Frascati, IT",
-      "summary": "Intern · Frascati, IT",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "75a3234dde7773aa",
-      "match_score": 22,
-      "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science studies and technical projects (including Sentinel data work) show strong technical aptitude but no demonstrated experience in contracts, procurement or business administration. The Contracts Department internship requires policy, legal or commercial skills that are absent from your profile, making this a poor fit despite your location in Italy and multilingual abilities.",
-        "why_apply": [
-          "Direct exposure to ESA's procurement processes at ESRIN",
-          "Networking with ESA staff in Frascati while studying in Italy"
-        ],
-        "required_skills": [
-          "Contracts or procurement knowledge",
-          "Business administration or law background",
-          "Policy analysis and negotiation"
-        ],
-        "gaps": [
-          "No coursework or experience in contracts, law or procurement",
-          "Profile focused exclusively on AI, data science and technical mentoring",
-          "Current studies are technical rather than business/policy oriented"
-        ],
-        "checklist": [
-          {
-            "task": "Review the full job description on jobs.esa.int for required qualifications",
-            "effort": "30 minutes",
-            "done_when": "You have noted the exact eligibility criteria and any mandatory documents"
-          },
-          {
-            "task": "Draft a motivation letter explaining any interest in ESA contracts despite technical background",
-            "effort": "3 hours",
-            "done_when": "Letter is ready for submission before 30 Nov"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-14T22:15:32Z",
-        "fingerprint": "bc76b2a2f6ef0f96",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-the-human-exploration-science-office-blood-flow-res",
       "title": "Intern in the Human Exploration Science Office - Blood Flow Restriction Training",
       "source": "esa_jobs",
@@ -10449,7 +10389,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f85e7c2b29cfee8f",
       "match_score": 22,
       "evaluation": {
@@ -10494,126 +10434,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-buc-a",
-      "title": "Intern in the Industrial Policy and Auditing Department - BUC and PMSO Office Corporate Directorates",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-BUC-and-PMSO-Office-Corporate-Directorates/1452887633/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Business & Policy",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "4c60445067f584ae",
-      "match_score": 22,
-      "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI & Data Science studies and Sentinel-related projects show genuine interest in ESA, but the role sits in industrial policy and auditing with no technical component. At second-year undergraduate level you lack the policy, economics or auditing background the department expects, making this a poor fit for your profile and time.",
-        "why_apply": [
-          "Direct exposure to ESA corporate processes and Noordwijk site",
-          "Opportunity to observe industrial policy work that affects future space missions"
-        ],
-        "required_skills": [
-          "Knowledge of industrial policy or auditing frameworks",
-          "Strong written and analytical skills in a policy context",
-          "Understanding of ESA procurement and Member State returns"
-        ],
-        "gaps": [
-          "No coursework or experience in policy, economics or auditing",
-          "Current degree is purely technical (AI/Data Science)",
-          "No demonstrated interest in corporate or governance topics"
-        ],
-        "checklist": [
-          {
-            "task": "Read the full job description and note every required competency that is absent from your CV",
-            "effort": "1 hour",
-            "done_when": "List of missing competencies written down"
-          },
-          {
-            "task": "Check whether ESA accepts applications from second-year AI students for this specific corporate internship",
-            "effort": "30 minutes",
-            "done_when": "Answer recorded from ESA jobs portal or contact"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-15T13:48:03Z",
-        "fingerprint": "1506636298a6fd88",
-        "error": ""
-      }
-    },
-    {
-      "id": "esa-jobs-intern-in-the-contracts-department-earth-observation-contract",
-      "title": "Intern in the Contracts Department - Earth Observation Contracts Service",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Contracts-Department-Earth-Observation-Contracts-Service/1452884633/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Earth Observation & AI",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
-      "content_hash": "1b026db493f67402",
-      "match_score": 22,
-      "evaluation": {
-        "match_score": 22,
-        "justification": "Your AI/Data Science background and Sentinel-related projects show genuine interest in ESA Earth Observation, but the role is a contracts/procurement internship with no technical component. You lack any demonstrated experience in legal, commercial, or administrative contracting, making this a poor fit for your current profile.",
-        "why_apply": [
-          "Gain direct exposure to ESA Earth Observation programme management",
-          "Build understanding of how ESA procures satellite data and services"
-        ],
-        "required_skills": [
-          "Knowledge of public procurement and contract law",
-          "Experience drafting or reviewing commercial agreements",
-          "Administrative and organisational skills in a legal/business context"
-        ],
-        "gaps": [
-          "No coursework or experience in contracts, procurement or law",
-          "Profile is entirely technical/AI-focused with no business or legal exposure",
-          "No evidence of interest in administrative or contractual work"
-        ],
-        "checklist": [
-          {
-            "task": "Review the full vacancy notice on jobs.esa.int for exact eligibility and required documents",
-            "effort": "1 hour",
-            "done_when": "You have downloaded and annotated the PDF with highlighted requirements"
-          },
-          {
-            "task": "Contact ESA HR or the hiring manager to confirm whether any technical EO knowledge is valued in this contracts role",
-            "effort": "2 hours",
-            "done_when": "You receive a written reply clarifying the role's technical vs administrative balance"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-15T13:51:23Z",
-        "fingerprint": "544b184db6d570b7",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-the-mechanical-department-thermal-analysis-and-veri",
       "title": "Intern in the Mechanical Department - Thermal Analysis and Verification Section",
       "source": "esa_jobs",
@@ -10629,7 +10449,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "65d52697eeead876",
       "match_score": 22,
       "evaluation": {
@@ -10694,7 +10514,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "5bf91526ef1e581a",
       "match_score": 22,
       "evaluation": {
@@ -10759,7 +10579,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "b30255e09e8f5f9c",
       "match_score": 22,
       "evaluation": {
@@ -10824,7 +10644,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "348fb9fb72e052da",
       "match_score": 22,
       "evaluation": {
@@ -10869,6 +10689,126 @@
       }
     },
     {
+      "id": "esa-jobs-intern-in-the-contracts-department-earth-observation-contract",
+      "title": "Intern in the Contracts Department - Earth Observation Contracts Service",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Contracts-Department-Earth-Observation-Contracts-Service/1452884633/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Earth Observation & AI",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "1b026db493f67402",
+      "match_score": 22,
+      "evaluation": {
+        "match_score": 22,
+        "justification": "Your AI/Data Science background and Sentinel-related projects show genuine interest in ESA Earth Observation, but the role is a contracts/procurement internship with no technical component. You lack any demonstrated experience in legal, commercial, or administrative contracting, making this a poor fit for your current profile.",
+        "why_apply": [
+          "Gain direct exposure to ESA Earth Observation programme management",
+          "Build understanding of how ESA procures satellite data and services"
+        ],
+        "required_skills": [
+          "Knowledge of public procurement and contract law",
+          "Experience drafting or reviewing commercial agreements",
+          "Administrative and organisational skills in a legal/business context"
+        ],
+        "gaps": [
+          "No coursework or experience in contracts, procurement or law",
+          "Profile is entirely technical/AI-focused with no business or legal exposure",
+          "No evidence of interest in administrative or contractual work"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full vacancy notice on jobs.esa.int for exact eligibility and required documents",
+            "effort": "1 hour",
+            "done_when": "You have downloaded and annotated the PDF with highlighted requirements"
+          },
+          {
+            "task": "Contact ESA HR or the hiring manager to confirm whether any technical EO knowledge is valued in this contracts role",
+            "effort": "2 hours",
+            "done_when": "You receive a written reply clarifying the role's technical vs administrative balance"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-15T13:51:23Z",
+        "fingerprint": "544b184db6d570b7",
+        "error": ""
+      }
+    },
+    {
+      "id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-buc-a",
+      "title": "Intern in the Industrial Policy and Auditing Department - BUC and PMSO Office Corporate Directorates",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-BUC-and-PMSO-Office-Corporate-Directorates/1452887633/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Business & Policy",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "4c60445067f584ae",
+      "match_score": 22,
+      "evaluation": {
+        "match_score": 22,
+        "justification": "Your AI & Data Science studies and Sentinel-related projects show genuine interest in ESA, but the role sits in industrial policy and auditing with no technical component. At second-year undergraduate level you lack the policy, economics or auditing background the department expects, making this a poor fit for your profile and time.",
+        "why_apply": [
+          "Direct exposure to ESA corporate processes and Noordwijk site",
+          "Opportunity to observe industrial policy work that affects future space missions"
+        ],
+        "required_skills": [
+          "Knowledge of industrial policy or auditing frameworks",
+          "Strong written and analytical skills in a policy context",
+          "Understanding of ESA procurement and Member State returns"
+        ],
+        "gaps": [
+          "No coursework or experience in policy, economics or auditing",
+          "Current degree is purely technical (AI/Data Science)",
+          "No demonstrated interest in corporate or governance topics"
+        ],
+        "checklist": [
+          {
+            "task": "Read the full job description and note every required competency that is absent from your CV",
+            "effort": "1 hour",
+            "done_when": "List of missing competencies written down"
+          },
+          {
+            "task": "Check whether ESA accepts applications from second-year AI students for this specific corporate internship",
+            "effort": "30 minutes",
+            "done_when": "Answer recorded from ESA jobs portal or contact"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-15T13:48:03Z",
+        "fingerprint": "1506636298a6fd88",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-intern-in-the-industrial-audit-services-office-audit-baseline",
       "title": "Intern in the Industrial Audit Services Office - Audit Baseline Services Unit",
       "source": "esa_jobs",
@@ -10884,7 +10824,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "f8b5c7dcbcc4662c",
       "match_score": 22,
       "evaluation": {
@@ -10929,6 +10869,66 @@
       }
     },
     {
+      "id": "esa-jobs-intern-in-the-contracts-department-frascati-it",
+      "title": "Intern in the Contracts Department",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Contracts-Department/1452986633/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Business & Policy",
+      "location": "Frascati, IT",
+      "summary": "Intern · Frascati, IT",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-18T15:28:30Z",
+      "content_hash": "75a3234dde7773aa",
+      "match_score": 22,
+      "evaluation": {
+        "match_score": 22,
+        "justification": "Your AI & Data Science studies and technical projects (including Sentinel data work) show strong technical aptitude but no demonstrated experience in contracts, procurement or business administration. The Contracts Department internship requires policy, legal or commercial skills that are absent from your profile, making this a poor fit despite your location in Italy and multilingual abilities.",
+        "why_apply": [
+          "Direct exposure to ESA's procurement processes at ESRIN",
+          "Networking with ESA staff in Frascati while studying in Italy"
+        ],
+        "required_skills": [
+          "Contracts or procurement knowledge",
+          "Business administration or law background",
+          "Policy analysis and negotiation"
+        ],
+        "gaps": [
+          "No coursework or experience in contracts, law or procurement",
+          "Profile focused exclusively on AI, data science and technical mentoring",
+          "Current studies are technical rather than business/policy oriented"
+        ],
+        "checklist": [
+          {
+            "task": "Review the full job description on jobs.esa.int for required qualifications",
+            "effort": "30 minutes",
+            "done_when": "You have noted the exact eligibility criteria and any mandatory documents"
+          },
+          {
+            "task": "Draft a motivation letter explaining any interest in ESA contracts despite technical background",
+            "effort": "3 hours",
+            "done_when": "Letter is ready for submission before 30 Nov"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-14T22:15:32Z",
+        "fingerprint": "bc76b2a2f6ef0f96",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-intern-in-the-systems-department-strategic-materials-and-chem",
       "title": "Intern in the Systems Department - Strategic Materials and Chemicals Regulatory Risk Analysis",
       "source": "esa_jobs",
@@ -10944,7 +10944,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "c9919c5ee785d865",
       "match_score": 18,
       "evaluation": {
@@ -11009,7 +11009,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "cd54171db056f342",
       "match_score": 15,
       "evaluation": {
@@ -11076,7 +11076,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "57fb1963cc284430",
       "match_score": 15,
       "evaluation": {
@@ -11134,7 +11134,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-18T00:51:25Z",
+      "last_seen": "2026-11-18T15:28:30Z",
       "content_hash": "7a700c90061cd129",
       "match_score": 15,
       "evaluation": {
@@ -11511,16 +11511,6 @@
     },
     {
       "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-mission-operations-department-web-based-operati",
-      "title": "Intern in the Mission Operations Department - Web-Based Operations Tools",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 62,
-      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Web-Based-Operations-Tools/1452807333/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-the-esa-education-office-stem-education-didactics-a",
       "title": "Intern in the ESA Education Office - STEM Education, Didactics and E-Learning for Teachers",
       "status": "Open",
@@ -11567,6 +11557,16 @@
       "previous_status": "",
       "match_score": 62,
       "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-ExoMars-Time-Correlation-Evolution-Data-Analysis/1452806733/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-mission-operations-department-web-based-operati",
+      "title": "Intern in the Mission Operations Department - Web-Based Operations Tools",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 62,
+      "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Web-Based-Operations-Tools/1452807333/",
       "detail": "Deadline in 12 day(s)"
     },
     {
@@ -12441,16 +12441,6 @@
     },
     {
       "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-science-contracts-service-noordwijk-nl",
-      "title": "Intern in the Science Contracts Service",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Contracts-Service/1452885533/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-visual-communication-presentation-design-and-event",
       "title": "Intern in Visual Communication, Presentation Design and Event Coordination",
       "status": "Open",
@@ -12491,42 +12481,12 @@
     },
     {
       "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-technology-and-commercialisation-contracts-divi",
-      "title": "Intern in the Technology and Commercialisation Contracts Division",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-and-Commercialisation-Contracts-Division/1453009033/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-the-mechanical-department-optics-section-noordwijk",
       "title": "Intern in the Mechanical Department - Optics Section",
       "status": "Open",
       "previous_status": "",
       "match_score": 28,
       "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Mechanical-Department-Optics-Section/1452884533/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-sme-s",
-      "title": "Intern in the Industrial Policy and Auditing Department - SME Section",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-SME-Section/1452888233/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
-      "title": "Intern in the Quality Department - RAMS Section",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
       "detail": "Deadline in 12 day(s)"
     },
     {
@@ -12591,6 +12551,46 @@
     },
     {
       "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-technology-and-commercialisation-contracts-divi",
+      "title": "Intern in the Technology and Commercialisation Contracts Division",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 28,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Technology-and-Commercialisation-Contracts-Division/1453009033/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-sme-s",
+      "title": "Intern in the Industrial Policy and Auditing Department - SME Section",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 28,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-SME-Section/1452888233/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-science-contracts-service-noordwijk-nl",
+      "title": "Intern in the Science Contracts Service",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 28,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Science-Contracts-Service/1452885533/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
+      "title": "Intern in the Quality Department - RAMS Section",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 28,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-the-mechanical-department-thermal-control-section-n",
       "title": "Intern in the Mechanical Department - Thermal Control Section",
       "status": "Open",
@@ -12641,42 +12641,12 @@
     },
     {
       "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-contracts-department-frascati-it",
-      "title": "Intern in the Contracts Department",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 22,
-      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Contracts-Department/1452986633/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-the-human-exploration-science-office-blood-flow-res",
       "title": "Intern in the Human Exploration Science Office - Blood Flow Restriction Training",
       "status": "Open",
       "previous_status": "",
       "match_score": 22,
       "url": "https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-Human-Exploration-Science-Office-Blood-Flow-Restriction-Training/1452991033/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-buc-a",
-      "title": "Intern in the Industrial Policy and Auditing Department - BUC and PMSO Office Corporate Directorates",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 22,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-BUC-and-PMSO-Office-Corporate-Directorates/1452887633/",
-      "detail": "Deadline in 12 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-contracts-department-earth-observation-contract",
-      "title": "Intern in the Contracts Department - Earth Observation Contracts Service",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 22,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Contracts-Department-Earth-Observation-Contracts-Service/1452884633/",
       "detail": "Deadline in 12 day(s)"
     },
     {
@@ -12721,12 +12691,42 @@
     },
     {
       "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-contracts-department-earth-observation-contract",
+      "title": "Intern in the Contracts Department - Earth Observation Contracts Service",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 22,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Contracts-Department-Earth-Observation-Contracts-Service/1452884633/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-industrial-policy-and-auditing-department-buc-a",
+      "title": "Intern in the Industrial Policy and Auditing Department - BUC and PMSO Office Corporate Directorates",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 22,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Policy-and-Auditing-Department-BUC-and-PMSO-Office-Corporate-Directorates/1452887633/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-the-industrial-audit-services-office-audit-baseline",
       "title": "Intern in the Industrial Audit Services Office - Audit Baseline Services Unit",
       "status": "Open",
       "previous_status": "",
       "match_score": 22,
       "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Industrial-Audit-Services-Office-Audit-Baseline-Services-Unit/1452887933/",
+      "detail": "Deadline in 12 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-contracts-department-frascati-it",
+      "title": "Intern in the Contracts Department",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 22,
+      "url": "https://jobs.esa.int/job/Frascati-Intern-in-the-Contracts-Department/1452986633/",
       "detail": "Deadline in 12 day(s)"
     },
     {
