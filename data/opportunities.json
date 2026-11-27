@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T01:38:29Z",
+  "generated_at": "2026-11-27T16:28:32Z",
   "stats": {
     "total": 168,
     "open": 168,
@@ -85,7 +85,7 @@
             "sentinel-2",
             "terramind"
           ],
-          "pushed_at": "2026-11-26T21:29:55Z"
+          "pushed_at": "2026-11-27T08:26:19Z"
         },
         {
           "name": "ESA-Scout",
@@ -94,7 +94,7 @@
           "url": "https://github.com/teo-clerk/ESA-Scout",
           "stars": 0,
           "topics": [],
-          "pushed_at": "2026-11-26T16:42:24Z"
+          "pushed_at": "2026-11-27T01:38:31Z"
         },
         {
           "name": "portfolio",
@@ -236,7 +236,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d597bdd498343d80",
       "match_score": 85,
       "evaluation": {
@@ -303,7 +303,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "62a4e623af6e6e03",
       "match_score": 82,
       "evaluation": {
@@ -370,7 +370,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "7b187e29f19bdfad",
       "match_score": 82,
       "evaluation": {
@@ -442,7 +442,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "1bf27c94b61de0e3",
       "match_score": 82,
       "evaluation": {
@@ -509,7 +509,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f04a67ab68045af9",
       "match_score": 82,
       "evaluation": {
@@ -576,7 +576,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "8a466ecbbdebccea",
       "match_score": 78,
       "evaluation": {
@@ -647,7 +647,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "e8760a40741ee1bd",
       "match_score": 78,
       "evaluation": {
@@ -714,7 +714,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "e90876efddec815c",
       "match_score": 78,
       "evaluation": {
@@ -766,72 +766,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-future-missions-department-market-intelligence",
-      "title": "Intern in the Future Missions Department - Market Intelligence and Data Infrastructure",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Market-Intelligence-and-Data-Infrastructure/1452921033/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Space Systems",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
-      "content_hash": "add078f8fe9f9bb4",
-      "match_score": 78,
-      "evaluation": {
-        "match_score": 78,
-        "justification": "Your AI & Data Science degree combined with Sentinel-1/2 fusion projects (floodfusion) and the ESA-Scout repository directly align with the data infrastructure and market intelligence needs of Future Missions. The early stage of your BSc (expected 2028) and lack of prior space-agency or market-analysis experience keep the fit competitive rather than outstanding. The November 2026 deadline gives you roughly one year to strengthen the application.",
-        "why_apply": [
-          "Direct exposure to ESA future-mission planning and satellite data ecosystems",
-          "Opportunity to apply your Sentinel and local-AI pipeline work in an operational setting",
-          "Networking with Noordwijk technical teams that can guide later graduate applications"
-        ],
-        "required_skills": [
-          "Python and data-analysis pipelines for Earth-observation or market datasets",
-          "Understanding of satellite data infrastructure and metadata handling",
-          "Ability to translate technical findings into market or strategic insights"
-        ],
-        "gaps": [
-          "No demonstrated experience in market intelligence or economic analysis",
-          "Limited formal exposure to ESA procurement or mission-planning processes",
-          "Still in first half of BSc; most interns have completed at least two years"
-        ],
-        "checklist": [
-          {
-            "task": "Add a one-page summary of floodfusion results and any quantitative metrics to your ESA application",
-            "effort": "4 hours",
-            "done_when": "PDF summary uploaded to the application portal"
-          },
-          {
-            "task": "Draft a 300-word motivation paragraph linking your SciNet and hfarm-satellite-tracking repos to Future Missions data infrastructure",
-            "effort": "2 hours",
-            "done_when": "Paragraph reviewed by a mentor and inserted into the form"
-          },
-          {
-            "task": "Contact the listed internship supervisor via ESA directory for a 15-minute informational call",
-            "effort": "1 week",
-            "done_when": "Email exchange or call completed and noted in application"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application submission",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-15T13:49:27Z",
-        "fingerprint": "ceabc2bbb9cb257c",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-the-mission-operations-department-python-tools-for",
       "title": "Intern in the Mission Operations Department - Python Tools for Earth Explorer Flight Operations",
       "source": "esa_jobs",
@@ -847,7 +781,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "754411572512bddf",
       "match_score": 78,
       "evaluation": {
@@ -898,6 +832,72 @@
       }
     },
     {
+      "id": "esa-jobs-intern-in-the-future-missions-department-market-intelligence",
+      "title": "Intern in the Future Missions Department - Market Intelligence and Data Infrastructure",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Market-Intelligence-and-Data-Infrastructure/1452921033/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Space Systems",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-27T16:28:32Z",
+      "content_hash": "add078f8fe9f9bb4",
+      "match_score": 78,
+      "evaluation": {
+        "match_score": 78,
+        "justification": "Your AI & Data Science degree combined with Sentinel-1/2 fusion projects (floodfusion) and the ESA-Scout repository directly align with the data infrastructure and market intelligence needs of Future Missions. The early stage of your BSc (expected 2028) and lack of prior space-agency or market-analysis experience keep the fit competitive rather than outstanding. The November 2026 deadline gives you roughly one year to strengthen the application.",
+        "why_apply": [
+          "Direct exposure to ESA future-mission planning and satellite data ecosystems",
+          "Opportunity to apply your Sentinel and local-AI pipeline work in an operational setting",
+          "Networking with Noordwijk technical teams that can guide later graduate applications"
+        ],
+        "required_skills": [
+          "Python and data-analysis pipelines for Earth-observation or market datasets",
+          "Understanding of satellite data infrastructure and metadata handling",
+          "Ability to translate technical findings into market or strategic insights"
+        ],
+        "gaps": [
+          "No demonstrated experience in market intelligence or economic analysis",
+          "Limited formal exposure to ESA procurement or mission-planning processes",
+          "Still in first half of BSc; most interns have completed at least two years"
+        ],
+        "checklist": [
+          {
+            "task": "Add a one-page summary of floodfusion results and any quantitative metrics to your ESA application",
+            "effort": "4 hours",
+            "done_when": "PDF summary uploaded to the application portal"
+          },
+          {
+            "task": "Draft a 300-word motivation paragraph linking your SciNet and hfarm-satellite-tracking repos to Future Missions data infrastructure",
+            "effort": "2 hours",
+            "done_when": "Paragraph reviewed by a mentor and inserted into the form"
+          },
+          {
+            "task": "Contact the listed internship supervisor via ESA directory for a 15-minute informational call",
+            "effort": "1 week",
+            "done_when": "Email exchange or call completed and noted in application"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application submission",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-15T13:49:27Z",
+        "fingerprint": "ceabc2bbb9cb257c",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-intern-in-the-digital-data-and-information-technology-departm",
       "title": "Intern in the Digital, Data and Information Technology Department - Data and Apps Factory",
       "source": "esa_jobs",
@@ -913,7 +913,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "a397e6b8fa1de953",
       "match_score": 72,
       "evaluation": {
@@ -981,7 +981,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "3f8811d0ae6ee758",
       "match_score": 72,
       "evaluation": {
@@ -1048,7 +1048,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "73ad50c0f122e433",
       "match_score": 72,
       "evaluation": {
@@ -1114,7 +1114,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2c562a4bdaf1ef65",
       "match_score": 72,
       "evaluation": {
@@ -1175,7 +1175,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c07d4323f6eaa60b",
       "match_score": 72,
       "evaluation": {
@@ -1246,7 +1246,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "1592c69929083af3",
       "match_score": 72,
       "evaluation": {
@@ -1313,7 +1313,7 @@
       "deadline_text": "19 April",
       "deadline": "2027-04-19",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "eaab3f0b8bade2b9",
       "match_score": 72,
       "evaluation": {
@@ -1379,7 +1379,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "4c0acc36b76074cb",
       "match_score": 68,
       "evaluation": {
@@ -1445,7 +1445,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "8da62259b15cf45c",
       "match_score": 68,
       "evaluation": {
@@ -1518,7 +1518,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "1818efdd54ab0754",
       "match_score": 68,
       "evaluation": {
@@ -1583,7 +1583,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "714f9b03b52dfcd5",
       "match_score": 68,
       "evaluation": {
@@ -1656,7 +1656,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "301b915071744b62",
       "match_score": 68,
       "evaluation": {
@@ -1724,7 +1724,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "cc5ad0efd3b948dc",
       "match_score": 68,
       "evaluation": {
@@ -1791,7 +1791,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "6e335b08589ddfec",
       "match_score": 68,
       "evaluation": {
@@ -1857,7 +1857,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "534b116821ea1df5",
       "match_score": 68,
       "evaluation": {
@@ -1921,7 +1921,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b67e769f5ca34544",
       "match_score": 68,
       "evaluation": {
@@ -1987,7 +1987,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "55cd0d75ba58087b",
       "match_score": 68,
       "evaluation": {
@@ -2053,7 +2053,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2f5aa125908f4c22",
       "match_score": 68,
       "evaluation": {
@@ -2119,7 +2119,7 @@
       "deadline_text": "5 April 2026",
       "deadline": "2026-04-05",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f89c630e8fe69e1e",
       "match_score": 62,
       "evaluation": {
@@ -2184,7 +2184,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "9b49daba9010b740",
       "match_score": 62,
       "evaluation": {
@@ -2251,7 +2251,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d66257a3e1c37a5a",
       "match_score": 62,
       "evaluation": {
@@ -2318,7 +2318,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "64e8cce2511f2eda",
       "match_score": 62,
       "evaluation": {
@@ -2385,7 +2385,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d2f6750e406e23f2",
       "match_score": 62,
       "evaluation": {
@@ -2445,7 +2445,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "6625a14002e7423d",
       "match_score": 62,
       "evaluation": {
@@ -2513,7 +2513,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "e59a70f94e7283ad",
       "match_score": 62,
       "evaluation": {
@@ -2585,7 +2585,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "66aad9c9dd4cd10e",
       "match_score": 62,
       "evaluation": {
@@ -2658,7 +2658,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "fbaf39adb74b4327",
       "match_score": 62,
       "evaluation": {
@@ -2718,7 +2718,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "35cfc2ca4db06a4e",
       "match_score": 62,
       "evaluation": {
@@ -2785,7 +2785,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "e5d34cdecd235258",
       "match_score": 62,
       "evaluation": {
@@ -2851,7 +2851,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "e453686a776f76de",
       "match_score": 62,
       "evaluation": {
@@ -2919,7 +2919,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "192da32888a41750",
       "match_score": 62,
       "evaluation": {
@@ -2992,7 +2992,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "df4dd02d5908cc2a",
       "match_score": 58,
       "evaluation": {
@@ -3058,7 +3058,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f7d62441d4946057",
       "match_score": 58,
       "evaluation": {
@@ -3126,7 +3126,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "0b94c48941c016f3",
       "match_score": 58,
       "evaluation": {
@@ -3194,7 +3194,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c83577eb16910c33",
       "match_score": 58,
       "evaluation": {
@@ -3259,7 +3259,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "9421ad9ea2608877",
       "match_score": 58,
       "evaluation": {
@@ -3324,7 +3324,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2e7989f01d03dd0f",
       "match_score": 52,
       "evaluation": {
@@ -3397,7 +3397,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c54fd6a3148fbb6d",
       "match_score": 52,
       "evaluation": {
@@ -3462,7 +3462,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "8bd62ebc26d20a36",
       "match_score": 52,
       "evaluation": {
@@ -3527,7 +3527,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "7d2dea3affba33bb",
       "match_score": 52,
       "evaluation": {
@@ -3595,7 +3595,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "a2260701986f56d6",
       "match_score": 52,
       "evaluation": {
@@ -3661,7 +3661,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2cd7c924386b72cd",
       "match_score": 52,
       "evaluation": {
@@ -3726,7 +3726,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d0e0146b395ff563",
       "match_score": 52,
       "evaluation": {
@@ -3792,7 +3792,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "729d8dfeabab8358",
       "match_score": 52,
       "evaluation": {
@@ -3857,7 +3857,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "a8bb6617d2302641",
       "match_score": 52,
       "evaluation": {
@@ -3925,7 +3925,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "6bbfc19401a8c636",
       "match_score": 52,
       "evaluation": {
@@ -3990,7 +3990,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "ecfb020b9b5c9813",
       "match_score": 48,
       "evaluation": {
@@ -4055,7 +4055,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2476013a5569bbad",
       "match_score": 48,
       "evaluation": {
@@ -4115,7 +4115,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "cab2d0c59a90e39b",
       "match_score": 48,
       "evaluation": {
@@ -4175,7 +4175,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "80fc641f70af4067",
       "match_score": 48,
       "evaluation": {
@@ -4241,7 +4241,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "4bf48b9bee1554c3",
       "match_score": 48,
       "evaluation": {
@@ -4309,7 +4309,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "44efc30d441dd40b",
       "match_score": 48,
       "evaluation": {
@@ -4374,7 +4374,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "523a5a373ee1220d",
       "match_score": 48,
       "evaluation": {
@@ -4440,7 +4440,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "539b67613860e411",
       "match_score": 48,
       "evaluation": {
@@ -4505,7 +4505,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d96cee51ec75754a",
       "match_score": 48,
       "evaluation": {
@@ -4571,7 +4571,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "609a56e868957588",
       "match_score": 48,
       "evaluation": {
@@ -4636,7 +4636,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "80c1f342d38ac207",
       "match_score": 48,
       "evaluation": {
@@ -4696,7 +4696,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "922f8c491f0f329b",
       "match_score": 48,
       "evaluation": {
@@ -4756,7 +4756,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "bba1848264816037",
       "match_score": 48,
       "evaluation": {
@@ -4822,7 +4822,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "511e36cc1c4080bd",
       "match_score": 48,
       "evaluation": {
@@ -4895,7 +4895,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "cd851e8224724ed9",
       "match_score": 47,
       "evaluation": {
@@ -4961,7 +4961,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "44d45d71f24d5421",
       "match_score": 47,
       "evaluation": {
@@ -5026,7 +5026,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "66cbd46864af6c5f",
       "match_score": 47,
       "evaluation": {
@@ -5092,7 +5092,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "34252ba8e76d4944",
       "match_score": 47,
       "evaluation": {
@@ -5165,7 +5165,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "436229e142d8d2f5",
       "match_score": 45,
       "evaluation": {
@@ -5230,7 +5230,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "67b2b0a5f0feec59",
       "match_score": 42,
       "evaluation": {
@@ -5296,7 +5296,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "98e09b36648248b5",
       "match_score": 42,
       "evaluation": {
@@ -5356,7 +5356,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "5dcf6b3518decb08",
       "match_score": 42,
       "evaluation": {
@@ -5421,7 +5421,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "51797b5e3138e279",
       "match_score": 42,
       "evaluation": {
@@ -5488,7 +5488,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "72194d6402673ea0",
       "match_score": 42,
       "evaluation": {
@@ -5548,7 +5548,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "884b62d1de0e70df",
       "match_score": 42,
       "evaluation": {
@@ -5613,7 +5613,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "bfb0e51b25e4441a",
       "match_score": 42,
       "evaluation": {
@@ -5679,7 +5679,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "9b38bb50a1301810",
       "match_score": 42,
       "evaluation": {
@@ -5745,7 +5745,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "13299fcc6e2418bb",
       "match_score": 42,
       "evaluation": {
@@ -5818,7 +5818,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "7fdc64f3dd9ee683",
       "match_score": 42,
       "evaluation": {
@@ -5884,7 +5884,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c7b77742afa043b2",
       "match_score": 42,
       "evaluation": {
@@ -5949,7 +5949,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "35f3e00926f601ee",
       "match_score": 42,
       "evaluation": {
@@ -6014,7 +6014,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "72377337e84db548",
       "match_score": 42,
       "evaluation": {
@@ -6080,7 +6080,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "36064f363c714b84",
       "match_score": 42,
       "evaluation": {
@@ -6146,7 +6146,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d1e13fea417c13cb",
       "match_score": 42,
       "evaluation": {
@@ -6219,7 +6219,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "3194f0cfdc8183b0",
       "match_score": 42,
       "evaluation": {
@@ -6279,7 +6279,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "52846bd67a90be3d",
       "match_score": 42,
       "evaluation": {
@@ -6344,7 +6344,7 @@
       "deadline_text": "5 July 2026",
       "deadline": "2026-07-05",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2e3a0efd9bd2842b",
       "match_score": 38,
       "evaluation": {
@@ -6409,7 +6409,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "dd1b3b6cb0884ca1",
       "match_score": 38,
       "evaluation": {
@@ -6474,7 +6474,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "cb831f4d53e90165",
       "match_score": 38,
       "evaluation": {
@@ -6547,7 +6547,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "cfa308d78b6fbbb2",
       "match_score": 38,
       "evaluation": {
@@ -6607,7 +6607,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b6d38bae77a9beb8",
       "match_score": 38,
       "evaluation": {
@@ -6672,7 +6672,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "9ab54a47b28847fd",
       "match_score": 38,
       "evaluation": {
@@ -6738,7 +6738,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "1b18726ad310ce24",
       "match_score": 38,
       "evaluation": {
@@ -6803,7 +6803,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "0ea3936b2bb649ec",
       "match_score": 38,
       "evaluation": {
@@ -6868,7 +6868,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "183c533ea976a1bd",
       "match_score": 38,
       "evaluation": {
@@ -6933,7 +6933,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "44310addaf4575d8",
       "match_score": 38,
       "evaluation": {
@@ -7001,7 +7001,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "4f46de28fde63ee8",
       "match_score": 35,
       "evaluation": {
@@ -7066,7 +7066,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d399d34db16884d9",
       "match_score": 35,
       "evaluation": {
@@ -7126,7 +7126,7 @@
       "deadline_text": "31 May 2026",
       "deadline": "2026-05-31",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "512ec4649ad785f2",
       "match_score": 32,
       "evaluation": {
@@ -7186,7 +7186,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "3189c249983dd98c",
       "match_score": 32,
       "evaluation": {
@@ -7253,7 +7253,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "702bd2f77d7da071",
       "match_score": 32,
       "evaluation": {
@@ -7313,7 +7313,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "22b6c4ed56d9a064",
       "match_score": 32,
       "evaluation": {
@@ -7373,7 +7373,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f729fb8c3621608e",
       "match_score": 32,
       "evaluation": {
@@ -7434,7 +7434,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "13602df95d72ea73",
       "match_score": 32,
       "evaluation": {
@@ -7499,7 +7499,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b30eccdc75506184",
       "match_score": 32,
       "evaluation": {
@@ -7572,7 +7572,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "75d4895a9da1710c",
       "match_score": 32,
       "evaluation": {
@@ -7637,7 +7637,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c40b6c2141f93f4c",
       "match_score": 32,
       "evaluation": {
@@ -7702,7 +7702,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b7f0222599cfa9f2",
       "match_score": 32,
       "evaluation": {
@@ -7768,7 +7768,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2c1c78325d30bd8a",
       "match_score": 32,
       "evaluation": {
@@ -7834,7 +7834,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "6967a97ddc3b1449",
       "match_score": 32,
       "evaluation": {
@@ -7894,7 +7894,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2a0c8e018f8265fa",
       "match_score": 32,
       "evaluation": {
@@ -7960,7 +7960,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "892c343170e4b0d7",
       "match_score": 32,
       "evaluation": {
@@ -8025,7 +8025,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "31f3e3b22c8c50a4",
       "match_score": 32,
       "evaluation": {
@@ -8085,7 +8085,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "794d242c2566f686",
       "match_score": 32,
       "evaluation": {
@@ -8150,7 +8150,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "723b77c49a1e5bff",
       "match_score": 32,
       "evaluation": {
@@ -8215,7 +8215,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "e8819d2a1a271ff4",
       "match_score": 32,
       "evaluation": {
@@ -8280,7 +8280,7 @@
       "deadline_text": "6 April 2026",
       "deadline": "2026-04-06",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "0afa5793793d319f",
       "match_score": 28,
       "evaluation": {
@@ -8344,7 +8344,7 @@
       "deadline_text": "15 April 2026",
       "deadline": "2026-04-15",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "5ffe78318b7213c9",
       "match_score": 28,
       "evaluation": {
@@ -8403,7 +8403,7 @@
       "deadline_text": "15 May 2026",
       "deadline": "2026-05-15",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "449645db0dd84c80",
       "match_score": 28,
       "evaluation": {
@@ -8448,71 +8448,6 @@
       }
     },
     {
-      "id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
-      "title": "Intern in the Quality Department - RAMS Section",
-      "source": "esa_jobs",
-      "source_label": "ESA Careers",
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
-      "status": "Open",
-      "kind": "Intern",
-      "category": "Other",
-      "location": "Noordwijk, NL",
-      "summary": "Intern · Noordwijk, NL",
-      "activity_dates": "",
-      "activity_start": "",
-      "deadline_text": "30 November 2026 23:59 CET/CEST",
-      "deadline": "2026-11-30",
-      "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
-      "content_hash": "449627db03c99076",
-      "match_score": 28,
-      "evaluation": {
-        "match_score": 28,
-        "justification": "Your AI & Data Science profile shows initiative through satellite-tracking and ESA-Scout repositories, yet the RAMS internship demands core knowledge of reliability engineering, safety standards and aerospace quality processes that your curriculum and projects do not cover. With only two years of study completed and no documented exposure to RAMS methods or space hardware qualification, the fit is weak for a competitive ESA technical internship.",
-        "why_apply": [
-          "Direct exposure to ESA quality processes and Noordwijk site",
-          "Opportunity to pivot toward space systems engineering"
-        ],
-        "required_skills": [
-          "RAMS analysis methods (FMEA, FTA, reliability prediction)",
-          "Aerospace quality standards (ECSS, ISO 9001)",
-          "Systems engineering fundamentals"
-        ],
-        "gaps": [
-          "No coursework or projects in reliability, safety or quality engineering",
-          "Limited aerospace domain knowledge beyond one satellite-tracking script",
-          "Early-stage BSc with no relevant internships or placements"
-        ],
-        "checklist": [
-          {
-            "task": "Read ECSS-Q-ST-30C and prepare a one-page summary of RAMS requirements for Sentinel-type missions",
-            "effort": "6 hours",
-            "done_when": "Summary document saved and key terms listed"
-          },
-          {
-            "task": "Map your floodfusion and hfarm-satellite-tracking code to potential failure modes and document in a short slide",
-            "effort": "4 hours",
-            "done_when": "Slide deck with at least three mapped failure modes completed"
-          },
-          {
-            "task": "Draft a motivation paragraph linking your AI pipeline work to data-driven reliability monitoring",
-            "effort": "2 hours",
-            "done_when": "Paragraph ready for cover letter"
-          }
-        ],
-        "key_deadlines": [
-          {
-            "label": "Application deadline",
-            "date": "2026-11-30"
-          }
-        ],
-        "model": "grok-4",
-        "evaluated_at": "2026-11-24T03:57:05Z",
-        "fingerprint": "ce5a974b74a7ab1d",
-        "error": ""
-      }
-    },
-    {
       "id": "esa-jobs-intern-in-the-quality-department-human-spaceflight-safety-noo",
       "title": "Intern in the Quality Department - Human Spaceflight Safety",
       "source": "esa_jobs",
@@ -8528,7 +8463,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "0f9e1c5992465c51",
       "match_score": 28,
       "evaluation": {
@@ -8593,7 +8528,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "32d0c27d07a40493",
       "match_score": 28,
       "evaluation": {
@@ -8659,7 +8594,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "08e207b3f5dee2e2",
       "match_score": 28,
       "evaluation": {
@@ -8719,7 +8654,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b9c31bc931868f5c",
       "match_score": 28,
       "evaluation": {
@@ -8785,7 +8720,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c8c79bcad0fa98f1",
       "match_score": 28,
       "evaluation": {
@@ -8850,7 +8785,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "1bf2a9d09ec26b0a",
       "match_score": 28,
       "evaluation": {
@@ -8910,7 +8845,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f234b90ed5cc8b8b",
       "match_score": 28,
       "evaluation": {
@@ -8977,7 +8912,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "2e16ccb2374337e5",
       "match_score": 28,
       "evaluation": {
@@ -9042,7 +8977,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "fcbbe956a1114971",
       "match_score": 28,
       "evaluation": {
@@ -9102,7 +9037,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f2eb39fcb6d2cd09",
       "match_score": 28,
       "evaluation": {
@@ -9162,7 +9097,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "df0f10d3d7f49e34",
       "match_score": 28,
       "evaluation": {
@@ -9227,7 +9162,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b0886ccaa8959872",
       "match_score": 28,
       "evaluation": {
@@ -9292,7 +9227,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "40aad1ed83ced79e",
       "match_score": 28,
       "evaluation": {
@@ -9357,7 +9292,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "8667bd05a5986024",
       "match_score": 28,
       "evaluation": {
@@ -9417,7 +9352,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "ae7518f71be4f39d",
       "match_score": 28,
       "evaluation": {
@@ -9482,7 +9417,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "496f78cc862359a5",
       "match_score": 28,
       "evaluation": {
@@ -9542,7 +9477,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b5dca63b0a4c44c0",
       "match_score": 28,
       "evaluation": {
@@ -9602,7 +9537,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c9919c5ee785d865",
       "match_score": 28,
       "evaluation": {
@@ -9662,7 +9597,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "88ba1d15edbe33a0",
       "match_score": 28,
       "evaluation": {
@@ -9707,6 +9642,71 @@
       }
     },
     {
+      "id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
+      "title": "Intern in the Quality Department - RAMS Section",
+      "source": "esa_jobs",
+      "source_label": "ESA Careers",
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
+      "status": "Open",
+      "kind": "Intern",
+      "category": "Other",
+      "location": "Noordwijk, NL",
+      "summary": "Intern · Noordwijk, NL",
+      "activity_dates": "",
+      "activity_start": "",
+      "deadline_text": "30 November 2026 23:59 CET/CEST",
+      "deadline": "2026-11-30",
+      "first_seen": "2026-11-14T22:16:23Z",
+      "last_seen": "2026-11-27T16:28:32Z",
+      "content_hash": "449627db03c99076",
+      "match_score": 28,
+      "evaluation": {
+        "match_score": 28,
+        "justification": "Your AI & Data Science profile shows initiative through satellite-tracking and ESA-Scout repositories, yet the RAMS internship demands core knowledge of reliability engineering, safety standards and aerospace quality processes that your curriculum and projects do not cover. With only two years of study completed and no documented exposure to RAMS methods or space hardware qualification, the fit is weak for a competitive ESA technical internship.",
+        "why_apply": [
+          "Direct exposure to ESA quality processes and Noordwijk site",
+          "Opportunity to pivot toward space systems engineering"
+        ],
+        "required_skills": [
+          "RAMS analysis methods (FMEA, FTA, reliability prediction)",
+          "Aerospace quality standards (ECSS, ISO 9001)",
+          "Systems engineering fundamentals"
+        ],
+        "gaps": [
+          "No coursework or projects in reliability, safety or quality engineering",
+          "Limited aerospace domain knowledge beyond one satellite-tracking script",
+          "Early-stage BSc with no relevant internships or placements"
+        ],
+        "checklist": [
+          {
+            "task": "Read ECSS-Q-ST-30C and prepare a one-page summary of RAMS requirements for Sentinel-type missions",
+            "effort": "6 hours",
+            "done_when": "Summary document saved and key terms listed"
+          },
+          {
+            "task": "Map your floodfusion and hfarm-satellite-tracking code to potential failure modes and document in a short slide",
+            "effort": "4 hours",
+            "done_when": "Slide deck with at least three mapped failure modes completed"
+          },
+          {
+            "task": "Draft a motivation paragraph linking your AI pipeline work to data-driven reliability monitoring",
+            "effort": "2 hours",
+            "done_when": "Paragraph ready for cover letter"
+          }
+        ],
+        "key_deadlines": [
+          {
+            "label": "Application deadline",
+            "date": "2026-11-30"
+          }
+        ],
+        "model": "grok-4",
+        "evaluated_at": "2026-11-24T03:57:05Z",
+        "fingerprint": "ce5a974b74a7ab1d",
+        "error": ""
+      }
+    },
+    {
       "id": "esa-jobs-intern-in-the-audit-and-evaluation-department-evaluation-offi",
       "title": "Intern in the Audit and Evaluation Department - Evaluation Office",
       "source": "esa_jobs",
@@ -9722,7 +9722,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "90d9b5bb0930c816",
       "match_score": 25,
       "evaluation": {
@@ -9787,7 +9787,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "5bf91526ef1e581a",
       "match_score": 25,
       "evaluation": {
@@ -9852,7 +9852,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "c4aa924be6cd6937",
       "match_score": 25,
       "evaluation": {
@@ -9917,7 +9917,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "d9464939851f4811",
       "match_score": 25,
       "evaluation": {
@@ -9982,7 +9982,7 @@
       "deadline_text": "18 May 2026",
       "deadline": "2026-05-18",
       "first_seen": "2026-11-10T23:08:17Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "acf44677c437a67b",
       "match_score": 22,
       "evaluation": {
@@ -10042,7 +10042,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "7729b3c3ff6cf1c8",
       "match_score": 22,
       "evaluation": {
@@ -10107,7 +10107,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f11ac15be3baf70c",
       "match_score": 22,
       "evaluation": {
@@ -10168,7 +10168,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b9499cca82b8c6b9",
       "match_score": 22,
       "evaluation": {
@@ -10233,7 +10233,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "466590677a320233",
       "match_score": 22,
       "evaluation": {
@@ -10293,7 +10293,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "4b16a292428f3683",
       "match_score": 22,
       "evaluation": {
@@ -10358,7 +10358,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "1b026db493f67402",
       "match_score": 22,
       "evaluation": {
@@ -10418,7 +10418,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f8b5c7dcbcc4662c",
       "match_score": 22,
       "evaluation": {
@@ -10478,7 +10478,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "75a3234dde7773aa",
       "match_score": 22,
       "evaluation": {
@@ -10538,7 +10538,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "641efc4d97b5f040",
       "match_score": 22,
       "evaluation": {
@@ -10603,7 +10603,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "393e2345833a70cb",
       "match_score": 22,
       "evaluation": {
@@ -10668,7 +10668,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "348fb9fb72e052da",
       "match_score": 22,
       "evaluation": {
@@ -10728,7 +10728,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "4c60445067f584ae",
       "match_score": 22,
       "evaluation": {
@@ -10788,7 +10788,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "b30255e09e8f5f9c",
       "match_score": 22,
       "evaluation": {
@@ -10853,7 +10853,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "f85e7c2b29cfee8f",
       "match_score": 22,
       "evaluation": {
@@ -10913,7 +10913,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "65d52697eeead876",
       "match_score": 22,
       "evaluation": {
@@ -10973,7 +10973,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "7a700c90061cd129",
       "match_score": 15,
       "evaluation": {
@@ -11032,7 +11032,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "cd54171db056f342",
       "match_score": 15,
       "evaluation": {
@@ -11099,7 +11099,7 @@
       "deadline_text": "30 November 2026 23:59 CET/CEST",
       "deadline": "2026-11-30",
       "first_seen": "2026-11-14T22:16:23Z",
-      "last_seen": "2026-11-27T01:38:29Z",
+      "last_seen": "2026-11-27T16:28:32Z",
       "content_hash": "57fb1963cc284430",
       "match_score": 12,
       "evaluation": {
@@ -11226,22 +11226,22 @@
     },
     {
       "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-future-missions-department-market-intelligence",
-      "title": "Intern in the Future Missions Department - Market Intelligence and Data Infrastructure",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 78,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Market-Intelligence-and-Data-Infrastructure/1452921033/",
-      "detail": "Deadline in 3 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-the-mission-operations-department-python-tools-for",
       "title": "Intern in the Mission Operations Department - Python Tools for Earth Explorer Flight Operations",
       "status": "Open",
       "previous_status": "",
       "match_score": 78,
       "url": "https://jobs.esa.int/job/Darmstadt-Intern-in-the-Mission-Operations-Department-Python-Tools-for-Earth-Explorer-Flight-Operations/1452799933/",
+      "detail": "Deadline in 3 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-future-missions-department-market-intelligence",
+      "title": "Intern in the Future Missions Department - Market Intelligence and Data Infrastructure",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 78,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Future-Missions-Department-Market-Intelligence-and-Data-Infrastructure/1452921033/",
       "detail": "Deadline in 3 day(s)"
     },
     {
@@ -12316,16 +12316,6 @@
     },
     {
       "kind": "deadline_soon",
-      "opportunity_id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
-      "title": "Intern in the Quality Department - RAMS Section",
-      "status": "Open",
-      "previous_status": "",
-      "match_score": 28,
-      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
-      "detail": "Deadline in 3 day(s)"
-    },
-    {
-      "kind": "deadline_soon",
       "opportunity_id": "esa-jobs-intern-in-the-quality-department-human-spaceflight-safety-noo",
       "title": "Intern in the Quality Department - Human Spaceflight Safety",
       "status": "Open",
@@ -12512,6 +12502,16 @@
       "previous_status": "",
       "match_score": 28,
       "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Space-Resilience-Office-Space-Security-and-Geopolitical-Analysis/1452920833/",
+      "detail": "Deadline in 3 day(s)"
+    },
+    {
+      "kind": "deadline_soon",
+      "opportunity_id": "esa-jobs-intern-in-the-quality-department-rams-section-noordwijk-nl",
+      "title": "Intern in the Quality Department - RAMS Section",
+      "status": "Open",
+      "previous_status": "",
+      "match_score": 28,
+      "url": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Quality-Department-RAMS-Section/1452883033/",
       "detail": "Deadline in 3 day(s)"
     },
     {
